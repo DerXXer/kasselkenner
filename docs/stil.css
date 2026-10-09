@@ -140,7 +140,6 @@ tr:nth-child(even) td{background:var(--grund)}
 .toc a:before{content:counter(t,decimal-leading-zero);color:var(--sonne-d);font:800 15px Archivo;min-width:22px}
 .eigen{position:relative;background:var(--grund);padding:0 0 22px;box-shadow:0 14px 30px -20px rgba(29,26,24,.5)}
 .eigen .polaroid{transform:rotate(-2.5deg);width:78%;margin:-30px auto 20px;position:relative;box-shadow:0 16px 30px -12px rgba(29,26,24,.55),0 2px 6px rgba(29,26,24,.12)}
-.eigen .polaroid img{aspect-ratio:1/1}
 .eigen .k{padding:0 22px}
 .eigen .dach{font-size:11px;color:var(--leise);margin:0 0 6px}
 .eigen h3{margin:0 0 8px;font:800 22px/1.15 Archivo,sans-serif;color:var(--wein)}
