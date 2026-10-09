@@ -268,6 +268,14 @@ def main():
             if p.name != "bilder":
                 shutil.rmtree(p) if p.is_dir() else p.unlink()
     AUS.mkdir(exist_ok=True)
+    if BILDNACHWEIS:
+        zeilen = ["| Bild | Urheber | Lizenz | Quelle |", "|---|---|---|---|"]
+        for datei, n in sorted(BILDNACHWEIS.items()):
+            zeilen.append(f"| {n['motiv']} | {n['urheber']} | [{n['lizenz']}]({n['lizenz_url']}) | [Wikimedia Commons]({n['seite']}) |")
+        rumpf = ("# Bildnachweise\n\nDie Fotos auf Kasselkenner stehen unter freien Lizenzen. Danke an alle Fotografinnen und Fotografen.\n\n"
+                 + "\n".join(zeilen) + "\n")
+        seiten["bildnachweise"] = ({"titel": "Bildnachweise | Kasselkenner", "beschreibung": "Urheber und Lizenzen der Fotos auf kasselkenner.de.",
+                                    "slug": "bildnachweise", "art": "rechtliches", "eigenwerbung": "nein", "sitemap": "nein"}, rumpf)
     alle = {s: m for s, (m, _) in seiten.items()}
     benutzt = set()
     for slug, (meta, rumpf) in seiten.items():
