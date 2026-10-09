@@ -391,7 +391,7 @@ def startseite(meta, h1_text, lede, rest, alle):
     buehne = f"""<section class="buehne" aria-label="Aktuelle Themen">{"".join(dias)}
 <div class="reiter"><div class="breite">{"".join(reiter)}</div></div></section>""" if dias else ""
     stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules</figcaption></figure>
-<div class="zettel notiz"><i class="pin" aria-hidden="true"></i><b class="marke">Mein Lieblingsmoment</b><p>Wenn um 15.45 Uhr die Große Fontäne hochgeht und alle, die sich zu nah ans Wasser gestellt haben, plötzlich nass werden.</p><span class="unterschrift">Aaron</span></div></div>"""
+<div class="zettel notiz"><b class="marke">Mein Lieblingsmoment</b><p>Wenn um 15.45 Uhr die Große Fontäne hochgeht und alle, die sich zu nah ans Wasser gestellt haben, plötzlich nass werden.</p><span class="unterschrift">Aaron</span></div></div>"""
     alle_artikel = [s for s, m in alle.items() if m.get("art", "artikel") == "artikel" and s != "index"]
     vorhaben = []
     for titel, satz, haupt, mehr in VORHABEN:
