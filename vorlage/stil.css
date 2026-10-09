@@ -1,0 +1,65 @@
+/* Kasselkenner: ruhig, gut lesbar, schnell. Waldgrün vom Bergpark, Kupfer vom Herkules, Papierton.
+   Keine externen Schriften (Datenschutz, Ladezeit). */
+:root{
+  --papier:#f7f4ec; --flaeche:#fffdf8; --text:#1f2a24; --leise:#5b665f; --linie:#ddd6c6;
+  --gruen:#1f5a43; --gruen-hell:#e3eee7; --kupfer:#a85a2a; --kupfer-hell:#f6e7da;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --papier:#141a17; --flaeche:#1b2420; --text:#e9eee9; --leise:#a9b5ad; --linie:#2e3a34;
+  --gruen:#7fc4a2; --gruen-hell:#1f2f28; --kupfer:#e39a69; --kupfer-hell:#2c221b; color-scheme:dark;
+}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--papier);color:var(--text);font:18px/1.65 var(--sans)}
+a{color:var(--gruen);text-underline-offset:3px}
+a:hover{color:var(--kupfer)}
+.breite{max-width:1080px;margin:0 auto;padding:0 16px}
+.sprung{position:absolute;left:-999px}.sprung:focus{left:16px;top:8px;background:var(--flaeche);padding:8px;z-index:9}
+.kopf{background:var(--flaeche);border-bottom:1px solid var(--linie)}
+.kopf .breite{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 24px;padding-block:12px}
+.marke{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--text)}
+.marke b{display:block;font:700 21px/1.1 var(--serif);color:var(--gruen)}
+.marke small{display:block;font-size:12.5px;color:var(--leise);line-height:1.3}
+.haupt{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:15px}
+.haupt a{text-decoration:none;color:var(--text);padding:4px 0;border-bottom:2px solid transparent}
+.haupt a[aria-current=page],.haupt a:hover{border-color:var(--kupfer);color:var(--text)}
+.text{max-width:760px;padding-block:28px 48px}
+h1,h2,h3{font-family:var(--serif);line-height:1.2;text-wrap:balance;color:var(--text)}
+h1{font-size:clamp(30px,5vw,42px);margin:8px 0 6px}
+h2{font-size:27px;margin:44px 0 10px;padding-top:6px;border-top:1px solid var(--linie)}
+h3{font-size:21px;margin:28px 0 6px}
+p,li{max-width:68ch}
+.stand{font-size:14px;color:var(--leise);margin:0 0 18px}
+.titelbild{margin:0 0 24px}
+.titelbild img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:6px;display:block;background:var(--linie)}
+.titelbild figcaption{font-size:12.5px;color:var(--leise);margin-top:6px}
+.toc{background:var(--flaeche);border:1px solid var(--linie);border-radius:6px;padding:12px 18px;margin:0 0 24px;font-size:16px}
+.toc p{margin:0 0 4px;font-weight:600}
+.toc ol{margin:0;padding-left:20px}
+.tabelle{overflow-x:auto;margin:18px 0}
+table{border-collapse:collapse;width:100%;font-size:16px;background:var(--flaeche)}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--linie);vertical-align:top}
+th{background:var(--gruen-hell);font-weight:600}
+td{font-variant-numeric:tabular-nums}
+.hinweis{background:var(--gruen-hell);border-left:4px solid var(--gruen);padding:12px 16px;margin:20px 0;border-radius:0 6px 6px 0}
+.hinweis p{margin:0}
+.faq{border:1px solid var(--linie);background:var(--flaeche);border-radius:6px;margin:10px 0;padding:0 16px}
+.faq summary{cursor:pointer;font-weight:600;padding:12px 0}
+.faq p{margin:0 0 14px}
+.eigen{background:var(--kupfer-hell);border:1px solid var(--kupfer);border-radius:8px;padding:16px 20px;margin:44px 0 12px}
+.eigen-marke{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--kupfer);font-weight:700;margin:0 0 4px}
+.eigen p{margin:6px 0}
+.knopf{display:inline-block;background:var(--kupfer);color:#fff;text-decoration:none;padding:9px 16px;border-radius:6px;font-weight:600;font-size:16px}
+.knopf:hover{color:#fff;filter:brightness(1.08)}
+@media (prefers-color-scheme:dark){.knopf,.knopf:hover{color:#1b120c}}
+.weiter ul{padding-left:20px}
+.weiter h2{font-size:22px}
+.karten{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px;padding:0;list-style:none}
+.fuss{border-top:1px solid var(--linie);background:var(--flaeche);font-size:14.5px;color:var(--leise)}
+.fuss .breite{padding-block:22px}
+.fuss p{max-width:none}
+a:focus-visible,summary:focus-visible{outline:3px solid var(--kupfer);outline-offset:2px}
+@media (max-width:560px){body{font-size:17px}.marke small{display:none}h2{font-size:24px}}
