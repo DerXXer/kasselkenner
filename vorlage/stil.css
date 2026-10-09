@@ -185,7 +185,7 @@ tr:nth-child(even) td{background:var(--grund)}
 .stapel{position:relative;justify-self:center;width:min(100%,440px)}
 .stapel .polaroid{width:80%;transform:rotate(-3deg)}
 .notiz{width:62%;margin:-58px 0 0 auto;transform:rotate(3deg);padding:26px 22px 18px;font-size:16px;line-height:1.55;
-  background:var(--zettel) repeating-linear-gradient(transparent 0 23px,rgba(91,30,45,.09) 23px 24px) 0 46px/100% calc(100% - 60px) no-repeat}
+  background:var(--zettel)}
 .notiz:before{display:none}
 .notiz .pin{position:absolute;top:-9px;left:50%;width:20px;height:20px;margin-left:-10px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#FF9A4D,var(--sonne) 45%,#B84A00);box-shadow:0 4px 6px -2px rgba(0,0,0,.45)}
 .notiz .marke{color:var(--sonne-d)}
