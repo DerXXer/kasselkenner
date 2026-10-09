@@ -47,6 +47,8 @@ AKTUELL = [
     ("1224", "0331", None, "kassel-bei-regen", "Winter in Kassel", "Wenn es draußen grau ist: Museen, warmes Wasser und Märchen drinnen."),
     ("0401", "1003", None, "wasserspiele-kassel", "Die Saison läuft", "Mittwochs, sonntags und feiertags rauscht das Wasser den Herkules hinab."),
 ]
+# Empfehlungskarte: Klebeabstand so wählen, dass die ganze Karte im Fenster bleibt
+EIGEN_JS = """<script>(function(){var e=document.querySelector('.seite .eigen');if(!e)return;var k=document.querySelector('.kopf'),o=(k?k.offsetHeight:68)+12;function f(){e.classList.remove('knapp');e.style.position='';var t=innerHeight-e.offsetHeight-16;if(t<o){e.classList.add('knapp');t=innerHeight-e.offsetHeight-16}if(t<o){e.style.position='static';return}e.style.top=Math.min(110,t)+'px'}addEventListener('resize',f);addEventListener('load',f);f()})();</script>"""
 # Linienplan: Wasser „fließt“ beim Scrollen die Strecke hinab, erreichte Stationen leuchten orange
 STRECKE_JS = """<script>(function(){var s=[].slice.call(document.querySelectorAll('.strecke'));if(!s.length)return;s.forEach(function(o){o.classList.add('lebt')});var w=0;function f(){w=0;var m=innerHeight*0.6;s.forEach(function(o){var r=o.getBoundingClientRect(),p=Math.max(0,Math.min(1,(m-r.top)/r.height));o.style.setProperty('--f',p.toFixed(3));[].forEach.call(o.children,function(l){var q=l.getBoundingClientRect();l.classList.toggle('an',q.top+q.height/2<m)})})}addEventListener('scroll',function(){if(!w){w=1;requestAnimationFrame(f)}},{passive:true});addEventListener('resize',f);f()})();</script>"""
 FUSS = [("ueber-uns", "Über uns"), ("bildnachweise", "Bildnachweise"),
@@ -383,7 +385,7 @@ def startseite(meta, h1_text, lede, rest, alle):
     buehne = f"""<section class="buehne" aria-label="Aktuelle Themen">{"".join(dias)}
 <div class="reiter"><div class="breite">{"".join(reiter)}</div></div></section>""" if dias else ""
     stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules</figcaption></figure>
-<div class="zettel"><b class="marke">Nicht vergessen</b><p>Die Kaskadentreppen haben über 500 Stufen und kein Geländer. Feste Schuhe einpacken!</p><span class="hand">– Aaron</span></div></div>"""
+<div class="zettel notiz"><i class="pin" aria-hidden="true"></i><b class="marke">Nicht vergessen!</b><p>Über 500 Stufen, kein Geländer: Feste Schuhe an, Puste mitbringen. Und oben einmal umdrehen, der Blick lohnt jede Stufe.</p><span class="unterschrift">Aaron</span></div></div>"""
     alle_artikel = [s for s, m in alle.items() if m.get("art", "artikel") == "artikel" and s != "index"]
     vorhaben = []
     for titel, satz, haupt, mehr in VORHABEN:
@@ -393,7 +395,7 @@ def startseite(meta, h1_text, lede, rest, alle):
         links = "".join(f'<li><a href="{s}/">{html.escape(alle[s].get("kurz", s))}</a></li>' for s in mehr if s in alle)
         vorhaben.append(f"""<div class="vorhaben"><a href="{haupt}/"><figure class="polaroid"><img src="bilder/{Path(m["bild"]).stem}.webp" alt="" width="1200" height="900" loading="lazy"><figcaption>{html.escape(titel)}</figcaption></figure></a>
 <p>{html.escape(satz)}</p><ul>{links}</ul></div>""")
-    vorhaben_html = f"""<section class="breite" style="padding-top:72px"><div class="mitte"><h2>Was hast du vor?</h2></div><div class="vorhaben-raster">{"".join(vorhaben)}</div></section>""" if vorhaben else ""
+    vorhaben_html = f"""<section class="breite" style="padding-top:24px"><div class="mitte"><h2>Was hast du vor?</h2></div><div class="vorhaben-raster">{"".join(vorhaben)}</div></section>""" if vorhaben else ""
     heute = date.today()
     md = heute.strftime("%m%d")
     aktuell_html = ""
@@ -485,6 +487,8 @@ def main():
         ziel = AUS / "index.html" if slug == "index" else AUS / slug / "index.html"
         ziel.parent.mkdir(parents=True, exist_ok=True)
         text = seite(meta, h, faq, toc, alle)
+        if 'class="eigen"' in text:
+            text = text.replace("</body>", EIGEN_JS + "\n</body>", 1)
         if 'class="strecke"' in text:
             text = text.replace("</body>", STRECKE_JS + "\n</body>", 1)
         ziel.write_text(text)

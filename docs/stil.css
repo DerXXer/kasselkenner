@@ -140,7 +140,7 @@ tr:nth-child(even) td{background:var(--grund)}
 .toc a:before{content:counter(t,decimal-leading-zero);color:var(--sonne-d);font:800 15px Archivo;min-width:22px}
 .eigen{position:relative;background:var(--wein);color:#F6ECEE;padding:0 0 24px;box-shadow:0 18px 36px -18px rgba(29,26,24,.6)}
 .eigen .polaroid{transform:rotate(-2.5deg);width:82%;margin:-14px auto 0;position:relative;top:-10px}
-.eigen .polaroid img{aspect-ratio:16/11}
+.eigen .polaroid img{aspect-ratio:16/9}
 .eigen .polaroid figcaption{color:var(--sonne-d)}
 .eigen .k{padding:6px 22px 0}
 .eigen .dach{font-size:11px;color:#E7C9CF;margin:0 0 8px}
@@ -148,6 +148,8 @@ tr:nth-child(even) td{background:var(--grund)}
 .eigen p{font-size:15px;line-height:1.55;margin:0 0 12px;color:#F6ECEE}
 .eigen .tipp{font:400 15px/1.5 Lora,Georgia,serif;background:var(--zettel);color:var(--text);padding:12px 14px;transform:rotate(-1deg);margin:4px -4px 18px}
 .eigen .knopf{width:100%;justify-content:center}
+.eigen.knapp{padding-top:18px}
+.eigen.knapp .polaroid{display:none}
 .knopf{display:inline-flex;align-items:center;gap:10px;background:var(--sonne);color:#fff;font:700 15px "Instrument Sans",sans-serif;text-decoration:none;padding:13px 22px;border-radius:4px}
 .knopf:hover{background:var(--sonne-d);color:#fff}
 .mehr{display:inline-flex;align-items:center;gap:10px;font:700 15px "Instrument Sans";text-decoration:none;color:var(--wein)}
@@ -190,11 +192,16 @@ tr:nth-child(even) td{background:var(--grund)}
 .reiter button.an .balken i{animation:lauf 7s linear forwards}
 @keyframes lauf{to{width:100%}}
 @media (prefers-reduced-motion:reduce){.reiter button.an .balken i{animation:none;width:100%}.dia{transition:none}}
-.start-intro{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:56px;align-items:start;padding-top:72px}
+.start-intro{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:56px;align-items:center;padding-block:64px 40px}
 .start-intro h1{font:800 clamp(30px,3.6vw,42px)/1.12 Archivo,sans-serif;color:var(--wein);margin:8px 0 16px;letter-spacing:-.015em}
-.stapel{position:relative;justify-self:center;width:min(100%,460px)}
-.stapel .polaroid{width:82%;transform:rotate(-3deg)}
-.stapel .zettel{width:62%;margin:6px 0 0 auto;font-size:16px;transform:rotate(2.5deg)}
+.stapel{position:relative;justify-self:center;width:min(100%,440px)}
+.stapel .polaroid{width:80%;transform:rotate(-3deg)}
+.notiz{width:62%;margin:-58px 0 0 auto;transform:rotate(3deg);padding:26px 22px 18px;font-size:16px;line-height:1.55;
+  background:var(--zettel) repeating-linear-gradient(transparent 0 23px,rgba(91,30,45,.09) 23px 24px) 0 46px/100% calc(100% - 60px) no-repeat}
+.notiz:before{display:none}
+.notiz .pin{position:absolute;top:-9px;left:50%;width:20px;height:20px;margin-left:-10px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#FF9A4D,var(--sonne) 45%,#B84A00);box-shadow:0 4px 6px -2px rgba(0,0,0,.45)}
+.notiz .marke{color:var(--sonne-d)}
+.notiz .unterschrift{display:block;text-align:right;font:600 26px/1 Caveat,cursive;color:var(--wein);margin-top:6px}
 .start-intro .lede{font:400 20px/1.6 Lora,Georgia,serif}
 .vorhaben-raster{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:32px;margin-top:28px}
 .vorhaben a{text-decoration:none}
