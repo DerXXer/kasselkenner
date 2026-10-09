@@ -190,6 +190,28 @@ def titelbild_tag(bild, tiefe, attr=""):
     return f'<img src="{tiefe}bilder/{Path(bild).stem}.webp" alt="{html.escape(n.get("alt", ""))}" width="1200" height="675"{attr}>'
 
 
+
+def quellen_block(rumpf):
+    """Trennt „## Quellen“ ab und baut daraus einen kompakten Kasten: je Herausgeber eine Zeile,
+    das Abrufdatum nur einmal (Aaron, 09.10.2026: Quellen kompakter und schöner)."""
+    m = re.search(r"\n## Quellen\n(.*?)(?=\n## |\Z)", rumpf, re.S)
+    if not m:
+        return rumpf, ""
+    gruppen, daten = {}, set()
+    for z in re.finditer(r"^- \[([^\]]+)\]\(([^)]+)\)(?:,\s*abgerufen\s*([\d.]+))?", m.group(1), re.M):
+        name, url, datum = z.groups()
+        wer, _, was = name.partition(", ")
+        gruppen.setdefault(wer, []).append((was or wer, url))
+        if datum:
+            daten.add(datum)
+    if not gruppen:
+        return rumpf, ""
+    stand = f'<span class="q-stand">abgerufen am {max(daten, key=lambda d: d.split(".")[::-1])}</span>' if daten else ""
+    zeilen = "".join(f'<li><b>{html.escape(w)}</b> ' + " · ".join(f'<a href="{html.escape(u)}" rel="noopener">{html.escape(x)}</a>' for x, u in l) + "</li>"
+                     for w, l in gruppen.items())
+    kasten = f'<section class="quellen" id="quellen"><h2 class="q-titel">Quellen {stand}</h2><ul>{zeilen}</ul></section>'
+    return rumpf[:m.start()] + rumpf[m.end():], kasten
+
 def seite(meta, inhalt_html, faq, toc, alle):
     slug = meta["slug"]
     url = DOMAIN + ("/" if slug == "index" else f"/{slug}/")
@@ -245,11 +267,11 @@ def seite(meta, inhalt_html, faq, toc, alle):
         else:
             held = f'<section class="held ohne-bild"><div class="text"><div class="breite"><h1 class="gross"{groesse}>{h1_text}</h1></div></div></section>'
         blick = blick_lesen(meta.get("blick"))
-        blick_html = ('<dl class="fakten">' +
-                      "".join(f"<dt>{html.escape(k)}</dt><dd>{inline(v)}</dd>" for k, v in blick) + "</dl>") if blick else ""
-        # Ein Zettel statt zwei: kurze Antwort oben, Eckdaten darunter (Aaron, 09.10.2026)
+        blick_html = ('<div class="blick"><b class="marke">Auf einen Blick</b><dl>' +
+                      "".join(f"<dt>{html.escape(k)}</dt><dd>{inline(v)}</dd>" for k, v in blick) + "</dl></div>") if blick else ""
+        # Gelber Zettel = Zusammenfassung ohne Zahlen, weiße Karte = harte Fakten (Aaron, 09.10.2026)
         anpinnen = f"""<section class="anpinnen"><div class="breite">
-<div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p>{blick_html}</div>
+<div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p></div>{blick_html}
 </div></section>""" if lede else ""
         autor = f"""<div class="autor"><span class="kreis" aria-hidden="true">AS</span><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a>, Gastgeber in Bad Wilhelmshöhe<br>geprüft am {date.fromisoformat(stand).strftime("%d.%m.%Y")}</div></div>"""
         werbung_an = meta.get("eigenwerbung", "ja") == "ja"
@@ -389,7 +411,11 @@ def main():
     alle = {s: m for s, (m, _) in seiten.items()}
     benutzt = set()
     for slug, (meta, rumpf) in seiten.items():
+        rumpf, quellen = quellen_block(rumpf)
         h, faq, toc = markdown(rumpf)
+        if quellen:
+            h += "\n" + quellen
+            toc.append(("quellen", "Quellen"))
         if meta.get("bild"):
             benutzt.add(meta["bild"])
         ziel = AUS / "index.html" if slug == "index" else AUS / slug / "index.html"
