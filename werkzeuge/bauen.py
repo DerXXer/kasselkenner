@@ -187,7 +187,7 @@ def eigenwerbung(slug, tiefe):
     knopf = "Wohnung ansehen" if wohnung else "Wohnungen ansehen"
     return f"""<aside class="eigen" aria-label="In eigener Sache">
 <figure class="polaroid"><img src="{tiefe}bilder/{Path(bild).stem}.webp" alt="{html.escape(BILDNACHWEIS.get(bild, {}).get("alt", ""))}" width="1000" height="667" loading="lazy"><figcaption>{unterschrift}</figcaption></figure>
-<div class="k"><p class="dach">In eigener Sache · Wohnen am Bergpark</p>
+<div class="k"><p class="dach">In eigener Sache</p>
 <h3>{titel}</h3>
 <p>{satz}</p>
 <p class="tipp">{tipp}</p>
@@ -391,7 +391,7 @@ def startseite(meta, h1_text, lede, rest, alle):
     buehne = f"""<section class="buehne" aria-label="Aktuelle Themen">{"".join(dias)}
 <div class="reiter"><div class="breite">{"".join(reiter)}</div></div></section>""" if dias else ""
     stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules</figcaption></figure>
-<div class="zettel notiz"><i class="pin" aria-hidden="true"></i><b class="marke">Nicht vergessen!</b><p>Über 500 Stufen, kein Geländer: Feste Schuhe an, Puste mitbringen. Und oben einmal umdrehen, der Blick lohnt jede Stufe.</p><span class="unterschrift">Aaron</span></div></div>"""
+<div class="zettel notiz"><i class="pin" aria-hidden="true"></i><b class="marke">Mein Lieblingsmoment</b><p>Wenn um 15.45 Uhr die Große Fontäne hochgeht und alle, die sich zu nah ans Wasser gestellt haben, plötzlich eine Dusche abbekommen.</p><span class="unterschrift">Aaron</span></div></div>"""
     alle_artikel = [s for s, m in alle.items() if m.get("art", "artikel") == "artikel" and s != "index"]
     vorhaben = []
     for titel, satz, haupt, mehr in VORHABEN:
