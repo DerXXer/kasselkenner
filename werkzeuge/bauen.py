@@ -21,6 +21,14 @@ BUCHEN = "https://wohnenambergpark.de/de/alle-ferienwohnungen"
 NAV = [("wasserspiele-kassel", "Wasserspiele"), ("bergpark-wilhelmshoehe", "Bergpark"),
        ("documenta-2027", "documenta 2027"), ("parken-bergpark-wilhelmshoehe", "Parken & Anreise"),
        ("uebernachten-kassel", "Übernachten")]
+THEMEN = ["herkules-kassel", "loewenburg-kassel", "schloss-wilhelmshoehe", "beleuchtete-wasserspiele",
+          "kassel-sehenswuerdigkeiten", "kassel-mit-kindern", "kassel-bei-regen", "weihnachtsmarkt-kassel",
+          "grimmwelt-kassel", "orangerie-karlsaue", "kassel-wochenende", "kassel-geheimtipps", "zissel-kassel"]
+START_DIAS = [("wasserspiele-kassel", "Bergpark · Saison 1. Mai bis 3. Oktober", "Wann laufen die Wasserspiele?", "Termine und Ablauf"),
+              ("documenta-2027", "documenta 16 · Sommer 2027", "Was du zur documenta wissen musst", "Zum documenta-Ratgeber"),
+              ("weihnachtsmarkt-kassel", "Innenstadt · Märchenweihnachtsmarkt", "Weihnachtsmarkt in Kassel", "Zeiten, Orte, Anreise"),
+              ("bergpark-wilhelmshoehe", "UNESCO-Welterbe", "Der Bergpark Wilhelmshöhe", "Den Bergpark entdecken")]
+EIGEN_BILD = "blick-vom-herkules.jpg"
 FUSS = [("ueber-uns", "Über uns"), ("bildnachweise", "Bildnachweise"),
         ("impressum", "Impressum"), ("datenschutz", "Datenschutz")]
 
@@ -93,6 +101,10 @@ def markdown(rumpf):
                 if not re.match(r"^\|[\s:|-]+\|$", zeilen[i]):
                     reihen.append([c.strip() for c in zeilen[i].strip("|").split("|")])
                 i += 1
+            if reihen[0][0].lower() == "uhrzeit" and len(reihen[0]) == 2:
+                punkte = "".join(f'<li><time>{inline(r[0].replace(" Uhr", ""))}</time><i class="p"></i><span>{inline(r[1])}</span></li>' for r in reihen[1:])
+                aus.append(f'<ol class="strecke" aria-label="Ablauf mit Uhrzeiten">{punkte}</ol>')
+                continue
             kopf = "".join(f"<th>{inline(c)}</th>" for c in reihen[0])
             koerper = "".join("<tr>" + "".join(f"<td>{inline(c)}</td>" for c in r) + "</tr>" for r in reihen[1:])
             aus.append(f'<div class="tabelle"><table><thead><tr>{kopf}</tr></thead><tbody>{koerper}</tbody></table></div>')
@@ -111,7 +123,7 @@ def markdown(rumpf):
             while i < len(zeilen) and zeilen[i].startswith(">"):
                 teile.append(zeilen[i][1:].strip())
                 i += 1
-            aus.append(f'<aside class="hinweis"><p>{inline(" ".join(teile))}</p></aside>')
+            aus.append(f'<aside class="hinweis zettel blau"><b class="marke">Gut zu wissen</b><p>{inline(" ".join(teile))}</p></aside>')
             continue
         absatz = []
         while i < len(zeilen) and zeilen[i].strip() and not re.match(r"(#|\||- |\d+\. |> )", zeilen[i]):
@@ -121,13 +133,61 @@ def markdown(rumpf):
     return "\n".join(aus), faq, toc
 
 
-def eigenwerbung(slug):
+def eigenwerbung(slug, tiefe):
     ziel = f"{BUCHEN}?utm_source=kasselkenner&utm_medium=referral&utm_campaign={slug}"
     return f"""<aside class="eigen" aria-label="In eigener Sache">
-<p class="eigen-marke">In eigener Sache</p>
-<p>Kasselkenner schreiben die Gastgeber von <strong>Wohnen am Bergpark</strong>. Unsere Ferienwohnungen liegen in Bad Wilhelmshöhe, ein paar Gehminuten vom Bergpark entfernt, die Straßenbahn Linie 4 hält vor der Tür.</p>
-<p><a class="knopf" href="{ziel}" rel="noopener">Ferienwohnungen am Bergpark ansehen</a></p>
+<img src="{tiefe}bilder/{Path(EIGEN_BILD).stem}.webp" alt="" width="640" height="400" loading="lazy">
+<div class="k"><p class="dach">In eigener Sache</p>
+<h3>Übernachten am Bergpark</h3>
+<p>Kasselkenner schreiben die Gastgeber von <strong>Wohnen am Bergpark</strong>. Unsere Ferienwohnungen liegen in Bad Wilhelmshöhe, ein paar Gehminuten vom Bergpark, die Linie 4 hält vor der Tür.</p>
+<a class="knopf" href="{ziel}" rel="noopener">Wohnungen ansehen</a></div>
 </aside>"""
+
+
+def karten(slugs, alle, tiefe):
+    aus = []
+    for s in slugs:
+        m = alle.get(s)
+        if not m or not m.get("bild"):
+            continue
+        n = BILDNACHWEIS.get(m["bild"], {})
+        aus.append(f'<a class="karte" href="{tiefe}{s}/"><figure class="polaroid"><img src="{tiefe}bilder/{Path(m["bild"]).stem}.webp" '
+                   f'alt="{html.escape(n.get("alt", ""))}" width="1200" height="900" loading="lazy"><figcaption>{html.escape(m.get("kurz", ""))}</figcaption></figure>'
+                   f'<h3>{html.escape(m["titel"].split(":")[0])}</h3><p>{html.escape(m.get("beschreibung", ""))}</p><span class="mehr">Weiterlesen</span></a>')
+    return f'<div class="karten">{"".join(aus)}</div>' if aus else ""
+
+
+def blick_lesen(text):
+    paare = []
+    for teil in (text or "").split("|"):
+        if "=" in teil:
+            k, v = teil.split("=", 1)
+            paare.append((k.strip(), v.strip()))
+    return paare
+
+
+def kopf_und_fuss(slug, tiefe, alle):
+    nav = "".join(f'<a href="{tiefe}{s}/"{" aria-current=\"page\"" if s == slug else ""}>{t}</a>' for s, t in NAV if s in alle)
+    themen = "".join(f'<a href="{tiefe}{s}/"{" aria-current=\"page\"" if s == slug else ""}>{html.escape(alle[s].get("kurz", s))}</a>'
+                     for s in THEMEN if s in alle)
+    kopf = f"""<a class="sprung" href="#inhalt">Zum Inhalt</a>
+<header class="kopf"><div class="breite">
+<a class="wortmarke" href="{tiefe or './'}" aria-label="{NAME} – Startseite"><b>KASSEL</b><i>kenner.</i></a>
+<nav class="haupt" aria-label="Hauptnavigation">{nav}</nav>
+</div></header>
+<nav class="themen" aria-label="Themen"><div class="breite">{themen}</div></nav>"""
+    fuss_links = " · ".join(f'<a href="{tiefe}{s}/">{t}</a>' for s, t in FUSS)
+    fuss = f"""<footer class="fuss"><div class="breite">
+<div class="wortmarke"><b>KASSEL</b><i>kenner.</i></div>
+<p>{UNTERZEILE}. Unabhängige Tipps für deinen Besuch in Kassel. Angaben ohne Gewähr; Termine und Preise ändern sich, im Zweifel gilt die Seite des Veranstalters.</p>
+<p>{fuss_links}</p>
+</div></footer>"""
+    return kopf, fuss
+
+
+def titelbild_tag(bild, tiefe, attr=""):
+    n = BILDNACHWEIS.get(bild, {})
+    return f'<img src="{tiefe}bilder/{Path(bild).stem}.webp" alt="{html.escape(n.get("alt", ""))}" width="1200" height="675"{attr}>'
 
 
 def seite(meta, inhalt_html, faq, toc, alle):
@@ -136,6 +196,7 @@ def seite(meta, inhalt_html, faq, toc, alle):
     tiefe = "" if slug == "index" else "../"
     stand = meta.get("stand", date.today().isoformat())
     bild = meta.get("bild")
+    art_seite = meta.get("art", "artikel")
     schema = [{"@context": "https://schema.org", "@type": "Organization", "@id": DOMAIN + "/#org",
                "name": NAME, "url": DOMAIN + "/", "logo": DOMAIN + "/logo.svg",
                "parentOrganization": {"@type": "Organization", "name": "Wohnen am Bergpark UG (haftungsbeschränkt)",
@@ -143,7 +204,7 @@ def seite(meta, inhalt_html, faq, toc, alle):
     if slug == "index":
         schema.append({"@context": "https://schema.org", "@type": "WebSite", "name": NAME, "url": DOMAIN + "/",
                        "inLanguage": "de", "publisher": {"@id": DOMAIN + "/#org"}})
-    elif meta.get("art", "artikel") == "artikel":
+    elif art_seite == "artikel":
         art = {"@context": "https://schema.org", "@type": "Article", "headline": meta["titel"],
                "description": meta.get("beschreibung", ""), "inLanguage": "de", "url": url,
                "datePublished": meta.get("veroeffentlicht", stand), "dateModified": stand,
@@ -157,39 +218,61 @@ def seite(meta, inhalt_html, faq, toc, alle):
     if faq:
         schema.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": f, "acceptedAnswer": {"@type": "Answer", "text": a}} for f, a in faq]})
-    nav = "".join(f'<a href="{tiefe}{s}/"{" aria-current=\"page\"" if s == slug else ""}>{t}</a>' for s, t in NAV)
-    fuss = " · ".join(f'<a href="{tiefe}{s}/">{t}</a>' for s, t in FUSS)
-    titelbild = ""
-    if bild:
-        nachweis = BILDNACHWEIS.get(bild, {})
-        titelbild = (f'<figure class="titelbild"><img src="{tiefe}bilder/{Path(bild).stem}.webp" alt="{html.escape(nachweis.get("alt", ""))}" '
-                     f'width="1200" height="675" fetchpriority="high"><figcaption>Foto: {html.escape(nachweis.get("urheber", ""))}, '
-                     f'{html.escape(nachweis.get("lizenz", ""))} · <a href="{tiefe}bildnachweise/">Nachweis</a></figcaption></figure>')
-    verzeichnis = ""
-    if len(toc) >= 4:
-        verzeichnis = '<nav class="toc" aria-label="Auf dieser Seite"><p>Auf dieser Seite</p><ol>' + \
-            "".join(f'<li><a href="#{a}">{html.escape(t)}</a></li>' for a, t in toc) + "</ol></nav>"
-    # Titelbild direkt nach der H1 einsetzen
-    teile = inhalt_html.split("</h1>", 1)
-    if len(teile) == 2:
-        stand_zeile = f'<p class="stand">Stand: {date.fromisoformat(stand).strftime("%d.%m.%Y")} · von <a href="{tiefe}ueber-uns/">Aaron Schiele</a></p>' \
-            if meta.get("art", "artikel") == "artikel" else ""
-        rest = teile[1]
-        if verzeichnis and "</p>" in rest:
-            vor, nach = rest.split("</p>", 1)
-            rest = vor + "</p>" + verzeichnis + nach
-        elif verzeichnis:
-            rest = verzeichnis + rest
-        inhalt_html = teile[0] + "</h1>" + stand_zeile + titelbild + rest
-    werbung = eigenwerbung(slug) if meta.get("eigenwerbung", "ja") == "ja" else ""
-    weiter = ""
-    if meta.get("weiter"):
-        links = []
-        for s in [x.strip() for x in meta["weiter"].split(",")]:
-            if s in alle:
-                links.append(f'<li><a href="{tiefe}{s}/">{html.escape(alle[s].get("kurz", alle[s]["titel"]))}</a></li>')
-        if links:
-            weiter = '<nav class="weiter" aria-label="Weiterlesen"><h2>Weiterlesen</h2><ul>' + "".join(links) + "</ul></nav>"
+    kopf, fuss = kopf_und_fuss(slug, tiefe, alle)
+
+    # H1 und ersten Absatz herauslösen
+    h1 = re.search(r"<h1>(.*?)</h1>", inhalt_html, re.S)
+    h1_text = h1.group(1) if h1 else html.escape(meta["titel"])
+    rest = inhalt_html[h1.end():] if h1 else inhalt_html
+    erster = re.match(r"\s*<p>(.*?)</p>", rest, re.S)
+    lede = erster.group(1) if erster else ""
+    if erster:
+        rest = rest[erster.end():]
+
+    if slug == "index":
+        koerper = startseite(meta, h1_text, lede, rest, alle)
+    elif art_seite != "artikel":
+        koerper = f"""<section class="held ohne-bild schlicht"><div class="text"><div class="breite"><h1 class="gross" style="font-size:clamp(38px,6vw,64px)">{h1_text}</h1></div></div></section>
+<main id="inhalt" class="breite" style="max-width:820px;padding-top:36px">{'<p>' + lede + '</p>' if lede else ''}{rest}</main>"""
+    else:
+        lang = " lang" if len(re.sub("<.*?>", "", h1_text)) > 34 else ""
+        groesse = ' style="font-size:clamp(36px,5.4vw,68px)"' if lang else ""
+        if bild:
+            n = BILDNACHWEIS.get(bild, {})
+            held = f"""<section class="held">{titelbild_tag(bild, tiefe, ' fetchpriority="high"')}
+<div class="text"><div class="breite"><div class="krumen"><a href="{tiefe or './'}">Start</a> / {html.escape(meta.get("kurz", ""))}</div><h1 class="gross"{groesse}>{h1_text}</h1></div></div>
+<div class="foto">Foto: {html.escape(n.get("urheber", ""))}, {html.escape(n.get("lizenz", ""))} · <a href="{tiefe}bildnachweise/">Nachweis</a></div></section>"""
+        else:
+            held = f'<section class="held ohne-bild"><div class="text"><div class="breite"><h1 class="gross"{groesse}>{h1_text}</h1></div></div></section>'
+        blick = blick_lesen(meta.get("blick"))
+        blick_html = ('<div class="blick"><b class="marke">Auf einen Blick</b><dl>' +
+                      "".join(f"<dt>{html.escape(k)}</dt><dd>{inline(v)}</dd>" for k, v in blick) + "</dl></div>") if blick else ""
+        anpinnen = f"""<section class="anpinnen"><div class="breite">
+<div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p></div>{blick_html}
+</div></section>""" if lede else ""
+        autor = f"""<div class="autor"><span class="kreis" aria-hidden="true">AS</span><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a>, Gastgeber in Bad Wilhelmshöhe<br>geprüft am {date.fromisoformat(stand).strftime("%d.%m.%Y")}</div></div>"""
+        werbung_an = meta.get("eigenwerbung", "ja") == "ja"
+        offen = '<p class="offen">Unabhängiger Ratgeber. In der Seitenleiste stellen wir offen gekennzeichnet unsere eigenen Ferienwohnungen vor.</p>' if werbung_an else ""
+        verzeichnis = ""
+        if len(toc) >= 4:
+            verzeichnis = '<nav class="toc" aria-label="Auf dieser Seite"><p class="dach">Auf dieser Seite</p><ol>' + \
+                "".join(f'<li><a href="#{a}">{html.escape(t)}</a></li>' for a, t in toc) + "</ol></nav>"
+        weiter = ""
+        if meta.get("weiter"):
+            k = karten([x.strip() for x in meta["weiter"].split(",")], alle, tiefe)
+            if k:
+                weiter = f'<section class="weiter"><h2>Weiterlesen</h2>{k}</section>'
+        koerper = f"""{held}
+{anpinnen}
+<div class="breite raster">
+<main id="inhalt">
+{autor}
+{offen}
+{rest}
+{weiter}
+</main>
+<div class="seite">{verzeichnis}{eigenwerbung(slug, tiefe) if werbung_an else ""}</div>
+</div>"""
     ld = "\n".join(f'<script type="application/ld+json">{json.dumps(s, ensure_ascii=False)}</script>' for s in schema)
     og_bild = f'<meta property="og:image" content="{DOMAIN}/bilder/{bild}">' if bild else ""
     return f"""<!doctype html>
@@ -208,28 +291,41 @@ def seite(meta, inhalt_html, faq, toc, alle):
 <meta property="og:locale" content="de_DE">
 <meta property="og:site_name" content="{NAME}">
 {og_bild}
+<meta name="theme-color" content="#5B1E2D">
 <link rel="icon" href="{tiefe}logo.svg" type="image/svg+xml">
+<link rel="preload" href="{tiefe}schriften/Archivo-normal-600_900.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{tiefe}stil.css">
 {ld}
 </head>
 <body>
-<a class="sprung" href="#inhalt">Zum Inhalt</a>
-<header class="kopf"><div class="breite">
-<a class="marke" href="{tiefe or './'}"><img src="{tiefe}logo.svg" alt="" width="32" height="32"><span><b>{NAME}</b><small>{UNTERZEILE}</small></span></a>
-<nav class="haupt" aria-label="Hauptnavigation">{nav}</nav>
-</div></header>
-<main id="inhalt" class="breite text">
-{inhalt_html}
-{werbung}
-{weiter}
-</main>
-<footer class="fuss"><div class="breite">
-<p><b>{NAME}</b> – unabhängige Tipps für deinen Besuch in Kassel. Angaben ohne Gewähr; Termine und Preise ändern sich, im Zweifel gilt die Seite des Veranstalters.</p>
-<p>{fuss}</p>
-</div></footer>
+{kopf}
+{koerper}
+{fuss}
 </body>
 </html>
 """
+
+
+def startseite(meta, h1_text, lede, rest, alle):
+    dias, reiter = [], []
+    for nr, (s, dach, frage, knopf) in enumerate([d for d in START_DIAS if d[0] in alle and alle[d[0]].get("bild")]):
+        m = alle[s]
+        titel = html.escape(frage)
+        dias.append(f"""<div class="dia{' an' if nr == 0 else ''}">{titelbild_tag(m["bild"], "", ' fetchpriority="high"' if nr == 0 else ' loading="lazy"')}
+<div class="text"><div class="breite"><div class="dach">{html.escape(dach)}</div><p class="gross">{titel}</p><a class="knopf" href="{s}/">{html.escape(knopf)}</a></div></div></div>""")
+        reiter.append(f'<button type="button"{" class=\"an\"" if nr == 0 else ""} aria-label="{html.escape(m.get("kurz", s))}"><img src="bilder/{Path(m["bild"]).stem}.webp" alt="" width="240" height="180" loading="lazy"><span class="cap">{html.escape(m.get("kurz", s))}</span><span class="balken"><i></i></span></button>')
+    buehne = f"""<section class="buehne" aria-label="Aktuelle Themen">{"".join(dias)}
+<div class="reiter"><div class="breite">{"".join(reiter)}</div></div></section>""" if dias else ""
+    stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules</figcaption></figure>
+<div class="zettel"><b class="marke">Nicht vergessen</b><p>Die Kaskadentreppen haben über 500 Stufen und kein Geländer. Feste Schuhe einpacken!</p><span class="hand">– Aaron, Gastgeber am Bergpark</span></div></div>"""
+    alle_artikel = [s for s, m in alle.items() if m.get("art", "artikel") == "artikel" and s != "index"]
+    skript = """<script>(function(){var d=[].slice.call(document.querySelectorAll('.dia')),b=[].slice.call(document.querySelectorAll('.reiter button')),i=0,t;if(d.length<2)return;function z(n){d[i].classList.remove('an');b[i].classList.remove('an');i=n;d[i].classList.add('an');void b[i].offsetWidth;b[i].classList.add('an');clearTimeout(t);t=setTimeout(function(){z((i+1)%d.length)},7000)}b.forEach(function(x,k){x.onclick=function(){z(k)}});z(0)})();</script>"""
+    return f"""{buehne}
+<main id="inhalt">
+<section class="breite start-intro"><div><p class="dach">Von Gastgebern aus Bad Wilhelmshöhe</p><h1>{h1_text}</h1><p>{lede}</p><div class="fragen">{rest}</div></div>{stapel}</section>
+<section class="breite" style="padding-top:56px"><div class="mitte"><h2>Alle Ratgeber</h2><p>Jede Seite beantwortet eine Frage, mit Quellen und Prüfdatum.</p></div>{karten(alle_artikel, alle, "")}</section>
+</main>
+{skript}"""
 
 
 BILDNACHWEIS = {}
@@ -298,9 +394,11 @@ def main():
         ziel = AUS / "index.html" if slug == "index" else AUS / slug / "index.html"
         ziel.parent.mkdir(parents=True, exist_ok=True)
         ziel.write_text(seite(meta, h, faq, toc, alle))
+    benutzt.add(EIGEN_BILD)
     bilder_kopieren(benutzt)
-    for datei in ("stil.css", "logo.svg"):
-        shutil.copy(WURZEL / "vorlage" / datei, AUS / datei)
+    shutil.copy(WURZEL / "vorlage" / "logo.svg", AUS / "logo.svg")
+    (AUS / "stil.css").write_text((WURZEL / "vorlage" / "schriften.css").read_text() + (WURZEL / "vorlage" / "stil.css").read_text())
+    shutil.copytree(WURZEL / "vorlage" / "schriften", AUS / "schriften", dirs_exist_ok=True)
     heute = date.today().isoformat()
     karte = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']

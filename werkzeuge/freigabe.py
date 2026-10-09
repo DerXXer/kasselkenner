@@ -47,13 +47,17 @@ def vorschau(slug):
         m.setdefault("slug", s)
     h, faq, toc = bauen.markdown(rumpf)
     seite = bauen.seite(meta, h, faq, toc, alle)
-    css = (WURZEL / "vorlage" / "stil.css").read_text()
+    css = (WURZEL / "vorlage" / "stil.css").read_text()   # ohne lokale Schriften (Vorschau nutzt Ersatzschriften)
     seite = re.sub(r'<link rel="stylesheet"[^>]+>', f"<style>{css}</style>", seite)
+    seite = re.sub(r'<link rel="preload"[^>]+>', "", seite)
     seite = re.sub(r'<script type="application/ld\+json">.*?</script>', "", seite, flags=re.S)
     seite = re.sub(r'<link rel="icon"[^>]+>', "", seite)
-    seite = re.sub(r'<img src="(\.\./)?logo\.svg"[^>]*>', "", seite)
+    # Platz sparen: Bilder in Karten, Eigenwerbung und Stapel weglassen, nur das Titelbild klein einbetten
+    seite = re.sub(r'(<aside class="eigen"[^>]*>)\s*<img[^>]*>', r"\1", seite)
+    seite = re.sub(r'(<figure class="polaroid">)<img[^>]*>', r"\1", seite)
     if meta.get("bild"):
-        seite = re.sub(r'src="(\.\./)?bilder/[^"]+"', f'src="{kleines_bild(meta["bild"])}"', seite)
+        seite = re.sub(r'src="(\.\./)?bilder/[^"]+"', f'src="{kleines_bild(meta["bild"])}"', seite, count=1)
+    seite = re.sub(r'<img src="(\.\./)?bilder/[^"]+"[^>]*>', "", seite)
     return meta, rumpf, seite
 
 

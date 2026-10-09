@@ -14,7 +14,9 @@
 <meta property="og:locale" content="de_DE">
 <meta property="og:site_name" content="Kasselkenner">
 
+<meta name="theme-color" content="#5B1E2D">
 <link rel="icon" href="logo.svg" type="image/svg+xml">
+<link rel="preload" href="schriften/Archivo-normal-600_900.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="stil.css">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "@id": "https://kasselkenner.de/#org", "name": "Kasselkenner", "url": "https://kasselkenner.de/", "logo": "https://kasselkenner.de/logo.svg", "parentOrganization": {"@type": "Organization", "name": "Wohnen am Bergpark UG (haftungsbeschränkt)", "url": "https://wohnenambergpark.de/"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Kasselkenner", "url": "https://kasselkenner.de/", "inLanguage": "de", "publisher": {"@id": "https://kasselkenner.de/#org"}}</script>
@@ -22,17 +24,20 @@
 <body>
 <a class="sprung" href="#inhalt">Zum Inhalt</a>
 <header class="kopf"><div class="breite">
-<a class="marke" href="./"><img src="logo.svg" alt="" width="32" height="32"><span><b>Kasselkenner</b><small>Bergpark, Wasserspiele und documenta – von Gastgebern aus Bad Wilhelmshöhe</small></span></a>
-<nav class="haupt" aria-label="Hauptnavigation"><a href="wasserspiele-kassel/">Wasserspiele</a><a href="bergpark-wilhelmshoehe/">Bergpark</a><a href="documenta-2027/">documenta 2027</a><a href="parken-bergpark-wilhelmshoehe/">Parken & Anreise</a><a href="uebernachten-kassel/">Übernachten</a></nav>
+<a class="wortmarke" href="./" aria-label="Kasselkenner – Startseite"><b>KASSEL</b><i>kenner.</i></a>
+<nav class="haupt" aria-label="Hauptnavigation"></nav>
 </div></header>
-<main id="inhalt" class="breite text">
-<h1>Kasselkenner</h1>
-<p>Hier entstehen gerade praktische, geprüfte Antworten für deinen Besuch in Kassel: Wasserspiele, Bergpark Wilhelmshöhe, documenta 2027. Schau bald wieder vorbei.</p>
+<nav class="themen" aria-label="Themen"><div class="breite"></div></nav>
 
-
+<main id="inhalt">
+<section class="breite start-intro"><div><p class="dach">Von Gastgebern aus Bad Wilhelmshöhe</p><h1>Kasselkenner</h1><p>Hier entstehen gerade praktische, geprüfte Antworten für deinen Besuch in Kassel: Wasserspiele, Bergpark Wilhelmshöhe, documenta 2027. Schau bald wieder vorbei.</p><div class="fragen"></div></div><div class="stapel"><figure class="polaroid"><img src="bilder/blick-vom-herkules.webp" alt="Blick vom Herkules über den Bergpark auf Schloss Wilhelmshöhe und die Wilhelmshöher Allee, die schnurgerade in die Stadt Kassel führt." width="1200" height="675" loading="lazy"><figcaption>Blick vom Herkules</figcaption></figure>
+<div class="zettel"><b class="marke">Nicht vergessen</b><p>Die Kaskadentreppen haben über 500 Stufen und kein Geländer. Feste Schuhe einpacken!</p><span class="hand">– Aaron, Gastgeber am Bergpark</span></div></div></section>
+<section class="breite" style="padding-top:56px"><div class="mitte"><h2>Alle Ratgeber</h2><p>Jede Seite beantwortet eine Frage, mit Quellen und Prüfdatum.</p></div></section>
 </main>
+<script>(function(){var d=[].slice.call(document.querySelectorAll('.dia')),b=[].slice.call(document.querySelectorAll('.reiter button')),i=0,t;if(d.length<2)return;function z(n){d[i].classList.remove('an');b[i].classList.remove('an');i=n;d[i].classList.add('an');void b[i].offsetWidth;b[i].classList.add('an');clearTimeout(t);t=setTimeout(function(){z((i+1)%d.length)},7000)}b.forEach(function(x,k){x.onclick=function(){z(k)}});z(0)})();</script>
 <footer class="fuss"><div class="breite">
-<p><b>Kasselkenner</b> – unabhängige Tipps für deinen Besuch in Kassel. Angaben ohne Gewähr; Termine und Preise ändern sich, im Zweifel gilt die Seite des Veranstalters.</p>
+<div class="wortmarke"><b>KASSEL</b><i>kenner.</i></div>
+<p>Bergpark, Wasserspiele und documenta – von Gastgebern aus Bad Wilhelmshöhe. Unabhängige Tipps für deinen Besuch in Kassel. Angaben ohne Gewähr; Termine und Preise ändern sich, im Zweifel gilt die Seite des Veranstalters.</p>
 <p><a href="ueber-uns/">Über uns</a> · <a href="bildnachweise/">Bildnachweise</a> · <a href="impressum/">Impressum</a> · <a href="datenschutz/">Datenschutz</a></p>
 </div></footer>
 </body>

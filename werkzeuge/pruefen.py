@@ -84,7 +84,7 @@ def pruefe(datei):
         if w.lower() in klein:
             fehler.append(f"interner Begriff im Text: '{w}'")
     # Zahlen gegen Faktenspeicher (ohne Quellenabschnitt und Kopf)
-    text = rumpf.split("## Quellen")[0]
+    text = rumpf.split("## Quellen")[0] + "\n" + meta.get("blick", "")
     text = re.sub(r"\]\([^)]+\)", "]", text)
     speicher = zahlen_im_speicher()
     unbekannt = sorted({z for z in re.findall(r"\d+(?:[.,:]\d+)*", text.replace(" ", " "))
