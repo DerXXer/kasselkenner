@@ -5,7 +5,6 @@ slug: index
 kurz: Start
 art: start
 eigenwerbung: nein
-robots: noindex
 stand: 2026-10-09
 ---
 # Kassel, wie wir es kennen

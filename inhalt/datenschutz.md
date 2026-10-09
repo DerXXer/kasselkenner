@@ -4,6 +4,7 @@ beschreibung: Datenschutzerklärung von kasselkenner.de: keine Cookies, kein Tra
 slug: datenschutz
 art: rechtliches
 eigenwerbung: nein
+sitemap: nein
 stand: 2026-10-09
 ---
 # Datenschutz

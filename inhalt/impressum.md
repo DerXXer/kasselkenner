@@ -4,6 +4,7 @@ beschreibung: Impressum von kasselkenner.de, betrieben von der Wohnen am Bergpar
 slug: impressum
 art: rechtliches
 eigenwerbung: nein
+sitemap: nein
 stand: 2026-10-09
 ---
 # Impressum
