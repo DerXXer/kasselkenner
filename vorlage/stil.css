@@ -139,7 +139,7 @@ tr:nth-child(even) td{background:var(--grund)}
 .eigen .tipp{font:400 15px/1.5 Lora,Georgia,serif;background:var(--zettel);padding:12px 14px;transform:rotate(-1deg);margin:4px -4px 16px;box-shadow:0 6px 14px -10px rgba(29,26,24,.5)}
 .eigen .knopf{width:100%;justify-content:center;background:var(--wein)}
 .eigen .knopf:hover{background:var(--wein-d,#43141F)}
-.eigen.knapp .polaroid{width:56%;margin-bottom:-6px}
+.eigen.knapp .polaroid{width:56%;margin-bottom:16px}
 .eigen.knapp .k > p:not(.tipp):not(.dach){display:none}
 .eigen.knapp .tipp{margin-bottom:12px}
 .eigen.knapp .polaroid img{aspect-ratio:5/2}
