@@ -13,7 +13,7 @@
 :root{
   --wein:#5B1E2D;      /* Grundton */
   --wein-d:#43141F;
-  --sonne:#FF7A1A;     /* Akzent: Abendsonne am Herkules */
+  --sonne:#C25200;     /* Akzent: ein Orange überall (Aaron, 09.10.2026: kein helles Orange mehr) */
   --sonne-d:#C25200;   /* Akzent für Text auf Weiß (Kontrast) */
   --zettel:#FFE9A8;
   --zettel2:#D9EEFF;
@@ -167,7 +167,7 @@ tr:nth-child(even) td{background:var(--grund)}
 .eigen.knapp .k > p:not(.tipp):not(.dach){display:none}
 .eigen.knapp .tipp{margin-bottom:12px}
 .knopf{display:inline-flex;align-items:center;gap:10px;background:var(--sonne);color:#fff;font:700 15px "Instrument Sans",sans-serif;text-decoration:none;padding:13px 22px;border-radius:4px}
-.knopf:hover{background:var(--sonne-d);color:#fff}
+.knopf:hover{background:#A34500;color:#fff}
 .mehr{display:inline-flex;align-items:center;gap:10px;font:700 15px "Instrument Sans";text-decoration:none;color:var(--wein)}
 .mehr:before{content:"→";display:grid;place-items:center;width:28px;height:28px;border:1.5px solid var(--wein);border-radius:50%;font-size:14px}
 
