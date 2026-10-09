@@ -124,6 +124,11 @@ tr:nth-child(even) td{background:var(--grund)}
 /* Seitenleiste */
 .seite{display:flex;flex-direction:column;gap:32px;padding-top:40px}
 .seite .eigen{position:sticky;top:110px;margin-top:20px}
+.toc .dach{margin:0 0 8px}
+.toc ol{list-style:none;margin:0;padding:0;counter-reset:t}
+.toc li{margin:0;counter-increment:t}
+.toc a{display:flex;gap:12px;padding:9px 0;border-bottom:1px solid var(--linie);text-decoration:none;font:600 15px/1.35 "Instrument Sans";color:var(--text)}
+.toc a:before{content:counter(t,decimal-leading-zero);color:var(--sonne-d);font:800 15px Archivo;min-width:22px}
 .eigen{position:relative;background:var(--grund);border-top:4px solid var(--wein);padding:22px 0 22px;box-shadow:0 14px 30px -20px rgba(29,26,24,.5)}
 .eigen .polaroid{transform:rotate(-2.5deg);width:84%;margin:0 auto 18px}
 .eigen .polaroid img{aspect-ratio:3/2}
