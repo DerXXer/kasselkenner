@@ -381,10 +381,9 @@ def seite(meta, inhalt_html, faq, toc, alle):
         lang = " lang" if len(re.sub("<.*?>", "", h1_text)) > 34 else ""
         groesse = ' style="font-size:clamp(36px,5.4vw,68px)"' if lang else ""
         if bild:
-            n = BILDNACHWEIS.get(bild, {})
             held = f"""<section class="held">{titelbild_tag(bild, tiefe, ' fetchpriority="high"')}
 <div class="text"><div class="breite"><div class="krumen"><a href="{tiefe or './'}">Start</a> / {html.escape(meta.get("kurz", ""))}</div><h1 class="gross"{groesse}>{h1_text}</h1></div></div>
-<div class="foto">Foto: {html.escape(n.get("urheber", ""))}, {html.escape(n.get("lizenz", ""))} · <a href="{tiefe}bildnachweise/">Nachweis</a></div></section>"""
+{foto_zeile(bild, tiefe)}</section>"""
         else:
             held = f'<section class="held ohne-bild"><div class="text"><div class="breite"><h1 class="gross"{groesse}>{h1_text}</h1></div></div></section>'
         blick = blick_lesen(meta.get("blick"))
@@ -459,13 +458,20 @@ def seite(meta, inhalt_html, faq, toc, alle):
 """
 
 
+def foto_zeile(bild, tiefe):
+    """Namensnennung am Bild, gleich bei Titelbildern und im Startseiten-Slider."""
+    n = BILDNACHWEIS.get(bild, {})
+    return (f'<div class="foto">Foto: {html.escape(n.get("urheber", ""))}, {html.escape(n.get("lizenz", ""))}, zugeschnitten'
+            f' · <a href="{tiefe}bildnachweise/">Nachweis</a></div>')
+
+
 def startseite(meta, h1_text, lede, rest, alle):
     dias, reiter = [], []
     for nr, (s, dach, frage, knopf) in enumerate([d for d in START_DIAS if d[0] in alle and alle[d[0]].get("bild")]):
         m = alle[s]
         titel = html.escape(frage)
         dias.append(f"""<div class="dia{' an' if nr == 0 else ''}">{titelbild_tag(m["bild"], "", ' fetchpriority="high"' if nr == 0 else ' loading="lazy"')}
-<div class="text"><div class="breite"><div class="dach">{html.escape(dach)}</div><p class="gross">{titel}</p><a class="knopf" href="{s}/">{html.escape(knopf)}</a></div></div></div>""")
+<div class="text"><div class="breite"><div class="dach">{html.escape(dach)}</div><p class="gross">{titel}</p><a class="knopf" href="{s}/">{html.escape(knopf)}</a></div></div>{foto_zeile(m["bild"], "")}</div>""")
         reiter.append(f'<button type="button"{" class=\"an\"" if nr == 0 else ""} aria-label="{html.escape(m.get("kurz", s))}"><img src="bilder/{Path(m["bild"]).stem}-600.webp" alt="" width="240" height="180" loading="lazy"><span class="cap">{html.escape(m.get("kurz", s))}</span><span class="balken"><i></i></span></button>')
     buehne = f"""<section class="buehne" aria-label="Aktuelle Themen">{"".join(dias)}
 <div class="reiter"><div class="breite">{"".join(reiter)}</div></div></section>""" if dias else ""
@@ -544,6 +550,11 @@ def bilder_kopieren(benutzt):
             BILDMASSE[name] = (int(w), int(h))
 
 
+def md_url(url):
+    """Klammern kodieren, sonst bricht der Markdown-Link (Wikimedia-Dateinamen)."""
+    return url.replace("(", "%28").replace(")", "%29")
+
+
 def main():
     nachweise_lesen()
     seiten = {}
@@ -559,8 +570,9 @@ def main():
     if BILDNACHWEIS:
         zeilen = ["| Bild | Urheber | Lizenz | Quelle |", "|---|---|---|---|"]
         for datei, n in sorted(BILDNACHWEIS.items()):
-            zeilen.append(f"| {n['motiv']} | {n['urheber']} | [{n['lizenz']}]({n['lizenz_url']}) | [Wikimedia Commons]({n['seite']}) |")
-        rumpf = ("# Bildnachweise\n\nDie Fotos auf Kasselkenner stehen unter freien Lizenzen. Danke an alle Fotografinnen und Fotografen.\n\n"
+            zeilen.append(f"| {n['motiv']} | {n['urheber']} | [{n['lizenz']}]({md_url(n['lizenz_url'])}) | [Wikimedia Commons]({md_url(n['seite'])}) |")
+        rumpf = ("# Bildnachweise\n\nDie Fotos auf Kasselkenner stehen unter freien Lizenzen. Danke an alle Fotografinnen und Fotografen. "
+                 "Für die Seite haben wir die Fotos zugeschnitten, verkleinert und in ein anderes Dateiformat umgewandelt.\n\n"
                  + "\n".join(zeilen) + "\n")
         seiten["bildnachweise"] = ({"titel": "Bildnachweise | Kasselkenner", "beschreibung": "Urheber und Lizenzen der Fotos auf kasselkenner.de.",
                                     "slug": "bildnachweise", "art": "rechtliches", "eigenwerbung": "nein", "sitemap": "nein"}, rumpf)

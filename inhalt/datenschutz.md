@@ -1,6 +1,6 @@
 ---
 titel: Datenschutz | Kasselkenner
-beschreibung: Datenschutzerklärung von kasselkenner.de: keine Cookies, kein Tracking, Hosting bei GitHub Pages.
+beschreibung: Datenschutzerklärung von kasselkenner.de: keine Cookies, kein Tracking, Hosting bei GitHub Pages, E-Mail bei IONOS.
 slug: datenschutz
 art: rechtliches
 eigenwerbung: nein
@@ -23,7 +23,7 @@ Die Seite liegt bei GitHub Pages, einem Dienst der GitHub Inc., 88 Colin P. Kell
 
 ## Kontakt per E-Mail
 
-Schreibst du uns eine E-Mail, verarbeiten wir deine Angaben nur, um deine Anfrage zu beantworten (Art. 6 Abs. 1 lit. b und f DSGVO), und löschen sie, wenn sie dafür nicht mehr nötig sind und keine Aufbewahrungspflicht besteht.
+Schreibst du uns eine E-Mail, verarbeiten wir deine Angaben nur, um deine Anfrage zu beantworten (Art. 6 Abs. 1 lit. b und f DSGVO), und löschen sie, wenn sie dafür nicht mehr nötig sind und keine Aufbewahrungspflicht besteht. Das Postfach kontakt@kasselkenner.de liegt bei der IONOS SE, Elgendorfer Straße 57, 56410 Montabaur. IONOS empfängt und speichert deine E-Mail in unserem Auftrag als Auftragsverarbeiter (Art. 28 DSGVO).
 
 ## Links zu anderen Seiten
 

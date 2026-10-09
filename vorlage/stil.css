@@ -64,8 +64,8 @@ li{margin-bottom:10px}
 .held .text{position:absolute;left:0;right:0;bottom:118px;z-index:2}
 .held .krumen{font:600 14px "Instrument Sans";margin-bottom:12px}
 .held .krumen a{color:#fff;text-decoration:none;opacity:.9}
-.held .foto{position:absolute;right:20px;top:14px;z-index:2;font-size:12px;opacity:.85}
-.held .foto a{color:#fff}
+.held .foto,.dia .foto{position:absolute;right:20px;top:14px;z-index:2;font-size:12px;opacity:.85}
+.held .foto a,.dia .foto a{color:#fff}
 .held.ohne-bild{height:auto;min-height:0;padding:56px 0 130px}
 .held.ohne-bild:after{display:none}
 .held.ohne-bild .text{position:static}
