@@ -23,7 +23,7 @@ Ich bin Aaron Schiele. Mit der Wohnen am Bergpark UG vermiete ich Ferienwohnunge
 
 ## Offen gesagt
 
-Kasselkenner gehört zu unseren Ferienwohnungen. Am Ende vieler Seiten steht deshalb ein Hinweis „In eigener Sache“ mit einem Link zu Wohnen am Bergpark. Andere Unterkünfte, Restaurants oder Anbieter nennen wir nur, wenn sie für die Frage wichtig sind, und dafür bezahlt uns niemand.
+Kasselkenner gehört zu unseren Ferienwohnungen. Deshalb findest du auf vielen Seiten eine Karte „In eigener Sache“ mit einem Link zu Wohnen am Bergpark. Alle anderen Tipps, ob Restaurant, Museum oder Ausflugsziel, stehen hier, weil sie dir bei deinem Besuch weiterhelfen, nicht weil jemand dafür bezahlt.
 
 ## Fehler gefunden?
 
