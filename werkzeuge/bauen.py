@@ -29,6 +29,24 @@ START_DIAS = [("wasserspiele-kassel", "Bergpark · Saison 1. Mai bis 3. Oktober"
               ("weihnachtsmarkt-kassel", "Innenstadt · Märchenweihnachtsmarkt", "Weihnachtsmarkt in Kassel", "Zeiten, Orte, Anreise"),
               ("bergpark-wilhelmshoehe", "UNESCO-Welterbe", "Der Bergpark Wilhelmshöhe", "Den Bergpark entdecken")]
 EIGEN_BILD = "blick-vom-herkules.jpg"
+# Startseite „Was hast du vor?“: (Titel, Satz, Hauptseite, weitere Seiten)
+VORHABEN = [
+    ("Bergpark & Wasserspiele", "Herkules, Kaskaden, Löwenburg: Kassels großer Park am Berg.", "bergpark-wilhelmshoehe",
+     ["wasserspiele-kassel", "herkules-kassel", "loewenburg-kassel", "schloss-wilhelmshoehe", "parken-bergpark-wilhelmshoehe"]),
+    ("documenta 2027", "Hundert Tage Kunst mitten in der Stadt.", "documenta-2027", ["documenta-uebernachten"]),
+    ("Mit Kindern & bei Regen", "Märchen, Museen und Ideen, wenn das Wetter nicht mitspielt.", "kassel-mit-kindern",
+     ["kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue"]),
+    ("Übernachten & Wochenende", "Welcher Stadtteil passt zu dir, und wie du zwei Tage füllst.", "uebernachten-kassel",
+     ["kassel-wochenende", "kassel-sehenswuerdigkeiten", "kassel-geheimtipps"]),
+]
+# „Gerade aktuell“: (von MMTT, bis MMTT, Jahr oder None, Seite, Dachzeile, Satz) – erster Treffer zum Bautag gilt
+AKTUELL = [
+    ("0721", "0805", None, "zissel-kassel", "Gerade aktuell", "Sommerfest an der Fulda: Boote, Musik und lange Abende am Wasser."),
+    ("0611", "0920", 2027, "documenta-2027", "Gerade aktuell", "Die documenta läuft: Kunst an vielen Orten der Stadt."),
+    ("1001", "1223", None, "weihnachtsmarkt-kassel", "Bald ist es so weit", "Bald leuchtet die Innenstadt: Märchen, Lichter und Glühwein."),
+    ("1224", "0331", None, "kassel-bei-regen", "Winter in Kassel", "Wenn es draußen grau ist: Museen, warmes Wasser und Märchen drinnen."),
+    ("0401", "1003", None, "wasserspiele-kassel", "Die Saison läuft", "Mittwochs, sonntags und feiertags rauscht das Wasser den Herkules hinab."),
+]
 # Linienplan: Wasser „fließt“ beim Scrollen die Strecke hinab, erreichte Stationen leuchten orange
 STRECKE_JS = """<script>(function(){var s=[].slice.call(document.querySelectorAll('.strecke'));if(!s.length)return;s.forEach(function(o){o.classList.add('lebt')});var w=0;function f(){w=0;var m=innerHeight*0.6;s.forEach(function(o){var r=o.getBoundingClientRect(),p=Math.max(0,Math.min(1,(m-r.top)/r.height));o.style.setProperty('--f',p.toFixed(3));[].forEach.call(o.children,function(l){var q=l.getBoundingClientRect();l.classList.toggle('an',q.top+q.height/2<m)})})}addEventListener('scroll',function(){if(!w){w=1;requestAnimationFrame(f)}},{passive:true});addEventListener('resize',f);f()})();</script>"""
 FUSS = [("ueber-uns", "Über uns"), ("bildnachweise", "Bildnachweise"),
@@ -135,14 +153,37 @@ def markdown(rumpf):
     return "\n".join(aus), faq, toc
 
 
+# Empfehlung in eigener Sache, je Thema passend (Fakten: Wissensspeicher Wohnen am Bergpark)
+EMPFEHLUNG = {
+    "park": ("Übernachte da, wo das Wasser fließt",
+             "Wer am Bergpark schläft, ist morgens als Erster an den Kaskaden und muss abends nicht mehr ins Auto.",
+             "Unser Tipp: die Wohnung „Herkules“ mit eigenem Garten und Whirlpool für bis zu 6 Personen."),
+    "kunst": ("Kunst am Tag, Ruhe am Abend",
+              "Mit der Linie 4 bist du schnell in der Innenstadt und abends zurück im Grünen am Bergpark.",
+              "Für zwei: die Romantische Wohnung mit Balkon und Blick auf den Herkules."),
+    "familie": ("Platz für die ganze Familie",
+                "Mehr Raum als im Hotelzimmer, eine eigene Küche und der Bergpark gleich um die Ecke.",
+                "Unser Tipp: die „Löwenburg“ mit zwei Schlafzimmern für bis zu 4 Personen."),
+    "start": ("Dein Zuhause am Bergpark",
+              "Zehn Ferienwohnungen in Bad Wilhelmshöhe, vom Apartment für zwei bis zur Wohnung mit Garten für sechs.",
+              "Kostenlos parken an der Straße, die Linie 4 ganz in der Nähe."),
+}
+EMPFEHLUNG_THEMA = {s: "park" for s in ["wasserspiele-kassel", "beleuchtete-wasserspiele", "herkules-kassel", "bergpark-wilhelmshoehe",
+                                        "loewenburg-kassel", "schloss-wilhelmshoehe", "parken-bergpark-wilhelmshoehe"]}
+EMPFEHLUNG_THEMA.update({s: "kunst" for s in ["documenta-2027", "documenta-uebernachten"]})
+EMPFEHLUNG_THEMA.update({s: "familie" for s in ["kassel-mit-kindern", "kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue"]})
+
+
 def eigenwerbung(slug, tiefe):
     ziel = f"{BUCHEN}?utm_source=kasselkenner&utm_medium=referral&utm_campaign={slug}"
+    titel, satz, tipp = EMPFEHLUNG[EMPFEHLUNG_THEMA.get(slug, "start")]
     return f"""<aside class="eigen" aria-label="In eigener Sache">
-<figure class="polaroid"><img src="{tiefe}bilder/{Path(EIGEN_BILD).stem}.webp" alt="" width="640" height="400" loading="lazy"><figcaption>Blick vom Herkules</figcaption></figure>
-<div class="k"><p class="dach">In eigener Sache</p>
-<h3>Übernachten am Bergpark</h3>
-<p>Unsere Ferienwohnungen liegen in Bad Wilhelmshöhe, ein paar Gehminuten vom Bergpark. Die Linie 4 hält vor der Tür.</p>
-<a class="mehr" href="{ziel}" rel="noopener">Wohnen am Bergpark ansehen</a></div>
+<figure class="polaroid"><img src="{tiefe}bilder/{Path(EIGEN_BILD).stem}.webp" alt="" width="640" height="400" loading="lazy"><figcaption>Unsere Empfehlung</figcaption></figure>
+<div class="k"><p class="dach">In eigener Sache · Wohnen am Bergpark</p>
+<h3>{titel}</h3>
+<p>{satz}</p>
+<p class="tipp">{tipp}</p>
+<a class="knopf" href="{ziel}" rel="noopener">Wohnungen ansehen</a></div>
 </aside>"""
 
 
@@ -342,13 +383,34 @@ def startseite(meta, h1_text, lede, rest, alle):
     buehne = f"""<section class="buehne" aria-label="Aktuelle Themen">{"".join(dias)}
 <div class="reiter"><div class="breite">{"".join(reiter)}</div></div></section>""" if dias else ""
     stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules</figcaption></figure>
-<div class="zettel"><b class="marke">Nicht vergessen</b><p>Die Kaskadentreppen haben über 500 Stufen und kein Geländer. Feste Schuhe einpacken!</p><span class="hand">– Aaron, Gastgeber am Bergpark</span></div></div>"""
+<div class="zettel"><b class="marke">Nicht vergessen</b><p>Die Kaskadentreppen haben über 500 Stufen und kein Geländer. Feste Schuhe einpacken!</p><span class="hand">– Aaron</span></div></div>"""
     alle_artikel = [s for s, m in alle.items() if m.get("art", "artikel") == "artikel" and s != "index"]
+    vorhaben = []
+    for titel, satz, haupt, mehr in VORHABEN:
+        m = alle.get(haupt)
+        if not m or not m.get("bild"):
+            continue
+        links = "".join(f'<li><a href="{s}/">{html.escape(alle[s].get("kurz", s))}</a></li>' for s in mehr if s in alle)
+        vorhaben.append(f"""<div class="vorhaben"><a href="{haupt}/"><figure class="polaroid"><img src="bilder/{Path(m["bild"]).stem}.webp" alt="" width="1200" height="900" loading="lazy"><figcaption>{html.escape(titel)}</figcaption></figure></a>
+<p>{html.escape(satz)}</p><ul>{links}</ul></div>""")
+    vorhaben_html = f"""<section class="breite" style="padding-top:72px"><div class="mitte"><h2>Was hast du vor?</h2></div><div class="vorhaben-raster">{"".join(vorhaben)}</div></section>""" if vorhaben else ""
+    heute = date.today()
+    md = heute.strftime("%m%d")
+    aktuell_html = ""
+    for von, bis, jahr, s, dach, satz in AKTUELL:
+        drin = (von <= md <= bis) if von <= bis else (md >= von or md <= bis)
+        if drin and (jahr is None or jahr == heute.year) and s in alle and alle[s].get("bild"):
+            m = alle[s]
+            aktuell_html = f"""<section class="breite aktuell"><figure class="polaroid">{titelbild_tag(m["bild"], "", ' loading="lazy"')}<figcaption>{html.escape(m.get("kurz", ""))}</figcaption></figure>
+<div class="zettel"><b class="marke">{html.escape(dach)}</b><p class="gross-zettel">{html.escape(m["titel"].split(":")[0])}</p><p>{html.escape(satz)}</p><a class="mehr" href="{s}/">Alles dazu lesen</a></div></section>"""
+            break
     skript = """<script>(function(){var d=[].slice.call(document.querySelectorAll('.dia')),b=[].slice.call(document.querySelectorAll('.reiter button')),i=0,t;if(d.length<2)return;function z(n){d[i].classList.remove('an');b[i].classList.remove('an');i=n;d[i].classList.add('an');void b[i].offsetWidth;b[i].classList.add('an');clearTimeout(t);t=setTimeout(function(){z((i+1)%d.length)},7000)}b.forEach(function(x,k){x.onclick=function(){z(k)}});z(0)})();</script>"""
     return f"""{buehne}
 <main id="inhalt">
-<section class="breite start-intro"><div><p class="dach">Von Gastgebern aus Bad Wilhelmshöhe</p><h1>{h1_text}</h1><p>{lede}</p><div class="fragen">{rest}</div></div>{stapel}</section>
-<section class="breite" style="padding-top:56px"><div class="mitte"><h2>Alle Ratgeber</h2><p>Jede Seite beantwortet eine Frage, mit Quellen und Prüfdatum.</p></div>{karten(alle_artikel, alle, "")}</section>
+<section class="breite start-intro"><div><h1>{h1_text}</h1><p class="lede">{lede}</p></div>{stapel}</section>
+{vorhaben_html}
+{aktuell_html}
+<section class="breite" style="padding-top:72px"><div class="mitte"><h2>Alle Ratgeber</h2></div>{karten(alle_artikel, alle, "")}</section>
 </main>
 {skript}"""
 
