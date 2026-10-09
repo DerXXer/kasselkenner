@@ -245,10 +245,11 @@ def seite(meta, inhalt_html, faq, toc, alle):
         else:
             held = f'<section class="held ohne-bild"><div class="text"><div class="breite"><h1 class="gross"{groesse}>{h1_text}</h1></div></div></section>'
         blick = blick_lesen(meta.get("blick"))
-        blick_html = ('<div class="blick"><b class="marke">Auf einen Blick</b><dl>' +
-                      "".join(f"<dt>{html.escape(k)}</dt><dd>{inline(v)}</dd>" for k, v in blick) + "</dl></div>") if blick else ""
+        blick_html = ('<dl class="fakten">' +
+                      "".join(f"<dt>{html.escape(k)}</dt><dd>{inline(v)}</dd>" for k, v in blick) + "</dl>") if blick else ""
+        # Ein Zettel statt zwei: kurze Antwort oben, Eckdaten darunter (Aaron, 09.10.2026)
         anpinnen = f"""<section class="anpinnen"><div class="breite">
-<div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p></div>{blick_html}
+<div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p>{blick_html}</div>
 </div></section>""" if lede else ""
         autor = f"""<div class="autor"><span class="kreis" aria-hidden="true">AS</span><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a>, Gastgeber in Bad Wilhelmshöhe<br>geprüft am {date.fromisoformat(stand).strftime("%d.%m.%Y")}</div></div>"""
         werbung_an = meta.get("eigenwerbung", "ja") == "ja"
@@ -416,7 +417,7 @@ def main():
         if meta.get("art", "artikel") == "artikel":
             llms.append(f"- [{meta['titel']}]({DOMAIN}/{slug}/): {meta.get('beschreibung', '')}")
     (AUS / "llms.txt").write_text("\n".join(llms) + "\n")
-    (AUS / "CNAME").write_text("kasselkenner.de\n")
+    (AUS / "CNAME").write_text("kasselkenner.de")
     (AUS / ".nojekyll").write_text("")
     if "404" in seiten:
         shutil.copy(AUS / "404" / "index.html", AUS / "404.html")

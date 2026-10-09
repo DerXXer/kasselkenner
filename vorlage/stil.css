@@ -16,7 +16,7 @@
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
-body{margin:0;background:#fff;color:var(--text);font:400 18px/1.65 "Instrument Sans",system-ui,sans-serif}
+body{margin:0;background:#fff;color:var(--text);font:400 18px/1.75 "Instrument Sans",system-ui,sans-serif}
 img{max-width:100%;height:auto;display:block}
 a{color:var(--wein);text-underline-offset:3px}
 a:hover{color:var(--sonne-d)}
@@ -39,12 +39,12 @@ a:hover{color:var(--sonne-d)}
 
 /* Überschriften */
 .gross{font:900 clamp(42px,8vw,100px)/.92 Archivo,sans-serif;font-stretch:62%;text-transform:uppercase;margin:0;letter-spacing:-.005em}
-h2{font:800 clamp(27px,3.2vw,38px)/1.12 Archivo,sans-serif;letter-spacing:-.015em;color:var(--wein);margin:52px 0 14px}
-h3{font:800 21px/1.25 Archivo,sans-serif;margin:28px 0 8px;color:var(--wein)}
+h2{font:800 clamp(27px,3.2vw,38px)/1.12 Archivo,sans-serif;letter-spacing:-.015em;color:var(--wein);margin:80px 0 18px}
+h3{font:800 21px/1.25 Archivo,sans-serif;margin:40px 0 10px;color:var(--wein)}
 .dach{font:700 13px Archivo,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--sonne-d)}
-p{margin:0 0 18px}
-ul,ol{padding-left:22px;margin:0 0 18px}
-li{margin-bottom:6px}
+p{margin:0 0 24px}
+ul,ol{padding-left:22px;margin:0 0 24px}
+li{margin-bottom:10px}
 
 /* Titelbild mit Überschrift */
 .held{position:relative;height:min(70vh,640px);min-height:440px;color:#fff;background:var(--wein-d)}
@@ -71,12 +71,10 @@ li{margin-bottom:6px}
 
 /* Angepinnt über die Bildkante */
 .anpinnen{position:relative;z-index:3;margin-top:-84px}
-.anpinnen .breite{display:grid;grid-template-columns:minmax(0,580px) minmax(0,380px);gap:40px;align-items:start}
-.blick{background:#fff;box-shadow:0 14px 30px -16px rgba(29,26,24,.5);padding:20px 22px;transform:rotate(1.4deg);margin-top:30px}
-.blick .marke{color:var(--sonne-d)}
-.blick dl{display:grid;grid-template-columns:auto 1fr;gap:6px 16px;margin:8px 0 0;font-size:16px}
-.blick dt{color:var(--leise)}
-.blick dd{margin:0;font-weight:700}
+.anpinnen .zettel{max-width:700px}
+.fakten{display:grid;grid-template-columns:auto 1fr;gap:8px 18px;margin:16px 0 0;padding-top:14px;border-top:1.5px dashed rgba(91,30,45,.28);font:400 16px/1.4 "Instrument Sans",sans-serif}
+.fakten dt{color:var(--leise)}
+.fakten dd{margin:0;font-weight:700}
 
 /* Artikel */
 .raster{display:grid;grid-template-columns:minmax(0,760px) 320px;gap:64px;padding-bottom:40px}
@@ -84,12 +82,12 @@ li{margin-bottom:6px}
 .autor .kreis{flex:none;width:42px;height:42px;border-radius:50%;background:var(--wein);color:#fff;display:grid;place-items:center;font:800 14px Archivo}
 .autor strong,.autor a{color:var(--text)}
 .offen{font-size:13px;color:var(--leise);border-top:1px solid var(--linie);border-bottom:1px solid var(--linie);padding:10px 0;margin:24px 0 8px}
-.tabelle{overflow-x:auto;margin:10px 0 24px}
+.tabelle{overflow-x:auto;margin:16px 0 36px}
 table{border-collapse:collapse;width:100%;font-size:16px;font-variant-numeric:tabular-nums}
 th{text-align:left;font:800 13px Archivo,sans-serif;text-transform:uppercase;letter-spacing:.05em;color:#fff;background:var(--wein);padding:10px 12px}
 td{padding:10px 12px;border-bottom:1px solid var(--linie);vertical-align:top}
 tr:nth-child(even) td{background:var(--grund)}
-.hinweis{margin:34px 0 34px 12px;max-width:560px}
+.hinweis{margin:48px 0 48px 12px;max-width:560px}
 .faq{border-bottom:1px solid var(--linie);padding:4px 0}
 .faq summary{cursor:pointer;font:700 18px/1.4 "Instrument Sans";padding:12px 32px 12px 0;list-style:none;position:relative}
 .faq summary::-webkit-details-marker{display:none}
@@ -177,9 +175,8 @@ tr:nth-child(even) td{background:var(--grund)}
 .fuss p{max-width:720px}
 
 @media (max-width:980px){
-  .anpinnen .breite,.raster{grid-template-columns:minmax(0,1fr)}
+  .raster{grid-template-columns:minmax(0,1fr)}
   .seite{position:static;padding-top:0}
-  .blick{margin-top:0}
   .karten{grid-template-columns:repeat(2,minmax(0,1fr))}
   .start-intro{grid-template-columns:minmax(0,1fr)}
 }
