@@ -1,12 +1,13 @@
 ---
-titel: Kasselkenner – Bergpark, Wasserspiele und documenta in Kassel
-beschreibung: Praktische, geprüfte Antworten für deinen Besuch in Kassel. Die Seite entsteht gerade.
+titel: Kasselkenner – Bergpark, Wasserspiele und documenta
+beschreibung: Geprüfte Antworten für deinen Besuch in Kassel: Wasserspiele, Bergpark Wilhelmshöhe, Herkules, Parken, documenta 2027 und Übernachten, jeweils mit Quellen.
 slug: index
+kurz: Start
 art: start
 eigenwerbung: nein
 robots: noindex
 stand: 2026-10-09
 ---
-# Kasselkenner
+# Kassel, wie wir es kennen
 
-Hier entstehen gerade praktische, geprüfte Antworten für deinen Besuch in Kassel: Wasserspiele, Bergpark Wilhelmshöhe, documenta 2027. Schau bald wieder vorbei.
+Kassel ist grüner, als viele denken: Oben wacht der Herkules über den Bergpark, an Wasserspieltagen rauscht das Wasser die Kaskaden hinab, und 2027 wird die ganze Stadt wieder zur Bühne der documenta. Hier steht, wann was läuft, wo du parkst und was sich wirklich lohnt.
