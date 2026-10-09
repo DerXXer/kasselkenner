@@ -18,7 +18,7 @@ NAME = "Kasselkenner"
 UNTERZEILE = "Bergpark, Wasserspiele und documenta – von Gastgebern aus Bad Wilhelmshöhe"
 AUTOR_ID = DOMAIN + "/ueber-uns/#aaron"
 AUTOR = {"@type": "Person", "@id": AUTOR_ID, "name": "Aaron Schiele", "url": DOMAIN + "/ueber-uns/",
-         "jobTitle": "Gastgeber in Kassel-Bad Wilhelmshöhe",
+         "jobTitle": "Gastgeber in Kassel-Bad Wilhelmshöhe", "image": DOMAIN + "/aaron.jpg",
          "worksFor": {"@type": "Organization", "name": "Wohnen am Bergpark", "url": "https://wohnenambergpark.de/"}}
 INDEXNOW = "408dcd67b168f09d160b92ca4366c418"
 # Orte für strukturierte Daten (Entität + Wikipedia), je Seite
@@ -363,6 +363,10 @@ def seite(meta, inhalt_html, faq, toc, alle):
     h1 = re.search(r"<h1>(.*?)</h1>", inhalt_html, re.S)
     h1_text = h1.group(1) if h1 else html.escape(meta["titel"])
     rest = inhalt_html[h1.end():] if h1 else inhalt_html
+    if slug == "ueber-uns":
+        rest = rest.replace('<h2 id="wer-hier-schreibt">Wer hier schreibt</h2>',
+                            '<h2 id="wer-hier-schreibt">Wer hier schreibt</h2><figure class="polaroid portraet"><img src="../aaron-400.webp" '
+                            'alt="Aaron Schiele, Gastgeber von Wohnen am Bergpark" width="480" height="360" loading="lazy"><figcaption>Aaron</figcaption></figure>', 1)
     erster = re.match(r"\s*<p>(.*?)</p>", rest, re.S)
     lede = erster.group(1) if erster else ""
     if erster:
@@ -392,7 +396,7 @@ def seite(meta, inhalt_html, faq, toc, alle):
         anpinnen = f"""<section class="anpinnen"><div class="breite">
 {blick_html}<div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p></div>
 </div></section>""" if lede else ""
-        autor = f"""<div class="autor"><span class="kreis" aria-hidden="true">AS</span><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a><br>geprüft am {date.fromisoformat(stand).strftime("%d.%m.%Y")}</div></div>"""
+        autor = f"""<div class="autor"><img class="kreis" src="{tiefe}aaron-160.webp" alt="Aaron Schiele" width="42" height="42"><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a><br>geprüft am {date.fromisoformat(stand).strftime("%d.%m.%Y")}</div></div>"""
         werbung_an = meta.get("eigenwerbung", "ja") == "ja"
         offen = ""  # Kennzeichnung über die Karte „In eigener Sache“ (Aaron, 09.10.2026: nicht auf jeder Seite)
         verzeichnis = ""
@@ -580,7 +584,7 @@ def main():
             text = text.replace("</body>", STRECKE_JS + "\n</body>", 1)
         ziel.write_text(text)
     shutil.rmtree(AUS / "404", ignore_errors=True)
-    for f in ("logo.svg", "favicon-48.png", "apple-touch-icon.png", "icon-512.png"):
+    for f in ("logo.svg", "favicon-48.png", "apple-touch-icon.png", "icon-512.png", "aaron-160.webp", "aaron-400.webp", "aaron.jpg"):
         shutil.copy(WURZEL / "vorlage" / f, AUS / f)
     (AUS / f"{INDEXNOW}.txt").write_text(INDEXNOW)
     (AUS / "stil.css").write_text((WURZEL / "vorlage" / "schriften.css").read_text() + (WURZEL / "vorlage" / "stil.css").read_text())
