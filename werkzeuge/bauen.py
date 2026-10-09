@@ -29,6 +29,8 @@ START_DIAS = [("wasserspiele-kassel", "Bergpark · Saison 1. Mai bis 3. Oktober"
               ("weihnachtsmarkt-kassel", "Innenstadt · Märchenweihnachtsmarkt", "Weihnachtsmarkt in Kassel", "Zeiten, Orte, Anreise"),
               ("bergpark-wilhelmshoehe", "UNESCO-Welterbe", "Der Bergpark Wilhelmshöhe", "Den Bergpark entdecken")]
 EIGEN_BILD = "blick-vom-herkules.jpg"
+# Linienplan: Wasser „fließt“ beim Scrollen die Strecke hinab, erreichte Stationen leuchten orange
+STRECKE_JS = """<script>(function(){var s=[].slice.call(document.querySelectorAll('.strecke'));if(!s.length)return;s.forEach(function(o){o.classList.add('lebt')});var w=0;function f(){w=0;var m=innerHeight*0.6;s.forEach(function(o){var r=o.getBoundingClientRect(),p=Math.max(0,Math.min(1,(m-r.top)/r.height));o.style.setProperty('--f',p.toFixed(3));[].forEach.call(o.children,function(l){var q=l.getBoundingClientRect();l.classList.toggle('an',q.top+q.height/2<m)})})}addEventListener('scroll',function(){if(!w){w=1;requestAnimationFrame(f)}},{passive:true});addEventListener('resize',f);f()})();</script>"""
 FUSS = [("ueber-uns", "Über uns"), ("bildnachweise", "Bildnachweise"),
         ("impressum", "Impressum"), ("datenschutz", "Datenschutz")]
 
@@ -136,11 +138,11 @@ def markdown(rumpf):
 def eigenwerbung(slug, tiefe):
     ziel = f"{BUCHEN}?utm_source=kasselkenner&utm_medium=referral&utm_campaign={slug}"
     return f"""<aside class="eigen" aria-label="In eigener Sache">
-<img src="{tiefe}bilder/{Path(EIGEN_BILD).stem}.webp" alt="" width="640" height="400" loading="lazy">
+<figure class="polaroid"><img src="{tiefe}bilder/{Path(EIGEN_BILD).stem}.webp" alt="" width="640" height="400" loading="lazy"><figcaption>Blick vom Herkules</figcaption></figure>
 <div class="k"><p class="dach">In eigener Sache</p>
 <h3>Übernachten am Bergpark</h3>
-<p>Kasselkenner schreiben die Gastgeber von <strong>Wohnen am Bergpark</strong>. Unsere Ferienwohnungen liegen in Bad Wilhelmshöhe, ein paar Gehminuten vom Bergpark, die Linie 4 hält vor der Tür.</p>
-<a class="knopf" href="{ziel}" rel="noopener">Wohnungen ansehen</a></div>
+<p>Unsere Ferienwohnungen liegen in Bad Wilhelmshöhe, ein paar Gehminuten vom Bergpark. Die Linie 4 hält vor der Tür.</p>
+<a class="mehr" href="{ziel}" rel="noopener">Wohnen am Bergpark ansehen</a></div>
 </aside>"""
 
 
@@ -179,7 +181,7 @@ def kopf_und_fuss(slug, tiefe, alle):
     fuss_links = " · ".join(f'<a href="{tiefe}{s}/">{t}</a>' for s, t in FUSS)
     fuss = f"""<footer class="fuss"><div class="breite">
 <div class="wortmarke"><b>KASSEL</b><i>kenner.</i></div>
-<p>{UNTERZEILE}. Unabhängige Tipps für deinen Besuch in Kassel. Angaben ohne Gewähr; Termine und Preise ändern sich, im Zweifel gilt die Seite des Veranstalters.</p>
+<p>Bergpark, Wasserspiele und documenta: Tipps für deinen Besuch in Kassel. Angaben ohne Gewähr; Termine und Preise ändern sich, im Zweifel gilt die Seite des Veranstalters.</p>
 <p>{fuss_links}</p>
 </div></footer>"""
     return kopf, fuss
@@ -273,9 +275,9 @@ def seite(meta, inhalt_html, faq, toc, alle):
         anpinnen = f"""<section class="anpinnen"><div class="breite">
 <div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p></div>{blick_html}
 </div></section>""" if lede else ""
-        autor = f"""<div class="autor"><span class="kreis" aria-hidden="true">AS</span><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a>, Gastgeber in Bad Wilhelmshöhe<br>geprüft am {date.fromisoformat(stand).strftime("%d.%m.%Y")}</div></div>"""
+        autor = f"""<div class="autor"><span class="kreis" aria-hidden="true">AS</span><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a><br>geprüft am {date.fromisoformat(stand).strftime("%d.%m.%Y")}</div></div>"""
         werbung_an = meta.get("eigenwerbung", "ja") == "ja"
-        offen = '<p class="offen">Unabhängiger Ratgeber. In der Seitenleiste stellen wir offen gekennzeichnet unsere eigenen Ferienwohnungen vor.</p>' if werbung_an else ""
+        offen = ""  # Kennzeichnung über die Karte „In eigener Sache“ (Aaron, 09.10.2026: nicht auf jeder Seite)
         verzeichnis = ""
         if len(toc) >= 4:
             verzeichnis = '<nav class="toc" aria-label="Auf dieser Seite"><p class="dach">Auf dieser Seite</p><ol>' + \
@@ -420,7 +422,10 @@ def main():
             benutzt.add(meta["bild"])
         ziel = AUS / "index.html" if slug == "index" else AUS / slug / "index.html"
         ziel.parent.mkdir(parents=True, exist_ok=True)
-        ziel.write_text(seite(meta, h, faq, toc, alle))
+        text = seite(meta, h, faq, toc, alle)
+        if 'class="strecke"' in text:
+            text = text.replace("</body>", STRECKE_JS + "\n</body>", 1)
+        ziel.write_text(text)
     benutzt.add(EIGEN_BILD)
     bilder_kopieren(benutzt)
     shutil.copy(WURZEL / "vorlage" / "logo.svg", AUS / "logo.svg")

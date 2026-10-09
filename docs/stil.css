@@ -17,7 +17,6 @@
   --sonne-d:#C25200;   /* Akzent für Text auf Weiß (Kontrast) */
   --zettel:#FFE9A8;
   --zettel2:#D9EEFF;
-  --wasser:#1667B7;    /* nur für den Linienplan der Wasserspiele */
   --grund:#F5F3EF;
   --text:#1D1A18;
   --leise:#5F5853;
@@ -118,11 +117,17 @@ tr:nth-child(even) td{background:var(--grund)}
 
 /* Linienplan (Tabellen mit Spalte „Uhrzeit“) */
 .strecke{list-style:none;margin:16px 0 24px;padding:0;position:relative}
-.strecke:before{content:"";position:absolute;left:84px;top:16px;bottom:16px;width:6px;background:var(--wasser)}
+.strecke:before,.strecke:after{content:"";position:absolute;left:84px;top:16px;bottom:16px;width:6px;border-radius:3px;background:rgba(91,30,45,.14)}
+.strecke:after{background:linear-gradient(var(--sonne),var(--wein));transform-origin:top;transform:scaleY(var(--f,1))}
 .strecke li{display:grid;grid-template-columns:66px 42px 1fr;align-items:center;padding:9px 0;margin:0}
 .strecke time{font:800 17px Archivo;text-align:right;padding-right:10px;color:var(--wein)}
-.strecke .p{width:22px;height:22px;border-radius:50%;background:#fff;border:5px solid var(--wasser);justify-self:center;z-index:1}
+.strecke .p{width:22px;height:22px;border-radius:50%;background:#fff;border:5px solid var(--wein);justify-self:center;z-index:1;transition:background .35s,border-color .35s,transform .35s}
 .strecke li:first-child .p,.strecke li:last-child .p{border-color:var(--sonne)}
+.strecke.lebt li .p{border-color:rgba(91,30,45,.3)}
+.strecke.lebt li.an .p{border-color:var(--sonne);background:var(--sonne);transform:scale(1.15)}
+.strecke.lebt li span,.strecke.lebt li time{transition:opacity .35s}
+.strecke.lebt li:not(.an) span,.strecke.lebt li:not(.an) time{opacity:.45}
+@media (prefers-reduced-motion:reduce){.strecke .p,.strecke.lebt li span,.strecke.lebt li time{transition:none}}
 .strecke span{font:700 17px/1.35 "Instrument Sans";padding-left:10px}
 
 /* Seitenleiste */
@@ -132,11 +137,13 @@ tr:nth-child(even) td{background:var(--grund)}
 .toc li{margin:0;counter-increment:t}
 .toc a{display:flex;gap:12px;padding:9px 0;border-bottom:1px solid var(--linie);text-decoration:none;font:600 15px/1.35 "Instrument Sans";color:var(--text)}
 .toc a:before{content:counter(t,decimal-leading-zero);color:var(--sonne-d);font:800 15px Archivo;min-width:22px}
-.eigen{border:2px solid var(--wein);background:#fff}
-.eigen img{aspect-ratio:16/10;object-fit:cover;width:100%}
-.eigen .k{padding:16px 20px 20px}
-.eigen h3{margin:6px 0 8px}
-.eigen p{font-size:15px;color:var(--leise);margin:0 0 14px}
+.eigen{position:relative;padding-top:8px}
+.eigen .polaroid{transform:rotate(-2.5deg);max-width:300px}
+.eigen .polaroid img{aspect-ratio:16/11}
+.eigen .k{background:var(--zettel);padding:18px 20px 18px;margin:-14px 0 0 18px;position:relative;transform:rotate(1.2deg);box-shadow:0 10px 24px -14px rgba(29,26,24,.45)}
+.eigen .dach{font-size:11px;color:var(--leise);margin:0 0 4px}
+.eigen h3{margin:0 0 6px;font-size:19px}
+.eigen p{font:400 15px/1.5 Lora,Georgia,serif;color:var(--text);margin:0 0 12px}
 .knopf{display:inline-flex;align-items:center;gap:10px;background:var(--sonne);color:#fff;font:700 15px "Instrument Sans",sans-serif;text-decoration:none;padding:13px 22px;border-radius:4px}
 .knopf:hover{background:var(--sonne-d);color:#fff}
 .mehr{display:inline-flex;align-items:center;gap:10px;font:700 15px "Instrument Sans";text-decoration:none;color:var(--wein)}
