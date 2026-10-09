@@ -124,23 +124,20 @@ tr:nth-child(even) td{background:var(--grund)}
 /* Seitenleiste */
 .seite{display:flex;flex-direction:column;gap:32px;padding-top:40px}
 .seite .eigen{position:sticky;top:110px;margin-top:20px}
-.toc .dach{margin:0 0 8px}
-.toc ol{list-style:none;margin:0;padding:0;counter-reset:t}
-.toc li{margin:0;counter-increment:t}
-.toc a{display:flex;gap:12px;padding:9px 0;border-bottom:1px solid var(--linie);text-decoration:none;font:600 15px/1.35 "Instrument Sans";color:var(--text)}
-.toc a:before{content:counter(t,decimal-leading-zero);color:var(--sonne-d);font:800 15px Archivo;min-width:22px}
-.eigen{position:relative;background:var(--wein);color:#F6ECEE;padding:0 0 24px;box-shadow:0 18px 36px -18px rgba(29,26,24,.6)}
-.eigen .polaroid{transform:rotate(-2.5deg);width:82%;margin:-14px auto 0;position:relative;top:-10px}
-.eigen .polaroid img{aspect-ratio:16/9}
-.eigen .polaroid figcaption{color:var(--sonne-d)}
-.eigen .k{padding:6px 22px 0}
-.eigen .dach{font-size:11px;color:#E7C9CF;margin:0 0 8px}
-.eigen h3{margin:0 0 10px;font:800 24px/1.15 Archivo,sans-serif;color:#fff}
-.eigen p{font-size:15px;line-height:1.55;margin:0 0 12px;color:#F6ECEE}
-.eigen .tipp{font:400 15px/1.5 Lora,Georgia,serif;background:var(--zettel);color:var(--text);padding:12px 14px;transform:rotate(-1deg);margin:4px -4px 18px}
-.eigen .knopf{width:100%;justify-content:center}
-.eigen.knapp{padding-top:18px}
-.eigen.knapp .polaroid{display:none}
+.eigen{position:relative;background:var(--grund);border-top:4px solid var(--wein);padding:0 0 22px;box-shadow:0 14px 30px -20px rgba(29,26,24,.5)}
+.eigen .polaroid{transform:rotate(-2.5deg);width:84%;margin:0 auto;position:relative;top:-16px}
+.eigen .polaroid img{aspect-ratio:3/2}
+.eigen .k{padding:0 22px}
+.eigen .dach{font-size:11px;color:var(--leise);margin:0 0 6px}
+.eigen h3{margin:0 0 8px;font:800 22px/1.15 Archivo,sans-serif;color:var(--wein)}
+.eigen p{font-size:15px;line-height:1.55;margin:0 0 12px;color:var(--text)}
+.eigen .tipp{font:400 15px/1.5 Lora,Georgia,serif;background:var(--zettel);padding:12px 14px;transform:rotate(-1deg);margin:4px -4px 16px;box-shadow:0 6px 14px -10px rgba(29,26,24,.5)}
+.eigen .knopf{width:100%;justify-content:center;background:var(--wein)}
+.eigen .knopf:hover{background:var(--wein-d,#43141F)}
+.eigen.knapp .polaroid{width:56%;margin-bottom:-6px}
+.eigen.knapp .k > p:not(.tipp):not(.dach){display:none}
+.eigen.knapp .tipp{margin-bottom:12px}
+.eigen.knapp .polaroid img{aspect-ratio:5/2}
 .knopf{display:inline-flex;align-items:center;gap:10px;background:var(--sonne);color:#fff;font:700 15px "Instrument Sans",sans-serif;text-decoration:none;padding:13px 22px;border-radius:4px}
 .knopf:hover{background:var(--sonne-d);color:#fff}
 .mehr{display:inline-flex;align-items:center;gap:10px;font:700 15px "Instrument Sans";text-decoration:none;color:var(--wein)}

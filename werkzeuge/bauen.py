@@ -156,19 +156,23 @@ def markdown(rumpf):
 
 
 # Empfehlung in eigener Sache, je Thema passend (Fakten: Wissensspeicher Wohnen am Bergpark)
-EMPFEHLUNG = {
+EMPFEHLUNG = {  # Titel, Satz, Tipp, Foto, Bildunterschrift, Wohnungsseite
     "park": ("Übernachte da, wo das Wasser fließt",
              "Wer am Bergpark schläft, ist morgens als Erster an den Kaskaden und muss abends nicht mehr ins Auto.",
-             "Unser Tipp: die Wohnung „Herkules“ mit eigenem Garten und Whirlpool für bis zu 6 Personen."),
+             "Unser Tipp: die Wohnung „Herkules“ mit eigenem Garten und Whirlpool für bis zu 6 Personen.",
+             "wohnung-herkules.jpg", "Wohnung Herkules", "herkules-whirlpool-im-garten-100-m2-6-gaste"),
     "kunst": ("Kunst am Tag, Ruhe am Abend",
               "Mit der Linie 4 bist du schnell in der Innenstadt und abends zurück im Grünen am Bergpark.",
-              "Für zwei: die Romantische Wohnung mit Balkon und Blick auf den Herkules."),
+              "Für zwei: die Romantische Wohnung mit Balkon und Blick auf den Herkules.",
+              "wohnung-romantisch.jpg", "Romantische Wohnung", "romantische-wohnung-dachbalkon-mit-herkulesblick"),
     "familie": ("Platz für die ganze Familie",
                 "Mehr Raum als im Hotelzimmer, eine eigene Küche und der Bergpark gleich um die Ecke.",
-                "Unser Tipp: die „Löwenburg“ mit zwei Schlafzimmern für bis zu 4 Personen."),
+                "Unser Tipp: die „Löwenburg“ mit zwei Schlafzimmern für bis zu 4 Personen.",
+                "wohnung-loewenburg.jpg", "Wohnung Löwenburg", "lowenburg-2-schlafzimmer-fur-zwei-paare"),
     "start": ("Dein Zuhause am Bergpark",
               "Zehn Ferienwohnungen in Bad Wilhelmshöhe, vom Apartment für zwei bis zur Wohnung mit Garten für sechs.",
-              "Kostenlos parken an der Straße, die Linie 4 ganz in der Nähe."),
+              "Kostenlos parken an der Straße, die Linie 4 ganz in der Nähe.",
+              "wohnung-schlossteich.jpg", "Wohnung Schlossteich", ""),
 }
 EMPFEHLUNG_THEMA = {s: "park" for s in ["wasserspiele-kassel", "beleuchtete-wasserspiele", "herkules-kassel", "bergpark-wilhelmshoehe",
                                         "loewenburg-kassel", "schloss-wilhelmshoehe", "parken-bergpark-wilhelmshoehe"]}
@@ -177,15 +181,17 @@ EMPFEHLUNG_THEMA.update({s: "familie" for s in ["kassel-mit-kindern", "kassel-be
 
 
 def eigenwerbung(slug, tiefe):
-    ziel = f"{BUCHEN}?utm_source=kasselkenner&utm_medium=referral&utm_campaign={slug}"
-    titel, satz, tipp = EMPFEHLUNG[EMPFEHLUNG_THEMA.get(slug, "start")]
+    titel, satz, tipp, bild, unterschrift, wohnung = EMPFEHLUNG[EMPFEHLUNG_THEMA.get(slug, "start")]
+    ziel = (f"https://wohnenambergpark.de/de/{wohnung}" if wohnung else BUCHEN) + \
+        f"?utm_source=kasselkenner&utm_medium=referral&utm_campaign={slug}"
+    knopf = "Wohnung ansehen" if wohnung else "Wohnungen ansehen"
     return f"""<aside class="eigen" aria-label="In eigener Sache">
-<figure class="polaroid"><img src="{tiefe}bilder/{Path(EIGEN_BILD).stem}.webp" alt="" width="640" height="400" loading="lazy"><figcaption>Unsere Empfehlung</figcaption></figure>
+<figure class="polaroid"><img src="{tiefe}bilder/{Path(bild).stem}.webp" alt="{html.escape(BILDNACHWEIS.get(bild, {}).get("alt", ""))}" width="1000" height="667" loading="lazy"><figcaption>{unterschrift}</figcaption></figure>
 <div class="k"><p class="dach">In eigener Sache · Wohnen am Bergpark</p>
 <h3>{titel}</h3>
 <p>{satz}</p>
 <p class="tipp">{tipp}</p>
-<a class="knopf" href="{ziel}" rel="noopener">Wohnungen ansehen</a></div>
+<a class="knopf" href="{ziel}" rel="noopener">{knopf}</a></div>
 </aside>"""
 
 
@@ -493,6 +499,7 @@ def main():
             text = text.replace("</body>", STRECKE_JS + "\n</body>", 1)
         ziel.write_text(text)
     benutzt.add(EIGEN_BILD)
+    benutzt.update(e[3] for e in EMPFEHLUNG.values())
     bilder_kopieren(benutzt)
     shutil.copy(WURZEL / "vorlage" / "logo.svg", AUS / "logo.svg")
     (AUS / "stil.css").write_text((WURZEL / "vorlage" / "schriften.css").read_text() + (WURZEL / "vorlage" / "stil.css").read_text())
