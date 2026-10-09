@@ -162,8 +162,8 @@ def seite(meta, inhalt_html, faq, toc, alle):
     titelbild = ""
     if bild:
         nachweis = BILDNACHWEIS.get(bild, {})
-        titelbild = (f'<figure class="titelbild"><img src="{tiefe}bilder/{bild}" alt="{html.escape(nachweis.get("alt", ""))}" '
-                     f'width="1600" height="900" fetchpriority="high"><figcaption>Foto: {html.escape(nachweis.get("urheber", ""))}, '
+        titelbild = (f'<figure class="titelbild"><img src="{tiefe}bilder/{Path(bild).stem}.webp" alt="{html.escape(nachweis.get("alt", ""))}" '
+                     f'width="1200" height="675" fetchpriority="high"><figcaption>Foto: {html.escape(nachweis.get("urheber", ""))}, '
                      f'{html.escape(nachweis.get("lizenz", ""))} · <a href="{tiefe}bildnachweise/">Nachweis</a></figcaption></figure>')
     verzeichnis = ""
     if len(toc) >= 4:
@@ -174,7 +174,13 @@ def seite(meta, inhalt_html, faq, toc, alle):
     if len(teile) == 2:
         stand_zeile = f'<p class="stand">Stand: {date.fromisoformat(stand).strftime("%d.%m.%Y")} · von <a href="{tiefe}ueber-uns/">Aaron Schiele</a></p>' \
             if meta.get("art", "artikel") == "artikel" else ""
-        inhalt_html = teile[0] + "</h1>" + stand_zeile + titelbild + verzeichnis + teile[1]
+        rest = teile[1]
+        if verzeichnis and "</p>" in rest:
+            vor, nach = rest.split("</p>", 1)
+            rest = vor + "</p>" + verzeichnis + nach
+        elif verzeichnis:
+            rest = verzeichnis + rest
+        inhalt_html = teile[0] + "</h1>" + stand_zeile + titelbild + rest
     werbung = eigenwerbung(slug) if meta.get("eigenwerbung", "ja") == "ja" else ""
     weiter = ""
     if meta.get("weiter"):
@@ -242,6 +248,7 @@ def nachweise_lesen():
 
 
 def bilder_kopieren(benutzt):
+    """Je Bild eine WebP-Fassung (Seite) und eine kleine JPEG-Fassung (Vorschaubild für Teilen)."""
     ziel = AUS / "bilder"
     ziel.mkdir(parents=True, exist_ok=True)
     for name in benutzt:
@@ -249,11 +256,17 @@ def bilder_kopieren(benutzt):
         if not q.exists():
             print("FEHLT Bild:", name, file=sys.stderr)
             continue
-        z = ziel / name
-        if not z.exists() or z.stat().st_mtime < q.stat().st_mtime:
-            shutil.copy(q, z)
-            # auf 1600 px Breite begrenzen, JPEG-Qualität 72 (macOS sips)
-            subprocess.run(["sips", "-Z", "1600", "-s", "formatOptions", "72", str(z)], capture_output=True)
+        webp = ziel / (Path(name).stem + ".webp")
+        if not webp.exists() or webp.stat().st_mtime < q.stat().st_mtime:
+            for breite, qual in ((1200, 55), (1000, 45)):
+                subprocess.run(["cwebp", "-quiet", "-q", str(qual), "-resize", str(breite), "0", "-sharp_yuv",
+                                str(q), "-o", str(webp)], capture_output=True)
+                if webp.exists() and webp.stat().st_size < 250_000:
+                    break
+        jpg = ziel / name
+        if not jpg.exists() or jpg.stat().st_mtime < q.stat().st_mtime:
+            subprocess.run(["sips", "-Z", "1200", "-s", "format", "jpeg", "-s", "formatOptions", "low", str(q),
+                            "--out", str(jpg)], capture_output=True)
 
 
 def main():

@@ -18,7 +18,8 @@ EIGENE_TEXTE = [Path.home() / "Claude/Projects/Vermietung/seo" / n for n in
 WERBEWORTE = ["perfekt", "traumhaft", "ultimativ", "einzigartig", "unvergesslich", "atemberaubend",
               "unschlagbar", "paradies", "must-see", "muss man gesehen", "geheimtipp"]
 ANREDE_SIE = re.compile(r"(?<![.!?:]\s)(?<!^)\b(Sie|Ihnen|Ihr|Ihre|Ihren|Ihrem|Ihrer)\b")
-INTERN = ["_entwuerfe", "nachtlauf", "claude", "faktenspeicher", "BP-", "DO-", "KS-", "/Users/"]
+INTERN = ["_entwuerfe", "nachtlauf", "claude", "faktenspeicher", "/Users/"]
+KENNUNG = re.compile(r"\b(BP|DO|KS)-\d{3}\b")
 
 
 def norm(t):
@@ -75,6 +76,8 @@ def pruefe(datei):
         for m in ANREDE_SIE.finditer(z):
             warn.append(f"Sie-Anrede? '{m.group(0)}' in: {z.strip()[:70]}")
             break
+    if KENNUNG.search(rumpf):
+        fehler.append(f"Faktenkennung im Text: '{KENNUNG.search(rumpf).group(0)}'")
     for w in INTERN:
         if w.lower() in klein:
             fehler.append(f"interner Begriff im Text: '{w}'")
