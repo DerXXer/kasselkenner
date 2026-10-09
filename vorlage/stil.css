@@ -130,8 +130,7 @@ tr:nth-child(even) td{background:var(--grund)}
 .toc a{display:flex;gap:12px;padding:9px 0;border-bottom:1px solid var(--linie);text-decoration:none;font:600 15px/1.35 "Instrument Sans";color:var(--text)}
 .toc a:before{content:counter(t,decimal-leading-zero);color:var(--sonne-d);font:800 15px Archivo;min-width:22px}
 .eigen{position:relative;background:var(--grund);padding:0 0 22px;box-shadow:0 14px 30px -20px rgba(29,26,24,.5)}
-.eigen .polaroid{transform:rotate(-2.5deg);width:78%;margin:-30px auto 20px;position:relative}
-.eigen .polaroid:after{content:"";position:absolute;inset:0;pointer-events:none;box-shadow:0 6px 18px rgba(29,26,24,.35);clip-path:inset(-40px -40px calc(100% - 30px) -40px)}
+.eigen .polaroid{transform:rotate(-2.5deg);width:78%;margin:-30px auto 20px;position:relative;box-shadow:0 12px 24px -14px rgba(29,26,24,.6),0 0 10px -3px rgba(29,26,24,.2)}
 .eigen .k{padding:0 22px}
 .eigen .dach{font-size:11px;color:var(--leise);margin:0 0 6px}
 .eigen h3{margin:0 0 8px;font:800 22px/1.15 Archivo,sans-serif;color:var(--wein)}
