@@ -67,8 +67,10 @@ def pruefe(datei):
     if "## Häufige Fragen" not in rumpf and meta.get("art", "artikel") == "artikel":
         warn.append("kein Abschnitt '## Häufige Fragen'")
     klein = rumpf.lower()
+    # Werbewörter nur im Fließtext: Linkziele und die H1 (Suchbegriff) zählen nicht
+    fliess = re.sub(r"\]\([^)]+\)", "]", re.sub(r"^# .*$", "", klein, flags=re.M))
     for w in WERBEWORTE:
-        if w in klein:
+        if w in fliess:
             warn.append(f"Werbewort: '{w}'")
     for z in rumpf.splitlines():
         if z.startswith(("#", "|", "- [")) or "](" in z and z.startswith("- "):
