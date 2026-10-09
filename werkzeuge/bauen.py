@@ -387,8 +387,10 @@ def seite(meta, inhalt_html, faq, toc, alle):
         blick_html = ('<div class="blick"><b class="marke">Auf einen Blick</b><dl>' +
                       "".join(f"<dt>{html.escape(k)}</dt><dd>{inline(v)}</dd>" for k, v in blick) + "</dl></div>") if blick else ""
         # Gelber Zettel = Zusammenfassung ohne Zahlen, weiße Karte = harte Fakten (Aaron, 09.10.2026)
+        # Im Quelltext stehen die harten Fakten vor dem Zettel (KIs und Suchmaschinen lesen sie zuerst),
+        # angezeigt wird per CSS-Reihenfolge weiter der Zettel links bzw. oben (Aaron, 09.10.2026)
         anpinnen = f"""<section class="anpinnen"><div class="breite">
-<div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p></div>{blick_html}
+{blick_html}<div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p></div>
 </div></section>""" if lede else ""
         autor = f"""<div class="autor"><span class="kreis" aria-hidden="true">AS</span><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a><br>geprüft am {date.fromisoformat(stand).strftime("%d.%m.%Y")}</div></div>"""
         werbung_an = meta.get("eigenwerbung", "ja") == "ja"

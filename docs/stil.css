@@ -92,6 +92,7 @@ li{margin-bottom:10px}
 /* Angepinnt über die Bildkante */
 .anpinnen{position:relative;z-index:3;margin-top:-84px}
 .anpinnen .breite{display:grid;grid-template-columns:minmax(0,580px) minmax(0,380px);gap:40px;align-items:start}
+.anpinnen .zettel{order:1}.anpinnen .blick{order:2}
 .blick{background:#fff;box-shadow:0 14px 30px -16px rgba(29,26,24,.5);padding:20px 22px;transform:rotate(1.4deg);margin-top:30px}
 .blick .marke{color:var(--sonne-d)}
 .blick dl{display:grid;grid-template-columns:auto 1fr;gap:6px 16px;margin:8px 0 0;font-size:16px}
