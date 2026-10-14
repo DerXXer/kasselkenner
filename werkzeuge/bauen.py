@@ -46,7 +46,7 @@ NAV = [("wasserspiele-kassel", "Wasserspiele"), ("bergpark-wilhelmshoehe", "Berg
        ("uebernachten-kassel", "Übernachten")]
 THEMEN = ["herkules-kassel", "loewenburg-kassel", "schloss-wilhelmshoehe", "beleuchtete-wasserspiele",
           "kassel-sehenswuerdigkeiten", "kassel-mit-kindern", "kassel-bei-regen", "weihnachtsmarkt-kassel",
-          "grimmwelt-kassel", "orangerie-karlsaue", "kassel-wochenende", "kassel-geheimtipps", "zissel-kassel"]
+          "grimmwelt-kassel", "orangerie-karlsaue", "kassel-wochenende", "kassel-geheimtipps", "zissel-kassel", "documenta-uebernachten"]
 START_DIAS = [("wasserspiele-kassel", "Bergpark · Saison 1. Mai bis 3. Oktober", "Wann laufen die Wasserspiele?", "Termine und Ablauf"),
               ("documenta-2027", "documenta 16 · Sommer 2027", "Was du zur documenta wissen musst", "Zum documenta-Ratgeber"),
               ("weihnachtsmarkt-kassel", "Innenstadt · Märchenweihnachtsmarkt", "Weihnachtsmarkt in Kassel", "Zeiten, Orte, Anreise"),
@@ -395,7 +395,7 @@ def seite(meta, inhalt_html, faq, toc, alle):
         anpinnen = f"""<section class="anpinnen"><div class="breite">
 {blick_html}<div class="zettel"><b class="marke">Kurz gesagt</b><p>{lede}</p></div>
 </div></section>""" if lede else ""
-        autor = f"""<div class="autor"><img class="kreis" src="{tiefe}aaron-160.webp" alt="Aaron Schiele" width="42" height="42"><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a><br>geprüft am {date.fromisoformat(stand).strftime("%d.%m.%Y")}</div></div>"""
+        autor = f"""<div class="autor"><img class="kreis" src="{tiefe}aaron-160.webp" alt="Aaron Schiele" width="42" height="42"><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a><br>geprüft am <time datetime="{stand}">{date.fromisoformat(stand).strftime("%d.%m.%Y")}</time></div></div>"""
         werbung_an = meta.get("eigenwerbung", "ja") == "ja"
         offen = ""  # Kennzeichnung über die Karte „In eigener Sache“ (Aaron, 09.10.2026: nicht auf jeder Seite)
         verzeichnis = ""
