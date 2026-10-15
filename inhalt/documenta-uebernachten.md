@@ -1,26 +1,28 @@
 ---
 titel: Unterkunft zur documenta 2027: welcher Stadtteil passt?
-beschreibung: Übernachten zur documenta 2027 in Kassel: Innenstadt, Vorderer Westen, Bad Wilhelmshöhe, Bahnhof Wilhelmshöhe und Kirchditmold im Vergleich, mit Tram-Anbindung.
+beschreibung: Übernachten zur documenta 2027 in Kassel: Innenstadt, Vorderer Westen, Bad Wilhelmshöhe, Bahnhof Wilhelmshöhe, Kirchditmold im Vergleich, mit Tram.
 slug: documenta-uebernachten
 kurz: Unterkunft documenta
 bild: blick-vom-herkules.jpg
-stand: 2026-10-09
+stand: 2026-10-14
 blick: documenta=100 Tage, 10 bis 20 Uhr | ICE-Halt=Kassel-Wilhelmshöhe | Zum Friedrichsplatz=Tram 1, 3 oder 4 | Übernachtungssteuer=5 Prozent vom Nettopreis
 weiter: documenta-2027, uebernachten-kassel, bergpark-wilhelmshoehe
 ---
 # Unterkunft zur documenta 2027: wo übernachten in Kassel?
 
-Für die documenta 2027 musst du nicht direkt am Friedrichsplatz schlafen. Wichtiger ist, dass du ohne Umsteigen hinkommst und abends gern dorthin zurückkehrst: mitten in die Stadt, ins Altbauviertel oder ins Grüne an den Bergpark.
+Für die documenta 2027 musst du nicht direkt am Friedrichsplatz schlafen. Wichtiger ist, dass du ohne Umsteigen hinkommst und abends gern dorthin zurückkehrst: mitten in die Stadt, ins Altbauviertel oder ins Grüne an den Bergpark. Wer vor allem Kunst sehen und abends in der Stadt sein will, wohnt in der Innenstadt; wer mit dem ICE kommt oder den Bergpark mitnimmt, wohnt rund um den Bahnhof Wilhelmshöhe oder in Bad Wilhelmshöhe, von beiden bringt dich die Tram direkt zum Friedrichsplatz.
 
-## Worauf es bei der Wahl ankommt
+## Worauf achte ich bei der Unterkunft zur documenta?
 
 Drei Fragen helfen dir beim Sortieren:
 
 1. **Wie reist du an?** Mit dem ICE spart dir eine Unterkunft in Bahnhofsnähe Wege mit Gepäck.
 2. **Wie viele Tage bleibst du?** Für zwei Tage am Stück gibt es ein eigenes Ticket, für die ganze Laufzeit eine Dauerkarte.
-3. **Willst du mehr sehen als die documenta?** Bergpark, Herkules und Schloss liegen im Westen der Stadt, die Ausstellungshäuser rund um den Friedrichsplatz in der Mitte. Dort liegt auch das Welcome Center, an dem alle Rundgänge beginnen.
+3. **Willst du mehr sehen als die documenta?** Der [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) mit Herkules und Schloss liegt im Westen der Stadt, die Ausstellungshäuser rund um den Friedrichsplatz in der Mitte. Dort liegt auch das Welcome Center, an dem alle Rundgänge der [documenta 2027](/documenta-2027/) beginnen.
 
-## Die Stadtteile im Vergleich
+## Welcher Stadtteil passt zur documenta?
+
+Fünf Gegenden kommen infrage: Innenstadt, Vorderer Westen, Bad Wilhelmshöhe, der Bahnhof Wilhelmshöhe und Kirchditmold. Zum Friedrichsplatz kommst du von dort zu Fuß oder mit der Tram.
 
 | Stadtteil | So fühlt es sich an | Zum Friedrichsplatz | Passt für |
 |---|---|---|---|
@@ -61,19 +63,19 @@ Wer mit Gepäck und wenig Zeit kommt, ist hier richtig. Am Bahnhof halten die IC
 
 Kirchditmold liegt westlich der Innenstadt und grenzt an den Bergpark. Die Straßenbahn 8 bringt dich direkt zum Friedrichsplatz, dazu gibt es Busse und die RegioTram.
 
-## Warum du früh buchen solltest
+## Wann sollte ich die Unterkunft zur documenta buchen?
 
-Zu den letzten Ausgaben kamen jeweils Hunderttausende Besucher, und alle brauchen ein Bett in und um Kassel. Wenn deine Reisetage feststehen, warte nicht bis zum Frühjahr 2027. Schau dir vor dem Buchen die Stornobedingungen an, denn documenta-Tickets selbst werden grundsätzlich nicht erstattet.
+Sobald deine Reisetage feststehen, warte nicht bis zum Frühjahr 2027. Zur documenta 14 kamen 2017 891.500 Besucher nach Kassel, zur documenta fifteen 2022 rund 738.000 Besuche, und alle brauchen ein Bett in und um Kassel. Schau dir vor dem Buchen die Stornobedingungen an, denn documenta-Tickets selbst werden grundsätzlich nicht erstattet.
 
 ## Praktisches: Fahrkarte und Übernachtungssteuer
 
-### documenta-Ticket als Fahrkarte
+### Gilt das documenta-Ticket als Fahrkarte?
 
-Mit einem Tages- oder Abendticket der documenta fährst du an diesem Tag bis Betriebsschluss gratis Bus und Bahn, also auch zwischen Unterkunft und Ausstellung. Innerhalb Kassels bist du damit sicher unterwegs; wohnst du weiter draußen, frag beim Besucherservice nach, wie weit das Ticket reicht. Für die Dauerkarte gilt das nicht.
+Ja: Mit einem Tages- oder Abendticket der documenta fährst du an diesem Tag bis Betriebsschluss gratis Bus und Bahn, also auch zwischen Unterkunft und Ausstellung. Innerhalb Kassels bist du damit sicher unterwegs; wohnst du weiter draußen, frag beim Besucherservice nach, wie weit das Ticket reicht. Für die Dauerkarte gilt das nicht.
 
-### Übernachtungssteuer
+### Wie hoch ist die Übernachtungssteuer?
 
-Kassel erhebt 5 Prozent auf den Übernachtungspreis, im Hotel genauso wie in der Ferienwohnung. Frag beim Buchen, ob sie schon im Preis enthalten ist.
+Kassel erhebt 5 Prozent auf den Übernachtungspreis, im Hotel genauso wie in der Ferienwohnung. Frag beim Buchen, ob sie schon im Preis enthalten ist. Mehr zu Stadtteilen und Steuer steht unter [Übernachten in Kassel](/uebernachten-kassel/).
 
 ## Häufige Fragen
 
@@ -99,9 +101,9 @@ Wenn du neben der Ausstellung den Bergpark erleben willst, ja: Das Schloss errei
 
 ## Quellen
 
-- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 09.10.2026
+- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 14.10.2026
 - [documenta 16, Visit FAQ (englisch)](https://documentasixteen.com/visit/faq), abgerufen 09.10.2026
-- [Stadt Kassel, Übernachtungssteuer](https://www.kassel.de/buerger/rathaus_und_politik/haushalt-und-finanzen/uebernachtungssteuer.php), abgerufen 09.10.2026
+- [Stadt Kassel, Übernachtungssteuer](https://www.kassel.de/buerger/rathaus_und_politik/haushalt-und-finanzen/uebernachtungssteuer.php), abgerufen 14.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV zum Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Wasserspiele und Anreise](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
 - [documenta, Besuchszahlen documenta fifteen](https://documenta.de/en/news/documenta-fifteen-schliesst-mit-sehr-guten-besuchszahlen), abgerufen 09.10.2026

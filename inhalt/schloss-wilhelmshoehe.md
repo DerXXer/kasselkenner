@@ -5,12 +5,12 @@ slug: schloss-wilhelmshoehe
 kurz: Schloss Wilhelmshöhe
 bild: schloss-wilhelmshoehe.jpg
 stand: 2026-10-09
-blick: Geöffnet=Di bis So 10 bis 17 Uhr | Länger=1. und 3. Freitag bis 19 Uhr | Winter=geöffnet | Unter 18=Eintritt frei | Anreise=Tram 1 oder Linie 24 | Parken=390 Plätze, Tag 5 Euro
+blick: Geöffnet=Di bis So 10 bis 17 Uhr | Länger=1. und 3. Freitag bis 19 Uhr | Winter=geöffnet | Eintritt=8 Euro (Tagesticket Wilhelmshöhe), unter 18 frei | Anreise=Tram 1 oder Linie 24 | Parken=390 Plätze, Tag 5 Euro
 weiter: loewenburg-kassel, herkules-kassel, bergpark-wilhelmshoehe
 ---
 # Schloss Wilhelmshöhe: Öffnungszeiten, Eintritt und Sammlungen
 
-Schloss Wilhelmshöhe liegt am unteren Ende des Bergparks, mit dem Herkules im Rücken und der Stadt zu Füßen. Heute ist es ein Museum mit der Gemäldegalerie Alte Meister und der Antikensammlung. Wer Kunst liebt, kommt hier voll auf seine Kosten, und weil das Schloss das ganze Jahr offen ist, lohnt es sich auch an einem Regentag.
+Schloss Wilhelmshöhe liegt am unteren Ende des [Bergparks Wilhelmshöhe](/bergpark-wilhelmshoehe/), mit dem Herkules im Rücken und der Stadt zu Füßen. Heute ist es ein Museum mit der Gemäldegalerie Alte Meister und der Antikensammlung. Wer Kunst liebt, kommt hier voll auf seine Kosten, und weil das Schloss das ganze Jahr offen ist, lohnt es sich auch an einem Regentag.
 
 ## Was zeigt das Museum in Kassel-Wilhelmshöhe?
 
@@ -20,21 +20,21 @@ Schloss Wilhelmshöhe liegt am unteren Ende des Bergparks, mit dem Herkules im R
 
 **Weißensteinflügel.** Die historisch eingerichteten Räume der Landgrafen können wegen Instandsetzung geschlossen sein. Frag vor dem Besuch nach, wenn du gezielt deswegen kommst.
 
-## Die Große Fontäne vor dem Schloss
+## Wann springt die Große Fontäne?
 
-Unterhalb des Schlosses liegt der Fontänenteich mit der Großen Fontäne, dem Schlusspunkt der Wasserspiele. An Wasserspieltagen schießt sie gegen 15.45 Uhr rund 50 Meter in die Höhe, zu ihrer Zeit war sie die größte der Welt. Danach fließt das Wasser über künstliche Wasserfälle in den Schlossteich, den „Lac“. Mehr dazu unter [Wasserspiele Kassel](/wasserspiele-kassel/).
+An Wasserspieltagen schießt sie gegen 15.45 Uhr rund 50 Meter in die Höhe, zu ihrer Zeit war sie die größte der Welt. Sie steht im Fontänenteich unterhalb des Schlosses und ist der Schlusspunkt der Wasserspiele. Danach fließt das Wasser über künstliche Wasserfälle in den Schlossteich, den „Lac“. Mehr dazu unter [Wasserspiele Kassel](/wasserspiele-kassel/).
 
-## Geschichte in Kürze
+## Wer hat Schloss Wilhelmshöhe gebaut?
 
 Landgraf Wilhelm IX. ließ das Schloss als Mittelpunkt des Bergparks bauen, später verbrachte die Kaiserfamilie hier ihre Sommer. Seit 2013 gehört es mit dem Bergpark zum UNESCO-Welterbe.
 
-## Café und Gastronomie
+## Gibt es im Schloss ein Café?
 
-Nach dem Museum lädt im Schloss das Café Jérôme zur Pause ein. Gleich in der Nähe liegt die „Alte Wache“, auch „Gloria in der Alten Wache“ genannt.
+Ja, das Café Jérôme im Schloss ist dienstags bis sonntags von 10 bis 17 Uhr geöffnet, auch ohne Museumsbesuch. Gleich in der Nähe liegt die „Alte Wache“, auch „Gloria in der Alten Wache“ genannt.
 
 ## Praktisches: Öffnungszeiten, Eintritt und Anreise
 
-### Öffnungszeiten
+### Wann hat Schloss Wilhelmshöhe geöffnet?
 
 | Tag | Uhrzeit |
 |---|---|
@@ -44,7 +44,7 @@ Nach dem Museum lädt im Schloss das Café Jérôme zur Pause ein. Gleich in der
 | 24., 25. und 31.12. | geschlossen |
 | 1.1. | 12 bis 17 Uhr |
 
-### Eintrittspreise und Tagesticket Wilhelmshöhe
+### Was kostet das Tagesticket Wilhelmshöhe?
 
 | Tagesticket Wilhelmshöhe | Preis | während „DÜRER“ |
 |---|---|---|
@@ -57,7 +57,7 @@ Das Tagesticket gilt am selben Tag für Schloss Wilhelmshöhe, die [Löwenburg](
 
 Kleiner Tipp fürs Auto: Mit dem Abriss vom Parkschein gibt es am selben Tag einmal ermäßigten Eintritt in ein Museum von Hessen Kassel Heritage.
 
-### Anreise mit der Linie 1
+### Wie komme ich zum Schloss Wilhelmshöhe?
 
 Die Tram 1 fährt über den Bahnhof Wilhelmshöhe bis zur Endhaltestelle Wilhelmshöhe (Park). Von dort spazierst du in den unteren Bergpark zum Schloss. An Wasserspieltagen fährt sie alle 15 Minuten.
 
@@ -93,6 +93,7 @@ Ja, der Bergpark ist das ganze Jahr frei. Ein Ticket brauchst du nur für Schlos
 
 - [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Dauerausstellung Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe/dauerausstellung), abgerufen 09.10.2026
+- [Café Jérôme, Schloss Wilhelmshöhe](https://www.cafe-jerome.de), abgerufen 14.10.2026
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
 - [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 09.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026

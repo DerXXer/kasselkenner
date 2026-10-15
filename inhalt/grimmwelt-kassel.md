@@ -4,7 +4,7 @@ beschreibung: Grimmwelt Kassel: Öffnungszeiten, Eintritt für Erwachsene, Kinde
 slug: grimmwelt-kassel
 kurz: Grimmwelt
 bild: grimmwelt.jpg
-stand: 2026-10-09
+stand: 2026-10-14
 blick: Geöffnet=Di bis So 10 bis 18 Uhr | Eintritt=10 Euro, ermäßigt 7 Euro | Familie=25 Euro | Kinder=unter 6 Jahren frei | Adresse=Weinbergstraße 21 | Anreise=Tram 1, 3 oder 4 bis Rathaus
 weiter: kassel-mit-kindern, kassel-bei-regen, orangerie-karlsaue
 ---
@@ -12,9 +12,9 @@ weiter: kassel-mit-kindern, kassel-bei-regen, orangerie-karlsaue
 
 Die Grimmwelt am Weinberg ist das Haus der Brüder Grimm in Kassel: Märchen, Sprache und viele Stationen zum Anfassen und Ausprobieren, und obendrauf eine Dachterrasse mit Blick über die Stadt. Ein guter Plan für Regentage und für Familien mit Kindern im Grundschulalter.
 
-## Was zeigt die Grimmwelt?
+## Was ist die Grimmwelt und was zeigt sie?
 
-Die Dauerausstellung führt dich durch Bereiche, die nach Buchstaben benannt sind, aber bewusst nicht nach dem Alphabet sortiert. Los geht es mit „Z wie ZETTEL“. Du stöberst eher, als dass du einem festen Weg folgst, und entdeckst dabei Märchen, Wörter und das Leben der Grimms in Kassel.
+Die Dauerausstellung führt dich auf rund 1.200 Quadratmetern durch 25 Bereiche, die nach Buchstaben benannt sind, aber bewusst nicht nach dem Alphabet sortiert. Los geht es mit „Z wie ZETTEL“. Du stöberst eher, als dass du einem festen Weg folgst, und entdeckst dabei Märchen, Wörter und das Leben der Grimms in Kassel.
 
 Herzstück sind die Handexemplare der „Kinder- und Hausmärchen“, die Arbeitsexemplare der Brüder Grimm mit ihren eigenen handschriftlichen Notizen. Sie gehören zum UNESCO-Weltdokumentenerbe.
 
@@ -24,31 +24,33 @@ Zum Mitmachen gibt es zum Beispiel:
 - **IMMERGRÜN:** ein virtueller Märchenwald, in dem du Fantasiewesen mit einem Stempel zum Leben erweckst
 - **ÄRSCHLEIN:** ein Schimpfworttrichter rund um das Deutsche Wörterbuch, bei dem auch Erwachsene grinsen
 
-**Sonderausstellung:** Bis 11. April 2027 läuft „Zwischen Gestalten | Helga Gebert“.
+### Welche Sonderausstellung läuft 2026 in der Grimmwelt?
 
-## Die Dachterrasse
+Bis 11. April 2027 läuft „Zwischen Gestalten | Helga Gebert“, die erste umfassende Einzelausstellung zur Künstlerin. Sie ist seit 12. Juni 2026 zu sehen und im Ticket für die Dauerausstellung enthalten.
 
-Das Dach der Grimmwelt ist eine große, offene Terrasse. Von oben reicht der Blick über die Südstadt bis zum Herkules, an klaren Tagen ein schöner Abschluss deines Besuchs. Du kommst vom Foyer aus über Treppe oder Aufzug hinauf.
+## Gibt es in der Grimmwelt eine Dachterrasse?
 
-## Grimmwelt mit Kindern
+Ja: Das Dach der Grimmwelt ist eine rund 2.000 Quadratmeter große, offene Terrasse. Von oben reicht der Blick über die Südstadt bis zum Herkules, an klaren Tagen ein schöner Abschluss deines Besuchs. Du kommst vom Foyer aus über Treppe oder Aufzug hinauf.
+
+## Ab welchem Alter lohnt die Grimmwelt?
 
 Die Dauerausstellung ist für Kinder ab 6 Jahren gedacht. Die Märchenwelt rund um die DORNENHECKE gefällt aber auch Jüngeren, der Teil über Sprachforschung eher Größeren.
 
 Für Familien gibt es die „Weltreise“, eine Brotkrumen-Spur durch die Ausstellung, und ein kostenloses Rätselbuch zur Sonderausstellung. Kinderwagen dürfen mit hinein, alle Etagen erreichst du per Aufzug, und einen Wickelplatz findest du in der barrierefreien Toilette im Erdgeschoss.
 
-Mehr Ideen für Familien stehen unter [Kassel mit Kindern](/kassel-mit-kindern/).
+Mehr Ideen für Familien stehen unter [Kassel mit Kindern](/kassel-mit-kindern/). Im Advent kommen die Märchen auch in die Innenstadt: 2026 dreht sich der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/) um „Das tapfere Schneiderlein“.
 
-## Gut zu wissen für deinen Besuch
+## Was muss ich vor dem Besuch der Grimmwelt wissen?
 
 - **Garderobe:** Jacken, Schirme, Rucksäcke und Taschen größer als DIN A4 kommen in Garderobe oder Schließfach.
 - **Audioguide:** läuft über die kostenlose GRIMMWELT-App auf deinem Handy. Nimm Kopfhörer mit.
 - **Fotos:** privat erlaubt, ohne Blitz, Stativ und Selfie-Stick.
-- **Essen:** Im Haus gibt es das Restaurant FALADA. Restaurant und Shop kannst du auch ohne Eintrittskarte besuchen.
+- **Essen und Shop:** Im Haus gibt es das Restaurant FALADA. Restaurant und Shop kannst du auch ohne Eintrittskarte besuchen; im Shop liegen Märchenausgaben der Brüder Grimm, Bücher der Grimmwelt, Biografien, Reiseführer und Souvenirs.
 - **Barrierefreiheit:** Alle Etagen sind per Aufzug erreichbar, barrierefreie Toiletten gibt es im Erdgeschoss und im 1. Obergeschoss.
 
 ## Praktisches: Öffnungszeiten, Eintritt und Anreise
 
-### Öffnungszeiten
+### Wann hat die Grimmwelt geöffnet?
 
 Dienstags bis sonntags von 10 bis 18 Uhr, **montags geschlossen**. Ausnahmen:
 
@@ -58,9 +60,9 @@ Dienstags bis sonntags von 10 bis 18 Uhr, **montags geschlossen**. Ausnahmen:
 | Silvester (31. Dezember) | 10 bis 14 Uhr |
 | Heiligabend und Neujahr | geschlossen |
 
-### Eintritt
+### Was kostet der Eintritt in die Grimmwelt?
 
-Das Ticket gilt für Dauer- und Sonderausstellung zusammen.
+Erwachsene zahlen 10 Euro, ermäßigt 7 Euro, Familien 25 Euro. Das Ticket gilt für Dauer- und Sonderausstellung zusammen.
 
 | Ticket | Preis |
 |---|---|
@@ -73,9 +75,9 @@ Das Ticket gilt für Dauer- und Sonderausstellung zusammen.
 
 Als Familie gelten höchstens 2 Erwachsene, also Eltern oder Großeltern, mit Kindern oder Enkeln unter 18 Jahren. Gruppen ab 8 Personen zahlen 7 Euro pro Person, Schulklassen 3 Euro pro Schüler. Ab 10 Personen meldest du dich vorher an.
 
-### Anreise
+### Wie komme ich zur Grimmwelt?
 
-Die Grimmwelt liegt in einer geschützten Gartenanlage am Weinberg, am besten kommst du deshalb mit Bus und Bahn.
+Vom Bahnhof Kassel-Wilhelmshöhe fährst du mit der Tram 1, 3 oder 4 bis Rathaus und gehst dann rund 7 Minuten. Die Grimmwelt liegt in einer geschützten Gartenanlage am Weinberg, am besten kommst du deshalb mit Bus und Bahn.
 
 | Start | Verbindung |
 |---|---|
@@ -83,7 +85,7 @@ Die Grimmwelt liegt in einer geschützten Gartenanlage am Weinberg, am besten ko
 | Hauptbahnhof | RegioTram 1, 4 oder 5 bis Rathaus/Fünffensterstraße, dann ca. 7 Minuten zu Fuß |
 | Auto | Tiefgarage Friedrichsplatz, dann ca. 11 Minuten zu Fuß oder ca. 12 Minuten über den Panoramaweg |
 
-Unser Tipp: Ein Regentag lässt sich gut teilen, vormittags in der Grimmwelt, nachmittags, wenn es aufklart, in den Bergpark. Vom Rathaus fährt die Tram zurück Richtung Wilhelmshöhe. Mehr Ideen für schlechtes Wetter findest du unter [Kassel bei Regen](/kassel-bei-regen/).
+Unser Tipp: Ein Regentag lässt sich gut teilen, vormittags in der Grimmwelt, nachmittags, wenn es aufklart, in den [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/). Vom Rathaus fährt die Tram zurück Richtung Wilhelmshöhe. Mehr Ideen für schlechtes Wetter findest du unter [Kassel bei Regen](/kassel-bei-regen/).
 
 ## Häufige Fragen
 
@@ -107,14 +109,26 @@ In der Tiefgarage Friedrichsplatz, von dort sind es ca. 11 Minuten zu Fuß.
 
 Ja, vom Foyer aus über Treppe oder Aufzug. Von oben siehst du bis zum Herkules.
 
+### Was ist die Grimmwelt?
+
+Das Haus der Brüder Grimm in Kassel: eine Dauerausstellung zum Anfassen und Ausprobieren, Sonderausstellungen und oben eine Dachterrasse mit Blick über die Stadt.
+
+### Welche Ausstellungen gibt es 2026 in der Grimmwelt?
+
+Neben der Dauerausstellung läuft bis 11. April 2027 die Sonderausstellung „Zwischen Gestalten | Helga Gebert“. Beide sind mit einem Ticket zu sehen.
+
+### Gibt es in der Grimmwelt ein Restaurant und einen Shop?
+
+Ja, das Restaurant FALADA und den Shop kannst du auch ohne Eintrittskarte besuchen.
+
 ### Was sind die Handexemplare der Brüder Grimm?
 
 Die persönlichen Arbeitsexemplare der „Kinder- und Hausmärchen“ mit handschriftlichen Notizen der Grimms. Sie gehören zum UNESCO-Weltdokumentenerbe.
 
 ## Quellen
 
-- [Grimmwelt, Besucherinformationen](https://www.grimmwelt.de/de/besucherinformationen), abgerufen 09.10.2026
-- [Grimmwelt, Häufige Fragen](https://www.grimmwelt.de/de/faq), abgerufen 09.10.2026
+- [Grimmwelt, Besucherinformationen](https://www.grimmwelt.de/de/besucherinformationen), abgerufen 14.10.2026
+- [Grimmwelt, Häufige Fragen](https://www.grimmwelt.de/de/faq), abgerufen 14.10.2026
 - [Grimmwelt, Familien und Kinder](https://www.grimmwelt.de/de/familien-und-kinder), abgerufen 09.10.2026
 - [Grimmwelt, Erlebnisraum GRIMMWELT](https://www.grimmwelt.de/de/ausstellungen/grimmwelt), abgerufen 09.10.2026
 - [Grimmwelt, Über uns](https://www.grimmwelt.de/de/ueber-uns), abgerufen 09.10.2026

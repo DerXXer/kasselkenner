@@ -10,7 +10,7 @@ weiter: wasserspiele-kassel, bergpark-wilhelmshoehe, parken-bergpark-wilhelmshoe
 ---
 # Herkules Kassel: Öffnungszeiten, Eintritt und Anreise
 
-Der Herkules ist das Wahrzeichen Kassels und thront ganz oben über dem Bergpark Wilhelmshöhe: ein mächtiges Oktogon mit Aussichtsplattform, darauf eine Pyramide und obenauf die Herkules-Statue. Hinauf lohnt es sich vor allem für den weiten Blick über Park und Stadt und an Wasserspieltagen, weil das Wasser hier oben seinen Weg ins Tal beginnt.
+Der Herkules ist das Wahrzeichen Kassels und thront ganz oben über dem [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/): ein mächtiges Oktogon mit Aussichtsplattform, darauf eine Pyramide und obenauf die Herkules-Statue. Hinauf lohnt es sich vor allem für den weiten Blick über Park und Stadt und an Wasserspieltagen, weil das Wasser hier oben seinen Weg ins Tal beginnt.
 
 ## Was ist der Herkules in Kassel-Wilhelmshöhe?
 
@@ -24,27 +24,35 @@ Rund 70 Meter misst das ganze Monument. Der Herkules obendrauf ist mit Sockel ü
 
 Über 500 Stufen führen links und rechts der Kaskaden hinauf, zähl ruhig selbst mit. Ein Geländer gibt es nicht, feste Schuhe und etwas Puste gehören also dazu. Oben wartet dafür der Blick zurück über die Kaskaden hinunter bis zum Schloss.
 
-## Am Herkules beginnen die Wasserspiele
+## Kann man den Herkules von innen besichtigen?
 
-Die [Wasserspiele](/wasserspiele-kassel/) starten am Herkules: In der Saison zwischen 1. Mai und 3. Oktober rauscht das Wasser mittwochs, sonntags und an Feiertagen um 14.30 Uhr unterhalb des Oktogons los. Danach folgen Steinhöfer Wasserfall, Teufelsbrücke, Aquädukt und um 15.45 Uhr die Große Fontäne. Die Saison 2026 ist beendet, die Termine für 2027 stehen noch aus.
+Ja, das Oktogon mit der Aussichtsplattform ist vom 1. April bis 31. Oktober dienstags bis sonntags und feiertags von 10 bis 17 Uhr geöffnet, im Winter ist es zu. Das Monument besteht aus dem Grottenbau, dem „Riesenschloss“ mit der Aussichtsplattform und der Pyramide mit der Statue obendrauf. Der Eintritt läuft über das Tagesticket Wilhelmshöhe für 8 Euro.
 
-## Besucherzentrum Herkules
+## Was hat der Herkules mit Kassel zu tun?
 
-Das Besucherzentrum liegt am Parkplatz hinter dem Herkules. Hier gibt es eine Ausstellung, Tickets, einen Shop und kleine Erfrischungen, praktisch auch im Winter, wenn das Oktogon geschlossen ist.
+Er ist das Wahrzeichen der Stadt: Landgraf Carl begann 1696 mit dem barocken Bergpark, ab 1701 wuchs der Herkules aus dem Berg, und am 30. November 1717 stand die Statue oben. Er ist damit über 300 Jahre alt.
 
-## Essen am Herkules
+## Wann beginnen die Wasserspiele am Herkules?
+
+Die [Wasserspiele](/wasserspiele-kassel/) starten am Herkules: In der Saison zwischen 1. Mai und 3. Oktober rauscht das Wasser mittwochs, sonntags und an Feiertagen um 14.30 Uhr unterhalb des Oktogons los. Danach folgen Steinhöfer Wasserfall, Teufelsbrücke, Aquädukt und um 15.45 Uhr die Große Fontäne. Die Saison 2026 ist beendet, die Termine für 2027 stehen noch aus. Abends gibt es an wenigen Terminen die [Beleuchteten Wasserspiele](/beleuchtete-wasserspiele/).
+
+## Ist das Besucherzentrum im Winter geöffnet?
+
+Ja, das Besucherzentrum ist ganzjährig dienstags bis sonntags und feiertags von 10 bis 17 Uhr geöffnet. Es liegt am Parkplatz hinter dem Herkules. Hier gibt es eine Ausstellung, Tickets, einen Shop und kleine Erfrischungen, praktisch auch im Winter, wenn das Oktogon geschlossen ist.
+
+## Wo kann man am Herkules essen?
 
 Direkt am Monument gibt es Gastronomie, gut für eine Pause nach dem Aufstieg. Weiter unten im Bergpark liegt die Kaskadenwirtschaft Grischäfer.
 
-## Zu Fuß von Bad Wilhelmshöhe zum Herkules
+## Wie lange läuft man zum Herkules?
 
-Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß rund 46 Minuten und 2,6 Kilometer, dabei geht es 242 Meter bergauf. Vom Schloss brauchst du etwa 1,5 Stunden über Wege und Treppen.
+Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß rund 46 Minuten und 2,6 Kilometer, dabei geht es 242 Meter bergauf. Vom [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/) brauchst du etwa 1,5 Stunden über Wege und Treppen.
 
 Unser Tipp: Mit dem Bus hinauf und dann gemütlich zu Fuß hinunter. Vom Herkules bis zum Schloss sind es rund 2,3 Kilometer bergab, mit dem Blick über die Stadt immer vor Augen.
 
 ## Praktisches: Öffnungszeiten, Eintritt und Anreise
 
-### Öffnungszeiten
+### Wann hat der Herkules geöffnet?
 
 Im Winter ist das Oktogon geschlossen, das Besucherzentrum aber ganzjährig offen.
 
@@ -57,7 +65,7 @@ Im Winter ist das Oktogon geschlossen, das Besucherzentrum aber ganzjährig offe
 
 Am Herkules wird immer wieder gebaut. Ein kurzer Blick auf die Seite von Hessen Kassel Heritage vor dem Besuch erspart dir eine gesperrte Plattform.
 
-### Eintritt
+### Was kostet der Eintritt in den Herkules?
 
 Der Eintritt läuft über das Tagesticket Wilhelmshöhe.
 
@@ -70,7 +78,7 @@ Der Eintritt läuft über das Tagesticket Wilhelmshöhe.
 
 Das Tagesticket gilt am selben Tag auch für Schloss Wilhelmshöhe und die [Löwenburg](/loewenburg-kassel/) (mit Führung).
 
-### Anreise mit Bus und Auto
+### Wie komme ich zum Herkules mit Bus und Auto?
 
 - **Bus und Bahn:** Mit der Tram 4 bis zur Endhaltestelle Druseltal, dann mit Bus 22 oder 23 bis Herkules. Bus 22 fährt halbstündlich. Bus 23 fährt nur an Wasserspieltagen, zusätzlich ab Wilhelmshöhe (Park), der Endhaltestelle der Tram 1.
 - **Auto:** Der Parkplatz Herkules Besucherzentrum liegt hinter dem Herkules. An normalen Tagen sind die ersten 30 Minuten frei. Alles zu Preisen und Wasserspieltagen steht unter [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/).
@@ -84,6 +92,10 @@ Das Tagesticket gilt am selben Tag auch für Schloss Wilhelmshöhe und die [Löw
 ### Ist der Herkules im Winter geöffnet?
 
 Das Oktogon nicht, es ist vom 1. April bis 31. Oktober offen. Das Besucherzentrum hat dagegen das ganze Jahr dienstags bis sonntags von 10 bis 17 Uhr geöffnet, und der Blick vom Platz ist immer frei.
+
+### Kann man mit dem Auto zum Herkules fahren?
+
+Ja, bis zum Parkplatz Herkules Besucherzentrum hinter dem Herkules mit 280 Plätzen, im Park selbst fahren keine Autos. An normalen Tagen sind die ersten 30 Minuten frei, der ganze Tag kostet 5 Euro. Mehr unter [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/).
 
 ### Wie komme ich ohne Auto zum Herkules?
 

@@ -4,29 +4,29 @@ beschreibung: Kassel am Wochenende: Samstag Innenstadt mit Markthalle, Friderici
 slug: kassel-wochenende
 kurz: Wochenende
 bild: strassenbahn-friedrichsplatz.jpg
-stand: 2026-10-09
+stand: 2026-10-14
 blick: Samstag=Innenstadt zu Fuß | Sonntag=Bergpark Wilhelmshöhe | Wasserspiele=14.30 Uhr am Herkules | Löwenburg=vorab buchen | Anreise=ICE bis Kassel-Wilhelmshöhe | Auto=nicht nötig
 weiter: kassel-sehenswuerdigkeiten, wasserspiele-kassel, uebernachten-kassel
 ---
 # Kassel am Wochenende: zwei Tage mit Zeiten und Wegen
 
-Zwei Tage reichen für das Beste von Kassel, wenn du die Stadt teilst: Samstag die Innenstadt mit Markthalle, Fridericianum, Karlsaue und Grimmwelt, Sonntag den Bergpark mit Herkules, Löwenburg und Schloss. Von Mai bis Anfang Oktober planst du den Sonntag rund um die Wasserspiele – das ist der Moment, für den viele überhaupt kommen.
+Zwei Tage reichen für das [Beste von Kassel](/kassel-sehenswuerdigkeiten/), wenn du die Stadt teilst: Samstag die Innenstadt mit Markthalle, Fridericianum, Karlsaue und Grimmwelt, Sonntag den [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) mit Herkules, Löwenburg und Schloss. Von Mai bis Anfang Oktober planst du den Sonntag rund um die Wasserspiele – das ist der Moment, für den viele überhaupt kommen.
 
-## Samstag: Innenstadt zu Fuß
+## Was macht man samstags in Kassel?
 
-Alles liegt nah beieinander, du schlenderst von Station zu Station.
+Fünf Stationen, dazwischen jeweils nur 5 bis 9 Minuten zu Fuß: Alles liegt nah beieinander, du schlenderst von Station zu Station.
 
 | Station | Geöffnet | Weg zur nächsten Station |
 |---|---|---|
 | Markthalle | Do und Fr 7 bis 18 Uhr, Sa 7 bis 14 Uhr | 9 Minuten zum Fridericianum |
-| Fridericianum am Friedrichsplatz | Di bis So 11 bis 18 Uhr | 8 Minuten zum Marmorbad |
-| Karlsaue, Orangerie, Marmorbad | Park immer, Marmorbad im Sommerhalbjahr | 9 Minuten zur Neuen Galerie |
+| [Fridericianum](/documenta-2027/) am Friedrichsplatz | Di bis So 11 bis 18 Uhr | 8 Minuten zum Marmorbad |
+| Karlsaue, [Orangerie](/orangerie-karlsaue/), Marmorbad | Park immer, Marmorbad im Sommerhalbjahr | 9 Minuten zur Neuen Galerie |
 | Neue Galerie | Di bis So 10 bis 17 Uhr | 5 Minuten zur Grimmwelt |
-| Grimmwelt und Weinbergterrassen | Di bis So 10 bis 18 Uhr | – |
+| [Grimmwelt](/grimmwelt-kassel/) und Weinbergterrassen | Di bis So 10 bis 18 Uhr | – |
 
 **Vormittag:** Fang in der Markthalle an, wo regionale Händler zum Beispiel Ahle Wurscht verkaufen. Prüf die Öffnungszeiten vorab. Dann weiter zum Fridericianum: Vor dem Eingang stehen der erste und der letzte Baum der „7000 Eichen“ von Joseph Beuys.
 
-**Mittag:** Raus in die Karlsaue. Der Park an der Fulda ist frei, mit langen Alleen und viel Grün zum Durchatmen. In der Orangerie wartet das Planetarium (8 Euro), daneben das Marmorbad.
+**Mittag:** Raus in die Karlsaue. Der Park an der Fulda ist frei, mit langen Alleen und viel Grün zum Durchatmen, und am ersten Augustwochenende feiert Kassel hier den [Zissel](/zissel-kassel/). In der Orangerie wartet das Planetarium (8 Euro), daneben das Marmorbad.
 
 **Nachmittag:** In der Neuen Galerie wartet der Raum von Joseph Beuys. Fünf Minuten weiter liegt die Grimmwelt, und von ihrer Dachterrasse siehst du schon den Herkules – dein Ziel für morgen.
 
@@ -34,20 +34,24 @@ Alles liegt nah beieinander, du schlenderst von Station zu Station.
 
 **Mehr Zeit?** Spazier von der Orangerie zur Blumeninsel Siebenbergen, wo ab Mai die Rhododendren blühen (33 Minuten, April bis Oktober geöffnet). Oder steig neben der Grimmwelt auf den Turm des Hessischen Landesmuseums.
 
-## Sonntag: Bergpark Wilhelmshöhe
+## Was macht man sonntags im Bergpark Wilhelmshöhe?
 
-### Ohne Wasserspiele (April bis Oktober)
+Der Bergpark ist immer offen und kostet nichts; für Herkules, Löwenburg und Schloss brauchst du das Tagesticket Wilhelmshöhe für 8 Euro.
+
+### Wie läuft der Sonntag im Bergpark ohne Wasserspiele?
 
 | Station | Geöffnet | Weg |
 |---|---|---|
-| Herkules | 10 bis 17 Uhr | Tram 4 bis Druseltal, dann Bus 22 bis Herkules |
-| Löwenburg | Führung zur vollen Stunde | rund 19 Minuten bergab |
-| Schloss Wilhelmshöhe | 10 bis 17 Uhr | 12 Minuten |
+| [Herkules](/herkules-kassel/) | 10 bis 17 Uhr | Tram 4 bis Druseltal, dann Bus 22 bis Herkules |
+| [Löwenburg](/loewenburg-kassel/) | Führung zur vollen Stunde | rund 19 Minuten bergab |
+| [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/) | 10 bis 17 Uhr | 12 Minuten |
 | Rückfahrt | – | 10 Minuten zur Tram 1 ab Wilhelmshöhe (Park) |
 
 Fang oben an, dann geht es den ganzen Tag bergab – mit der Stadt immer vor Augen. Tram 4 und Bus 22 fahren mindestens halbstündlich. Über Treppen brauchst du etwas länger als angegeben. Zum Ausruhen gibt es im Schloss das Café Jérôme, gleich daneben die Alte Wache.
 
-### Mit Wasserspielen (Sonntage vom 1. Mai bis 3. Oktober)
+### Wie läuft der Sonntag im Bergpark mit Wasserspielen?
+
+Die Wasserspiele laufen sonntags vom 1. Mai bis 3. Oktober, Beginn ist um 14.30 Uhr am Herkules.
 
 1. **Vormittag Löwenburg:** Tram 1 bis Wilhelmshöhe (Park), dann 22 Minuten zu Fuß. An Wasserspieltagen fährt ab 10 Uhr auch der Bergparkshuttle vom Parkplatz Wilhelmshöhe zur Löwenburg.
 2. **Danach Schloss Wilhelmshöhe:** 12 Minuten zu Fuß. Die Gemäldegalerie schaffst du gut vor dem Mittag.
@@ -55,27 +59,27 @@ Fang oben an, dann geht es den ganzen Tag bergab – mit der Stadt immer vor Aug
 4. **14.30 Uhr am Herkules:** Das Wasser rauscht los, und du läufst mit ihm bergab – über Kaskaden, Wasserfall und Aquädukt bis zur Großen Fontäne um 15.45 Uhr.
 5. **Gegen 16 Uhr** stehst du unten am Schloss und fährst mit Tram 1 zurück.
 
-Alle Uhrzeiten der Stationen findest du unter [Wasserspiele Kassel](/wasserspiele-kassel/).
+Alle Uhrzeiten der Stationen findest du unter [Wasserspiele Kassel](/wasserspiele-kassel/). 2026 gab es außerdem im Juni und im September je zwei Abende mit den [Beleuchteten Wasserspielen](/beleuchtete-wasserspiele/), die Termine 2027 stehen noch nicht fest.
 
-### Im Winter (November bis März)
+### Was macht man im Bergpark im Winter?
 
-Der Herkules macht Winterpause, der Park selbst bleibt offen. Die Löwenburg öffnet freitags bis sonntags. Dafür blühen im Großen Gewächshaus Orchideen, Palmen und Kamelien – ein grüner Ausflug mitten im Winter, mit demselben Tagesticket. Bei schlechtem Wetter helfen dir die Tipps unter [Kassel bei Regen](/kassel-bei-regen/).
+Der Herkules macht Winterpause, der Park selbst bleibt offen. Die Löwenburg öffnet freitags bis sonntags. Dafür blühen im Großen Gewächshaus Orchideen, Palmen und Kamelien – ein grüner Ausflug mitten im Winter, mit demselben Tagesticket. Vom 23. November bis 30. Dezember 2026 steht in der Innenstadt der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/). Bei schlechtem Wetter helfen dir die Tipps unter [Kassel bei Regen](/kassel-bei-regen/).
 
 ## Praktisches: Öffnungstage, Tickets und Anreise
 
-### Öffnungstage
+### Welche Museen haben am Wochenende offen?
 
 Fast alle Museen haben dienstags bis sonntags offen und montags zu – ein Wochenende passt also bestens.
 
-### Tickets
+### Was kostet das Tagesticket Wilhelmshöhe?
 
 Das Tagesticket Wilhelmshöhe für 8 Euro gilt für Schloss, Löwenburg mit Führung und Herkules. Während der Ausstellung „DÜRER“ kostet es 12 Euro. In die Löwenburg kommst du nur mit Führung zur vollen Stunde, und die Plätze sind begrenzt – also früh buchen.
 
-### Anreise
+### Wie komme ich vom ICE-Bahnhof in die Innenstadt?
 
 Vom ICE-Bahnhof Kassel-Wilhelmshöhe fahren die Linien 1, 3 und 4 zum Friedrichsplatz in die Innenstadt.
 
-## Übernachten
+## Wo übernachte ich am besten für ein Wochenende?
 
 Vom Bahnhof Wilhelmshöhe fährt Tram 1 auch zum Schloss und Tram 4 zum Druseltal unterhalb des Herkules. Unser Tipp: Schlaf in der Nähe dieser Linien, dann bist du an beiden Tagen schnell am Ziel. Kassel erhebt 5 Prozent Übernachtungssteuer auf den Übernachtungspreis – frag beim Buchen, ob sie schon enthalten ist. Mehr zu den Stadtteilen unter [Übernachten in Kassel](/uebernachten-kassel/).
 
@@ -84,6 +88,10 @@ Vom Bahnhof Wilhelmshöhe fährt Tram 1 auch zum Schloss und Tram 4 zum Druselta
 ### Reichen zwei Tage für Kassel?
 
 Für das Wichtigste ja: ein Tag Innenstadt, ein Tag Bergpark. Wer länger bleibt, findet noch genug – Ideen stehen unter [weniger bekannte Orte](/kassel-geheimtipps/).
+
+### Was kann man am Wochenende in Kassel machen?
+
+Samstag die Innenstadt mit Markthalle, Fridericianum, Karlsaue und Grimmwelt, Sonntag den Bergpark mit Herkules, Löwenburg und Schloss. Alle Stationen mit Zeiten und Gehwegen stehen oben.
 
 ### Wann laufen die Wasserspiele am Wochenende?
 
@@ -96,6 +104,10 @@ Samstag zahlst du im Fridericianum 6 Euro, in der Neuen Galerie 8 Euro und in de
 ### Brauche ich in Kassel ein Auto?
 
 Nein, Tram und Bus bringen dich überall hin, in der Innenstadt gehst du zu Fuß. Wer doch mit dem Auto kommt, findet alles unter [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/).
+
+### Welche Veranstaltungen finden am Samstag in Kassel statt?
+
+Aktuelle Termine stehen bei Visit Kassel unter „Veranstaltungen in Kassel“. Feste Punkte am Samstag sind die Markthalle mit regionalen Händlern (samstags bis 14 Uhr, prüf die Zeiten vorab) und nach Einbruch der Dunkelheit die Laserscape.
 
 ### Was kann man in Kassel am Samstagabend machen?
 
@@ -121,5 +133,6 @@ Nach Einbruch der Dunkelheit leuchtet jeden Samstag die Laserscape über der Sta
 - [Grimmwelt, Besucherinformationen](https://www.grimmwelt.de/de/besucherinformationen), abgerufen 09.10.2026
 - [Fridericianum, Besuch](https://www.fridericianum.org/en/visit), abgerufen 09.10.2026
 - [documenta 16, FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 09.10.2026
+- [Visit Kassel, Veranstaltungen](https://visit.kassel.de/veranstaltungen), abgerufen 14.10.2026
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit OpenStreetMap-Routing (Fußweg), 09.10.2026

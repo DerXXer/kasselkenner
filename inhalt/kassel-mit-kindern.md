@@ -4,15 +4,15 @@ beschreibung: Kassel mit Kindern: Bergpark und Löwenburg, Grimmwelt, Naturkunde
 slug: kassel-mit-kindern
 kurz: Mit Kindern
 bild: loewenburg.jpg
-stand: 2026-10-09
+stand: 2026-10-14
 blick: Bergpark=Eintritt frei | Löwenburg=unter 18 frei | Grimmwelt=unter 6 frei | Planetarium=unter 18 Jahren 2 Euro | Wasserspiele=1. Mai bis 3. Oktober
 weiter: grimmwelt-kassel, kassel-bei-regen, bergpark-wilhelmshoehe
 ---
 # Kassel mit Kindern: was sich lohnt und was es kostet
 
-Kassel ist ein Abenteuer für Kinder: eine echte Ritterburg und tosende Wasserspiele im Bergpark, sprechende Spiegel in der Grimmwelt, Saurier im Naturkundemuseum und ein Sternenhimmel im Planetarium. Und das Schönste für die Familienkasse: Vieles davon kostet für Kinder wenig oder gar nichts.
+Kassel ist ein Abenteuer für Kinder: eine echte Ritterburg und tosende Wasserspiele im [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/), sprechende Spiegel in der Grimmwelt, Saurier im Naturkundemuseum und ein Sternenhimmel im Planetarium. Und das Schönste für die Familienkasse: Vieles davon kostet für Kinder wenig oder gar nichts.
 
-## Überblick: Ausflugsziele für Kinder in Kassel
+## Welche Ausflugsziele in Kassel eignen sich für Kinder und was kosten sie?
 
 | Ziel | Was Kinder dort erleben | Eintritt für Kinder | Geöffnet |
 |---|---|---|---|
@@ -24,7 +24,7 @@ Kassel ist ein Abenteuer für Kinder: eine echte Ritterburg und tosende Wassersp
 | Karlsaue | großer Park an der Fulda | frei | ganzjährig |
 | Hessisches Landesmuseum | Geschichte und Turm | unter 18 frei | Di bis So |
 
-## Bergpark Wilhelmshöhe: Burg, Herkules und Wasser
+## Was können Kinder im Bergpark Wilhelmshöhe erleben?
 
 Der Bergpark kostet keinen Eintritt und ist für Kinder ein riesiger Abenteuerspielplatz aus Wald, Wegen und Wasser. Drei Ziele sind besonders spannend.
 
@@ -36,37 +36,53 @@ Der Bergpark kostet keinen Eintritt und ist für Kinder ein riesiger Abenteuersp
 
 Unser Tipp: Wer in Bad Wilhelmshöhe übernachtet, läuft in 14 Minuten flach zum Schloss. Zum Herkules ist es mit Kindern zu steil, da ist der Bus die bessere Wahl.
 
-## Grimmwelt: Märchen zum Anfassen
+## Ab welchem Alter lohnt die Grimmwelt für Kinder?
 
-In der Grimmwelt dürfen Kinder Märchen anfassen: An der DORNENHECKE warten der sprechende Spiegel, der Froschkönig, Zwerge und das Lebkuchenhaus, und mit der Brotkrumen-Spur „Weltreise“ geht die ganze Familie auf Entdeckungstour. Die Ausstellung ist für Kinder ab 6 Jahren gedacht, die Märchenwelt gefällt aber auch Jüngeren. Die Familienkarte kostet 25 Euro, Kinderwagen dürfen mit. Mehr unter [Grimmwelt Kassel](/grimmwelt-kassel/).
+Die Ausstellung ist für Kinder ab 6 Jahren gedacht, die Märchenwelt gefällt aber auch Jüngeren. Unter 6 Jahren ist der Eintritt frei, 6 bis 17 Jahre zahlen 7 Euro. In der Grimmwelt dürfen Kinder Märchen anfassen: An der DORNENHECKE warten der sprechende Spiegel, der Froschkönig, Zwerge und das Lebkuchenhaus, und mit der Brotkrumen-Spur „Weltreise“ geht die ganze Familie auf Entdeckungstour. Die Familienkarte kostet 25 Euro, Kinderwagen dürfen mit. Mehr unter [Grimmwelt Kassel](/grimmwelt-kassel/).
 
-## Naturkundemuseum im Ottoneum: Saurier und Mammuts
+## Was kostet das Naturkundemuseum für Kinder?
 
-Saurier, Haie und Mammuts – im Naturkundemuseum am Steinweg staunen Kinder über Tiere aus Urzeit und Meer. Ab 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Montags ist zu, mittwochs offen bis 20 Uhr. Kinder unter 6 sind frei, ältere Kinder zahlen 3 Euro, Erwachsene 5 Euro. Einen Wickeltisch gibt es auch.
+Kinder unter 6 sind frei, ältere Kinder zahlen 3 Euro, Erwachsene 5 Euro. Saurier, Haie und Mammuts – im Naturkundemuseum am Steinweg staunen Kinder über Tiere aus Urzeit und Meer. Ab 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Montags ist zu, mittwochs offen bis 20 Uhr. Einen Wickeltisch gibt es auch.
 
-## Planetarium und Karlsaue
+## Ab welchem Alter dürfen Kinder ins Planetarium?
 
-In der Orangerie liegt Hessens größtes Planetarium: Licht aus, Sterne an. Unter 18 Jahren kostet eine Vorstellung 2 Euro, Erwachsene zahlen 8 Euro. Kinder unter 3 Jahren dürfen nicht mit in den Saal. Die Vorstellungszeiten stehen im Kalender von Hessen Kassel Heritage.
+Kinder unter 3 Jahren dürfen nicht mit in den Saal. In der Orangerie liegt Hessens größtes Planetarium: Licht aus, Sterne an. Unter 18 Jahren kostet eine Vorstellung 2 Euro, Erwachsene zahlen 8 Euro. Die Vorstellungszeiten stehen im Kalender von Hessen Kassel Heritage.
 
 Gleich vor der Orangerie beginnt die Karlsaue, ein weiter Park an der Fulda mit viel Platz zum Rennen, frei zugänglich. An der Orangerie startet auch der Planetenwanderweg, und zur Karlsaue gehört die Blumeninsel Siebenbergen. Mehr unter [Orangerie und Karlsaue](/orangerie-karlsaue/).
 
-## Hessisches Landesmuseum: frei für Kinder
+## Was kostet das Landesmuseum für Kinder?
 
-Im Landesmuseum am Brüder-Grimm-Platz geht es durch die Geschichte Hessens, und zu jeder vollen und halben Stunde hinauf auf den Turm mit Blick über die Stadt. Unter 18 Jahren ist der Eintritt frei.
+Unter 18 Jahren ist der Eintritt frei. Im Landesmuseum am Brüder-Grimm-Platz geht es durch die Geschichte Hessens, und zu jeder vollen und halben Stunde hinauf auf den Turm mit Blick über die Stadt. Mehr Ziele für alle Altersstufen stehen unter [Kassel Sehenswürdigkeiten](/kassel-sehenswuerdigkeiten/).
+
+## Gibt es in Kassel einen Kletterwald?
+
+Ja, der Kletterwald Kassel liegt am Hohen Gras im Habichtswald. In der Saison 2026 ist er vom 4. April bis 1. November geöffnet, an Wochenenden, Feiertagen und Brückentagen, in den hessischen Schulferien täglich. Du musst vorher anmelden, ein Besuch dauert 2,5 Stunden inklusive Einweisung. Die Preisliste beginnt bei Kindern von 4 bis 5 Jahren und 19 Euro; ein Mindestalter nennt der Betreiber nicht, frag bei der Anmeldung nach. Die Zeiten für 2027 stehen später auf der Seite des Kletterwalds.
 
 ## Häufige Fragen
 
 ### Was kann man in Kassel mit Kindern kostenlos machen?
 
-Bergpark, Wasserspiele und Karlsaue kosten nichts. In Löwenburg, Schloss Wilhelmshöhe und Landesmuseum sind Kinder unter 18 frei.
+Bergpark, Wasserspiele und Karlsaue kosten nichts. In Löwenburg, [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/) und Landesmuseum sind Kinder unter 18 frei.
 
 ### Was ist in Kassel mit Kindern bei schlechtem Wetter gut?
 
 Grimmwelt, Naturkundemuseum, Planetarium und Landesmuseum. Mehr Ideen unter [Kassel bei Regen](/kassel-bei-regen/).
 
-### Ab welchem Alter lohnt sich die Grimmwelt?
+### Was ist in Kassel für Kinder los?
 
-Die Ausstellung ist ab 6 Jahren gedacht, die Märchenwelt an der DORNENHECKE gefällt auch Kleineren.
+Aktuelle Termine für Familien findest du bei Visit Kassel unter „Veranstaltungen in Kassel“, dort gibt es auch einen Bereich „Kassel mit Kindern“. Jedes Jahr kommen die Wasserspiele zwischen 1. Mai und 3. Oktober dazu, am ersten Augustwochenende der [Zissel](/zissel-kassel/) mit nostalgischem Jahrmarkt und vom 23. November bis 30. Dezember 2026 der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/) mit Kinderprogramm im Märchenwagen.
+
+### Gibt es einen Erlebnispfad für Kinder in Kassel?
+
+Ein Weg zum Entdecken ist der Planetenwanderweg durch die Karlsaue; er beginnt an der Orangerie und besteht seit 1996. Länge und Stationen nennt der Betreiber nicht, schau dir am besten vor Ort den Anfang an. Im Habichtswald kannst du außerdem den Kletterwald besuchen.
+
+### Welche lustigen Aktivitäten gibt es in Kassel mit Kindern?
+
+Die Wasserspiele ab 14.30 Uhr am Herkules, eine Führung durch die Ritterburg Löwenburg, eine Vorstellung im Planetarium oder zweieinhalb Stunden im Kletterwald. Bei Regen helfen die Ideen unter [Kassel bei Regen](/kassel-bei-regen/).
+
+### Was kann man mit einem Kleinkind in Kassel machen?
+
+Die Karlsaue und der Bergpark kosten keinen Eintritt, die Große Fontäne um 15.45 Uhr liegt unten am Schloss. In der Grimmwelt sind Kinder unter 6 frei und Kinderwagen erlaubt, im Naturkundemuseum sind Kinder unter 6 frei und es gibt einen Wickeltisch. Ins Planetarium dürfen Kinder unter 3 Jahren nicht, und die Löwenburg ist für Kinderwagen nicht geeignet.
 
 ### Kann man die Löwenburg mit Kindern besichtigen?
 
@@ -88,5 +104,9 @@ Zwischen 1. Mai und 3. Oktober, jeweils mittwochs und sonntags sowie an Feiertag
 - [Stadt Kassel, Naturkundemuseum](https://www.kassel.de/naturkundemuseum), abgerufen 09.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Grimmwelt, Familien und Kinder](https://www.grimmwelt.de/de/familien-und-kinder), abgerufen 09.10.2026
+- [Kletterwald Kassel, Öffnungszeiten](https://www.kletterwald-kassel.de/oeffnungszeiten/), abgerufen 14.10.2026
+- [Visit Kassel, Kletterwald Kassel](https://visit.kassel.de/poi/kletterwald-kassel), abgerufen 14.10.2026
+- [Kletterwald Kassel, Preise](https://www.kletterwald-kassel.de/preise/), abgerufen 14.10.2026
+- [Visit Kassel, Veranstaltungen](https://visit.kassel.de/veranstaltungen), abgerufen 14.10.2026
 - [Grimmwelt, Häufige Fragen](https://www.grimmwelt.de/de/faq), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026

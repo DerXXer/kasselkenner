@@ -16,11 +16,13 @@ Der Bergpark Wilhelmshöhe zieht sich im Westen Kassels einen steilen Hang hinau
 
 Der Bergpark gilt als größter Bergpark Europas. Angefangen hat alles als barocker Garten der Landgrafen, später wurde daraus ein weitläufiger englischer Landschaftsgarten mit Teichen, Wasserfällen und alten Bäumen, manche über 200 Jahre alt. Unterwegs wechseln sich schattige Wege und weite Ausblicke ab.
 
-## UNESCO-Welterbe seit 2013
+## Seit wann ist der Bergpark UNESCO-Welterbe?
 
-Seit 2013 gehört der Bergpark mit seinen historischen Wasserkünsten zum UNESCO-Welterbe.
+Seit 2013 gehört der Bergpark mit seinen historischen Wasserkünsten zum UNESCO-Welterbe. Aufgenommen hat ihn das Welterbekomitee am 23. Juni 2013.
 
 ## Was gibt es im Bergpark?
+
+Der Eintritt in den Park ist frei, und der Herkules ganz oben steht auf 515 Metern über dem Meer.
 
 **Herkules.** Das Wahrzeichen Kassels thront oben über dem Bergpark, an seinem Fuß beginnen die Kaskaden. Von dort blickst du über Schloss, Stadt und Kasseler Becken. Mehr unter [Herkules Kassel](/herkules-kassel/).
 
@@ -30,9 +32,11 @@ Seit 2013 gehört der Bergpark mit seinen historischen Wasserkünsten zum UNESCO
 
 **Wasserspiele.** Von Mai bis Oktober rauscht das Wasser an festen Tagen ohne Pumpen vom Herkules bis zur Großen Fontäne. Das Schauspiel dauert rund eineinhalb Stunden und kostet keinen Eintritt. Mehr unter [Wasserspiele Kassel](/wasserspiele-kassel/).
 
-## Rundweg für einen Tag: immer bergab
+Was es in der Stadt zu sehen gibt, steht unter [Kassel Sehenswürdigkeiten](/kassel-sehenswuerdigkeiten/).
 
-Am bequemsten fährst du nach oben und lässt dich vom Gefälle hinuntertragen.
+## Wie läuft man den Bergpark an einem Tag ab?
+
+Vom Herkules bis zum Schloss sind es rund 2,3 km, und es geht nur bergab. Am bequemsten fährst du nach oben und lässt dich vom Gefälle hinuntertragen.
 
 1. **Mit Bus und Bahn zum Herkules:** Tram 4 bis Druseltal, dann Bus 22 bis Herkules.
 2. **Herkules und Besucherzentrum:** Blick über Park und Stadt, vom 1. April bis 31. Oktober auch ins Oktogon.
@@ -43,13 +47,17 @@ Am bequemsten fährst du nach oben und lässt dich vom Gefälle hinuntertragen.
 7. **Schloss Wilhelmshöhe:** Gemäldegalerie oder Café Jérôme zum Abschluss.
 8. **Zurück:** Tram 1 ab Wilhelmshöhe (Park) über den Bahnhof Wilhelmshöhe in die Innenstadt.
 
-Entlang des Wassers vom Herkules zum Schloss sind es rund 2,3 km. Mit Pausen, Ausblicken und einem Museum zwischendurch füllt der Weg gut einen ganzen Tag.
+Mit Pausen, Ausblicken und einem Museum zwischendurch füllt der Weg gut einen ganzen Tag.
+
+## Wo kann man im Bergpark essen?
+
+Am Herkules gibt es Gastronomie, und im Park liegt die Kaskadenwirtschaft Grischäfer. Unten im Schloss lädt das Café Jérôme ein, dienstags bis sonntags von 10 bis 17 Uhr, auch ohne Museumsbesuch. Gleich in der Nähe liegt die „Alte Wache“, auch „Gloria in der Alten Wache“ genannt.
 
 ## Praktisches: Eintritt, Öffnungszeiten und Anreise
 
-### Eintritt und Tickets
+### Was kosten die Tickets im Bergpark?
 
-Tickets brauchst du nur für die Gebäude. Das Tagesticket Wilhelmshöhe gilt für Schloss Wilhelmshöhe, die Löwenburg mit Führung, den Herkules (1. April bis 31. Oktober) und das Große Gewächshaus (1. November bis 31. März).
+Tickets brauchst du nur für die Gebäude: Das Tagesticket Wilhelmshöhe kostet 8 Euro und gilt für Schloss Wilhelmshöhe, die Löwenburg mit Führung, den Herkules (1. April bis 31. Oktober) und das Große Gewächshaus (1. November bis 31. März).
 
 | Ticket | Preis |
 |---|---|
@@ -60,9 +68,9 @@ Tickets brauchst du nur für die Gebäude. Das Tagesticket Wilhelmshöhe gilt f�
 
 Für die Löwenburg brauchst du eine Reservierung. Während der Ausstellung „DÜRER“ im Schloss kostet das Tagesticket 12 Euro, ermäßigt 9 Euro.
 
-### Öffnungszeiten
+### Wann sind die Gebäude im Bergpark geöffnet?
 
-Die Gebäude haben eigene Zeiten:
+Die Gebäude öffnen meist dienstags bis sonntags um 10 Uhr, der Park selbst ist ganzjährig frei zugänglich. Jedes Haus hat eigene Zeiten:
 
 | Ort | Zeitraum | Tage | Uhrzeit |
 |---|---|---|---|
@@ -74,7 +82,7 @@ Die Gebäude haben eigene Zeiten:
 
 Im Besucherzentrum Herkules gibt es Tickets, einen Shop und kleine Erfrischungen. An Heiligabend, am 1. Weihnachtstag und an Silvester sind Schloss, Löwenburg und Besucherzentrum zu.
 
-### Anreise
+### Wie komme ich zum Bergpark Wilhelmshöhe?
 
 - **Oben (Herkules):** Tram 4 bis Druseltal, dann Bus 22 halbstündlich zum Herkules. An Wasserspieltagen fährt zusätzlich Bus 23.
 - **Unten (Schloss):** Tram 1 bis Wilhelmshöhe (Park). Linie 24 fährt täglich von 10 bis 18 Uhr alle 30 Minuten über den Bahnhof Wilhelmshöhe zum Schloss.
@@ -100,9 +108,21 @@ Für den Fußweg zwischen Schloss und Herkules rechnest du etwa 1,5 Stunden. Mit
 
 Ja, am besten von oben nach unten: vom Herkules über Kaskaden, Teufelsbrücke und Aquädukt zur Großen Fontäne und zum Schloss.
 
-### Seit wann ist der Bergpark UNESCO-Welterbe?
+### Ist der Bergpark Wilhelmshöhe UNESCO-Welterbe?
 
-Seit 2013, zusammen mit seinen historischen Wasserkünsten.
+Ja, seit 2013, zusammen mit seinen historischen Wasserkünsten.
+
+### Kann man mit dem Auto zum Herkules Kassel fahren?
+
+Ja, bis zum Parkplatz Herkules Besucherzentrum hinter dem Herkules, im Park selbst fahren keine Autos. Preise und Plätze stehen unter [Parken am Bergpark Wilhelmshöhe](/parken-bergpark-wilhelmshoehe/).
+
+### Wann läuft der Wasserfall in Kassel?
+
+Der Steinhöfer Wasserfall läuft an Wasserspieltagen um 15.05 Uhr, mittwochs, sonntags und an hessischen Feiertagen vom 1. Mai bis 3. Oktober. Mehr unter [Wasserspiele Kassel](/wasserspiele-kassel/).
+
+### Gibt es im Bergpark ein Lichterfest?
+
+Das Lichtkunstfestival Bergparkleuchten wurde für 2026 abgesagt, weil der Stadt das Geld fehlte. An wenigen Abenden im Jahr leuchten dafür die [Beleuchteten Wasserspiele](/beleuchtete-wasserspiele/), 2026 fanden sie im Juni und im September statt.
 
 ### Wie groß ist der Bergpark Wilhelmshöhe?
 
@@ -119,6 +139,8 @@ Sehr groß: Er gilt als größter Bergpark Europas, für einen Rundgang mit alle
 - [Stadt Kassel, Anreise Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 09.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
+- [hessenschau, Bergparkleuchten 2026 abgesagt](https://www.hessenschau.de/panorama/bergparkleuchten-2026-in-kassel-abgesagt-stadt-fehlt-das-geld-v1,bergpark-leuchten-abgesagt-100.html), abgerufen 09.10.2026
+- [Café Jérôme, Schloss Wilhelmshöhe](https://www.cafe-jerome.de), abgerufen 14.10.2026
 - [Deutsche UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 09.10.2026
 - [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026

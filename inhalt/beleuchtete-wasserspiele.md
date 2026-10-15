@@ -5,16 +5,16 @@ slug: beleuchtete-wasserspiele
 kurz: Beleuchtete Wasserspiele
 bild: wasserspiele-beleuchtet.jpg
 stand: 2026-10-09
-blick: Termine 2026=5./6. Juni, 11./12. September | Termine 2027=stehen noch nicht fest | Start=am Herkules | Finale=Große Fontäne | Anreise=Tram 4, dann Bus 22 oder 23 | Mitnehmen=Taschenlampe
+blick: Termine 2026=5./6. Juni, 11./12. September | Termine 2027=stehen noch nicht fest | Beginn 2026=21.00 Uhr (Juni), 20.00 Uhr (September) | Finale=Große Fontäne | Anreise=Tram 4, dann Bus 22 oder 23 | Mitnehmen=Taschenlampe
 weiter: wasserspiele-kassel, parken-bergpark-wilhelmshoehe, bergpark-wilhelmshoehe
 ---
 # Beleuchtete Wasserspiele Kassel: der Herkules bei Nacht
 
-Die Beleuchteten Wasserspiele sind die Abendausgabe der Wasserspiele im Bergpark: Wenn es dunkel wird, sind die Stationen zwischen Herkules und Großer Fontäne angestrahlt, und das Wasser leuchtet durch den nächtlichen Park. Weil es sie nur an wenigen Abenden im Jahr gibt, lohnt es sich, den Besuch um diese Termine herum zu planen.
+Die Beleuchteten Wasserspiele sind die Abendausgabe der Wasserspiele im [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/): Wenn es dunkel wird, sind die Stationen zwischen dem [Herkules](/herkules-kassel/) und der Großen Fontäne angestrahlt, und das Wasser leuchtet durch den nächtlichen Park. Weil es sie nur an wenigen Abenden im Jahr gibt, lohnt es sich, den Besuch um diese Termine herum zu planen.
 
-## Ablauf am Abend
+## Wann beginnen die Beleuchteten Wasserspiele?
 
-Angestrahlt werden Kaskaden, Teufelsbrücke, Aquädukt und Jussowtempel. Der Steinhöfer Wasserfall bleibt am Abend außen vor.
+2026 begannen sie im Juni um 21.00 Uhr, im September um 20.00 Uhr am Herkules. Von dort bis zur Großen Fontäne vergeht gut eine Stunde. Angestrahlt werden Kaskaden, Teufelsbrücke, Aquädukt und Jussowtempel. Der Steinhöfer Wasserfall bleibt am Abend außen vor.
 
 | Station | Juni 2026 | September 2026 |
 |---|---|---|
@@ -38,7 +38,7 @@ Zwischen den Stationen sind manche Wege dunkel, eine Taschenlampe gehört also i
 
 ## Praktisches: Termine und Anreise
 
-### Termine
+### Wann sind die Beleuchteten Wasserspiele?
 
 2026 lagen die Abende jeweils auf Freitag und Samstag:
 
@@ -49,7 +49,7 @@ Zwischen den Stationen sind manche Wege dunkel, eine Taschenlampe gehört also i
 
 Die Termine für 2027 stehen noch nicht fest. Aktuelle Infos gibt es unter beleuchtete-wasserspiele.de und bei der Stadt Kassel.
 
-### Anreise am Abend
+### Wie komme ich abends zum Herkules?
 
 Am besten kommst du mit Bus und Bahn:
 
@@ -57,7 +57,7 @@ Am besten kommst du mit Bus und Bahn:
 - **Alternativ:** Tram 1 bis Wilhelmshöhe (Park), dann Bus 23 zum Herkules.
 - **Nach dem Ende:** Bus 23 fährt ab Wilhelmshöhe (Park) zum Herkules zurück. Tram 1 fährt über den Bahnhof Wilhelmshöhe zum Königsplatz, dort gibt es Anschluss an die Nachtschwärmer-Linien.
 
-### Parken
+### Wo parke ich bei den Beleuchteten Wasserspielen?
 
 Am entspanntesten parkst du außerhalb des Bergparks und steigst auf Bus und Bahn um. An den Parkplätzen Herkules und Schloss Wilhelmshöhe gilt an diesen Abenden der Wasserspieltag-Tarif, und der Parkschein ist zugleich KombiTicket für Bus 23. Mehr dazu unter [Parken am Bergpark Wilhelmshöhe](/parken-bergpark-wilhelmshoehe/).
 
@@ -67,9 +67,9 @@ Am entspanntesten parkst du außerhalb des Bergparks und steigst auf Bus und Bah
 
 Die Termine für 2027 stehen noch nicht fest. 2026 fanden sie am 5. und 6. Juni sowie am 11. und 12. September statt.
 
-### Wann waren die Beleuchteten Wasserspiele 2026?
+### Wann finden die Beleuchteten Wasserspiele in Kassel 2026 statt?
 
-Am Freitag, 5. Juni, und Samstag, 6. Juni, sowie am Freitag, 11. September, und Samstag, 12. September 2026.
+Sie fanden am Freitag, 5. Juni, und Samstag, 6. Juni, sowie am Freitag, 11. September, und Samstag, 12. September 2026 statt. Beide Termine sind vorbei.
 
 ### Um wie viel Uhr beginnen die Beleuchteten Wasserspiele?
 
@@ -78,6 +78,14 @@ Im Juni 2026 um 21.00 Uhr am Herkules, im September 2026 um 20.00 Uhr. Prüf die
 ### Kann man den Herkules bei Nacht sehen?
 
 Ja, an den Abenden der Beleuchteten Wasserspiele beginnt alles am angestrahlten Herkules, das Finale folgt unten an der Großen Fontäne.
+
+### Welche Stationen werden angestrahlt?
+
+Kaskaden, Teufelsbrücke, Aquädukt und Jussowtempel, den Abschluss macht die Große Fontäne. Der Steinhöfer Wasserfall gehört abends nicht zur Inszenierung.
+
+### Ist das Bergparkleuchten dasselbe wie die Beleuchteten Wasserspiele?
+
+Nein, das Bergparkleuchten ist ein eigenes Lichtkunstfestival. Es wurde für 2026 abgesagt, weil der Stadt das Geld fehlte; die Beleuchteten Wasserspiele fanden trotzdem statt.
 
 ### Brauche ich eine Taschenlampe?
 
@@ -94,3 +102,4 @@ Ab Wilhelmshöhe (Park) fährt Bus 23 zum Herkules und Tram 1 über den Bahnhof 
 - [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im September](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-september.php), abgerufen 09.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
+- [hessenschau, Bergparkleuchten 2026 abgesagt](https://www.hessenschau.de/panorama/bergparkleuchten-2026-in-kassel-abgesagt-stadt-fehlt-das-geld-v1,bergpark-leuchten-abgesagt-100.html), abgerufen 09.10.2026

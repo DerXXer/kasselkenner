@@ -1,5 +1,5 @@
 ---
-titel: Wasserspiele Kassel: Termine, Ablauf, Route und Eintritt
+titel: Wasserspiele Kassel: Termine, Uhrzeit, Ablauf, Eintritt
 beschreibung: Wasserspiele Kassel im Bergpark Wilhelmshöhe: wann sie laufen, Ablauf mit Uhrzeiten, Route vom Herkules zur Fontäne, Eintritt frei, Anreise.
 slug: wasserspiele-kassel
 kurz: Wasserspiele
@@ -10,11 +10,11 @@ weiter: beleuchtete-wasserspiele, parken-bergpark-wilhelmshoehe, herkules-kassel
 ---
 # Wasserspiele Kassel: wann, wo und wie sie ablaufen
 
-Bei den Wasserspielen rauscht Wasser aus dem Habichtswald ohne eine einzige Pumpe durch den Bergpark, vom Herkules über mehrere Stationen bis zur Großen Fontäne. Wer das ganze Schauspiel erleben will, wandert mit dem Wasser bergab. Wer es gemütlicher mag, wartet unten am Schloss auf das Finale.
+Bei den Wasserspielen rauscht Wasser aus dem Habichtswald ohne eine einzige Pumpe durch den [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/), vom Herkules über mehrere Stationen bis zur Großen Fontäne. Wer das ganze Schauspiel erleben will, wandert mit dem Wasser bergab. Wer es gemütlicher mag, wartet unten am Schloss auf das Finale.
 
-## Ablauf: Uhrzeiten und Stationen
+## Wann beginnen die Wasserspiele und wie läuft der Ablauf?
 
-Jedes Wasserbild dauert etwa 10 Minuten, das ganze Schauspiel rund eineinhalb Stunden. Dazwischen bleibt gerade genug Zeit, um zur nächsten Station zu gehen.
+Los geht es um 14.30 Uhr am Herkules, die Große Fontäne steigt um 15.45 Uhr. Jedes Wasserbild dauert etwa 10 Minuten, das ganze Schauspiel rund eineinhalb Stunden. Dazwischen bleibt gerade genug Zeit, um zur nächsten Station zu gehen.
 
 | Uhrzeit | Station |
 |---|---|
@@ -26,17 +26,17 @@ Jedes Wasserbild dauert etwa 10 Minuten, das ganze Schauspiel rund eineinhalb St
 
 Wer den Anfang sehen will, ist um 14.30 Uhr oben am Herkules.
 
-## Route und Gefälle
+## Wie lang ist die Route der Wasserspiele?
 
-Vom Herkules bis zum Schloss Wilhelmshöhe geht es zu Fuß und immer talwärts, das Rauschen des Wassers ist dabei dein Wegweiser.
+Vom Herkules bis zum Schloss Wilhelmshöhe sind es rund 2,3 km, zu Fuß und immer talwärts, das Rauschen des Wassers ist dabei dein Wegweiser.
 
 Links und rechts der Kaskaden führen Treppen mit über 500 Stufen hinab, ganz ohne Geländer. Feste Schuhe und ein sicherer Tritt sind also Pflicht, barrierefrei sind die Wege nur bedingt.
 
 Vom Aquädukt stürzt das Wasser über die Peneuskaskaden in den Fontänenteich. Nach der Fontäne fließt es über künstliche Wasserfälle in den Schlossteich, den „Lac“.
 
-## Wo stehst du am besten?
+## Wo sieht man die Wasserspiele in Kassel am besten?
 
-Gute Plätze zum Schauen und Fotografieren:
+Die Große Fontäne springt um 15.45 Uhr unterhalb des Schlosses, den Start um 14.30 Uhr siehst du nur oben am Herkules. Gute Plätze zum Schauen und Fotografieren:
 
 - die Teufelsbrücke
 - das Aquädukt, wenn das Wasser durchbricht
@@ -57,25 +57,25 @@ Das Schauspiel ist über 300 Jahre alt: Schon zur Zeit der Landgrafen staunten B
 
 ## Praktisches: Termine, Eintritt und Anreise
 
-### Termine 2026 und 2027
+### Wann gibt es wieder Wasserspiele in Kassel?
 
-Wasserspieltage sind Mittwoch, Sonntag und alle hessischen Feiertage.
+Die Saison 2026 ist beendet, bestätigte Termine für 2027 gibt es noch nicht. Der Rahmen ist wie jedes Jahr der 1. Mai bis 3. Oktober, schau vor deinem Besuch auf der Seite von Hessen Kassel Heritage nach. Wasserspieltage sind Mittwoch, Sonntag und alle hessischen Feiertage.
 
 **Saison 2026:** Die Saison lief vom 1. Mai bis 3. Oktober 2026 und ist beendet.
 
-**Saison 2027:** Der Rahmen ist wie jedes Jahr der 1. Mai bis 3. Oktober. Einzeltermine sind noch nicht bestätigt, schau vor deinem Besuch auf der Seite von Hessen Kassel Heritage nach.
-
 Wegen Bauarbeiten kann es Einschränkungen geben.
 
-### Eintritt
+### Was kosten die Wasserspiele?
 
 Der Bergpark ist das ganze Jahr frei zugänglich, die Wasserspiele kosten nichts. Eintritt zahlst du nur für Gebäude wie den Herkules, die Löwenburg oder Schloss Wilhelmshöhe. Führungen zu den Wasserspielen sind in der Saison buchbar.
 
-### Parken
+### Was kostet das Parken an Wasserspieltagen?
 
-Der Bergpark ist autofrei. Geparkt wird am Herkules oder unterhalb von Schloss Wilhelmshöhe. An Wasserspieltagen kostet ein Pkw zwischen 9.30 und 15 Uhr 8,50 Euro, der Parkschein gilt dann als KombiTicket für den Bus 23. Alles zu Plätzen und Preisen steht unter [Parken am Bergpark Wilhelmshöhe](/parken-bergpark-wilhelmshoehe/).
+An Wasserspieltagen kostet ein Pkw zwischen 9.30 und 15 Uhr 8,50 Euro. Der Bergpark ist autofrei. Geparkt wird am Herkules oder unterhalb von Schloss Wilhelmshöhe. Der Parkschein gilt an Wasserspieltagen als KombiTicket für den Bus 23. Alles zu Plätzen und Preisen steht unter [Parken am Bergpark Wilhelmshöhe](/parken-bergpark-wilhelmshoehe/).
 
-### Mit Bus und Bahn
+### Wie komme ich ohne Auto zu den Wasserspielen?
+
+Mit Tram und Bus, nach oben zum Herkules wie nach unten zum Schloss:
 
 - **Nach oben zum Herkules:** Mit der Tram 4 zur Endhaltestelle Druseltal, von dort mit Bus 22 oder 23 hinauf zum Herkules. Bus 23 fährt nur an Wasserspieltagen.
 - **Nach unten zum Schloss:** Tram 1 bis Wilhelmshöhe (Park). An Wasserspieltagen fährt sie alle 15 Minuten.
@@ -87,6 +87,10 @@ Der Bergpark ist autofrei. Geparkt wird am Herkules oder unterhalb von Schloss W
 
 Nichts. Auch der Bergpark selbst ist frei, Geld kosten nur Parken und Gebäude.
 
+### Brauche ich Tickets für die Wasserspiele in Kassel?
+
+Nein, die Wasserspiele kosten keinen Eintritt, ein Ticket brauchst du nicht. Nur Führungen zu den Wasserspielen sind in der Saison buchbar.
+
 ### Finden heute Wasserspiele in Kassel statt?
 
 In der Saison vom 1. Mai bis 3. Oktober laufen sie jeden Mittwoch, Sonntag und hessischen Feiertag ab 14.30 Uhr. Außerhalb der Saison ruht das Wasser.
@@ -94,6 +98,14 @@ In der Saison vom 1. Mai bis 3. Oktober laufen sie jeden Mittwoch, Sonntag und h
 ### Um wie viel Uhr beginnen die Wasserspiele?
 
 Um 14.30 Uhr am Herkules. Die Große Fontäne steigt um 15.45 Uhr, gegen 16 Uhr ist Schluss.
+
+### Wann sind immer die Wasserspiele am Herkules?
+
+Vom 1. Mai bis 3. Oktober jeden Mittwoch, Sonntag und hessischen Feiertag, Beginn um 14.30 Uhr an den Kaskaden unterhalb des Herkules.
+
+### Wann läuft der Wasserfall in Kassel?
+
+Der Steinhöfer Wasserfall läuft an Wasserspieltagen um 15.05 Uhr, nach den Kaskaden und vor der Teufelsbrücke. Außerhalb der Saison ruht das Wasser.
 
 ### Welche Route nimmt das Wasser?
 

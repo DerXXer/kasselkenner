@@ -4,15 +4,15 @@ beschreibung: Kassel Sehenswürdigkeiten im Überblick: Bergpark mit Herkules un
 slug: kassel-sehenswuerdigkeiten
 kurz: Sehenswürdigkeiten
 bild: blick-landesmuseum-turm.jpg
-stand: 2026-10-09
+stand: 2026-10-14
 blick: Bergpark=Eintritt frei | Wasserspiele=Mi, So und Feiertag ab 14.30 Uhr | Museen=meist 8 Euro | Montag=fast alle Museen zu | Herkules=Tram 4, dann Bus 22
 weiter: bergpark-wilhelmshoehe, kassel-wochenende, kassel-geheimtipps
 ---
 # Kassel Sehenswürdigkeiten: die wichtigsten Orte im Überblick
 
-Kassel hat zwei Herzen: im Westen den Bergpark Wilhelmshöhe mit Herkules, Löwenburg und Schloss, UNESCO-Welterbe und eine ganze Landschaft für sich, und die Innenstadt mit Fridericianum, Karlsaue und Grimmwelt. Nimm dir für jede Gegend einen eigenen Tag, dann wird es entspannt statt gehetzt.
+Kassel hat zwei Herzen: im Westen den [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) mit Herkules, Löwenburg und Schloss, UNESCO-Welterbe und eine ganze Landschaft für sich, und die Innenstadt mit Fridericianum, Karlsaue und Grimmwelt. Nimm dir für jede Gegend einen eigenen Tag, dann wird es entspannt statt gehetzt.
 
-## Die Orte auf einen Blick
+## Was sind die wichtigsten Sehenswürdigkeiten in Kassel?
 
 | Sehenswürdigkeit | Lage | Eintritt Erwachsene | Geöffnet | Mehr dazu |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ Kassel hat zwei Herzen: im Westen den Bergpark Wilhelmshöhe mit Herkules, Löwe
 
 Montags haben fast alle Museen zu – dann ist Zeit für einen langen Spaziergang durch Bergpark oder Karlsaue. Für Schloss, Löwenburg und Herkules gibt es ein gemeinsames Tagesticket Wilhelmshöhe; während der Ausstellung „DÜRER“ kostet es 12 Euro.
 
-## Bergpark Wilhelmshöhe: Herkules, Wasserspiele, Löwenburg, Schloss
+## Was gibt es im Bergpark Wilhelmshöhe zu sehen?
 
 Der Bergpark ist immer offen und kostet nichts, bezahlt wird nur für die Gebäude. Unten Schloss und Wiesen, oben der Herkules – dazwischen ein langer, grüner Hang voller Wege, Wasserläufe und Ausblicke.
 
@@ -40,9 +40,9 @@ Der Bergpark ist immer offen und kostet nichts, bezahlt wird nur für die Gebäu
 
 Wer nur einen Tag hat, nimmt oben den Herkules und unten das Schloss mit. Zu Fuß dauert der Weg dazwischen ca. 1,5 Stunden – bergab ist es die schönere Richtung.
 
-## Sehenswürdigkeiten in der Kasseler Innenstadt
+## Was gibt es in der Kasseler Innenstadt zu sehen?
 
-In der Innenstadt liegt alles nah beieinander, du läufst gemütlich von Ort zu Ort.
+In der Innenstadt liegt alles nah beieinander: Vom Fridericianum zum Marmorbad sind es 8 Minuten zu Fuß, von dort zur Neuen Galerie 9 Minuten und weiter zur Grimmwelt 5 Minuten. Du läufst gemütlich von Ort zu Ort.
 
 - **Friedrichsplatz und Fridericianum:** Das Fridericianum ist das Herz der documenta. Zwischen 12. Juni und 19. September 2027 ist die nächste Ausgabe zu sehen, dann ist die ganze Stadt voller Kunst.
 - **Karlsaue und Orangerie:** Ein weiter Park an der Fulda mit Alleen, Wasserflächen und viel Platz zum Durchatmen. In der Orangerie wartet ein Planetarium, daneben das Marmorbad, das im Sommerhalbjahr kostenlos offen ist.
@@ -50,26 +50,34 @@ In der Innenstadt liegt alles nah beieinander, du läufst gemütlich von Ort zu 
 - **Neue Galerie:** Kunst bis in die Gegenwart, mit dem Raum von Joseph Beuys als stillem Mittelpunkt.
 - **Hessisches Landesmuseum:** Landesgeschichte zum Stöbern, und zu jeder vollen und halben Stunde geht es hinauf auf den Turm.
 
-Die Wege sind kurz: Vom Fridericianum zum Marmorbad sind es 8 Minuten zu Fuß, von dort zur Neuen Galerie 9 Minuten und weiter zur Grimmwelt 5 Minuten.
+Am ersten Augustwochenende wird in der Karlsaue der [Zissel](/zissel-kassel/) gefeiert, und vom 23. November bis 30. Dezember 2026 steht in der Innenstadt der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/).
 
-## documenta-Kunst im Stadtraum
+## Welche documenta-Kunst steht dauerhaft in der Stadt?
 
 Manche Kunst ist nach der documenta einfach geblieben und steht heute kostenlos mitten in der Stadt. Der „Himmelsstürmer“ von Jonathan Borofsky schreitet vor dem Kulturbahnhof Richtung Himmel. Die „7000 Eichen“ von Joseph Beuys erkennst du an den Basaltstelen neben den Bäumen; der erste und der letzte Baum stehen vor dem Fridericianum. Weitere, stillere Orte findest du unter [Kassel abseits der bekannten Wege](/kassel-geheimtipps/).
 
-## So kommst du zwischen den Orten hin und her
+## Wie komme ich zwischen den Sehenswürdigkeiten hin und her?
 
 - **Bahnhof Wilhelmshöhe → Innenstadt:** Linie 1, 3 oder 4 bis Friedrichsplatz.
 - **Innenstadt → Schloss Wilhelmshöhe:** Tram 1 bis zur Endhaltestelle Wilhelmshöhe (Park), von dort zu Fuß in den unteren Bergpark.
 - **Innenstadt → Herkules:** Tram 4 bis Druseltal, dann Bus 22 bis Herkules. Der Bus fährt halbstündlich.
 - **Zur Grimmwelt:** Tram 1, 3 oder 4 bis Rathaus, dann ca. 7 Minuten zu Fuß.
 
-Wie sich das gut auf zwei Tage verteilt, steht unter [Kassel am Wochenende](/kassel-wochenende/).
+Wie sich das gut auf zwei Tage verteilt, steht unter [Kassel am Wochenende](/kassel-wochenende/). Mit Kindern helfen dir [Kassel mit Kindern](/kassel-mit-kindern/), bei Regen [Kassel bei Regen](/kassel-bei-regen/).
 
 ## Häufige Fragen
 
-### Was sind die wichtigsten Sehenswürdigkeiten in Kassel?
+### Was ist das Besondere an Kassel?
 
-Ganz vorn steht der Bergpark Wilhelmshöhe mit Herkules, Wasserspielen, Löwenburg und Schloss. In der Innenstadt kommen Fridericianum, Karlsaue mit Orangerie und die Grimmwelt dazu, außerdem Neue Galerie, Museum für Sepulkralkultur, Street Art, documenta-Kunst im Stadtraum, Markthalle und Stadtmuseum.
+Kassel hat ein UNESCO-Welterbe und die documenta: Der Bergpark Wilhelmshöhe ist seit 2013 Welterbe, und die documenta bringt seit 1955 alle fünf Jahre Kunst in die Stadt, mit dem Fridericianum als zentralem Ort. Dazu kommen die Brüder Grimm: Ihre Handexemplare der „Kinder- und Hausmärchen“ gehören seit 2005 zum UNESCO-Weltdokumentenerbe und sind in der [Grimmwelt](/grimmwelt-kassel/) zu sehen.
+
+### Hat Kassel eine historische Altstadt?
+
+Kaum noch: Beim Luftangriff in der Nacht vom 22. auf den 23. Oktober 1943 wurde die Altstadt mit ihren Fachwerkhäusern fast vollständig zerstört. Beim Wiederaufbau nach dem Plan von 1951 wurde das alte Stadtbild nicht rekonstruiert, deshalb prägen Bauten der Nachkriegszeit die Innenstadt. Ein Beispiel ist die Treppenstraße, die am 9. November 1953 als eine der ersten Fußgängerzonen Deutschlands eingeweiht wurde. Historische Pracht findest du dafür im [Bergpark](/bergpark-wilhelmshoehe/), in der Karlsaue und im Fridericianum, und mehr zur Stadtgeschichte im Stadtmuseum (4 Euro, bis 18 Jahre frei).
+
+### Was kann man in Kassel außer den bekannten Orten sehen?
+
+Neben den großen Zielen lohnen Neue Galerie, Museum für Sepulkralkultur, Street Art, documenta-Kunst im Stadtraum, Markthalle und Stadtmuseum. Weitere stille Orte stehen unter [Kassel abseits der bekannten Wege](/kassel-geheimtipps/).
 
 ### Welche Sehenswürdigkeiten in Kassel kosten keinen Eintritt?
 
@@ -87,7 +95,7 @@ Zu Fuß bergab durch den Park, in ca. 1,5 Stunden über Wege und Treppen. An Was
 
 Schloss Wilhelmshöhe, die Museen in der Innenstadt und die Grimmwelt haben das ganze Jahr offen, die Löwenburg im Winter freitags bis sonntags. Herkules und Marmorbad machen Winterpause, dafür öffnet im Bergpark das Große Gewächshaus.
 
-### Gibt es eine Karte der Sehenswürdigkeiten?
+### Gibt es eine Karte der Sehenswürdigkeiten in Kassel?
 
 Ja, Visit Kassel hat auf seiner Website eine Kartenansicht mit Sehenswürdigkeiten, Museen und Parks.
 
@@ -109,5 +117,8 @@ Ja, Visit Kassel hat auf seiner Website eine Kartenansicht mit Sehenswürdigkeit
 - [Fridericianum, Besuch](https://www.fridericianum.org/en/visit), abgerufen 09.10.2026
 - [documenta 16, FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 09.10.2026
 - [Wikipedia, Herkules (Kassel)](https://de.wikipedia.org/wiki/Herkules_(Kassel)), abgerufen 09.10.2026
+- [Stadt Kassel, Treppenstraße](https://www.kassel.de/buerger/kunst_und_kultur/sehenswertes/strassen-und-plaetze/treppenstrasse.php), abgerufen 14.10.2026
+- [Visit Kassel, Stadtmuseum Kassel](https://visit.kassel.de/poi/stadtmuseum-kassel), abgerufen 14.10.2026
+- [Wikipedia, Kassel](https://de.wikipedia.org/wiki/Kassel), abgerufen 14.10.2026
 - [Wikipedia, Fridericianum](https://de.wikipedia.org/wiki/Fridericianum_(Kassel)), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit OpenStreetMap-Routing (Fußweg), 09.10.2026

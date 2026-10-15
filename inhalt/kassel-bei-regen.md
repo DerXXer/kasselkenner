@@ -4,15 +4,15 @@ beschreibung: Kassel bei Regen: Schloss Wilhelmshöhe, Grimmwelt, Naturkundemuse
 slug: kassel-bei-regen
 kurz: Bei Regen
 bild: ottoneum.jpg
-stand: 2026-10-09
+stand: 2026-10-14
 blick: Museen=Di bis So, Mo geschlossen | Therme=täglich 9 bis 22 Uhr | Thermalbad=ab 18 Euro (2 Stunden) | Grimmwelt=10 Euro, unter 6 frei
 weiter: grimmwelt-kassel, kassel-mit-kindern, schloss-wilhelmshoehe
 ---
 # Kassel bei Regen: was du drinnen machen kannst
 
-Regen in Kassel? Dann hast du die Wahl: Museen, von Rembrandt im Schloss Wilhelmshöhe bis zu den Sauriern im Ottoneum, oder ein paar warme Stunden im Solewasser der Kurhessen-Therme. Schloss und Therme liegen direkt am Bergpark, die übrigen Ziele in der Innenstadt.
+Regen in Kassel? Dann hast du die Wahl: Museen, von Rembrandt im Schloss Wilhelmshöhe bis zu den Sauriern im Ottoneum, oder ein paar warme Stunden im Solewasser der Kurhessen-Therme. Schloss und Therme liegen direkt am [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/), die übrigen Ziele in der Innenstadt.
 
-## Überblick: Regenziele mit Zeiten und Preisen
+## Welche Ziele haben bei Regen offen und was kosten sie?
 
 | Ziel | Geöffnet | Eintritt Erwachsene | Ermäßigt / Kinder |
 |---|---|---|---|
@@ -25,7 +25,9 @@ Regen in Kassel? Dann hast du die Wahl: Museen, von Rembrandt im Schloss Wilhelm
 
 Denk an den Montag: Dann haben die Museen zu, außer an Feiertagen – die Therme aber hat offen.
 
-## Am Bergpark: Schloss, Löwenburg und Therme
+## Was kann man bei Regen am Bergpark machen?
+
+Mit dem Tagesticket Wilhelmshöhe für 8 Euro (während der Ausstellung „DÜRER“ 12 Euro) kommst du ins Schloss und mit Führung in die Löwenburg. Die Kurhessen-Therme ist täglich von 9 bis 22 Uhr offen. Vom 1. November bis 31. März kommt das Große Gewächshaus dazu, Dienstag bis Sonntag von 10 bis 17 Uhr, ebenfalls im Tagesticket.
 
 **Schloss Wilhelmshöhe** ist wie gemacht für einen Regentag: Drinnen hängen Rembrandt, Rubens, Dürer und Tizian, und durch die Fenster schaust du auf den nassen, grünen Park. Im Untergeschoss wartet die Antikensammlung. Das Tagesticket Wilhelmshöhe kostet 8 Euro, unter 18 ist frei; während der Ausstellung „DÜRER“ sind es 12 Euro. Mehr unter [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/).
 
@@ -42,9 +44,9 @@ Denk an den Montag: Dann haben die Museen zu, außer an Feiertagen – die Therm
 
 Kinder bis zum 3. Geburtstag sind frei.
 
-## In der Stadt: Grimmwelt, Ottoneum und Landesmuseum
+## Was kann man bei Regen in der Kasseler Innenstadt machen?
 
-Vom Bahnhof Wilhelmshöhe fahren die Trams 1, 3 und 4 zur Haltestelle Rathaus, von dort sind es ca. 7 Minuten zur Grimmwelt.
+Grimmwelt, Naturkundemuseum und Landesmuseum sind alle dienstags bis sonntags geöffnet. Vom Bahnhof Wilhelmshöhe fahren die Trams 1, 3 und 4 zur Haltestelle Rathaus, von dort sind es ca. 7 Minuten zur Grimmwelt.
 
 **Die Grimmwelt** erzählt von den Brüdern Grimm, ihren Märchen und ihrer Liebe zur Sprache. Herzstück sind ihre eigenen Handexemplare der „Kinder- und Hausmärchen“, und in vielen Bereichen darfst du selbst mitmachen. Mehr unter [Grimmwelt Kassel](/grimmwelt-kassel/).
 
@@ -52,19 +54,23 @@ Vom Bahnhof Wilhelmshöhe fahren die Trams 1, 3 und 4 zur Haltestelle Rathaus, v
 
 **Das Hessische Landesmuseum** am Brüder-Grimm-Platz führt durch die Geschichte Hessens. Zu jeder vollen und halben Stunde geht es auf den Turm – vielleicht reißt der Himmel ja gerade auf. Wegen Bauarbeiten am Brüder-Grimm-Platz kann der Zugang eingeschränkt sein.
 
-## An der Karlsaue: Planetarium
+## Lohnt das Planetarium bei Regen?
 
-In der Orangerie liegt Hessens größtes Planetarium: Wenn draußen die Wolken hängen, siehst du hier trotzdem die Sterne. Eine Vorstellung kostet 8 Euro, unter 18 Jahren 2 Euro. Kinder unter 3 Jahren dürfen nicht mit in den Saal. Die Vorstellungszeiten stehen im Kalender von Hessen Kassel Heritage. Mehr unter [Orangerie und Karlsaue](/orangerie-karlsaue/).
+Eine Vorstellung kostet 8 Euro, unter 18 Jahren 2 Euro. In der Orangerie liegt Hessens größtes Planetarium: Wenn draußen die Wolken hängen, siehst du hier trotzdem die Sterne. Kinder unter 3 Jahren dürfen nicht mit in den Saal. Die Vorstellungszeiten stehen im Kalender von Hessen Kassel Heritage. Mehr unter [Orangerie und Karlsaue](/orangerie-karlsaue/).
 
-## Ein Regentag mit Plan
+## Wie plane ich einen Regentag in Kassel?
 
-Unser Tipp für einen Tag am Bergpark: vormittags Schloss Wilhelmshöhe, nachmittags ab in die Therme. Für einen Tag in der Stadt passen Grimmwelt und Landesmuseum gut zusammen, sie liegen nur wenige Minuten auseinander. Mit Kindern lohnt sich das Naturkundemuseum; mehr Ideen unter [Kassel mit Kindern](/kassel-mit-kindern/).
+Unser Tipp für einen Tag am Bergpark: vormittags Schloss Wilhelmshöhe, nachmittags ab in die Therme. Für einen Tag in der Stadt passen Grimmwelt und Landesmuseum gut zusammen, sie liegen nur wenige Minuten auseinander. Mit Kindern lohnt sich das Naturkundemuseum; mehr Ideen unter [Kassel mit Kindern](/kassel-mit-kindern/). Wenn du ein ganzes Wochenende planst, hilft [Kassel am Wochenende](/kassel-wochenende/), und alle großen Ziele findest du unter [Kassel Sehenswürdigkeiten](/kassel-sehenswuerdigkeiten/).
 
 ## Häufige Fragen
 
 ### Was kann man in Kassel bei Regen machen?
 
 Ins Schloss Wilhelmshöhe, die Grimmwelt, das Naturkundemuseum oder das Landesmuseum gehen, eine Vorstellung im Planetarium sehen oder in der Kurhessen-Therme entspannen.
+
+### Was kann man Cooles in Kassel machen, wenn es regnet?
+
+Eine Vorstellung im Planetarium (8 Euro), Gemälde von Rembrandt und Rubens im Schloss Wilhelmshöhe oder Saurier im Naturkundemuseum (5 Euro). Wer es ruhig mag, liegt zwei Stunden im warmen Wasser der Kurhessen-Therme, ab 18 Euro.
 
 ### Was hat in Kassel montags bei Regen geöffnet?
 
@@ -86,6 +92,7 @@ Schloss Wilhelmshöhe, die Löwenburg und das Hessische Landesmuseum sind für K
 
 - [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Dauerausstellung Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe/dauerausstellung), abgerufen 09.10.2026
+- [Hessen Kassel Heritage, Gewächshaus](https://www.heritage-kassel.de/standorte/gewaechshaus), abgerufen 14.10.2026
 - [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Hessisches Landesmuseum](https://www.heritage-kassel.de/standorte/hessisches-landesmuseum), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 09.10.2026

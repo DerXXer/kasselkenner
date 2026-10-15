@@ -4,7 +4,7 @@ beschreibung: Zissel Kassel: Das Volks- und Wasserfest an der Fulda findet 2027 
 slug: zissel-kassel
 kurz: Zissel
 bild: fulda-spitzhacke.jpg
-stand: 2026-10-09
+stand: 2026-10-14
 blick: Termin 2027=30. Juli bis 2. August | Ort=Auedamm und Karlswiese | Programm=steht noch nicht fest | Drachenboot-Cup=31. Juli 2027 | Anreise=Tram bis Friedrichsplatz | Veranstalter=Zissel in Kassel e.V.
 weiter: orangerie-karlsaue, weihnachtsmarkt-kassel, uebernachten-kassel
 ---
@@ -35,13 +35,15 @@ Die Karlsaue lohnt sich auch an jedem anderen Tag, mehr dazu unter [Orangerie un
 
 ## Woher kommt der Zissel?
 
-Die Idee entstand bei einem Heringsessen unter Stammtischbrüdern, seit 1926 wird gefeiert, und der Hering ist bis heute das Wahrzeichen. Woher der Name kommt, ist nicht geklärt. Eine schöne Erklärung ist das plattdeutsche „zisseln“: Geld für Fröhlichkeit ausgeben.
+Die Idee entstand 1925 bei einem Heringsessen unter Stammtischbrüdern, seit 1926 wird gefeiert, und der Hering ist bis heute das Wahrzeichen. Woher der Name kommt, ist nicht geklärt. Eine schöne Erklärung ist das plattdeutsche „zisseln“: Geld für Fröhlichkeit ausgeben.
 
 Auch außerhalb der Festtage begegnet dir der Zissel: Am Altmarkt steht der Zisselbrunnen, an dem ein Hering Wasser speit, darunter die Köpfe der Kasseler Originale „Ephesus und Kupille“.
 
 ## Praktisches: Termin und Anreise
 
-### Termin
+### Wann ist der Zissel 2027?
+
+Der Zissel 2027 läuft vom 30. Juli bis 2. August, also am ersten Augustwochenende und drum herum.
 
 | | Zissel |
 |---|---|
@@ -51,9 +53,9 @@ Auch außerhalb der Festtage begegnet dir der Zissel: Am Altmarkt steht der Ziss
 
 Das Programm für 2027 veröffentlicht der Verein vor dem Fest. Schon angekündigt ist der Zissel-Drachenboot-Cup am 31. Juli 2027 von 9.30 bis etwa 17 Uhr auf dem Gelände des CKS98.
 
-### Anreise zum Zissel
+### Wie komme ich zum Zissel?
 
-Am einfachsten kommst du mit Tram und Bus. Zur Haltestelle Friedrichsplatz fahren die Linien 1, 3, 4, 5, 6 und 8, vom Bahnhof Wilhelmshöhe die Linien 1, 3 und 4. Näher am Festgelände liegen die Haltestellen Rathaus/Fünffensterstraße und Am Weinberg. Schau kurz vor dem Fest in die Fahrplanauskunft der KVG.
+Am einfachsten kommst du mit Tram und Bus: Zur Haltestelle Friedrichsplatz fahren die Linien 1, 3, 4, 5, 6 und 8, vom Bahnhof Wilhelmshöhe die Linien 1, 3 und 4. Näher am Festgelände liegen die Haltestellen Rathaus/Fünffensterstraße und Am Weinberg. Schau kurz vor dem Fest in die Fahrplanauskunft der KVG.
 
 Mit dem Auto wird es eng: In den Vorjahren war der Auedamm während des Fests für Autos gesperrt.
 
@@ -79,6 +81,22 @@ Ja, zum Abschluss. Die Uhrzeit steht im Jahresprogramm.
 
 Seit 1926. 2026 hat das Fest seinen 100. Geburtstag gefeiert.
 
+### Wie viele Besucher kommen zum Zissel?
+
+Jedes Jahr kommen Zigtausende Besucher an die Fulda. Entsprechend voll werden abends die Uferwiesen.
+
+### Wer veranstaltet den Zissel?
+
+Der Verein Zissel in Kassel e.V. Er veröffentlicht auch das Programm, in der Regel vor dem Fest auf seiner Internetseite.
+
+### Fiel der Zissel schon einmal aus?
+
+Ja. Kriegsbedingt wurde er bis 1948 nicht gefeiert, ab 1950 wieder in der ursprünglichen Form. 2020 und 2021 wurde er wegen der Coronapandemie abgesagt.
+
+### Was war das Motto des Zissels 2026?
+
+„100 Jahre Spaß am Fluss – Der Zissel ist für uns ein Muss“. Der Zissel 2026 lief vom 31. Juli bis 3. August und feierte den 100. Geburtstag des Festes.
+
 ### Wo übernachte ich zum Zissel?
 
 Welche Viertel passen, steht unter [Übernachten in Kassel](/uebernachten-kassel/). Im Winter lohnt sich der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/).
@@ -87,7 +105,7 @@ Welche Viertel passen, steht unter [Übernachten in Kassel](/uebernachten-kassel
 
 - [Stadt Kassel, Zissel](https://www1.kassel.de/buerger/sport_und_freizeit/wiederkehrende-veranstaltungen/zissel.php), abgerufen 09.10.2026
 - [Stadt Kassel, Zisselbrunnen](https://www.kassel.de/buerger/kunst_und_kultur/sehenswertes/zisselbrunnen.php), abgerufen 09.10.2026
-- [Zissel in Kassel e.V., Startseite](https://www.zissel.de/), abgerufen 09.10.2026
+- [Zissel in Kassel e.V., Startseite](https://www.zissel.de/), abgerufen 14.10.2026
 - [Zissel in Kassel e.V., Geschichte](https://www.zissel.de/geschichte), abgerufen 09.10.2026
 - [Zissel in Kassel e.V., Programm](https://www.zissel.de/programm), abgerufen 09.10.2026
 - [Zissel in Kassel e.V., Drachenboot-Cup](https://www.zissel.de/drachenbootcup), abgerufen 09.10.2026

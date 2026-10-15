@@ -5,32 +5,32 @@ slug: loewenburg-kassel
 kurz: Löwenburg
 bild: loewenburg.jpg
 stand: 2026-10-09
-blick: Sommer=Di bis So 10 bis 17 Uhr | Winter=Fr bis So 10 bis 16 Uhr | Besuch=nur mit Führung | Führungen=zur vollen Stunde | Unter 18=Eintritt frei | Barrierefrei=nein
+blick: Sommer=Di bis So 10 bis 17 Uhr | Winter=Fr bis So 10 bis 16 Uhr | Besuch=nur mit Führung | Führungen=zur vollen Stunde | Eintritt=8 Euro (Tagesticket Wilhelmshöhe), unter 18 frei | Barrierefrei=nein
 weiter: bergpark-wilhelmshoehe, schloss-wilhelmshoehe, herkules-kassel
 ---
 # Löwenburg Kassel: Öffnungszeiten, Führung und Tickets
 
-Die Löwenburg ist eine Ritterburg im Bergpark Wilhelmshöhe, die von Anfang an als romantische Ruine gebaut wurde. Von außen kannst du sie beim Spaziergang durch den Park bestaunen, hinein geht es nur mit Führung, also plan einen festen Termin ein.
+Die Löwenburg ist eine Ritterburg im [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/), die von Anfang an als romantische Ruine gebaut wurde. Von außen kannst du sie beim Spaziergang durch den Park bestaunen, hinein geht es nur mit Führung, also plan einen festen Termin ein.
 
-## Besichtigung nur mit Führung
+## Wann beginnen die Führungen in der Löwenburg?
 
-Auf eigene Faust kommst du nicht hinein. Die Rundgänge beginnen zur vollen Stunde, die letzte eine Stunde vor Schließung. Buch dein Ticket am besten vorab.
+Die Rundgänge beginnen zur vollen Stunde, die letzte eine Stunde vor Schließung. Auf eigene Faust kommst du nicht hinein, die Besichtigung geht nur mit Führung. Buch dein Ticket am besten vorab.
 
-## Geschichte der Löwenburg
+## Wer ließ die Löwenburg bauen?
 
 Landgraf Wilhelm IX. ließ sich hier eine Burg bauen, die schon beim Bau wie eine verfallene mittelalterliche Ritterburg aussehen sollte. Gewohnt hat er nie darin, seine letzte Ruhe fand er aber hier: in einer Gruft unter der Burgkapelle.
 
-## Barrierefreiheit
+## Ist die Löwenburg barrierefrei?
 
 Die Löwenburg ist nicht barrierefrei. Denk daran, wenn jemand in deiner Gruppe schlecht zu Fuß ist.
 
-## Zu Fuß von Bad Wilhelmshöhe zur Löwenburg
+## Wie weit ist es zu Fuß zur Löwenburg?
 
-Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß 18 Minuten und 1,0 Kilometer, dabei geht es 82 Meter bergauf. Unser Tipp: Verbinde die Burg mit Schloss Wilhelmshöhe, das vom selben Startpunkt in 14 Minuten auf flachem Weg erreichbar ist.
+Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß 18 Minuten und 1,0 Kilometer, dabei geht es 82 Meter bergauf. Vom Schloss Wilhelmshöhe sind es rund 0,9 Kilometer, reine Gehzeit etwa 12 Minuten; weil die Burg höher liegt, rechne etwas mehr. Unser Tipp: Verbinde die Burg mit Schloss Wilhelmshöhe, das vom selben Startpunkt in 14 Minuten auf flachem Weg erreichbar ist.
 
 ## Praktisches: Öffnungszeiten, Tickets und Parken
 
-### Öffnungszeiten der Löwenburg
+### Wann ist die Löwenburg geöffnet?
 
 | Saison | Uhrzeit | Geöffnet an |
 |---|---|---|
@@ -41,7 +41,7 @@ Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß 18 Minuten und 1,0 Ki
 
 Die letzte Führung beginnt im Sommer um 16 Uhr, im Winter um 15 Uhr. Montags ist geschlossen, außer an Feiertagen; im Winter auch dienstags bis donnerstags.
 
-### Löwenburg Kassel Tickets und Tagesticket
+### Was kostet der Eintritt in die Löwenburg?
 
 | Ticket | Preis |
 |---|---|
@@ -55,7 +55,7 @@ Die Führung ist im Tagesticket enthalten, eine Reservierung ist aber nötig. Ge
 
 Während der Ausstellung „DÜRER“ im Schloss kostet das Tagesticket 12 Euro, ermäßigt 9 Euro.
 
-### Parken und Anreise
+### Wo parke ich an der Löwenburg?
 
 Der Bergpark ist autofrei. Geparkt wird am Herkules oder unterhalb von Schloss Wilhelmshöhe, der ganze Tag kostet an normalen Tagen 5 Euro. An Wasserspieltagen gilt ein höherer Tarif. Alle Details stehen unter [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/).
 
@@ -63,9 +63,9 @@ An Wasserspieltagen (1. Mai bis 3. Oktober, mittwochs, sonntags, feiertags) brin
 
 ## Häufige Fragen
 
-### Kann man die Löwenburg ohne Führung besichtigen?
+### Kann man die Löwenburg in Kassel besichtigen?
 
-Nein, nur mit Führung. Die Rundgänge beginnen zur vollen Stunde, am besten buchst du vorab.
+Ja, aber nur mit Führung, ohne kommst du nicht hinein. Die Rundgänge beginnen zur vollen Stunde, am besten buchst du vorab.
 
 ### Was kostet eine Führung durch die Löwenburg?
 
@@ -74,6 +74,22 @@ Sie ist im Tagesticket Wilhelmshöhe enthalten: 8 Euro, ermäßigt 5 Euro, unter
 ### Hat die Löwenburg im Winter geöffnet?
 
 Ja, vom 1. November bis 31. März freitags bis sonntags und feiertags von 10 bis 16 Uhr. Am 24., 25. und 31. Dezember ist geschlossen.
+
+### Kann man mit dem Auto zur Löwenburg fahren?
+
+Nicht bis zur Burg, im Bergpark fahren keine Autos. Du parkst am Herkules oder unterhalb von Schloss Wilhelmshöhe und gehst oder fährst von dort weiter, an Wasserspieltagen mit dem Bergparkshuttle. Mehr unter [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/).
+
+### Gibt es einen Shuttle zur Löwenburg?
+
+Nur an Wasserspieltagen: Dann fährt der Bergparkshuttle von 10 bis 17 Uhr vom Parkplatz Wilhelmshöhe zur Löwenburg, die einfache Fahrt kostet 2 Euro.
+
+### Wie lange läuft man vom Schloss Wilhelmshöhe zur Löwenburg?
+
+Rund 0,9 Kilometer, die reine Gehzeit beträgt etwa 12 Minuten. Die Burg liegt höher als das Schloss, rechne also etwas mehr.
+
+### Warum wurde die Löwenburg gebaut?
+
+Landgraf Wilhelm IX. ließ sie ab 1793 als Burg bauen, die schon beim Bau wie eine verfallene mittelalterliche Ritterburg aussehen sollte. Gewohnt hat er nie darin, seine Grabstätte liegt in einer Gruft unter der Burgkapelle.
 
 ### Wo parkt man für die Löwenburg?
 
@@ -92,3 +108,4 @@ Plan neben der Führung den Weg und die Zeit bis zur nächsten vollen Stunde ein
 - [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
+- Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026, und OpenStreetMap-Routing (Fußweg, ohne Steigungszuschlag), 14.10.2026

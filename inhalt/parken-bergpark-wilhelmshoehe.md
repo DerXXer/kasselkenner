@@ -10,9 +10,11 @@ weiter: wasserspiele-kassel, herkules-kassel, bergpark-wilhelmshoehe
 ---
 # Wilhelmshöhe Parkplatz: Parken am Bergpark und am Herkules
 
-Mit dem Auto zum Bergpark parkst du entweder oben am Herkules oder unten am Schloss, in den Park selbst fährt kein Auto. Welcher Platz besser passt, hängt davon ab, wo du starten willst. An Wasserspieltagen lohnt sich oft der Umstieg auf Bus und Tram.
+Mit dem Auto zum [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) parkst du entweder oben am Herkules oder unten am Schloss, in den Park selbst fährt kein Auto. Welcher Platz besser passt, hängt davon ab, wo du starten willst. An Wasserspieltagen lohnt sich oft der Umstieg auf Bus und Tram.
 
-## Die Parkplätze am Bergpark im Überblick
+## Wie viele Parkplätze gibt es am Bergpark?
+
+Es gibt zwei Parkplätze: Am Herkules sind es 280 Plätze, am Schloss 390.
 
 | Parkplatz | Lage | Plätze | Gut für |
 |---|---|---|---|
@@ -23,7 +25,7 @@ Wie voll die beiden Plätze gerade sind, zeigt die Stadt Kassel live auf ihrer S
 
 ## Parken am Herkules oder am Schloss?
 
-Die Wasserspiele laufen von oben nach unten: Start um 14.30 Uhr an den Kaskaden unter dem Herkules, Schluss gegen 16 Uhr an der Großen Fontäne vor dem Schloss. Wer dem Wasser folgt, geht rund 2,3 Kilometer, nur zu Fuß und bergab. Daraus ergeben sich zwei Wege:
+Die [Wasserspiele](/wasserspiele-kassel/) laufen von oben nach unten: Start um 14.30 Uhr an den Kaskaden unter dem Herkules, Schluss gegen 16 Uhr an der Großen Fontäne vor dem Schloss. Wer dem Wasser folgt, geht rund 2,3 Kilometer, nur zu Fuß und bergab. Daraus ergeben sich zwei Wege:
 
 1. **Unten am Schloss parken, bergab laufen.** Du stellst das Auto am Parkplatz Schloss Wilhelmshöhe ab, fährst ab Wilhelmshöhe (Park) mit Bus 23 zum Herkules und folgst dem Wasser zurück nach unten zum Auto. Bus 23 fährt nur an Wasserspieltagen.
 2. **Oben am Herkules starten.** Du parkst am Herkules, bist direkt am Start und fährst nach der Fontäne mit Bus 23 ab Wilhelmshöhe (Park) wieder hinauf. Alternativ fährt Bus 22 ab Druseltal zum Parkplatz Herkules.
@@ -32,11 +34,13 @@ Bergauf zu Fuß brauchst du vom Schloss-Plateau zum Herkules etwa 1,5 Stunden ü
 
 ## Was wird an Wasserspieltagen voll?
 
-An Wasserspieltagen kommst du am besten früh, wenn du einen Platz willst. Wie stark die Parkplätze gerade belegt sind, zeigt die Live-Anzeige der Stadt. Zu den Beleuchteten Wasserspielen im September 2026 sollten Autofahrer außerhalb des Bergparks parken und auf Bus und Bahn umsteigen.
+An Wasserspieltagen kommst du am besten früh, wenn du einen Platz willst. Wie stark die Parkplätze gerade belegt sind, zeigt die Live-Anzeige der Stadt. Zu den [Beleuchteten Wasserspielen](/beleuchtete-wasserspiele/) im September 2026 sollten Autofahrer außerhalb des Bergparks parken und auf Bus und Bahn umsteigen.
 
 ## Praktisches: Preise, Shuttle und Bus
 
 ### Was kostet das Parken?
+
+An normalen Tagen sind die ersten 30 Minuten frei und der ganze Tag kostet 5 Euro, an Wasserspieltagen zahlst du zwischen 9.30 und 15 Uhr 8,50 Euro für den Pkw.
 
 | Zeit | Pkw | Kraftrad | Kleinbus, Wohnmobil | Reisebus |
 |---|---|---|---|---|
@@ -48,11 +52,11 @@ An normalen Tagen gibt es nur einen Tarif ohne Unterscheidung nach Fahrzeug. Der
 
 **Parkschein als Busticket.** An Wasserspieltagen gilt der Parkschein als KombiTicket für bis zu 7 Personen. Wie weit es reicht, ist uneinheitlich angegeben: nur Bus 23, die Buslinien 23 und 24 oder alle Busse und Bahnen der KVG. Bus 23, der die Parkplätze unten am Park und am Herkules verbindet, ist in jedem Fall dabei. Verkauft wird dieser Parkschein vom Aufsichtspersonal an den Parkplätzen Schloss Wilhelmshöhe und Herkules sowie an der Kreisstraße 6. Auch an den Abenden der Beleuchteten Wasserspiele galt 2026 der Wasserspieltag-Tarif mit KombiTicket.
 
-### Bergparkshuttle an Wasserspieltagen
+### Was kostet der Bergparkshuttle?
 
-Nur an Wasserspieltagen fährt von 10 bis 17 Uhr etwa alle 15 bis 20 Minuten der Bergparkshuttle vom Parkplatz Wilhelmshöhe zum Schloss, zu den unteren Stationen der Wasserspiele und zur Löwenburg. Eine einfache Fahrt kostet 2 Euro, Kinder bis 6 Jahre fahren frei, ebenso Menschen mit den Merkzeichen G, aG, H, Gl oder Bl.
+Eine einfache Fahrt kostet 2 Euro, Kinder bis 6 Jahre fahren frei, ebenso Menschen mit den Merkzeichen G, aG, H, Gl oder Bl. Der Bergparkshuttle fährt nur an Wasserspieltagen von 10 bis 17 Uhr etwa alle 15 bis 20 Minuten vom Parkplatz Wilhelmshöhe zum Schloss, zu den unteren Stationen der Wasserspiele und zur Löwenburg.
 
-### Ohne Auto: Linie 1, Linie 4 und Bus 22/23
+### Wie komme ich ohne Auto zum Bergpark?
 
 - **Linie 1:** Die Tram fährt über den Bahnhof Wilhelmshöhe zur Endhaltestelle Wilhelmshöhe (Park) am unteren Bergpark; an Wasserspieltagen von 10.30 bis 17.15 Uhr alle 15 Minuten.
 - **Linie 4:** Die Tram fährt von der Innenstadt und vom Bahnhof Wilhelmshöhe bis Druseltal; sonntags von 12 bis 15 Uhr und werktags bis 20 Uhr alle 15 Minuten, sonst halbstündlich.
@@ -64,13 +68,29 @@ Fahrplanänderungen meldet die NVV-App.
 
 ## Häufige Fragen
 
-### Kann man am Bergpark Wilhelmshöhe kostenlos parken?
+### Ist es möglich, am Bergpark Wilhelmshöhe kostenlos zu parken?
 
 Nur kurz: An normalen Tagen sind die ersten 30 Minuten auf den Parkplätzen am Herkules und am Schloss frei, danach kostet es mindestens 2 Euro. Mit dem Abriss vom Parkschein bekommst du in der Gastronomie von Hessen Kassel Heritage ab 15 Euro Verzehr einen Gutschein für kostenloses Parken beim nächsten Besuch.
 
 ### Was kostet der Parkplatz am Herkules?
 
 An normalen Tagen 2 Euro für 2 Stunden, 3 Euro für 4 Stunden und 5 Euro für den Tag, die ersten 30 Minuten sind frei. An Wasserspieltagen kostet ein Pkw zwischen 9.30 und 15 Uhr 8,50 Euro.
+
+### Wie hoch sind die Parkgebühren am Schloss Wilhelmshöhe?
+
+An normalen Tagen sind die ersten 30 Minuten frei, danach kosten 2 Stunden 2 Euro, 4 Stunden 3 Euro und der ganze Tag 5 Euro. An Wasserspieltagen zahlst du zwischen 9.30 und 15 Uhr 8,50 Euro für den Pkw. Am Herkules gelten dieselben Preise.
+
+### Wie komme ich mit öffentlichen Verkehrsmitteln zum Herkules?
+
+Mit der Tram 4 bis zur Endhaltestelle Druseltal und von dort mit Bus 22 halbstündlich zum Herkules. An Wasserspieltagen fährt zusätzlich Bus 23 ab Wilhelmshöhe (Park).
+
+### Welche Straßenbahn fährt nach Wilhelmshöhe?
+
+Die Linie 1 fährt über den Bahnhof Wilhelmshöhe zur Endhaltestelle Wilhelmshöhe (Park) am unteren Bergpark. Die Linie 4 fährt bis Druseltal, von dort geht es mit dem Bus zum Herkules.
+
+### Gibt es einen Shuttle-Service zur Löwenburg?
+
+Nur an Wasserspieltagen: Dann bringt dich der Bergparkshuttle für 2 Euro je einfache Fahrt vom Parkplatz Wilhelmshöhe zur Löwenburg.
 
 ### Wo parke ich für die Löwenburg?
 

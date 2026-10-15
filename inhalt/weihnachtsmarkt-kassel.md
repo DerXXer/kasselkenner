@@ -4,7 +4,7 @@ beschreibung: Märchenweihnachtsmarkt Kassel 2026: vom 23. November bis 30. Deze
 slug: weihnachtsmarkt-kassel
 kurz: Weihnachtsmarkt
 bild: weihnachtsmarkt-kassel.jpg
-stand: 2026-10-09
+stand: 2026-10-14
 blick: Termin 2026=23. November bis 30. Dezember | Geöffnet=täglich 11 bis 20 Uhr | Gastronomie=bis 22 Uhr | Geschlossen=24. bis 26. Dezember | Ort=Königsplatz und Friedrichsplatz
 weiter: grimmwelt-kassel, uebernachten-kassel, bergpark-wilhelmshoehe
 ---
@@ -18,6 +18,8 @@ In diesem Jahr dreht sich alles um „Das tapfere Schneiderlein“, das Motto la
 
 ## Wo ist der Weihnachtsmarkt in Kassel?
 
+In der Innenstadt, verteilt auf fünf Bereiche zwischen Königsplatz und Friedrichsplatz:
+
 | Standort | Was dich dort erwartet |
 |---|---|
 | Königsplatz | Kunsthandwerk, Geschenke, Königs-Alm, Weihnachtspyramide |
@@ -28,7 +30,7 @@ In diesem Jahr dreht sich alles um „Das tapfere Schneiderlein“, das Motto la
 
 Zwischen den Plätzen gehst du zu Fuß. Die Treppenstraße mit der Märchenrutsche verbindet die Bereiche.
 
-## Highlights auf dem Märchenweihnachtsmarkt
+## Was sind die Highlights des Märchenweihnachtsmarkts?
 
 - **Fliegender Weihnachtsmann:** täglich vom 23. November bis 23. Dezember. Um 17 Uhr fliegt er über Opern- und Friedrichsplatz, um 18 Uhr seilt er sich vom City Point zum Königsplatz ab. Für Kinder der Moment des Abends.
 - **Märchenpyramide:** 22 Meter hoch, am Königsplatz.
@@ -40,7 +42,7 @@ Prüf die Zeiten kurz vor deinem Besuch. Verzehrgutscheine zu 3 Euro gibt es in 
 
 ## Praktisches: Anreise und Parken
 
-### Mit Tram und Bus
+### Wie komme ich mit Tram und Bus zum Weihnachtsmarkt?
 
 Der Markt liegt mitten in der Stadt, Tram und Bus sind der entspannteste Weg. Wichtig für 2026: Vom 23. November bis 30. Dezember fahren die Straßenbahnen zwischen 10.45 und 22.20 Uhr eine Umleitung über Scheidemannplatz und Lutherplatz, am Königsplatz hältst du erst ab 22.30 Uhr wieder. Schau vor der Fahrt in die Fahrplanauskunft der KVG.
 
@@ -51,11 +53,11 @@ An den Adventswochenenden fahren mehr Bahnen. Für Familien und Gruppen lohnt da
 | MultiTicket (bis 5 Personen, höchstens 2 ab 18 Jahren) | 11,40 Euro | 24 Stunden oder ab Freitag 14 Uhr das ganze Wochenende |
 | MultiTicket Single | 8,30 Euro | wie oben |
 
-### Ab Wilhelmshöhe
+### Wie komme ich von Bad Wilhelmshöhe zum Weihnachtsmarkt?
 
-Kommst du mit dem ICE am Bahnhof Kassel-Wilhelmshöhe an oder wohnst am Bergpark, bringen dich die Linien 1, 3 und 4 in die Innenstadt. Die Linie 4 fährt werktags bis 20 Uhr alle 15 Minuten. So lässt sich ein Wintertag gut teilen: tagsüber durch den winterlichen Bergpark, abends auf den Markt.
+Vom Bahnhof Kassel-Wilhelmshöhe bringen dich die Linien 1, 3 und 4 in die Innenstadt, die Linie 4 fährt werktags bis 20 Uhr alle 15 Minuten. Das gilt auch, wenn du am [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) wohnst. So lässt sich ein Wintertag gut teilen: tagsüber durch den winterlichen Bergpark, abends auf den Markt.
 
-### Parken
+### Wo parke ich am Weihnachtsmarkt?
 
 Mehrere Parkhäuser liegen direkt am Markt, die größten sind die Tiefgarage Friedrichsplatz mit 980 und die Kurfürsten Galerie mit 560 Plätzen. Die aktuelle Belegung zeigt der Veranstalter auf seiner Anreiseseite.
 
@@ -67,9 +69,9 @@ Mit dem Rad findest du während des Markts zusätzliche Ständer in der Innensta
 
 Vom 23. November bis 30. Dezember 2026. Vom 24. bis 26. Dezember ist geschlossen.
 
-### Wie lange hat der Kasseler Weihnachtsmarkt geöffnet?
+### Wie lange dauert der Weihnachtsmarkt in Kassel?
 
-Täglich von 11 bis 20 Uhr, an den Gastronomieständen bis 22 Uhr.
+Vom 23. November bis 30. Dezember 2026, täglich von 11 bis 20 Uhr und an den Gastronomieständen bis 22 Uhr. Vom 24. bis 26. Dezember bleibt er zu.
 
 ### Hat der Weihnachtsmarkt an Heiligabend geöffnet?
 
@@ -83,9 +85,17 @@ Täglich vom 23. November bis 23. Dezember um 17 Uhr über Opern- und Friedrichs
 
 „Das tapfere Schneiderlein“ mit dem Motto „Sieben auf einen Streich!“. Passend dazu lohnt ein Besuch in der [Grimmwelt](/grimmwelt-kassel/).
 
-### Wo parke ich am besten?
+### Wo parke ich am besten beim Weihnachtsmarkt?
 
 In der Tiefgarage Friedrichsplatz oder in der Kurfürsten Galerie, beide direkt am Markt.
+
+### Kostet der Weihnachtsmarkt in Kassel Eintritt?
+
+Einen Eintrittspreis für den Markt nennt der Veranstalter nicht, genannt werden nur Verzehrgutscheine zu 3 Euro. Ganz sicher gehst du, wenn du bei Kassel Marketing nachfragst, Telefon +49 561 707707.
+
+### Was kostet der Eintritt zum Winterzauber in Kassel?
+
+Der Winterzauber ist ein eigenes Fest mit Eintrittskarte vor der [Orangerie](/orangerie-karlsaue/) und kein Teil des Märchenweihnachtsmarkts. Er findet 2026 vom 5. bis 8. und vom 12. bis 14. November statt. Erwachsene zahlen 12 Euro, im Online-Vorverkauf bis zum 4. November 10 Euro. Kinder bis 17 Jahre in Begleitung sind frei.
 
 ### Wo übernachte ich für den Weihnachtsmarkt?
 
@@ -93,11 +103,12 @@ Welche Viertel passen, steht unter [Übernachten in Kassel](/uebernachten-kassel
 
 ## Quellen
 
-- [Kassel Marketing, Märchenweihnachtsmarkt](https://www.weihnachtsmarkt-kassel.de/), abgerufen 09.10.2026
+- [Kassel Marketing, Märchenweihnachtsmarkt](https://www.weihnachtsmarkt-kassel.de/), abgerufen 14.10.2026
 - [Kassel Marketing, Standorte](https://www.weihnachtsmarkt-kassel.de/standorte/index.php), abgerufen 09.10.2026
 - [Kassel Marketing, Highlights](https://www.weihnachtsmarkt-kassel.de/highlights/index.php), abgerufen 09.10.2026
 - [Kassel Marketing, Anreise](https://www.weihnachtsmarkt-kassel.de/services/anreise.php), abgerufen 09.10.2026
-- [Kassel Marketing, Service](https://www.weihnachtsmarkt-kassel.de/services/index.php), abgerufen 09.10.2026
+- [Kassel Marketing, Service](https://www.weihnachtsmarkt-kassel.de/services/index.php), abgerufen 14.10.2026
+- [Gartenfestivals, Winterzauber Kassel](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 14.10.2026
 - [Stadt Kassel, Märchenhafte Veranstaltungen](https://www.kassel.de/buerger/sport_und_freizeit/wiederkehrende-veranstaltungen/maerchenhafte-veranstaltungen.php), abgerufen 09.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 09.10.2026
