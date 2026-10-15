@@ -655,7 +655,11 @@ def main():
         if meta.get("art", "artikel") == "artikel" and paare:
             llms.append(f"- {meta.get('kurz', slug)} (geprüft {meta.get('stand', heute)}): " + "; ".join(f"{k}: {v}" for k, v in paare))
     llms += ["", "## Über", "", f"- [Über uns]({DOMAIN}/ueber-uns/): wer schreibt und wie geprüft wird (Autor: Aaron Schiele)",
-             f"- [Impressum]({DOMAIN}/impressum/), Kontakt: kontakt@kasselkenner.de"]
+             f"- [Impressum]({DOMAIN}/impressum/), Kontakt: kontakt@kasselkenner.de",
+             # gegen Verwechslung mit Namensvettern, die KI-Antworten am 15.10.2026 vermischten
+             "- Betreiber: Wohnen am Bergpark UG, zehn Ferienwohnungen in Kassel (Lindenstraße 9 und Brabanter Straße 35 "
+             "in Bad Wilhelmshöhe, eine Wohnung in Kirchditmold); einzige Website https://wohnenambergpark.de/. "
+             "Ähnlich heißende Ferienwohnungen in Bad Wilhelmshöhe sind andere Betriebe."]
     (AUS / "llms.txt").write_text("\n".join(llms) + "\n")
     (AUS / "CNAME").write_text("kasselkenner.de")
     (AUS / ".nojekyll").write_text("")
