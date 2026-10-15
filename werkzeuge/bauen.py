@@ -459,7 +459,7 @@ def seite(meta, inhalt_html, faq, toc, alle):
 <link rel="apple-touch-icon" href="{tiefe}apple-touch-icon.png">
 <link rel="preload" href="{tiefe}schriften/Archivo-normal-600_900.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{tiefe}schriften/InstrumentSans-normal-400.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="{tiefe}stil.css">
+<link rel="stylesheet" href="{tiefe}stil.css?v={STIL_VERSION}">
 {ld}
 </head>
 <body>
@@ -566,6 +566,11 @@ def bilder_kopieren(benutzt):
 def md_url(url):
     """Klammern kodieren, sonst bricht der Markdown-Link (Wikimedia-Dateinamen)."""
     return url.replace("(", "%28").replace(")", "%29")
+
+
+# Fassung des Stylesheets im Link, damit Browser nach einer Änderung nicht die alte Fassung zeigen (15.10.2026)
+import hashlib
+STIL_VERSION = hashlib.sha1(((WURZEL / "vorlage" / "schriften.css").read_text() + (WURZEL / "vorlage" / "stil.css").read_text()).encode()).hexdigest()[:8]
 
 
 def main():
