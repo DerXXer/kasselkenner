@@ -5,7 +5,7 @@ slug: documenta-uebernachten
 kurz: Unterkunft documenta
 bild: blick-vom-herkules.jpg
 stand: 2026-10-14
-blick: documenta=100 Tage, 10 bis 20 Uhr | ICE-Halt=Kassel-Wilhelmshöhe | Zum Friedrichsplatz=Tram 1, 3 oder 4 | Übernachtungssteuer=5 Prozent vom Nettopreis
+blick: documenta=100 Tage, 10 bis 20 Uhr | ICE-Halt=Kassel-Wilhelmshöhe | Zum Friedrichsplatz=Tram 1, 3 oder 4
 weiter: documenta-2027, uebernachten-kassel, bergpark-wilhelmshoehe
 ---
 # Unterkunft zur documenta 2027: wo übernachten in Kassel?
@@ -69,15 +69,11 @@ Kirchditmold liegt westlich der Innenstadt und grenzt an den Bergpark. Die Stra�
 
 Sobald deine Reisetage feststehen, warte nicht bis zum Frühjahr 2027. Zur documenta 14 kamen 2017 891.500 Besucher nach Kassel, zur documenta fifteen 2022 rund 738.000 Besuche, und alle brauchen ein Bett in und um Kassel. Schau dir vor dem Buchen die Stornobedingungen an, denn documenta-Tickets selbst werden grundsätzlich nicht erstattet.
 
-## Praktisches: Fahrkarte und Übernachtungssteuer
+## Praktisches: Fahrkarte
 
 ### Gilt das documenta-Ticket als Fahrkarte?
 
 Ja: Mit einem Tages- oder Abendticket der documenta fährst du an diesem Tag bis Betriebsschluss gratis Bus und Bahn, also auch zwischen Unterkunft und Ausstellung. Innerhalb Kassels bist du damit sicher unterwegs; wohnst du weiter draußen, frag beim Besucherservice nach, wie weit das Ticket reicht. Für die Dauerkarte gilt das nicht.
-
-### Wie hoch ist die Übernachtungssteuer?
-
-Kassel erhebt 5 Prozent auf den Übernachtungspreis, im Hotel genauso wie in der Ferienwohnung. Frag beim Buchen, ob sie schon im Preis enthalten ist. Mehr zu Stadtteilen und Steuer steht unter [Übernachten in Kassel](/uebernachten-kassel/).
 
 ## Häufige Fragen
 
@@ -93,10 +89,6 @@ Mit der Tram 1, 3 oder 4 fährst du ohne Umsteigen zum Friedrichsplatz.
 
 Ja, Tages- und Abendtickets gelten am selben Tag bis Betriebsschluss in Bus und Bahn. Wohnst du außerhalb Kassels, frag kurz beim Besucherservice nach, wie weit das Ticket reicht.
 
-### Zahle ich in Kassel Übernachtungssteuer?
-
-Ja, 5 Prozent auf den Übernachtungspreis, auch in Ferienwohnungen. Frag beim Buchen, ob sie schon drin ist.
-
 ### Lohnt sich eine Unterkunft am Bergpark für die documenta?
 
 Wenn du neben der Ausstellung den Bergpark erleben willst, ja: Das Schloss erreichst du je nach Lage zu Fuß, und die Tram bringt dich in die Innenstadt.
@@ -105,7 +97,6 @@ Wenn du neben der Ausstellung den Bergpark erleben willst, ja: Das Schloss errei
 
 - [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 14.10.2026
 - [documenta 16, Visit FAQ (englisch)](https://documentasixteen.com/visit/faq), abgerufen 09.10.2026
-- [Stadt Kassel, Übernachtungssteuer](https://www.kassel.de/buerger/rathaus_und_politik/haushalt-und-finanzen/uebernachtungssteuer.php), abgerufen 14.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV zum Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Wasserspiele und Anreise](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
 - [documenta, Besuchszahlen documenta fifteen](https://documenta.de/en/news/documenta-fifteen-schliesst-mit-sehr-guten-besuchszahlen), abgerufen 09.10.2026

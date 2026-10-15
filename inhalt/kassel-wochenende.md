@@ -83,7 +83,7 @@ Vom ICE-Bahnhof Kassel-Wilhelmshöhe fahren die Linien 1, 3 und 4 zum Friedrichs
 
 ## Wo übernachte ich am besten für ein Wochenende?
 
-Vom Bahnhof Wilhelmshöhe fährt Tram 1 auch zum Schloss und Tram 4 zum Druseltal unterhalb des Herkules. Unser Tipp: Schlaf in der Nähe dieser Linien, dann bist du an beiden Tagen schnell am Ziel. Kassel erhebt 5 Prozent Übernachtungssteuer auf den Übernachtungspreis – frag beim Buchen, ob sie schon enthalten ist. Mehr zu den Stadtteilen unter [Übernachten in Kassel](/uebernachten-kassel/).
+Vom Bahnhof Wilhelmshöhe fährt Tram 1 auch zum Schloss und Tram 4 zum Druseltal unterhalb des Herkules. Unser Tipp: Schlaf in der Nähe dieser Linien, dann bist du an beiden Tagen schnell am Ziel. Mehr zu den Stadtteilen unter [Übernachten in Kassel](/uebernachten-kassel/).
 
 ## Häufige Fragen
 
@@ -127,7 +127,6 @@ Nach Einbruch der Dunkelheit leuchtet jeden Samstag die Laserscape über der Sta
 - [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 09.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
-- [Stadt Kassel, Übernachtungssteuer](https://www.kassel.de/buerger/rathaus_und_politik/haushalt-und-finanzen/uebernachtungssteuer.php), abgerufen 09.10.2026
 - [Visit Kassel, Markthalle](https://visit.kassel.de/poi/markthalle-kassel), abgerufen 09.10.2026
 - [Visit Kassel, 7000 Eichen](https://visit.kassel.de/poi/7000-eichen), abgerufen 09.10.2026
 - [Visit Kassel, Laserscape Kassel](https://visit.kassel.de/poi/laserscape-kassel), abgerufen 09.10.2026

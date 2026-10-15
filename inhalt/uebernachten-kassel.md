@@ -1,11 +1,11 @@
 ---
-titel: Kassel übernachten: Stadtteile, Bahnhof und Steuer
-beschreibung: Übernachten in Kassel: welche Stadtteile zu deinem Plan passen, warum der Bahnhof Wilhelmshöhe zählt und was die Übernachtungssteuer ausmacht.
+titel: Kassel übernachten: welcher Stadtteil, welcher Bahnhof?
+beschreibung: Übernachten in Kassel: welche Stadtteile zu deinem Plan passen, warum der Bahnhof Wilhelmshöhe zählt und wo du Ferienwohnungen findest.
 slug: uebernachten-kassel
 kurz: Übernachten
 bild: grosse-fontaene.jpg
 stand: 2026-10-14
-blick: Für Bergpark=Bad Wilhelmshöhe | Für Stadt=Mitte | ICE-Halt=Kassel-Wilhelmshöhe | Übernachtungssteuer=5 Prozent
+blick: Für Bergpark=Bad Wilhelmshöhe | Für Stadt=Mitte | ICE-Halt=Kassel-Wilhelmshöhe
 weiter: documenta-uebernachten, bergpark-wilhelmshoehe, wasserspiele-kassel
 ---
 # Kassel übernachten: welcher Stadtteil passt zu dir?
@@ -67,10 +67,6 @@ Beides gibt es in Kassel. Die Wahl hängt eher von deiner Reise ab als vom Ort:
 ## Zur documenta 2027
 
 Von Juni bis September 2027 ist in Kassel documenta. Welche Viertel dafür am besten liegen, steht auf der Seite [Unterkunft zur documenta](/documenta-uebernachten/).
-
-## Wie hoch ist die Übernachtungssteuer in Kassel?
-
-Kassel erhebt 5 Prozent auf den Übernachtungspreis, im Hotel genauso wie in der Ferienwohnung. Frag beim Buchen, ob sie schon im Preis enthalten ist, dann gibt es beim Bezahlen keine Überraschung.
 
 ## Häufige Fragen
 

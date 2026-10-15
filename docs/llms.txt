@@ -25,7 +25,7 @@ Stand: 2026-10-15
 - [Orangerie Kassel und Karlsaue: Planetarium, Marmorbad, Park](https://kasselkenner.de/orangerie-karlsaue/): Orangerie Kassel in der Karlsaue: Park frei zugänglich, Planetarium Do bis So 10 bis 17 Uhr für 8 Euro, Marmorbad April bis Oktober gratis. Anreise.
 - [Wilhelmshöhe Parkplatz: Parken am Bergpark und Herkules](https://kasselkenner.de/parken-bergpark-wilhelmshoehe/): Parken am Bergpark Wilhelmshöhe: die Parkplätze am Herkules und am Schloss, Preise an normalen Tagen und Wasserspieltagen, dazu Bus und Tram.
 - [Schloss Wilhelmshöhe: Öffnungszeiten, Eintritt, Museum](https://kasselkenner.de/schloss-wilhelmshoehe/): Schloss Wilhelmshöhe in Kassel: welche Sammlungen du siehst, wann das Museum offen ist, was das Tagesticket kostet und wie du mit der Tram 1 hinkommst.
-- [Kassel übernachten: Stadtteile, Bahnhof und Steuer](https://kasselkenner.de/uebernachten-kassel/): Übernachten in Kassel: welche Stadtteile zu deinem Plan passen, warum der Bahnhof Wilhelmshöhe zählt und was die Übernachtungssteuer ausmacht.
+- [Kassel übernachten: welcher Stadtteil, welcher Bahnhof?](https://kasselkenner.de/uebernachten-kassel/): Übernachten in Kassel: welche Stadtteile zu deinem Plan passen, warum der Bahnhof Wilhelmshöhe zählt und wo du Ferienwohnungen findest.
 - [Wasserspiele Kassel: Termine, Uhrzeit, Ablauf, Eintritt](https://kasselkenner.de/wasserspiele-kassel/): Wasserspiele Kassel im Bergpark Wilhelmshöhe: wann sie laufen, Ablauf mit Uhrzeiten, Route vom Herkules zur Fontäne, Eintritt frei, Anreise.
 - [Weihnachtsmarkt Kassel 2026: Termine, Zeiten, Anreise](https://kasselkenner.de/weihnachtsmarkt-kassel/): Märchenweihnachtsmarkt Kassel 2026: vom 23. November bis 30. Dezember, täglich 11 bis 20 Uhr. Standorte, Highlights, Tram, Parken und Anreise.
 - [Winterzauber Kassel 2026: Termine, Eintritt und Anreise](https://kasselkenner.de/winterzauber-kassel/): Winterzauber Kassel 2026 an der Orangerie: 5. bis 8. und 12. bis 14. November, Eintritt 12 Euro, Kinder bis 17 frei. Zeiten, Parken, Anreise.
@@ -36,7 +36,7 @@ Stand: 2026-10-15
 - Beleuchtete Wasserspiele (geprüft 2026-10-09): Termine 2026: 5./6. Juni, 11./12. September; Termine 2027: stehen noch nicht fest; Beginn 2026: 21.00 Uhr (Juni), 20.00 Uhr (September); Finale: Große Fontäne; Anreise: Tram 4, dann Bus 22 oder 23; Mitnehmen: Taschenlampe
 - Bergpark (geprüft 2026-10-09): Eintritt: Park frei; Geöffnet: ganzjährig; Rundweg: rund 2,3 km bergab; Anreise: Tram 4, dann Bus 22; Parken: am Herkules und am Schloss; Welterbe: seit 2013
 - documenta 2027 (geprüft 2026-10-14): Zeitraum: 12. Juni bis 19. September 2027; Geöffnet: täglich 10 bis 20 Uhr; Tagesticket: 29 Euro, ermäßigt 19 Euro; Kinder: bis zwölf Jahre frei; Start: Welcome Center Friedrichsplatz; Anreise: ICE bis Kassel-Wilhelmshöhe
-- Unterkunft documenta (geprüft 2026-10-14): documenta: 100 Tage, 10 bis 20 Uhr; ICE-Halt: Kassel-Wilhelmshöhe; Zum Friedrichsplatz: Tram 1, 3 oder 4; Übernachtungssteuer: 5 Prozent vom Nettopreis
+- Unterkunft documenta (geprüft 2026-10-14): documenta: 100 Tage, 10 bis 20 Uhr; ICE-Halt: Kassel-Wilhelmshöhe; Zum Friedrichsplatz: Tram 1, 3 oder 4
 - Grimmwelt (geprüft 2026-10-14): Geöffnet: Di bis So 10 bis 18 Uhr; Eintritt: 10 Euro, ermäßigt 7 Euro; Familie: 25 Euro; Kinder: unter 6 Jahren frei; Adresse: Weinbergstraße 21; Anreise: Tram 1, 3 oder 4 bis Rathaus
 - Wandern (geprüft 2026-10-14): Kürzeste: 2,05 km; Längste: gut 18 km; Habichtswaldsteig: 85 km Fernweg; Markierung: Habicht auf Purpur; Anreise: Tram 4, Bus 22
 - Herkules (geprüft 2026-10-09): Geöffnet: 1. April bis 31. Oktober; Zeiten: Di bis So 10 bis 17 Uhr; Eintritt: 8 Euro, unter 18 frei; Anreise: Tram 4, dann Bus 22; Parken: 280 Plätze, Tag 5 Euro
@@ -51,7 +51,7 @@ Stand: 2026-10-15
 - Orangerie (geprüft 2026-10-14): Park: ganzjährig, Eintritt frei; Planetarium: Do bis So 10 bis 17 Uhr; Vorstellung: 8 Euro, ermäßigt 5 Euro; Marmorbad: Eintritt frei, im Winter zu; Adresse: An der Karlsaue 20 a
 - Parken (geprüft 2026-10-09): Plätze: Herkules 280, Schloss 390; Normale Tage: erste 30 Min. frei, Tag 5 Euro; Wasserspieltage: 8,50 Euro (9.30 bis 15 Uhr); Shuttle: 2 Euro je Fahrt; Ohne Auto: Tram 1 und 4, Bus 22 und 23
 - Schloss Wilhelmshöhe (geprüft 2026-10-09): Geöffnet: Di bis So 10 bis 17 Uhr; Länger: 1. und 3. Freitag bis 19 Uhr; Winter: geöffnet; Eintritt: 8 Euro (Tagesticket Wilhelmshöhe), unter 18 frei; Anreise: Tram 1 oder Linie 24; Parken: 390 Plätze, Tag 5 Euro
-- Übernachten (geprüft 2026-10-14): Für Bergpark: Bad Wilhelmshöhe; Für Stadt: Mitte; ICE-Halt: Kassel-Wilhelmshöhe; Übernachtungssteuer: 5 Prozent
+- Übernachten (geprüft 2026-10-14): Für Bergpark: Bad Wilhelmshöhe; Für Stadt: Mitte; ICE-Halt: Kassel-Wilhelmshöhe
 - Wasserspiele (geprüft 2026-10-09): Saison: 1. Mai bis 3. Oktober; Tage: Mi, So und Feiertage; Start: 14.30 Uhr am Herkules; Ende: gegen 16 Uhr, Große Fontäne; Eintritt: frei; Strecke: rund 2,3 km bergab
 - Weihnachtsmarkt (geprüft 2026-10-14): Termin 2026: 23. November bis 30. Dezember; Geöffnet: täglich 11 bis 20 Uhr; Gastronomie: bis 22 Uhr; Geschlossen: 24. bis 26. Dezember; Ort: Königsplatz und Friedrichsplatz
 - Winterzauber (geprüft 2026-10-14): Termine 2026: 5. bis 8. und 12. bis 14. November; Ort: Orangerie, Auedamm 20B; Eintritt: 12 Euro, Vorverkauf 10 Euro; Kinder: bis 17 Jahre frei; Aussteller: rund 120
