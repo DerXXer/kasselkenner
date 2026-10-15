@@ -93,6 +93,14 @@ Ja, Tages- und Abendtickets gelten am selben Tag bis Betriebsschluss in Bus und 
 
 Wenn du neben der Ausstellung den Bergpark erleben willst, ja: Das Schloss erreichst du je nach Lage zu Fuß, und die Tram bringt dich in die Innenstadt.
 
+### Wo parke ich zur documenta, wenn ich mit dem Auto komme?
+
+Die documenta empfiehlt Park & Ride am Stadtrand und die Weiterfahrt mit Bus und Bahn. Am nächsten zum Friedrichsplatz liegt die Tiefgarage Friedrichsplatz, mit Behindertenparkplätzen und Aufzug.
+
+### Wie weit ist es zu Fuß vom Hauptbahnhof zum Friedrichsplatz?
+
+Rund 11 Minuten für 0,8 Kilometer bis zum Fridericianum am Friedrichsplatz. Du gehst über die Treppenstraße, die nur für Fußgänger ist.
+
 ## Quellen
 
 - [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 14.10.2026
@@ -107,3 +115,5 @@ Wenn du neben der Ausstellung den Bergpark erleben willst, ja: Das Schloss errei
 - [Wikipedia, Kirchditmold](https://de.wikipedia.org/wiki/Kirchditmold), abgerufen 09.10.2026
 - [Wikipedia, documenta 14](https://de.wikipedia.org/wiki/Documenta_14), abgerufen 09.10.2026
 - Fußwege: eigene Messung mit Google Maps, 08.10.2026
+- [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
+- [Visit Kassel, Treppenstraße](https://visit.kassel.de/poi/treppenstrasse), abgerufen 15.10.2026

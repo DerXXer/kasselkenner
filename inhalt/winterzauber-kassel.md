@@ -88,6 +88,10 @@ Ja, Hunde sind angeleint erlaubt.
 
 Ja, es gibt herzhafte Speisen, Süßes, gebrannte Mandeln, Baumkuchen und Glühwein.
 
+### Wo kaufe ich Tickets für den Winterzauber?
+
+An der Tageskasse, die 30 Minuten vor Beginn öffnet und EC-Karten nimmt, oder online beim Ticketanbieter Reservix unter gartenfestivals.reservix.de. Online kostet die Karte bis zum 4. November 10 Euro plus Gebühr.
+
 ## Quellen
 
 - [Gartenfestivals, Winterzauber Kassel an der Orangerie](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 14.10.2026

@@ -131,6 +131,14 @@ Das Wasser sammelt sich in Speicherbecken im Habichtswald und fließt nur mit de
 
 Ja, an wenigen Abenden im Jahr gibt es die [Beleuchteten Wasserspiele](/beleuchtete-wasserspiele/).
 
+### Wie komme ich nach der Großen Fontäne zurück?
+
+Mit der Tram 1 ab Wilhelmshöhe (Park) in die Innenstadt. Steht dein Auto oben am Herkules, fährst du mit dem Bus 23 ab Wilhelmshöhe (Park) nach Druseltal und mit dem Bus 22 weiter zum Parkplatz Herkules.
+
+### Wo bekomme ich unterwegs etwas zu essen?
+
+Oben im Besucherzentrum Herkules gibt es dienstags bis sonntags und feiertags von 10 bis 17 Uhr kleine Erfrischungen. Unten hat das Café Jérôme im Schloss zur selben Zeit geöffnet, auch ohne Museumsbesuch.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
@@ -142,3 +150,5 @@ Ja, an wenigen Abenden im Jahr gibt es die [Beleuchteten Wasserspiele](/beleucht
 - [hessenschau, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 09.10.2026
 - [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026
+- [Hessen Kassel Heritage, Besucherzentrum Herkules](https://www.heritage-kassel.de/service/bz/besucherzentrum-herkules), abgerufen 15.10.2026
+- [Café Jérôme, Schloss Wilhelmshöhe](https://www.cafe-jerome.de), abgerufen 15.10.2026

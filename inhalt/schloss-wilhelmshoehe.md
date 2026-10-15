@@ -93,6 +93,14 @@ Mit der Linie 1 bis zur Endhaltestelle Wilhelmshöhe (Park), dann zu Fuß in den
 
 Ja, der Bergpark ist das ganze Jahr frei. Ein Ticket brauchst du nur für Schloss, Löwenburg und Herkules.
 
+### Wie lange läuft die Ausstellung DÜRER?
+
+Vom 9. Oktober 2026 bis 17. Januar 2027. In dieser Zeit kostet das Tagesticket Wilhelmshöhe 12 Euro statt 8 Euro, ermäßigt 9 Euro.
+
+### Wie weit ist es von der Tram zum Schloss?
+
+Von der Endhaltestelle Wilhelmshöhe (Park) der Tram 1 gehst du 0,8 Kilometer, rund 10 Minuten.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
@@ -105,3 +113,4 @@ Ja, der Bergpark ist das ganze Jahr frei. Ein Ticket brauchst du nur für Schlos
 - [Deutsche UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 09.10.2026
 - [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 09.10.2026
 - [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
+- [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026

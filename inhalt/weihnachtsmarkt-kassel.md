@@ -103,6 +103,14 @@ Der Winterzauber ist ein eigenes Fest mit Eintrittskarte vor der [Orangerie](/or
 
 Welche Viertel passen, steht unter [Übernachten in Kassel](/uebernachten-kassel/). Wer tagsüber noch raus will, verbindet den Markt mit dem [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/).
 
+### Wo bekomme ich Verzehrgutscheine?
+
+Die Gutscheine zu 3 Euro gibt es in der Tourist Information, Wilhelmsstraße 23, montags bis freitags von 10 bis 17 Uhr und samstags von 10 bis 15 Uhr, und am Kassel Service Point in der GALERIA, Obere Königsstraße 31, montags bis samstags von 10 bis 18 Uhr.
+
+### Halten die Straßenbahnen während des Markts am Königsplatz?
+
+Tagsüber nicht. Vom 23. November bis 30. Dezember fahren die Bahnen zwischen 10.45 und 22.20 Uhr über Scheidemannplatz und Lutherplatz, ab 22.30 Uhr halten sie wieder am Königsplatz.
+
 ## Quellen
 
 - [Kassel Marketing, Märchenweihnachtsmarkt](https://www.weihnachtsmarkt-kassel.de/), abgerufen 14.10.2026

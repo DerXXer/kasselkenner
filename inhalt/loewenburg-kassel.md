@@ -103,6 +103,10 @@ Am Parkplatz unterhalb von Schloss Wilhelmshöhe oder am Herkules, im Park selbs
 
 Plan neben der Führung den Weg und die Zeit bis zur nächsten vollen Stunde ein. Die letzte Führung beginnt eine Stunde vor Schließung.
 
+### Wie komme ich ohne Auto zur Löwenburg?
+
+Zu Fuß von der Tram 1: Von der Endhaltestelle Wilhelmshöhe (Park) sind es 1,7 Kilometer, rund 22 Minuten, vom Schloss Wilhelmshöhe 0,9 Kilometer, rund 12 Minuten. Die Burg liegt höher als das Schloss, plane für den Anstieg etwas mehr Zeit ein. An Wasserspieltagen fährt der Bergparkshuttle bis zur Löwenburg.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 09.10.2026
@@ -113,3 +117,5 @@ Plan neben der Führung den Weg und die Zeit bis zur nächsten vollen Stunde ein
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026, und OpenStreetMap-Routing (Fußweg, ohne Steigungszuschlag), 14.10.2026
+- [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
+- [Stadt Kassel, Anreise Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 15.10.2026

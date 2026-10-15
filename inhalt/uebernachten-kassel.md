@@ -80,7 +80,7 @@ Vergleich Hotel und Ferienwohnung. Seid ihr zu mehreren, teilt ihr euch in einer
 
 ### Zahle ich in Kassel Übernachtungssteuer?
 
-Ja, 5 Prozent auf den Übernachtungspreis, auch in Ferienwohnungen. Frag beim Buchen, ob sie schon drin ist.
+Ja, 5 Prozent auf den Übernachtungspreis ohne Umsatzsteuer, auch in Ferienwohnungen. Frag beim Buchen, ob sie schon drin ist.
 
 ### Wo finde ich Ferienwohnungen in Kassel?
 

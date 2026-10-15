@@ -132,6 +132,10 @@ Das Lichtkunstfestival Bergparkleuchten wurde für 2026 abgesagt, weil der Stadt
 
 Sehr groß: Er gilt als größter Bergpark Europas, für einen Rundgang mit allen Stationen solltest du einen ganzen Tag einplanen.
 
+### Komme ich mit Kinderwagen oder Rollstuhl durch den Bergpark?
+
+Teilweise. Die Treppen an den Kaskaden haben kein Geländer, viele Wege sind nur bedingt barrierefrei, und die Löwenburg ist nicht barrierefrei. An Wasserspieltagen fährt der Bergparkshuttle für 2 Euro vom Parkplatz Wilhelmshöhe zum Schloss, zu den unteren Wasserspielstationen und zur Löwenburg. Mit den Merkzeichen G, aG, H, Gl oder Bl fährst du kostenlos.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Bergpark Wilhelmshöhe](https://www.heritage-kassel.de/standorte/bergpark-wilhelmshoehe), abgerufen 09.10.2026

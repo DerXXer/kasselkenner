@@ -100,6 +100,10 @@ Die Innenstadt ist vom Wiederaufbau geprägt: Die Altstadt wurde 1943 fast volls
 
 Im Großen Gewächshaus im Bergpark blüht es mitten im Winter. Das Museum für Sepulkralkultur und das Landesmuseum haben das ganze Jahr offen.
 
+### Wo genau liegt das Museum für Sepulkralkultur?
+
+In der Weinbergstraße 25 bis 27, gleich neben der Grimmwelt am Weinberg.
+
 ## Quellen
 
 - [Visit Kassel, Künstler-Nekropole](https://visit.kassel.de/poi/kuenstler-nekropole), abgerufen 09.10.2026

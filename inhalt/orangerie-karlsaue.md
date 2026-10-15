@@ -113,6 +113,10 @@ Nein, das Marmorbad hat nur vom 1. April bis 31. Oktober geöffnet, dienstags bi
 
 Die Karlsaue ist ein flacher Park am Fluss mitten in der Stadt. Der [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) zieht sich im Westen Kassels einen Hang hinauf, mit Herkules und Wasserspielen.
 
+### Wann komme ich auf die Insel Siebenbergen?
+
+Vom 1. April bis 30. September von 10 bis 18 Uhr, im Oktober von 10 bis 17 Uhr, letzter Einlass eine Stunde vor Schluss. Im Winter ist die Insel geschlossen. Von der Orangerie gehst du 2,5 Kilometer, rund 33 Minuten.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Orangerie](https://www.heritage-kassel.de/standorte/orangerie), abgerufen 14.10.2026
@@ -126,3 +130,4 @@ Die Karlsaue ist ein flacher Park am Fluss mitten in der Stadt. Der [Bergpark Wi
 - [KVG, Anreise zum Auepark (ältere Veranstaltungsmeldung)](https://www.kvg.de/en/news/milky-chance-staatsorchester-live-in-kassel-am-23-august-in-der-orangerie/), abgerufen 09.10.2026
 - [Wikipedia, Orangerie (Kassel)](https://de.wikipedia.org/wiki/Orangerie_(Kassel)), abgerufen 09.10.2026
 - [Wikipedia, Karlsaue](https://de.wikipedia.org/wiki/Karlsaue), abgerufen 09.10.2026
+- [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026

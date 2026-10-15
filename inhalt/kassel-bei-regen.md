@@ -90,6 +90,14 @@ Das Naturkundemuseum mit seinen Sauriern und die Grimmwelt mit ihrer Märchenwel
 
 Schloss Wilhelmshöhe, die Löwenburg und das Hessische Landesmuseum sind für Kinder unter 18 Jahren frei.
 
+### Wo genau liegen Naturkundemuseum und Landesmuseum?
+
+Das Naturkundemuseum im Ottoneum liegt am Steinweg 2, das Hessische Landesmuseum am Brüder-Grimm-Platz 5, beide in 34117 Kassel.
+
+### Gibt es einen Rabatt fürs Museum, wenn ich am Bergpark parke?
+
+Ja. Mit dem Abriss deines Parkscheins bekommst du am selben Tag einmal ermäßigten Eintritt in ein Museum von Hessen Kassel Heritage.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
@@ -106,3 +114,4 @@ Schloss Wilhelmshöhe, die Löwenburg und das Hessische Landesmuseum sind für K
 - [Kurhessen-Therme, Preise](https://www.kurhessen-therme.de/preise/), abgerufen 09.10.2026
 - [Wikipedia, Bad Wilhelmshöhe](https://de.wikipedia.org/wiki/Bad_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026
+- [Stadt Kassel, Anreise Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 15.10.2026

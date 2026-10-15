@@ -113,6 +113,10 @@ Vom Schloss rund 1,5 Stunden über Wege und Treppen. Von der Lindenstraße in Ba
 
 Der Blick reicht über den Bergpark auf Schloss Wilhelmshöhe, die Stadt und das Kasseler Becken.
 
+### Wie komme ich vom Herkules zurück in die Stadt?
+
+Mit dem Bus 22, der halbstündlich vom Herkules zur Endhaltestelle Druseltal fährt. Dort steigst du in die Tram 4 in die Innenstadt um, die auch am Bahnhof Wilhelmshöhe hält.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 09.10.2026

@@ -103,6 +103,14 @@ Schloss Wilhelmshöhe, die Museen in der Innenstadt und die Grimmwelt haben das 
 
 Ja, Visit Kassel hat auf seiner Website eine Kartenansicht mit Sehenswürdigkeiten, Museen und Parks.
 
+### Wo genau liegen Neue Galerie und Landesmuseum?
+
+Die Neue Galerie liegt an der Schönen Aussicht 1, das Hessische Landesmuseum am Brüder-Grimm-Platz 5, beide in 34117 Kassel.
+
+### Wo parke ich in der Kasseler Innenstadt?
+
+980 Plätze hat die Tiefgarage Friedrichsplatz, die Kurfürsten Galerie 560 und das Parkhaus Wilhelmsstraße 322. Die Gebühren nennt die Stadt dort nicht.
+
 ## Quellen
 
 - [Visit Kassel, Top 10](https://visit.kassel.de/top-10), abgerufen 09.10.2026
@@ -126,3 +134,4 @@ Ja, Visit Kassel hat auf seiner Website eine Kartenansicht mit Sehenswürdigkeit
 - [Wikipedia, Kassel](https://de.wikipedia.org/wiki/Kassel), abgerufen 14.10.2026
 - [Wikipedia, Fridericianum](https://de.wikipedia.org/wiki/Fridericianum_(Kassel)), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit OpenStreetMap-Routing (Fußweg), 09.10.2026
+- [Kassel Marketing, Anreise](https://www.weihnachtsmarkt-kassel.de/services/anreise.php), abgerufen 15.10.2026

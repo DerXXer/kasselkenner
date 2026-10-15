@@ -110,6 +110,14 @@ Die Ausstellungsorte hat die documenta noch nicht veröffentlicht. Schon bekannt
 
 Ja, das Fridericianum zeigt bis 3. Januar 2027 die Ausstellungen von Charles Ray und Mohammed Sami. Geöffnet ist es dienstags bis sonntags von 11 bis 18 Uhr, donnerstags bis 20 Uhr. Der Eintritt kostet 6 Euro, ermäßigt 4 Euro; mittwochs und für alle unter 18 Jahren ist er frei.
 
+### Wie weit ist es vom Hauptbahnhof zum Fridericianum?
+
+0,8 Kilometer, zu Fuß rund 11 Minuten. Vom Kulturbahnhof, dem Hauptbahnhof, führt die Treppenstraße als reine Fußgängerstraße direkt in die Innenstadt.
+
+### Ist die documenta barrierefrei, und darf mein Hund mit?
+
+Begleitpersonen von Menschen mit Behinderung, die auf Begleitung angewiesen sind, haben freien Eintritt. Wer nicht lange stehen oder warten kann, bekommt mit Nachweis im Welcome Center eine Accessibility Card, die Wartezeiten verkürzt. In die Ausstellungsgebäude dürfen keine Tiere, offizielle Assistenzhunde sind an allen Orten willkommen.
+
 ## Quellen
 
 - [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 14.10.2026
@@ -123,3 +131,6 @@ Ja, das Fridericianum zeigt bis 3. Januar 2027 die Ausstellungen von Charles Ray
 - [Wikipedia, documenta fifteen](https://de.wikipedia.org/wiki/Documenta_fifteen), abgerufen 09.10.2026
 - [Wikipedia, documenta 14](https://de.wikipedia.org/wiki/Documenta_14), abgerufen 09.10.2026
 - [Wikipedia, Fridericianum](https://de.wikipedia.org/wiki/Fridericianum_(Kassel)), abgerufen 09.10.2026
+- [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
+- [Visit Kassel, Treppenstraße](https://visit.kassel.de/poi/treppenstrasse), abgerufen 15.10.2026
+- [documenta 16, Barrierefreiheit](https://documentasixteen.com/de/besuch/barrierefreiheit), abgerufen 15.10.2026

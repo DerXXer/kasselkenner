@@ -85,6 +85,10 @@ Alle vier Touren erreichst du mit Tram 4 und Bus 22. Am einfachsten ist die Löw
 
 Ja, der Rundweg Wasserspiele K5 führt rund 5 Kilometer vom Besucherzentrum Wilhelmshöhe zum Fuß der Kaskaden und zurück. Du kommst mit der Tram 1 bis Wilhelmshöhe (Park) und folgst dem Wegzeichen K5. Wie du den [Bergpark](/bergpark-wilhelmshoehe/) an einem Tag erlebst, steht auf der Seite zum Park.
 
+### Kann ich die Wanderung am Hohen Gras mit dem Kletterwald verbinden?
+
+Ja, am Hohen Gras liegen Waldgaststätte, Aussichtsturm und Kletterwald nah beieinander. Der Kletterwald hat 2026 vom 4. April bis 1. November geöffnet, an Wochenenden, Feiertagen und Brückentagen, in den hessischen Schulferien täglich. Du meldest dich vorher an, ein Besuch dauert 2,5 Stunden mit Einweisung.
+
 ## Quellen
 
 - [Naturpark Habichtswald, Habichtswaldsteig](https://www.naturpark-habichtswald.de/erleben/wandern/habichtswaldsteig), abgerufen 14.10.2026
@@ -102,3 +106,4 @@ Ja, der Rundweg Wasserspiele K5 führt rund 5 Kilometer vom Besucherzentrum Wilh
 - [KVG Kassel, Fahrplan Linie 22 (2026)](https://www.kvg.de/fileadmin/kvg/Dokumente/Plaene/Fahrplan/Bus/2026/F1B22_2026.pdf), abgerufen 14.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
+- [Kletterwald Kassel, Öffnungszeiten](https://www.kletterwald-kassel.de/oeffnungszeiten/), abgerufen 15.10.2026

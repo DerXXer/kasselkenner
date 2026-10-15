@@ -21,7 +21,7 @@ Das gehört jedes Jahr dazu:
 - **Wasserski-Show** auf der Fulda
 - **Fackelschwimmen** und beleuchtete Boote am Abend
 - **Abschlussfeuerwerk**
-- **Nostalgischer Jahrmarkt** an der Karlswiese mit Riesenrad und Wasserbahn
+- **Nostalgischer Jahrmarkt** an der Karlswiese mit Fahrgeschäften
 - **Weindorf** nahe der Orangerie
 - **Zisselmeile** am Auedamm mit Ständen und Musik
 

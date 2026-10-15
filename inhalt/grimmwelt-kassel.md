@@ -127,6 +127,10 @@ Ja, das Restaurant FALADA und den Shop kannst du auch ohne Eintrittskarte besuch
 
 Die persönlichen Arbeitsexemplare der „Kinder- und Hausmärchen“ mit handschriftlichen Notizen der Grimms. Sie gehören zum UNESCO-Weltdokumentenerbe.
 
+### Kann ich die Weinbergterrassen neben der Grimmwelt besuchen?
+
+Ja, vom 1. April bis 31. Oktober täglich von 8 bis 19.30 Uhr und ohne Eintritt. Hunde an der Leine sind erlaubt, bis zur mittleren Ebene kommst du seit 2026 ohne Stufen hinauf. Im Winter sind die Terrassen geschlossen.
+
 ## Quellen
 
 - [Grimmwelt, Besucherinformationen](https://www.grimmwelt.de/de/besucherinformationen), abgerufen 14.10.2026
@@ -135,3 +139,4 @@ Die persönlichen Arbeitsexemplare der „Kinder- und Hausmärchen“ mit handsc
 - [Grimmwelt, Erlebnisraum GRIMMWELT](https://www.grimmwelt.de/de/ausstellungen/grimmwelt), abgerufen 09.10.2026
 - [Grimmwelt, Über uns](https://www.grimmwelt.de/de/ueber-uns), abgerufen 09.10.2026
 - [Grimmwelt, Die Kinder- und Hausmärchen](https://www.grimmwelt.de/de/journal/die-kinder-und-hausmaerchen), abgerufen 09.10.2026
+- [Visit Kassel, Weinbergterrassen](https://visit.kassel.de/poi/weinbergterrassen), abgerufen 15.10.2026

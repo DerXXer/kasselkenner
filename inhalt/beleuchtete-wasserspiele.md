@@ -97,6 +97,10 @@ Ja, unbedingt. Teile der Wege im Bergpark sind abends unbeleuchtet.
 
 Ab Wilhelmshöhe (Park) fährt Bus 23 zum Herkules und Tram 1 über den Bahnhof Wilhelmshöhe in die Innenstadt. Alles zu den Wasserspielen am Tag steht unter [Wasserspiele Kassel](/wasserspiele-kassel/).
 
+### Geht der Weg am Abend mit Kinderwagen oder Rollstuhl?
+
+Nur eingeschränkt. Vom Herkules bis zum Schloss sind es rund 2,3 Kilometer bergab, an den Kaskaden über Treppen ohne Geländer, und die Wege sind nur bedingt barrierefrei. Abends sind Teile davon unbeleuchtet, nimm deshalb eine Taschenlampe mit.
+
 ## Quellen
 
 - [Stadt Kassel, Beleuchtete Wasserspiele](https://www.kassel.de/beleuchtete-wasserspiele/index.php), abgerufen 09.10.2026

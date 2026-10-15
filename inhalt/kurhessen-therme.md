@@ -86,6 +86,10 @@ Ja, für 8,00 Euro Leihgebühr plus 25,00 Euro Pfand; ein Badetuch kostet 7,00 E
 
 Nein, im Thermalbad ist Fotografieren und Filmen verboten, im Saunabereich dürfen Geräte mit Kamera gar nicht erst mit hinein. Lass das Handy am besten im Wertfach.
 
+### Ist die Kurhessen-Therme barrierefrei?
+
+Ja, die Therme hat barrierefreie Beckenzugänge, Umkleiden und Sanitäranlagen.
+
 ## Quellen
 
 - [Kurhessen-Therme, Startseite](https://www.kurhessen-therme.de/), abgerufen 14.10.2026

@@ -115,6 +115,14 @@ Aktuelle Termine stehen bei Visit Kassel unter „Veranstaltungen in Kassel“. 
 
 Nach Einbruch der Dunkelheit leuchtet jeden Samstag die Laserscape über der Stadt, eine Lichtskulptur aus der documenta.
 
+### Gibt es ein Ticket für Tram und Bus übers ganze Wochenende?
+
+Ja, das MultiTicket. Allein zahlst du 8,30 Euro, für bis zu fünf Personen, davon höchstens zwei Erwachsene, 11,40 Euro. Es gilt im Stadtgebiet Kassel 24 Stunden oder ab Freitag 14 Uhr das ganze Wochenende.
+
+### Wie buche ich die Führung durch die Löwenburg?
+
+Im Online-Ticketshop von Hessen Kassel Heritage. Die Plätze je Führung sind begrenzt.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
@@ -137,3 +145,4 @@ Nach Einbruch der Dunkelheit leuchtet jeden Samstag die Laserscape über der Sta
 - [Visit Kassel, Veranstaltungen](https://visit.kassel.de/veranstaltungen), abgerufen 14.10.2026
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit OpenStreetMap-Routing (Fußweg), 09.10.2026
+- [Kassel Marketing, Anreise](https://www.weihnachtsmarkt-kassel.de/services/anreise.php), abgerufen 15.10.2026

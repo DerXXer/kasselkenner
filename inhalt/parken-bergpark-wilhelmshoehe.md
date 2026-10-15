@@ -106,6 +106,10 @@ Am Herkules, wenn du am Start sein willst, oder unten am Schloss, wenn du mit Bu
 
 Ja, der Bergpark ist ganzjährig kostenfrei zugänglich, auch die Wasserspiele kosten keinen Eintritt. Geld kosten nur Parken und Museen.
 
+### Wie weit ist es vom Schloss zur Tram?
+
+0,8 Kilometer, rund 10 Minuten zu Fuß bis zur Endhaltestelle Wilhelmshöhe (Park) der Tram 1.
+
 ## Quellen
 
 - [Stadt Kassel, Parken am Bergpark Wilhelmshöhe](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
@@ -116,3 +120,4 @@ Ja, der Bergpark ist ganzjährig kostenfrei zugänglich, auch die Wasserspiele k
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
 - [NVV, KombiTicket](https://www.nvv.de/tickets/weitere-tickets/kombiticket), abgerufen 09.10.2026
 - [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 09.10.2026
+- [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
