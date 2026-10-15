@@ -73,8 +73,6 @@ Sobald deine Reisetage feststehen, warte nicht bis zum Frühjahr 2027. Zur docum
 
 ### Gilt das documenta-Ticket als Fahrkarte?
 
-![Hauptbahnhof](hauptbahnhof-kassel.jpg)
-
 Ja: Mit einem Tages- oder Abendticket der documenta fährst du an diesem Tag bis Betriebsschluss gratis Bus und Bahn, also auch zwischen Unterkunft und Ausstellung. Innerhalb Kassels bist du damit sicher unterwegs; wohnst du weiter draußen, frag beim Besucherservice nach, wie weit das Ticket reicht. Für die Dauerkarte gilt das nicht.
 
 ### Wie hoch ist die Übernachtungssteuer?

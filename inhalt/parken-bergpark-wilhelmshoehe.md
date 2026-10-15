@@ -14,8 +14,6 @@ Mit dem Auto zum [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) parkst du en
 
 ## Wie viele Parkplätze gibt es am Bergpark?
 
-![Herkules-Parkplatz](parkplatz-herkules-winter.jpg)
-
 Es gibt zwei Parkplätze: Am Herkules sind es 280 Plätze, am Schloss 390.
 
 | Parkplatz | Lage | Plätze | Gut für |

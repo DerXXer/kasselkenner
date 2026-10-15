@@ -32,8 +32,6 @@ Bis 11. April 2027 läuft „Zwischen Gestalten | Helga Gebert“, die erste umf
 
 ## Gibt es in der Grimmwelt eine Dachterrasse?
 
-![Dachterrasse](dachterrasse.jpg)
-
 Ja: Das Dach der Grimmwelt ist eine rund 2.000 Quadratmeter große, offene Terrasse. Von oben reicht der Blick über die Südstadt bis zum Herkules, an klaren Tagen ein schöner Abschluss deines Besuchs. Du kommst vom Foyer aus über Treppe oder Aufzug hinauf.
 
 ## Ab welchem Alter lohnt die Grimmwelt?

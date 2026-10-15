@@ -158,6 +158,8 @@ tr:nth-child(even) td{background:var(--grund)}
 .polaroid.im-text{float:right;width:min(44%,330px);margin:10px 0 40px 36px;transform:rotate(1.8deg)}
 .polaroid.im-text.links{float:left;margin:10px 36px 40px 0;transform:rotate(-2deg)}
 .polaroid.im-text figcaption{font-size:20px}
+.polaroid.im-text.klein{width:min(34%,250px)}
+.polaroid.im-text.mitte{float:none;width:min(62%,420px);margin:30px auto 34px;transform:rotate(-1.2deg)}
 .im-text ~ h2,.im-text ~ .tabelle,.im-text ~ .strecke,.im-text ~ .faq{clear:both}
 .eigen.knapp .k > p:not(.tipp):not(.dach){display:none}
 .eigen.knapp .tipp{margin-bottom:12px}
@@ -246,7 +248,7 @@ tr:nth-child(even) td{background:var(--grund)}
   .aktuell .zettel{margin:-24px 12px 0}
 }
 @media (max-width:760px){
-  .polaroid.im-text,.polaroid.im-text.links{float:none;width:78%;margin:26px auto 30px}
+  .polaroid.im-text,.polaroid.im-text.links,.polaroid.im-text.klein,.polaroid.im-text.mitte{float:none;width:78%;margin:26px auto 30px}
   body{font-size:17px}
   .haupt{display:none}
   .karten,.vorhaben-raster{grid-template-columns:minmax(0,1fr)}

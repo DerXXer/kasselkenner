@@ -169,10 +169,18 @@ def markdown(rumpf):
         if m:  # Polaroid im Text, abwechselnd rechts und links (Aaron, 15.10.2026)
             unterschrift, datei = m.group(1), m.group(2)
             stem, alt = Path(datei).stem, BILDNACHWEIS.get(datei, {}).get("alt", "")
-            seite_ = "rechts" if bilder_im_text % 2 == 0 else "links"
-            bilder_im_text += 1
+            # Wie viel Text folgt bis zur nächsten Sperre (## , Tabelle, Hinweis)? Danach richtet sich die Größe,
+            # damit neben dem Bild kein leerer Platz bleibt (Aaron, 15.10.2026)
+            folgt, j = 0, i + 1
+            while j < len(zeilen) and not re.match(r"(## |\||> |!\[)", zeilen[j]):
+                folgt += len(re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", zeilen[j])); j += 1
+            if folgt < 260:
+                seite_ = "mitte"
+            else:
+                seite_ = ("rechts" if bilder_im_text % 2 == 0 else "links") + (" klein" if folgt < 480 else "")
+                bilder_im_text += 1
             aus.append(f'<figure class="polaroid im-text {seite_}"><img src="../bilder/{stem}-600.webp" '
-                       f'srcset="../bilder/{stem}-600.webp 600w, ../bilder/{stem}.webp 1200w" sizes="(max-width:760px) 80vw, 340px" '
+                       f'srcset="../bilder/{stem}-600.webp 600w, ../bilder/{stem}.webp 1200w" sizes="(max-width:760px) 80vw, 420px" '
                        f'alt="{html.escape(alt)}" width="1200" height="900" loading="lazy"><figcaption>{html.escape(unterschrift)}</figcaption></figure>')
             i += 1
             continue
