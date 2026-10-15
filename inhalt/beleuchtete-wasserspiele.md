@@ -34,6 +34,8 @@ Im September ging es eine Stunde früher los als im Juni. Prüf die Startzeit de
 | Stationen | mit Steinhöfer Wasserfall | ohne Steinhöfer Wasserfall, dafür beleuchteter Jussowtempel |
 | Wege | bei Tageslicht | teils unbeleuchtet |
 
+![Aquädukt bei Nacht](aquaedukt-beleuchtet.jpg)
+
 Zwischen den Stationen sind manche Wege dunkel, eine Taschenlampe gehört also ins Gepäck. An den Kaskaden kommen Treppen ohne Geländer dazu, feste Schuhe helfen auch hier.
 
 ## Praktisches: Termine und Anreise

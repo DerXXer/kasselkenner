@@ -27,6 +27,8 @@ Denk an den Montag: Dann haben die Museen zu, außer an Feiertagen – die Therm
 
 ## Was kann man bei Regen am Bergpark machen?
 
+![Kurhessen-Therme](kurhessen-therme-aussen.jpg)
+
 Mit dem Tagesticket Wilhelmshöhe für 8 Euro (während der Ausstellung „DÜRER“ 12 Euro) kommst du ins Schloss und mit Führung in die Löwenburg. Die Kurhessen-Therme ist täglich von 9 bis 22 Uhr offen. Vom 1. November bis 31. März kommt das Große Gewächshaus dazu, Dienstag bis Sonntag von 10 bis 17 Uhr, ebenfalls im Tagesticket.
 
 **Schloss Wilhelmshöhe** ist wie gemacht für einen Regentag: Drinnen hängen Rembrandt, Rubens, Dürer und Tizian, und durch die Fenster schaust du auf den nassen, grünen Park. Im Untergeschoss wartet die Antikensammlung. Das Tagesticket Wilhelmshöhe kostet 8 Euro, unter 18 ist frei; während der Ausstellung „DÜRER“ sind es 12 Euro. Mehr unter [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/).

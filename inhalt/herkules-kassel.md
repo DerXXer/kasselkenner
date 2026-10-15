@@ -26,6 +26,8 @@ Rund 70 Meter misst das ganze Monument. Der Herkules obendrauf ist mit Sockel ü
 
 ## Kann man den Herkules von innen besichtigen?
 
+![Im Oktogon](oktogon-innenraum.jpg)
+
 Ja, das Oktogon mit der Aussichtsplattform ist vom 1. April bis 31. Oktober dienstags bis sonntags und feiertags von 10 bis 17 Uhr geöffnet, im Winter ist es zu. Das Monument besteht aus dem Grottenbau, dem „Riesenschloss“ mit der Aussichtsplattform und der Pyramide mit der Statue obendrauf. Der Eintritt läuft über das Tagesticket Wilhelmshöhe für 8 Euro.
 
 ## Was hat der Herkules mit Kassel zu tun?
@@ -37,6 +39,8 @@ Er ist das Wahrzeichen der Stadt: Landgraf Carl begann 1696 mit dem barocken Ber
 Die [Wasserspiele](/wasserspiele-kassel/) starten am Herkules: In der Saison zwischen 1. Mai und 3. Oktober rauscht das Wasser mittwochs, sonntags und an Feiertagen um 14.30 Uhr unterhalb des Oktogons los. Danach folgen Steinhöfer Wasserfall, Teufelsbrücke, Aquädukt und um 15.45 Uhr die Große Fontäne. Die Saison 2026 ist beendet, die Termine für 2027 stehen noch aus. Abends gibt es an wenigen Terminen die [Beleuchteten Wasserspiele](/beleuchtete-wasserspiele/).
 
 ## Ist das Besucherzentrum im Winter geöffnet?
+
+![Besucherzentrum](besucherzentrum-herkules.jpg)
 
 Ja, das Besucherzentrum ist ganzjährig dienstags bis sonntags und feiertags von 10 bis 17 Uhr geöffnet. Es liegt am Parkplatz hinter dem Herkules. Hier gibt es eine Ausstellung, Tickets, einen Shop und kleine Erfrischungen, praktisch auch im Winter, wenn das Oktogon geschlossen ist.
 

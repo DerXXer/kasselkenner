@@ -112,7 +112,7 @@ def markdown(rumpf):
     """Gibt (html, faq-liste, inhaltsverzeichnis) zurück."""
     aus, faq, toc = [], [], []
     zeilen = rumpf.splitlines()
-    i, in_faq = 0, False
+    i, in_faq, bilder_im_text = 0, False, 0
     while i < len(zeilen):
         z = zeilen[i]
         if not z.strip():
@@ -165,6 +165,17 @@ def markdown(rumpf):
             tag = "ol" if geordnet else "ul"
             aus.append(f"<{tag}>" + "".join(f"<li>{inline(p)}</li>" for p in punkte) + f"</{tag}>")
             continue
+        m = re.match(r"!\[([^\]]*)\]\(([^)\s]+)\)\s*$", z)
+        if m:  # Polaroid im Text, abwechselnd rechts und links (Aaron, 15.10.2026)
+            unterschrift, datei = m.group(1), m.group(2)
+            stem, alt = Path(datei).stem, BILDNACHWEIS.get(datei, {}).get("alt", "")
+            seite_ = "rechts" if bilder_im_text % 2 == 0 else "links"
+            bilder_im_text += 1
+            aus.append(f'<figure class="polaroid im-text {seite_}"><img src="../bilder/{stem}-600.webp" '
+                       f'srcset="../bilder/{stem}-600.webp 600w, ../bilder/{stem}.webp 1200w" sizes="(max-width:760px) 80vw, 340px" '
+                       f'alt="{html.escape(alt)}" width="1200" height="900" loading="lazy"><figcaption>{html.escape(unterschrift)}</figcaption></figure>')
+            i += 1
+            continue
         if z.startswith("> "):
             teile = []
             while i < len(zeilen) and zeilen[i].startswith(">"):
@@ -173,7 +184,7 @@ def markdown(rumpf):
             aus.append(f'<aside class="hinweis zettel blau"><b class="marke">Gut zu wissen</b><p>{inline(" ".join(teile))}</p></aside>')
             continue
         absatz = []
-        while i < len(zeilen) and zeilen[i].strip() and not re.match(r"(#|\||- |\d+\. |> )", zeilen[i]):
+        while i < len(zeilen) and zeilen[i].strip() and not re.match(r"(#|\||- |\d+\. |> |!\[)", zeilen[i]):
             absatz.append(zeilen[i].strip())
             i += 1
         aus.append(f"<p>{inline(' '.join(absatz))}</p>")
@@ -579,7 +590,8 @@ def main():
         seiten["bildnachweise"] = ({"titel": "Bildnachweise | Kasselkenner", "beschreibung": "Urheber und Lizenzen der Fotos auf kasselkenner.de.",
                                     "slug": "bildnachweise", "art": "rechtliches", "eigenwerbung": "nein", "sitemap": "nein"}, rumpf)
     alle = {s: m for s, (m, _) in seiten.items()}
-    benutzt = {m["bild"] for m in alle.values() if m.get("bild")} | {EIGEN_BILD} | {e[3] for e in EMPFEHLUNG.values()}
+    benutzt = {m["bild"] for m in alle.values() if m.get("bild")} | {EIGEN_BILD} | {e[3] for e in EMPFEHLUNG.values()} | \
+        {b for _, r in seiten.values() for b in re.findall(r"^!\[[^\]]*\]\(([^)\s]+)\)", r, re.M)}
     bilder_kopieren(benutzt)  # vorab, damit Bildmaße für og:image und JSON-LD bekannt sind
     for slug, (meta, rumpf) in seiten.items():
         rumpf, quellen = quellen_block(rumpf)

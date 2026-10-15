@@ -14,11 +14,15 @@ Der Habichtswald beginnt gleich hinter dem Bergpark: Wer oben am Herkules oder u
 
 ## Was ist der Habichtswaldsteig, und passt er für einen Tag ab Kassel?
 
+![Wegweiser](wegweiser-habichtswaldsteig.jpg)
+
 Der Habichtswaldsteig ist ein 85 Kilometer langer Premiumwanderweg von Zierenberg bis zum Edersee. Den Fernweg gehst du in vier Tagesetappen von 18 bis knapp 24 Kilometern, markiert mit einem Habicht auf purpurnem Grund. Für einen Tag ab Kassel sind die Extratouren die bessere Wahl: zehn Rundtouren zwischen 10 und gut 18 Kilometern, alle als Premium-Wanderweg ausgezeichnet. Zwei davon, H3 und H10, führen an Herkules und Bergpark vorbei.
 
 Du willst den Fernweg selbst gehen? Kassel-Neuholland, eine Haltestelle von Bus 22, ist ein Etappenort. Von dort bringt dich Bus 22 zum Druseltal und die Tram 4 zum Bahnhof Wilhelmshöhe.
 
 ## Welche Touren starten am Bergpark, und wie lang sind sie?
+
+![Wandertafel](wandertafel-kurhessen-therme.jpg)
 
 Die Zeiten stammen aus den Tourenbeschreibungen, mit Pausen und Aussicht planst du mehr ein.
 

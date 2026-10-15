@@ -14,6 +14,8 @@ Die Grimmwelt am Weinberg ist das Haus der Brüder Grimm in Kassel: Märchen, Sp
 
 ## Was ist die Grimmwelt und was zeigt sie?
 
+![Märchenbuch](kinder-und-hausmaerchen.jpg)
+
 Die Dauerausstellung führt dich auf rund 1.200 Quadratmetern durch 25 Bereiche, die nach Buchstaben benannt sind, aber bewusst nicht nach dem Alphabet sortiert. Los geht es mit „Z wie ZETTEL“. Du stöberst eher, als dass du einem festen Weg folgst, und entdeckst dabei Märchen, Wörter und das Leben der Grimms in Kassel.
 
 Herzstück sind die Handexemplare der „Kinder- und Hausmärchen“, die Arbeitsexemplare der Brüder Grimm mit ihren eigenen handschriftlichen Notizen. Sie gehören zum UNESCO-Weltdokumentenerbe.
@@ -29,6 +31,8 @@ Zum Mitmachen gibt es zum Beispiel:
 Bis 11. April 2027 läuft „Zwischen Gestalten | Helga Gebert“, die erste umfassende Einzelausstellung zur Künstlerin. Sie ist seit 12. Juni 2026 zu sehen und im Ticket für die Dauerausstellung enthalten.
 
 ## Gibt es in der Grimmwelt eine Dachterrasse?
+
+![Dachterrasse](dachterrasse.jpg)
 
 Ja: Das Dach der Grimmwelt ist eine rund 2.000 Quadratmeter große, offene Terrasse. Von oben reicht der Blick über die Südstadt bis zum Herkules, an klaren Tagen ein schöner Abschluss deines Besuchs. Du kommst vom Foyer aus über Treppe oder Aufzug hinauf.
 

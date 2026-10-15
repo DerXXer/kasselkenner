@@ -44,6 +44,8 @@ Kirchditmold liegt am Westrand der Stadt direkt neben dem Bergpark. Die Straßen
 
 ## An welchem Bahnhof steige ich in Kassel aus?
 
+![Wilhelmshöhe](vorplatz-wilhelmshoehe-nacht.jpg)
+
 Wer mit dem ICE kommt, steigt in Kassel-Wilhelmshöhe aus, nicht am Hauptbahnhof. Von hier fahren die Straßenbahnen 1, 3 und 4 ohne Umsteigen zum Friedrichsplatz, die Tram 1 in die andere Richtung hinauf zum Bergpark.
 
 | Ab | nach Kassel-Wilhelmshöhe |

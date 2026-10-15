@@ -22,6 +22,8 @@ Seit 2013 gehört der Bergpark mit seinen historischen Wasserkünsten zum UNESCO
 
 ## Was gibt es im Bergpark?
 
+![Merkurtempel](merkurtempel.jpg)
+
 Der Eintritt in den Park ist frei, und der Herkules ganz oben steht auf 515 Metern über dem Meer.
 
 **Herkules.** Das Wahrzeichen Kassels thront oben über dem Bergpark, an seinem Fuß beginnen die Kaskaden. Von dort blickst du über Schloss, Stadt und Kasseler Becken. Mehr unter [Herkules Kassel](/herkules-kassel/).
@@ -35,6 +37,8 @@ Der Eintritt in den Park ist frei, und der Herkules ganz oben steht auf 515 Mete
 Was es in der Stadt zu sehen gibt, steht unter [Kassel Sehenswürdigkeiten](/kassel-sehenswuerdigkeiten/).
 
 ## Wie läuft man den Bergpark an einem Tag ab?
+
+![Plutogrotte](plutogrotte.jpg)
 
 Vom Herkules bis zum Schloss sind es rund 2,3 km, und es geht nur bergab. Am bequemsten fährst du nach oben und lässt dich vom Gefälle hinuntertragen.
 

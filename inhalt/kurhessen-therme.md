@@ -3,7 +3,7 @@ titel: Kurhessen Therme Kassel: Preise, Zeiten, Anreise
 beschreibung: Kurhessen Therme in Kassel: Preise mit Stand, Öffnungszeiten, Sauna, Regeln für Tagesgäste, Anreise mit Tram 1 und der Weg zum Bergpark.
 slug: kurhessen-therme
 kurz: Kurhessen-Therme
-bild: schloss-wilhelmshoehe.jpg
+bild: kurhessen-therme-aussen.jpg
 stand: 2026-10-14
 blick: Geöffnet=täglich 9 bis 22 Uhr | Thermalbad=2 Stunden 18 Euro (Mo bis Do) | Tageskarte=26 Euro, mit Sauna 32 Euro | Preise=Stand 14.10.2026 | Adresse=Wilhelmshöher Allee 361 | Anreise=Tram 1, Haltestelle Kurhessen-Therme
 weiter: bergpark-wilhelmshoehe, kassel-bei-regen, kassel-wochenende

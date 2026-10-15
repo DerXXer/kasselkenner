@@ -38,6 +38,8 @@ Zwischen den Plätzen gehst du zu Fuß. Die Treppenstraße mit der Märchenrutsc
 - **Puppentheater:** freitags auf dem Opernplatz mit „Das tapfere Schneiderlein“.
 - **Märchenwald:** am Friedrichsplatz, mit Lagerfeuer.
 
+![Märchenkarussell](maerchen-karussell-detail.jpg)
+
 Prüf die Zeiten kurz vor deinem Besuch. Verzehrgutscheine zu 3 Euro gibt es in der Tourist Information in der Wilhelmsstraße 23 und am Kassel Service Point in der GALERIA.
 
 ## Praktisches: Anreise und Parken

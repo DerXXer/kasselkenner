@@ -42,6 +42,8 @@ Wer nur einen Tag hat, nimmt oben den Herkules und unten das Schloss mit. Zu Fu�
 
 ## Was gibt es in der Kasseler Innenstadt zu sehen?
 
+![Treppenstraße](treppenstrasse.jpg)
+
 In der Innenstadt liegt alles nah beieinander: Vom Fridericianum zum Marmorbad sind es 8 Minuten zu Fuß, von dort zur Neuen Galerie 9 Minuten und weiter zur Grimmwelt 5 Minuten. Du läufst gemütlich von Ort zu Ort.
 
 - **Friedrichsplatz und Fridericianum:** Das Fridericianum ist das Herz der documenta. Zwischen 12. Juni und 19. September 2027 ist die nächste Ausgabe zu sehen, dann ist die ganze Stadt voller Kunst.
@@ -53,6 +55,8 @@ In der Innenstadt liegt alles nah beieinander: Vom Fridericianum zum Marmorbad s
 Am ersten Augustwochenende wird in der Karlsaue der [Zissel](/zissel-kassel/) gefeiert, und vom 23. November bis 30. Dezember 2026 steht in der Innenstadt der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/).
 
 ## Welche documenta-Kunst steht dauerhaft in der Stadt?
+
+![Himmelsstürmer](himmelsstuermer.jpg)
 
 Manche Kunst ist nach der documenta einfach geblieben und steht heute kostenlos mitten in der Stadt. Der „Himmelsstürmer“ von Jonathan Borofsky schreitet vor dem Kulturbahnhof Richtung Himmel. Die „7000 Eichen“ von Joseph Beuys erkennst du an den Basaltstelen neben den Bäumen; der erste und der letzte Baum stehen vor dem Fridericianum. Weitere, stillere Orte findest du unter [Kassel abseits der bekannten Wege](/kassel-geheimtipps/).
 

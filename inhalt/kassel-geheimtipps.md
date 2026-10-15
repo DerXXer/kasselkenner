@@ -35,6 +35,8 @@ Der Eintritt kostet 8 Euro, jeden 1. Mittwoch im Monat ist er ab 17 Uhr frei. Mo
 
 ## Wann gibt es Führungen durch den Weinbergbunker?
 
+![Weinbergbunker](weinbergbunker-stollen.jpg)
+
 Der Feuerwehrverein Kassel führt jeden 1. Montag im Monat durch den größten Bunker der Stadt, ab 5 Euro und nur mit Anmeldung. Unter dem Weinberg ziehen sich alte Stollen durch den Fels. Erst kühlten Brauer hier ihr Bier mit Eis, später lagerte Wein darin, und im Zweiten Weltkrieg suchten bis zu 10.000 Menschen Schutz. Die Gänge sind teils dunkel und eng, empfohlen ist die Führung ab 10 Jahren.
 
 ## Wann kann man auf den Turm des Hessischen Landesmuseums?
@@ -44,6 +46,8 @@ Hinauf geht es zu jeder vollen und halben Stunde, im Museumseintritt von 8 Euro 
 Nur 4 Minuten weiter wartet die nächste Aussicht: die Dachterrasse der Grimmwelt mit Blick über die Südstadt bis zum Herkules.
 
 ## Wann leuchtet die Laserscape?
+
+![Laserscape](laserscape-karlsaue.jpg)
 
 Jeden Samstag nach Einbruch der Dunkelheit ziehen Laserstrahlen quer über Kassel, unter anderem bis zum Turm des Landesmuseums. Das Lichtkunstwerk stammt aus der documenta und gehört seitdem einfach zur Stadt – ein schöner Abschluss für einen Abendspaziergang.
 

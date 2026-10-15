@@ -14,6 +14,8 @@ Zwei Tage reichen für das [Beste von Kassel](/kassel-sehenswuerdigkeiten/), wen
 
 ## Was macht man samstags in Kassel?
 
+![Grimm-Denkmal](grimm-denkmal.jpg)
+
 Fünf Stationen, dazwischen jeweils nur 5 bis 9 Minuten zu Fuß: Alles liegt nah beieinander, du schlenderst von Station zu Station.
 
 | Station | Geöffnet | Weg zur nächsten Station |

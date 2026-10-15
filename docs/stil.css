@@ -162,6 +162,10 @@ tr:nth-child(even) td{background:var(--grund)}
 .eigen .knopf:hover{background:var(--wein-d,#43141F)}
 .eigen.knapp .polaroid{width:52%;margin-bottom:16px}
 .eigen.knapp .polaroid figcaption{font-size:18px;white-space:nowrap}
+.im-text{float:right;width:min(44%,330px);margin:8px 0 48px 30px;transform:rotate(1.8deg)}
+.im-text.links{float:left;margin:8px 30px 48px 0;transform:rotate(-2deg)}
+.im-text figcaption{font-size:20px}
+.im-text ~ h2,.im-text ~ .tabelle,.im-text ~ .strecke,.im-text ~ .faq{clear:both}
 .eigen.knapp .k > p:not(.tipp):not(.dach){display:none}
 .eigen.knapp .tipp{margin-bottom:12px}
 .knopf{display:inline-flex;align-items:center;gap:10px;background:var(--sonne);color:#fff;font:700 15px "Instrument Sans",sans-serif;text-decoration:none;padding:13px 22px;border-radius:4px}
@@ -249,6 +253,7 @@ tr:nth-child(even) td{background:var(--grund)}
   .aktuell .zettel{margin:-24px 12px 0}
 }
 @media (max-width:760px){
+  .im-text,.im-text.links{float:none;width:78%;margin:26px auto 30px}
   body{font-size:17px}
   .haupt{display:none}
   .karten,.vorhaben-raster{grid-template-columns:minmax(0,1fr)}

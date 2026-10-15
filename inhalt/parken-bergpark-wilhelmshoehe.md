@@ -14,6 +14,8 @@ Mit dem Auto zum [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) parkst du en
 
 ## Wie viele Parkplätze gibt es am Bergpark?
 
+![Herkules-Parkplatz](parkplatz-herkules-winter.jpg)
+
 Es gibt zwei Parkplätze: Am Herkules sind es 280 Plätze, am Schloss 390.
 
 | Parkplatz | Lage | Plätze | Gut für |
@@ -39,6 +41,8 @@ An Wasserspieltagen kommst du am besten früh, wenn du einen Platz willst. Wie s
 ## Praktisches: Preise, Shuttle und Bus
 
 ### Was kostet das Parken?
+
+![Tram am Park](tram-wilhelmshoehe-park.jpg)
 
 An normalen Tagen sind die ersten 30 Minuten frei und der ganze Tag kostet 5 Euro, an Wasserspieltagen zahlst du zwischen 9.30 und 15 Uhr 8,50 Euro für den Pkw.
 

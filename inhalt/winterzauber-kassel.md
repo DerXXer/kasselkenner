@@ -3,7 +3,7 @@ titel: Winterzauber Kassel 2026: Termine, Eintritt und Anreise
 beschreibung: Winterzauber Kassel 2026 an der Orangerie: 5. bis 8. und 12. bis 14. November, Eintritt 12 Euro, Kinder bis 17 frei. Zeiten, Parken, Anreise.
 slug: winterzauber-kassel
 kurz: Winterzauber
-bild: orangerie-karlsaue.jpg
+bild: orangerie-winter-laser.jpg
 stand: 2026-10-14
 blick: Termine 2026=5. bis 8. und 12. bis 14. November | Ort=Orangerie, Auedamm 20B | Eintritt=12 Euro, Vorverkauf 10 Euro | Kinder=bis 17 Jahre frei | Aussteller=rund 120
 weiter: weihnachtsmarkt-kassel, orangerie-karlsaue, kassel-mit-kindern
@@ -49,6 +49,8 @@ Ermäßigt zahlen Schwerbehinderte, Studierende und Schüler, jeweils nur mit g�
 Nein. Der Winterzauber dauert sieben Tage im November und steht an der Orangerie, der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/) läuft vom 23. November bis 30. Dezember 2026 in der Innenstadt rund um Königsplatz und Friedrichsplatz. Suchst du einen Weihnachtsmarkt an der Orangerie, bist du beim Winterzauber richtig. Beides lässt sich gut verbinden: erst der Winterzauber zum Einstimmen, später der Bummel durch die Stadt.
 
 ## Wie kommst du zum Winterzauber Kassel?
+
+![Karlsaue im Winter](karlsaue-winter-schnee.jpg)
 
 Mit der Tram: Vom Bahnhof Wilhelmshöhe fahren die Linien 1, 3 und 4 zum Friedrichsplatz, von dort gehst du 8 bis 12 Minuten hinunter zur Orangerie. Kommst du vom [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/), fährt Tram 1 ab Wilhelmshöhe (Park) und Tram 4 ab Druseltal in die Innenstadt. Fürs Navi: Orangerie, Auedamm 20B, 34121 Kassel.
 

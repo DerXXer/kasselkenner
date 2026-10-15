@@ -36,6 +36,8 @@ Vom Aquädukt stürzt das Wasser über die Peneuskaskaden in den Fontänenteich.
 
 ## Wo sieht man die Wasserspiele in Kassel am besten?
 
+![Aquädukt-Wasserfall](aquaedukt-wasserfall.jpg)
+
 Die Große Fontäne springt um 15.45 Uhr unterhalb des Schlosses, den Start um 14.30 Uhr siehst du nur oben am Herkules. Gute Plätze zum Schauen und Fotografieren:
 
 - die Teufelsbrücke
@@ -50,6 +52,8 @@ An Wasserspieltagen ist viel los, früh da sein lohnt sich. Wer alle Stationen s
 Du musst nicht auf den Berg, um das Schönste mitzunehmen. Aus Bad Wilhelmshöhe (ab der Lindenstraße) gehst du in 14 Minuten flach zum Schloss Wilhelmshöhe. Um 15.45 Uhr steigt dort die Große Fontäne, danach fließt das Wasser in den Schlossteich direkt vor dem Schloss. Zum Herkules wären es dagegen 46 Minuten und 242 m bergauf.
 
 ## Wie funktionieren die Wasserspiele ohne Pumpen?
+
+![Steinhöfer Wasserfall](steinhoefer-wasserfall.jpg)
 
 Mehr als 750.000 Liter Wasser stürzen bei den Wasserspielen in die Tiefe. Gesammelt wird es in Speicherbecken auf den Höhen des Habichtswalds, von dort fließt es allein mit dem natürlichen Gefälle bergab. Alle Ventile werden noch heute von Hand geöffnet. Danach läuft das Wasser über die Drusel in die Fulda.
 

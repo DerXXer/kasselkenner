@@ -14,6 +14,8 @@ Die Löwenburg ist eine Ritterburg im [Bergpark Wilhelmshöhe](/bergpark-wilhelm
 
 ## Wann beginnen die Führungen in der Löwenburg?
 
+![Burghof](loewenburg-burghof.jpg)
+
 Die Rundgänge beginnen zur vollen Stunde, die letzte eine Stunde vor Schließung. Auf eigene Faust kommst du nicht hinein, die Besichtigung geht nur mit Führung. Buch dein Ticket am besten vorab.
 
 ## Wer ließ die Löwenburg bauen?
@@ -25,6 +27,8 @@ Landgraf Wilhelm IX. ließ sich hier eine Burg bauen, die schon beim Bau wie ein
 Die Löwenburg ist nicht barrierefrei. Denk daran, wenn jemand in deiner Gruppe schlecht zu Fuß ist.
 
 ## Wie weit ist es zu Fuß zur Löwenburg?
+
+![Blick zur Löwenburg](loewenburg-vom-herkules.jpg)
 
 Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß 18 Minuten und 1,0 Kilometer, dabei geht es 82 Meter bergauf. Vom Schloss Wilhelmshöhe sind es rund 0,9 Kilometer, reine Gehzeit etwa 12 Minuten; weil die Burg höher liegt, rechne etwas mehr. Unser Tipp: Verbinde die Burg mit Schloss Wilhelmshöhe, das vom selben Startpunkt in 14 Minuten auf flachem Weg erreichbar ist.
 

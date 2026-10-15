@@ -14,6 +14,8 @@ Schloss Wilhelmshöhe liegt am unteren Ende des [Bergparks Wilhelmshöhe](/bergp
 
 ## Was zeigt das Museum in Kassel-Wilhelmshöhe?
 
+![Gemäldegalerie](gemaeldegalerie.jpg)
+
 **Gemäldegalerie Alte Meister.** Auf drei Etagen hängt europäische Malerei von der Spätgotik bis zum Klassizismus. Du stehst hier vor Werken von Rembrandt, Rubens, Dürer, Tizian, Frans Hals und vielen anderen großen Namen.
 
 **Antikensammlung.** Im Erd- und Untergeschoss geht es in die Antike, mit rund 800 Objekten und historischen Korkmodellen.
@@ -29,6 +31,8 @@ An Wasserspieltagen schießt sie gegen 15.45 Uhr rund 50 Meter in die Höhe, zu 
 Landgraf Wilhelm IX. ließ das Schloss als Mittelpunkt des Bergparks bauen, später verbrachte die Kaiserfamilie hier ihre Sommer. Seit 2013 gehört es mit dem Bergpark zum UNESCO-Welterbe.
 
 ## Gibt es im Schloss ein Café?
+
+![Schloss-Café](schloss-cafe.jpg)
 
 Ja, das Café Jérôme im Schloss ist dienstags bis sonntags von 10 bis 17 Uhr geöffnet, auch ohne Museumsbesuch. Gleich in der Nähe liegt die „Alte Wache“, auch „Gloria in der Alten Wache“ genannt.
 

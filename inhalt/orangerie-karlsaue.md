@@ -24,10 +24,14 @@ Das Astronomisch-Physikalische Kabinett in der Orangerie ist zurzeit geschlossen
 
 ## Wann ist das Marmorbad geöffnet?
 
+![Marmorbad](marmorbad-kassel.jpg)
+
 Vom 1. April bis 31. Oktober, dienstags bis sonntags und feiertags von 10 bis 17 Uhr; der Eintritt ist frei. Im Winter bleibt es zu.
 
 In einem der Eckpavillons der Orangerie versteckt sich das Marmorbad: ein prunkvolles Bad aus dem Barock. Es gilt als das letzte bedeutende erhaltene Bad dieser Art in Deutschland – und der Eintritt ist frei. 
 ## Was gibt es in der Karlsaue zu sehen?
+
+![Siebenbergen](siebenbergen-allium.jpg)
 
 Die Karlsaue misst über 150 Hektar und begann als streng geordneter Barockgarten und wurde später zum englischen Landschaftspark mit Wiesen, Baumgruppen und Wasser. Die alten Achsen und Kanäle erkennst du bis heute, wenn du von der Orangerie aus in die Weite schaust.
 

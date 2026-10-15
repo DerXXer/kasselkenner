@@ -42,6 +42,8 @@ Die Ausstellung ist für Kinder ab 6 Jahren gedacht, die Märchenwelt gefällt a
 
 ## Was kostet das Naturkundemuseum für Kinder?
 
+![Dinosaurier](iguanodon-ottoneum-skelett.jpg)
+
 Kinder unter 6 sind frei, ältere Kinder zahlen 3 Euro, Erwachsene 5 Euro. Saurier, Haie und Mammuts – im Naturkundemuseum am Steinweg staunen Kinder über Tiere aus Urzeit und Meer. Ab 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Montags ist zu, mittwochs offen bis 20 Uhr. Einen Wickeltisch gibt es auch.
 
 ## Ab welchem Alter dürfen Kinder ins Planetarium?

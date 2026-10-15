@@ -54,6 +54,12 @@ def pruefe(datei):
         warn.append(f"Beschreibung {b} Zeichen (Ziel 120–155)")
     if meta.get("bild") and not (WURZEL / "bilder" / meta["bild"]).exists():
         fehler.append(f"Bild fehlt: {meta['bild']}")
+    nachweise = (WURZEL / "bilder" / "nachweise.md").read_text()
+    for b in re.findall(r"^!\[[^\]]*\]\(([^)\s]+)\)", rumpf, re.M):
+        if not (WURZEL / "bilder" / b).exists():
+            fehler.append(f"Bild im Text fehlt: {b}")
+        elif f"| {b} |" not in nachweise:
+            fehler.append(f"Bild im Text ohne Nachweis: {b}")
     h1 = re.findall(r"^# ", rumpf, re.M)
     if len(h1) != 1:
         fehler.append(f"{len(h1)} H1-Überschriften (genau 1)")

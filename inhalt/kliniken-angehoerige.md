@@ -3,7 +3,7 @@ titel: Kliniken Bad Wilhelmshöhe: Besuch, Anreise, Parken
 beschreibung: Kliniken in Bad Wilhelmshöhe besuchen: Anreise mit Tram 1 und 4, Parken, Besuchsregeln, Café in der Nähe und Pausen im Bergpark.
 slug: kliniken-angehoerige
 kurz: Kliniken
-bild: schloss-wilhelmshoehe.jpg
+bild: kurviertel-villa-kurhausstrasse.jpg
 stand: 2026-10-14
 blick: Kliniken=5 am Bergpark | Tram=Linie 1 und 4 | Vom Bahnhof zu Fuß=18 bis 23 Min. | Parken=Tiefgarage und Klinikparkplätze | Zum Schloss zu Fuß=12 bis 20 Min.
 weiter: bergpark-wilhelmshoehe, parken-bergpark-wilhelmshoehe, uebernachten-kassel
@@ -27,6 +27,8 @@ Fünf Kliniken liegen an der Wilhelmshöher Allee und an der Wigandstraße, jewe
 Alle liegen im Stadtteil, in dem auch der Bergpark Wilhelmshöhe beginnt. Das macht die Wege kurz und die Pausen leicht.
 
 ## Wie kommst du mit Bahn und Tram zu den Kliniken?
+
+![Tram-Haltestelle](tram-haltestelle-orthopaedische-klinik.jpg)
 
 Vom Bahnhof Kassel-Wilhelmshöhe sind es zu Fuß rund 18 Minuten bis zur Vitos Orthopädischen Klinik und rund 23 Minuten bis zur Habichtswald-Klinik. Mit dem Gepäck oder bei schlechtem Wetter nimmst du besser die Tram.
 

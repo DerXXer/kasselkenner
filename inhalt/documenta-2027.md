@@ -22,6 +22,8 @@ Ein Titel oder Motto ist bisher nicht bekannt. Künstlerische Leiterin der D16 i
 
 ## Wo findet die documenta 2027 statt?
 
+![Neue Galerie](neue-galerie-kassel.jpg)
+
 Die D16 wird an mehreren Orten über das Stadtgebiet verteilt sein. Die Liste der Orte steht noch aus. Ein Leitsystem und ein kostenloser Lageplan sind geplant, und die Rundgänge starten am Welcome Center am Friedrichsplatz. Was es in der Stadt sonst zu sehen gibt, steht unter [Kassel Sehenswürdigkeiten](/kassel-sehenswuerdigkeiten/).
 
 Zum Vergleich 2022: Damals waren unter anderem das Fridericianum, die documenta Halle, das Ottoneum, das Hallenbad Ost und die [Karlsaue](/orangerie-karlsaue/) Ausstellungsorte. Gerade dieser Wechsel zwischen Museum, altem Hallenbad und Park macht den Reiz aus.
@@ -31,6 +33,8 @@ Zum Vergleich 2022: Damals waren unter anderem das Fridericianum, die documenta 
 Zur documenta 14 kamen 2017 891.500 Besucher nach Kassel, zur documenta fifteen 2022 waren es rund 738.000 Besuche. Unterkünfte sind im documenta-Sommer entsprechend gefragt, mehr dazu unter [Unterkunft zur documenta](/documenta-uebernachten/).
 
 ## Praktisches: Tickets, Bus und Bahn, Anreise
+
+![Hauptbahnhof](hauptbahnhof-kassel-halle.jpg)
 
 Geöffnet ist an allen 100 Tagen, bei Veranstaltungen weichen die Zeiten teils ab.
 
