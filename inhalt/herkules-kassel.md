@@ -46,7 +46,7 @@ Ja, das Besucherzentrum ist ganzjährig dienstags bis sonntags und feiertags von
 
 ## Wo kann man am Herkules essen?
 
-Direkt am Monument gibt es Gastronomie, gut für eine Pause nach dem Aufstieg. Weiter unten im Bergpark liegt die Kaskadenwirtschaft Grischäfer.
+Direkt am Monument gibt es Gastronomie, gut für eine Pause nach dem Aufstieg. Die Kaskadenwirtschaft Grischäfer weiter unten im Bergpark ist wegen Renovierung geschlossen und soll im Mai 2027 wieder öffnen.
 
 ## Wie lange läuft man zum Herkules?
 
@@ -117,6 +117,10 @@ Der Blick reicht über den Bergpark auf Schloss Wilhelmshöhe, die Stadt und das
 
 Mit dem Bus 22, der halbstündlich vom Herkules zur Endhaltestelle Druseltal fährt. Dort steigst du in die Tram 4 in die Innenstadt um, die auch am Bahnhof Wilhelmshöhe hält.
 
+### Wo kann ich am Herkules essen?
+
+Die Herkules Terrassen mit Selbstbedienung haben laut Betreiber mittwochs bis samstags von 11 bis 20 Uhr und sonntags bis 18 Uhr offen. Das Restaurant Herkules Panorama öffnet dienstags bis samstags von 11 bis 22 Uhr und sonntags bis 20 Uhr, an Wasserspieltagen und Wochenenden reservierst du besser. Montags ist beides zu, die Zeiten im Winter nennen die Betreiber nicht.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 09.10.2026
@@ -131,3 +135,5 @@ Mit dem Bus 22, der halbstündlich vom Herkules zur Endhaltestelle Druseltal fä
 - [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 09.10.2026
 - [Wikipedia, Herkules (Kassel)](https://de.wikipedia.org/wiki/Herkules_(Kassel)), abgerufen 09.10.2026
 - [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
+- [Herkules Terrassen, Öffnungszeiten](https://www.herkules-terrassen.de/oeffnungszeiten/), abgerufen 15.10.2026
+- [Herkules Panorama](https://herkules-panorama.de/), abgerufen 15.10.2026

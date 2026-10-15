@@ -5,7 +5,7 @@ slug: orangerie-karlsaue
 kurz: Orangerie
 bild: orangerie-karlsaue.jpg
 stand: 2026-10-14
-blick: Park=ganzjährig, Eintritt frei | Planetarium=Do bis So 10 bis 17 Uhr | Vorstellung=8 Euro, ermäßigt 5 Euro | Marmorbad=Eintritt frei, im Winter zu | Adresse=An der Karlsaue 20 a
+blick: Park=ganzjährig, Eintritt frei | Planetarium=Do bis So 10 bis 17 Uhr | Vorstellung=8 Euro, ermäßigt 5 Euro | Marmorbad=Eintritt frei, im Winter zu | Adresse=An der Karlsaue 20a
 weiter: zissel-kassel, documenta-2027, bergpark-wilhelmshoehe
 ---
 # Orangerie Kassel und Karlsaue: was dich erwartet
@@ -14,7 +14,7 @@ Die Orangerie ist das lang gestreckte Barockschloss am Rand der Karlsaue, eines 
 
 ## Wer hat die Orangerie in Kassel gebaut?
 
-Landgraf Carl ließ die Orangerie zu Beginn des 18. Jahrhunderts bauen, als Winterquartier für Orangen- und Lorbeerbäume – und als Sommerresidenz, in der der Landgraf Feste feierte. Später schaute ein Landgraf von ihren Dächern aus in den Himmel und beobachtete Mond und Planeten, – heute passt das Planetarium unter seinem Dach also bestens dazu. Nach schweren Kriegsschäden ist das Gebäude wieder aufgebaut und strahlt heute über die Wiesen der Karlsaue.
+Landgraf Carl ließ die Orangerie zu Beginn des 18. Jahrhunderts bauen, als Winterquartier für Orangen- und Lorbeerbäume. Die beiden Eckpavillons nutzten er und seine Frau als Sommerresidenz. Später schaute ein Landgraf von ihren Dächern aus in den Himmel und beobachtete Mond und Planeten, – heute passt das Planetarium unter seinem Dach also bestens dazu. Nach schweren Kriegsschäden ist das Gebäude wieder aufgebaut und strahlt heute über die Wiesen der Karlsaue.
 
 ## Wie viele Sterne zeigt das Planetarium und wie komme ich hinein?
 

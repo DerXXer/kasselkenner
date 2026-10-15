@@ -55,7 +55,7 @@ Mit Pausen, Ausblicken und einem Museum zwischendurch füllt der Weg gut einen g
 
 ## Wo kann man im Bergpark essen?
 
-Am Herkules gibt es Gastronomie, und im Park liegt die Kaskadenwirtschaft Grischäfer. Unten im Schloss lädt das Café Jérôme ein, dienstags bis sonntags von 10 bis 17 Uhr, auch ohne Museumsbesuch. Gleich in der Nähe liegt die „Alte Wache“, auch „Gloria in der Alten Wache“ genannt.
+Am Herkules gibt es Gastronomie. Die Kaskadenwirtschaft Grischäfer im Park ist wegen Renovierung geschlossen und soll im Mai 2027 wieder öffnen. Unten im Schloss lädt das Café Jérôme ein, dienstags bis sonntags von 10 bis 17 Uhr, auch ohne Museumsbesuch. Gleich in der Nähe liegt die „Alte Wache“, auch „Gloria in der Alten Wache“ genannt.
 
 ## Praktisches: Eintritt, Öffnungszeiten und Anreise
 
@@ -136,6 +136,18 @@ Sehr groß: Er gilt als größter Bergpark Europas, für einen Rundgang mit alle
 
 Teilweise. Die Treppen an den Kaskaden haben kein Geländer, viele Wege sind nur bedingt barrierefrei, und die Löwenburg ist nicht barrierefrei. An Wasserspieltagen fährt der Bergparkshuttle für 2 Euro vom Parkplatz Wilhelmshöhe zum Schloss, zu den unteren Wasserspielstationen und zur Löwenburg. Mit den Merkzeichen G, aG, H, Gl oder Bl fährst du kostenlos.
 
+### Welche Adresse gebe ich fürs Navi ein?
+
+Für den Parkplatz am Schloss gibst du Schlosspark 1 in Kassel ein, er liegt direkt am Schloss Wilhelmshöhe. Für den Parkplatz am Herkules nimmst du das Besucherzentrum Herkules, Schlosspark 28, 34131 Kassel, und folgst der Beschilderung „Herkules“.
+
+### Darf mein Hund mit in den Bergpark?
+
+Ja, an der kurzen Leine. Baden darf der Hund nicht, und du musst auf den Wegen bleiben. In Schloss, Herkules und die anderen Gebäude nennt Hessen Kassel Heritage nur Assistenzhunde als erlaubt.
+
+### Wie komme ich vom Schloss zurück zum Auto am Herkules?
+
+An normalen Tagen über den Bahnhof Wilhelmshöhe: Tram 1 ab Wilhelmshöhe (Park) zum Bahnhof, dort in die Tram 4 bis Druseltal und weiter mit dem Bus 22 hinauf zum Herkules. Nur an Wasserspieltagen fährt der Bus 23 direkt von Wilhelmshöhe (Park) nach Druseltal.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Bergpark Wilhelmshöhe](https://www.heritage-kassel.de/standorte/bergpark-wilhelmshoehe), abgerufen 09.10.2026
@@ -152,3 +164,7 @@ Teilweise. Die Treppen an den Kaskaden haben kein Geländer, viele Wege sind nur
 - [Deutsche UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 09.10.2026
 - [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026
+- [Visit Kassel, Parkplatz Schloss Wilhelmshöhe](https://visit.kassel.de/poi/parkplatz-schloss-wilhelmshoehe-bergpark), abgerufen 15.10.2026
+- [Visit Kassel, Parkplatz am Herkules](https://visit.kassel.de/poi/parkplatz-am-herkules), abgerufen 15.10.2026
+- [Hessen Kassel Heritage, Parkordnung Bergpark Wilhelmshöhe](https://a.storyblok.com/f/96181/x/099a9189d9/parkordnung-bergpark.pdf), abgerufen 15.10.2026
+- [KVG, Fahrplan Tram 1 (2026)](https://www.kvg.de/fileadmin/kvg/Dokumente/Plaene/Fahrplan/Tram/2026/Tram_1_2026.pdf), abgerufen 15.10.2026

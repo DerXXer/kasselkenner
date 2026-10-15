@@ -107,6 +107,10 @@ Plan neben der Führung den Weg und die Zeit bis zur nächsten vollen Stunde ein
 
 Zu Fuß von der Tram 1: Von der Endhaltestelle Wilhelmshöhe (Park) sind es 1,7 Kilometer, rund 22 Minuten, vom Schloss Wilhelmshöhe 0,9 Kilometer, rund 12 Minuten. Die Burg liegt höher als das Schloss, plane für den Anstieg etwas mehr Zeit ein. An Wasserspieltagen fährt der Bergparkshuttle bis zur Löwenburg.
 
+### Bekomme ich ohne Reservierung einen Platz in der Führung?
+
+Nur wenn kurzfristig einer frei wird. Vor Ort vergibt die Löwenburg nur Plätze, die in den Führungen frei geworden sind, das Tagesticket allein garantiert keinen Platz. Telefonisch erreichst du die Löwenburg unter 0561 31680244.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 09.10.2026
@@ -119,3 +123,4 @@ Zu Fuß von der Tram 1: Von der Endhaltestelle Wilhelmshöhe (Park) sind es 1,7 
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026, und OpenStreetMap-Routing (Fußweg, ohne Steigungszuschlag), 14.10.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
 - [Stadt Kassel, Anreise Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 15.10.2026
+- [Stadt Kassel, Löwenburg](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/sehenswertes/loewenburg.php), abgerufen 15.10.2026

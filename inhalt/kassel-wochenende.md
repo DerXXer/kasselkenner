@@ -123,6 +123,18 @@ Ja, das MultiTicket. Allein zahlst du 8,30 Euro, für bis zu fünf Personen, dav
 
 Im Online-Ticketshop von Hessen Kassel Heritage. Die Plätze je Führung sind begrenzt.
 
+### Lohnt sich die KasselCard?
+
+Sie gilt für eine oder zwei Personen und kostet 10 Euro für 24 Stunden oder 14 Euro für 72 Stunden. Damit fährst du frei mit Bus, Tram und Zug im Gebiet KasselPlus und bekommst Ermäßigung in über 30 Häusern, darunter Herkules, Löwenburg, Gemäldegalerie und Fridericianum.
+
+### Wo kann ich mein Gepäck lassen?
+
+In den Schließfächern am Bahnhof Wilhelmshöhe, klein für 3 Euro und groß für 4 Euro je 24 Stunden, bezahlt wird mit Münzen. Am Hauptbahnhof gibt es dieselben Fächer, aber nur wenige.
+
+### Wann hat das Stadtmuseum offen?
+
+Dienstags und donnerstags bis sonntags von 10 bis 17 Uhr, mittwochs bis 20 Uhr, montags ist zu. Der Eintritt kostet 4 Euro, bis 18 Jahre frei. Das Museum liegt am Ständeplatz 16, mit der Tram 4 fährst du bis zur Haltestelle Ständeplatz.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
@@ -146,3 +158,6 @@ Im Online-Ticketshop von Hessen Kassel Heritage. Die Plätze je Führung sind be
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit OpenStreetMap-Routing (Fußweg), 09.10.2026
 - [Kassel Marketing, Anreise](https://www.weihnachtsmarkt-kassel.de/services/anreise.php), abgerufen 15.10.2026
+- [Visit Kassel, KasselCard](https://visit.kassel.de/en/guest-cards/kasselcard), abgerufen 15.10.2026
+- [Deutsche Bahn, Bahnhof Kassel-Wilhelmshöhe](https://www.bahnhof.de/kassel-wilhelmshoehe/schliessfaecher), abgerufen 15.10.2026
+- [Stadt Kassel, Stadtmuseum, Besuch](https://www.kassel.de/einrichtungen/stadtmuseum/besuch/index.php), abgerufen 15.10.2026

@@ -61,7 +61,7 @@ Am besten kommst du mit Bus und Bahn:
 
 ### Wo parke ich bei den Beleuchteten Wasserspielen?
 
-Am entspanntesten parkst du außerhalb des Bergparks und steigst auf Bus und Bahn um. An den Parkplätzen Herkules und Schloss Wilhelmshöhe gilt an diesen Abenden der Wasserspieltag-Tarif, und der Parkschein ist zugleich KombiTicket für Bus 23. Mehr dazu unter [Parken am Bergpark Wilhelmshöhe](/parken-bergpark-wilhelmshoehe/).
+Am entspanntesten parkst du außerhalb des Bergparks und steigst auf Bus und Bahn um. An den Parkplätzen Herkules und Schloss Wilhelmshöhe gilt laut Stadt an diesen Abenden der Wasserspieltag-Tarif, und der Parkschein ist zugleich KombiTicket für Bus 23. Die Tarifliste nennt die 8,50 Euro allerdings nur für 9.30 bis 15 Uhr, danach den normalen Tarif mit höchstens 5 Euro am Tag. Mehr dazu unter [Parken am Bergpark Wilhelmshöhe](/parken-bergpark-wilhelmshoehe/).
 
 ## Häufige Fragen
 

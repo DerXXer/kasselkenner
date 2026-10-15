@@ -89,6 +89,14 @@ Ja, der Rundweg Wasserspiele K5 führt rund 5 Kilometer vom Besucherzentrum Wilh
 
 Ja, am Hohen Gras liegen Waldgaststätte, Aussichtsturm und Kletterwald nah beieinander. Der Kletterwald hat 2026 vom 4. April bis 1. November geöffnet, an Wochenenden, Feiertagen und Brückentagen, in den hessischen Schulferien täglich. Du meldest dich vorher an, ein Besuch dauert 2,5 Stunden mit Einweisung.
 
+### Wie weit ist es vom Herkules zum Hohen Gras?
+
+Rund 3,4 Kilometer, zu Fuß etwa 48 Minuten reine Gehzeit, die Extratour H10 verbindet beide über das Sichelbachbecken. Wer abkürzen will, nimmt am Herkules den Bus 22.
+
+### Wann hat die Waldgaststätte Hohes Gras offen?
+
+Laut Visit Kassel außer montags täglich von 11 bis 18 Uhr. Warme Küche gibt es dienstags bis freitags bis 16 Uhr, am Wochenende bis 17 Uhr. Ob im Winter andere Zeiten gelten, steht dort nicht.
+
 ## Quellen
 
 - [Naturpark Habichtswald, Habichtswaldsteig](https://www.naturpark-habichtswald.de/erleben/wandern/habichtswaldsteig), abgerufen 14.10.2026
@@ -107,3 +115,5 @@ Ja, am Hohen Gras liegen Waldgaststätte, Aussichtsturm und Kletterwald nah beie
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
 - [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
 - [Kletterwald Kassel, Öffnungszeiten](https://www.kletterwald-kassel.de/oeffnungszeiten/), abgerufen 15.10.2026
+- [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
+- [Visit Kassel, Waldgaststätte Hohes Gras](https://visit.kassel.de/en/gastro/forest-restaurant-hohes-gras), abgerufen 15.10.2026

@@ -74,7 +74,7 @@ Der Winterzauber läuft vom 5. bis 8. November 2026 und vom 12. bis 14. November
 
 ### Wo findet der Winterzauber in Kassel statt?
 
-Der Winterzauber steht in Pagodenzelten vor der Orangerie in der Karlsaue, Adresse Auedamm 20B, 34121 Kassel. Vom Friedrichsplatz sind es 8 bis 12 Minuten zu Fuß.
+Der Winterzauber steht in Pagodenzelten vor der Orangerie in der Karlsaue, laut Veranstalter Auedamm 20B, 34121 Kassel. Die Orangerie selbst hat die Adresse An der Karlsaue 20a. Vom Friedrichsplatz sind es 8 bis 12 Minuten zu Fuß.
 
 ### Wo kann man beim Winterzauber Kassel parken?
 

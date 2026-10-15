@@ -109,7 +109,7 @@ In der Tiefgarage Friedrichsplatz, von dort sind es ca. 11 Minuten zu Fuß.
 
 ### Kann ich auf die Dachterrasse der Grimmwelt?
 
-Ja, vom Foyer aus über Treppe oder Aufzug. Von oben siehst du bis zum Herkules.
+Ja, und zwar ohne Eintrittskarte, das Dach ist ganzjährig offen. Du kommst vom Foyer aus über Treppe oder Aufzug hinauf und siehst von oben bis zum Herkules.
 
 ### Was ist die Grimmwelt?
 
@@ -131,6 +131,10 @@ Die persönlichen Arbeitsexemplare der „Kinder- und Hausmärchen“ mit handsc
 
 Ja, vom 1. April bis 31. Oktober täglich von 8 bis 19.30 Uhr und ohne Eintritt. Hunde an der Leine sind erlaubt, bis zur mittleren Ebene kommst du seit 2026 ohne Stufen hinauf. Im Winter sind die Terrassen geschlossen.
 
+### Wann hat das Restaurant FALADA offen?
+
+Dienstags bis sonntags von 10 bis 18 Uhr, montags ist es zu. Frühstück gibt es bis 12 Uhr, danach warme Küche. Du brauchst dafür keine Eintrittskarte, einen Tisch reservierst du unter +49 561 81045460.
+
 ## Quellen
 
 - [Grimmwelt, Besucherinformationen](https://www.grimmwelt.de/de/besucherinformationen), abgerufen 14.10.2026
@@ -140,3 +144,4 @@ Ja, vom 1. April bis 31. Oktober täglich von 8 bis 19.30 Uhr und ohne Eintritt.
 - [Grimmwelt, Über uns](https://www.grimmwelt.de/de/ueber-uns), abgerufen 09.10.2026
 - [Grimmwelt, Die Kinder- und Hausmärchen](https://www.grimmwelt.de/de/journal/die-kinder-und-hausmaerchen), abgerufen 09.10.2026
 - [Visit Kassel, Weinbergterrassen](https://visit.kassel.de/poi/weinbergterrassen), abgerufen 15.10.2026
+- [Grimmwelt, Restaurant FALADA](https://www.grimmwelt.de/de/restaurant), abgerufen 15.10.2026

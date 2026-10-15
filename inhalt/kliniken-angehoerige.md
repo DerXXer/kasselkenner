@@ -100,6 +100,18 @@ Ja, bei der Habichtswald Reha-Klinik können Begleitpersonen mit aufgenommen wer
 
 Am nächsten liegt das Café Jérôme im Schloss Wilhelmshöhe, Dienstag bis Sonntag von 10 bis 17 Uhr. Je nach Klinik sind es 12 bis 20 Minuten zu Fuß.
 
+### Wie lange fährt die Tram vom Bahnhof Wilhelmshöhe zu den Kliniken?
+
+Mit der Tram 1 sind es rund 4 Minuten bis zur Haltestelle Hessischer Rundfunk an der Vitos Orthopädischen Klinik und 6 Minuten bis zur Endhaltestelle Wilhelmshöhe (Park) für die Habichtswald-Kliniken. Alternativ hält die Tram 4 Richtung Druseltal an der Wigandstraße.
+
+### Was kostet eine Fahrt mit der Tram?
+
+3,40 Euro kostet eine Einzelfahrt im Stadtgebiet Kassel, unter 18 Jahren 2,10 Euro. Fährst du an einem Tag öfter, ist das MultiTicket Single für 8,30 Euro günstiger, es gilt 24 Stunden.
+
+### Welche Adresse gebe ich fürs Navi zur Habichtswald-Klinik ein?
+
+Die Habichtswald Privat-Klinik nennt zum Navigieren die Mulangstraße 1, ihre Postanschrift ist die Wigandstraße 1.
+
 ## Quellen
 
 - [Vitos, Orthopädische Klinik Kassel: Kontakt und Anfahrt](https://www.vitos.de/gesellschaften/vitos-nordhessen/einrichtungen/vitos-orthopaedische-klinik-kassel/kontakt-und-anfahrt/), abgerufen 14.10.2026
@@ -114,3 +126,7 @@ Am nächsten liegt das Café Jérôme im Schloss Wilhelmshöhe, Dienstag bis Son
 - [Stadt Kassel, Parken am Bergpark Wilhelmshöhe](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 14.10.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 14.10.2026
+- [KVG, Fahrplan Tram 1 (2026)](https://www.kvg.de/fileadmin/kvg/Dokumente/Plaene/Fahrplan/Tram/2026/Tram_1_2026.pdf), abgerufen 15.10.2026
+- [Habichtswald Privat-Klinik, Ihr Aufenthalt](https://habichtswald-privat-klinik.de/ihr-aufenthalt/), abgerufen 15.10.2026
+- [NVV, Einzelfahrkarte](https://www.nvv.de/tickets/selten-unterwegs/einzelfahrkarte), abgerufen 15.10.2026
+- [NVV, MultiTicket](https://www.nvv.de/tickets/selten-unterwegs/multiticket), abgerufen 15.10.2026

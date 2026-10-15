@@ -98,6 +98,10 @@ Ja, auch in Bad Wilhelmshöhe gibt es Ferienwohnungen. Von dort bist du zu Fuß 
 
 Kassel-Wilhelmshöhe. Am Hauptbahnhof halten nur Regionalzüge.
 
+### Wie komme ich vom Hauptbahnhof nach Wilhelmshöhe?
+
+Mit dem Regionalzug in 3 bis 5 Minuten. Die Tram 1 fährt nicht über den Hauptbahnhof, sie verbindet den Bahnhof Wilhelmshöhe mit Königsplatz und Bergpark.
+
 ## Quellen
 
 - [Stadt Kassel, Übernachtungssteuer](https://www.kassel.de/buerger/rathaus_und_politik/haushalt-und-finanzen/uebernachtungssteuer.php), abgerufen 14.10.2026
@@ -114,3 +118,5 @@ Kassel-Wilhelmshöhe. Am Hauptbahnhof halten nur Regionalzüge.
 - [Wikipedia, Bettenhausen](https://de.wikipedia.org/wiki/Bettenhausen_(Kassel)), abgerufen 09.10.2026
 - [Wikipedia, Bahnhof Kassel-Wilhelmshöhe](https://de.wikipedia.org/wiki/Bahnhof_Kassel-Wilhelmsh%C3%B6he), abgerufen 09.10.2026
 - Fußwege: eigene Messung mit Google Maps, 08.10.2026
+- [NVV, Abfahrtsplan Kassel Hauptbahnhof](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/3._Fahrplaene/Abfahrtsplaene/Kassel-Hauptbahnhof.pdf), abgerufen 15.10.2026
+- [KVG, Fahrplan Tram 1 (2026)](https://www.kvg.de/fileadmin/kvg/Dokumente/Plaene/Fahrplan/Tram/2026/Tram_1_2026.pdf), abgerufen 15.10.2026

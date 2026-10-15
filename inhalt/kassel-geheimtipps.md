@@ -104,6 +104,18 @@ Im Großen Gewächshaus im Bergpark blüht es mitten im Winter. Das Museum für 
 
 In der Weinbergstraße 25 bis 27, gleich neben der Grimmwelt am Weinberg.
 
+### Wann und wie kann ich den Weinbergbunker besichtigen?
+
+Der Feuerwehrverein Kassel führt jeden ersten Montag im Monat durch den Bunker an der Frankfurter Straße am Weinberg. Die Führung kostet 5 Euro, dauert 1,5 bis 2 Stunden, und du meldest dich vorher an: 0175 28 65 617 oder feuerwehrverein@feuerwehrverein-kassel.de.
+
+### Wie finde ich die Künstler-Nekropole?
+
+Fürs Navi oder die Fahrplanauskunft gibst du Blauer See 2, 34128 Kassel ein. Vom Wanderparkplatz Nekropole gehst du etwa 1,5 Kilometer auf dem Weg mit dem Zeichen 22 zu den Grabmälern.
+
+### Wo sehe ich die Laserscape?
+
+Die Laserstrahlen leuchten jeden Samstag nach Einbruch der Dunkelheit über der Stadt, ausgehend vom Friedrichsplatz 18. Eine feste Uhrzeit nennt Visit Kassel nicht.
+
 ## Quellen
 
 - [Visit Kassel, Künstler-Nekropole](https://visit.kassel.de/poi/kuenstler-nekropole), abgerufen 09.10.2026

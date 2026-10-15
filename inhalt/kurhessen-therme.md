@@ -22,7 +22,7 @@ Zum Abschalten gibt es die Traumwelt mit Klang- und Relax-Tempel, Fünf-Duft-Tem
 
 Die Saunawelt hat acht Saunen und ein Römisches Dampfbad mit 45 Grad, darunter Kräuter-, Lehm-, Amethyst- und Heißer-Stein-Sauna. Abkühlen kannst du im Saunasee mit rund 20 Grad und über 200 Quadratmetern. In der Lehmsauna gibt es täglich um 9.25, 15.25 und 19.50 Uhr Salzaufgüsse. Die Damensauna ist nur für Frauen.
 
-Wichtig für Tagesgäste: Der Saunabereich ist textilfrei. Montags ist Textiler Sauna Tag, dann darfst du mit oder ohne Badebekleidung saunieren; frag am Eingang kurz nach, wie es an deinem Tag gehandhabt wird. Smartphone, Tablet und Smartwatch bleiben draußen, im ganzen Saunabereich sind Geräte mit Kamera nicht erlaubt. Als Takt empfiehlt die Therme 8 bis 15 Minuten je Saunagang.
+Wichtig für Tagesgäste: Der Saunabereich ist textilfrei. Montags ist laut Preisseite Textiler Sauna Tag, dann darfst du mit oder ohne Badebekleidung saunieren; frag am Eingang kurz nach, wie es an deinem Tag gehandhabt wird. Smartphone, Tablet und Smartwatch bleiben draußen, im ganzen Saunabereich sind Geräte mit Kamera nicht erlaubt. Als Takt empfiehlt die Therme 8 bis 15 Minuten je Saunagang.
 
 ## Was kostet die Kurhessen-Therme?
 

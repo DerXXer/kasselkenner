@@ -101,6 +101,10 @@ Vom 9. Oktober 2026 bis 17. Januar 2027. In dieser Zeit kostet das Tagesticket W
 
 Von der Endhaltestelle Wilhelmshöhe (Park) der Tram 1 gehst du 0,8 Kilometer, rund 10 Minuten.
 
+### Ist Schloss Wilhelmshöhe barrierefrei?
+
+Ja, das Schloss ist mit Rollstuhl zugänglich und hat einen Fahrstuhl, barrierearme Toiletten und einen Wickeltisch. Mit Schwerbehindertenparkausweis gibt es eigene Parkplätze, Assistenzhunde sind erlaubt.
+
 ## Quellen
 
 - [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
@@ -114,3 +118,4 @@ Von der Endhaltestelle Wilhelmshöhe (Park) der Tram 1 gehst du 0,8 Kilometer, r
 - [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 09.10.2026
 - [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
+- [Hessen Kassel Heritage, Gemäldegalerie Alte Meister](https://www.heritage-kassel.de/standorte/gemaeldegalerie-alte-meister), abgerufen 15.10.2026
