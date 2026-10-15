@@ -46,7 +46,8 @@ NAV = [("wasserspiele-kassel", "Wasserspiele"), ("bergpark-wilhelmshoehe", "Berg
        ("uebernachten-kassel", "Übernachten")]
 THEMEN = ["herkules-kassel", "loewenburg-kassel", "schloss-wilhelmshoehe", "beleuchtete-wasserspiele",
           "kassel-sehenswuerdigkeiten", "kassel-mit-kindern", "kassel-bei-regen", "weihnachtsmarkt-kassel",
-          "grimmwelt-kassel", "orangerie-karlsaue", "kassel-wochenende", "kassel-geheimtipps", "zissel-kassel", "documenta-uebernachten"]
+          "grimmwelt-kassel", "orangerie-karlsaue", "kassel-wochenende", "kassel-geheimtipps", "zissel-kassel", "documenta-uebernachten",
+          "winterzauber-kassel", "kurhessen-therme", "habichtswald-wandern", "kliniken-angehoerige"]
 START_DIAS = [("wasserspiele-kassel", "Bergpark · Saison 1. Mai bis 3. Oktober", "Wann laufen die Wasserspiele?", "Termine und Ablauf"),
               ("documenta-2027", "documenta 16 · Sommer 2027", "Was du zur documenta wissen musst", "Zum documenta-Ratgeber"),
               ("weihnachtsmarkt-kassel", "Innenstadt · Märchenweihnachtsmarkt", "Weihnachtsmarkt in Kassel", "Zeiten, Orte, Anreise"),
@@ -199,7 +200,8 @@ EMPFEHLUNG = {  # Titel, Satz, Tipp, Foto, Bildunterschrift, Wohnungsseite
               "wohnung-schlossteich.jpg", "Wohnung Schlossteich", ""),
 }
 EMPFEHLUNG_THEMA = {s: "park" for s in ["wasserspiele-kassel", "beleuchtete-wasserspiele", "herkules-kassel", "bergpark-wilhelmshoehe",
-                                        "loewenburg-kassel", "schloss-wilhelmshoehe", "parken-bergpark-wilhelmshoehe"]}
+                                        "loewenburg-kassel", "schloss-wilhelmshoehe", "parken-bergpark-wilhelmshoehe",
+                                        "kurhessen-therme", "habichtswald-wandern"]}
 EMPFEHLUNG_THEMA.update({s: "kunst" for s in ["documenta-2027", "documenta-uebernachten"]})
 EMPFEHLUNG_THEMA.update({s: "familie" for s in ["kassel-mit-kindern", "kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue"]})
 

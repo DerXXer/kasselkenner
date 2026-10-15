@@ -1,6 +1,6 @@
 # Faktenspeicher Kassel, Ergänzung A (Kürzel KS-200 bis KS-299)
 
-Zweck: Ergänzungen zu Märchenweihnachtsmarkt, Zissel sowie Orangerie und Karlsaue für kasselkenner.de. Gleiche Regeln wie `kassel.md`: Jeder Fakt mit Quelle und Prüfdatum; „unsicher“ nur mit Hinweis verwenden, „OFFEN“ gar nicht.
+Zweck: Ergänzungen zu Märchenweihnachtsmarkt, Zissel, Orangerie und Karlsaue sowie Winterzauber für kasselkenner.de. Gleiche Regeln wie `kassel.md`: Jeder Fakt mit Quelle und Prüfdatum; „unsicher“ nur mit Hinweis verwenden, „OFFEN“ gar nicht.
 
 ## Märchenweihnachtsmarkt 2026
 
@@ -57,3 +57,25 @@ Zweck: Ergänzungen zu Märchenweihnachtsmarkt, Zissel sowie Orangerie und Karls
 - [KS-256] Zum Auepark empfiehlt die KVG die Haltestelle Rathaus/Fünffensterstraße (Tram 1, 3, 4 und 8, Unterführung an der Ecke Fünffensterstraße/Frankfurter Straße) und die Haltestelle Am Weinberg (Tram 5 und 6); weiter über die Straße An der Karlsaue. | Quelle: https://www.kvg.de/en/news/milky-chance-staatsorchester-live-in-kassel-am-23-august-in-der-orangerie/ | geprüft: 2026-10-09 | Status: unsicher – nur aus dem Suchindex, Meldung zu einer Veranstaltung, live 404
 - [KS-257] Besucherservice Hessen Kassel Heritage für Orangerie, Karlsaue und Planetarium: +49 561 316 80-123, service@heritage-kassel.de. | Quelle: https://www.heritage-kassel.de/standorte/orangerie | geprüft: 2026-10-09
 - [KS-258] Auf der Karlswiese vor der Orangerie findet seit 2008 das Sommernachts-Open-Air statt. | Quelle: https://de.wikipedia.org/wiki/Orangerie_(Kassel) | geprüft: 2026-10-09
+
+## Winterzauber Kassel 2026
+
+Der Winterzauber ist eine Ausstellung mit Eintrittskarte vor der Orangerie, kein Teil des Märchenweihnachtsmarkts (Veranstalter laut Copyright-Vermerk der Website gartenfestivals.de: Evergreen GmbH – unsicher, nicht ausdrücklich als Veranstalter benannt; der Veranstaltungseintrag von Visit Kassel verweist auf dieselbe Veranstaltung).
+
+- [KS-260] Der Winterzauber Kassel findet 2026 an zwei Wochenenden statt: 5. bis 8. November 2026 und 12. bis 14. November 2026, an der Orangerie. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14 | Hinweis: Veranstalterseite zuletzt geändert 05.10.2026; der Eintrag von Visit Kassel nennt „Dieses Jahr an zwei Wochenenden geöffnet“ ohne Datum und Jahr, das Drittportal mvp.de „05.11. bis 14.11.2026“ – maßgeblich ist die Veranstalterseite.
+- [KS-261] Öffnungszeiten 2026: Donnerstag 14 bis 20 Uhr, Freitag und Samstag 12 bis 21 Uhr, Sonntag 11 bis 19 Uhr. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-262] Am Volkstrauertag, 15. November (Sonntag), ist der Winterzauber geschlossen; der zweite Block endet am Samstag, 14. November 2026. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14 | Hinweis: Wochentage nachgerechnet (5.11.2026 Donnerstag, 8.11. Sonntag, 12.11. Donnerstag, 14.11. Samstag, 15.11. Sonntag)
+- [KS-263] Eintritt 2026: Erwachsene 12 Euro; Online-Vorverkauf 10 Euro bis zum 4. November 2026 zuzüglich 0,30 Euro Vorverkaufsgebühr; ermäßigt 10 Euro (Schwerbehinderte, Studierende, Schüler, nur mit gültigem Ausweis); Kinder bis 17 Jahre in Begleitung eines Erziehungsberechtigten frei; Gruppen ab 20 Personen 10 Euro. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-264] Die Tageskassen öffnen 30 Minuten vor Beginn, letzter Einlass eine Stunde vor Veranstaltungsende, EC-Zahlung ist möglich; Tickets gibt es an der Tageskasse und online über den Ticketanbieter Reservix (gartenfestivals.reservix.de). | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-265] Rund 120 ausgewählte Aussteller zeigen Weihnachtsdekoration, Winterfloristik, Wohnaccessoires, Mode und Accessoires, Kunsthandwerk und Geschenkideen; 2026 gibt es neue Aussteller, besondere Fotospots und neue Illuminationen. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-266] Visit Kassel beschreibt rund 120 Aussteller mit leuchtenden Pagodenzelten vor der Orangerie. | Quelle: https://visit.kassel.de/event/winterzauber-kassel | geprüft: 2026-10-14
+- [KS-267] Nach Einbruch der Dunkelheit tauchen neue Lichtinszenierungen die Orangerie und das Gelände in Licht; es gibt herzhafte Speisen, Süßes, gebrannte Mandeln, Baumkuchen und Glühwein. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-268] Rahmenprogramm täglich: Walking Act, historisches kleines Karussell und Fotobus. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-269] Parken: Die Parkhäuser Königsgalerie, Friedrichsplatz und Staatstheater sind zu Fuß erreichbar; Parkplätze gibt es am Regierungspräsidium, auf dem Parkplatz der Messe Kassel, an der Schwanenwiese/am Messeplatz und am gesamten Auedamm bis zur Insel Siebenbergen. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-270] Kostenloser Bus-Shuttle alle 15 Minuten vom Parkplatz Messehallen/Damaschkestraße über den Auedamm, Haltepunkte gekennzeichnet; den kostenlosen Shuttle gibt es nur am Parkplatz der Messe Kassel. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-271] Hunde sind angeleint erlaubt; behindertengerechte Toiletten sind vorhanden. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-272] Adresse laut Veranstalter: Orangerie, Auedamm 20B, 34121 Kassel (Visit Kassel: Am Auedamm 20b; Hessen Kassel Heritage nennt für die Orangerie An der Karlsaue 20 a). | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-10-14
+- [KS-273] Visit Kassel nennt Vorverkaufstickets mit 10 Euro statt 12 Euro zuzüglich 0,30 Euro Systemgebühr und freien Eintritt für Kinder bis 17 Jahre in Begleitung. | Quelle: https://visit.kassel.de/event/winterzauber-kassel | geprüft: 2026-10-14
+- OFFEN: Tramhaltestelle, Linie und Gehzeit zum Winterzauber – der Veranstalter nennt keine öffentlichen Verkehrsmittel, die ÖPNV-Angabe auf visit.kassel.de lädt dynamisch.
+- OFFEN: Kosten für Parkplätze und Parkhäuser sowie Gehzeit von dort zur Orangerie.
+- OFFEN: Termine 2027 (Winterzauber); Gastronomiepreise.
