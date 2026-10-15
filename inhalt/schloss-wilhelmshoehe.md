@@ -32,7 +32,7 @@ Landgraf Wilhelm IX. ließ das Schloss als Mittelpunkt des Bergparks bauen, spä
 
 ## Gibt es im Schloss ein Café?
 
-![Schloss-Café](schloss-cafe.jpg)
+![Alte Wache](alte-wache.jpg)
 
 Ja, das Café Jérôme im Schloss ist dienstags bis sonntags von 10 bis 17 Uhr geöffnet, auch ohne Museumsbesuch. Gleich in der Nähe liegt die „Alte Wache“, auch „Gloria in der Alten Wache“ genannt.
 
