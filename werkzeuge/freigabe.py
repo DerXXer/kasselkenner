@@ -5,7 +5,8 @@
       Baut je Entwurf eine Vorschau (eigenständiges HTML mit eingebettetem Stil und kleinem
       Titelbild) samt Lektorats-Hinweisen als JSON nach _entwuerfe/.freigabe/<slug>.json.
       Diese Dateien schreibt Claude mit ArtifactData (batch, op set, file_path) in die
-      Sammlung `entwuerfe` der Freigabeseite.
+      Sammlung `entwuerfe` der Freigabeseite. Beginnt <slug>.hinweis.txt mit „Rang <n>: <warum>“,
+      steht der Entwurf auf der Freigabeseite an Stelle n mit diesem Grund.
 
   python3 werkzeuge/freigabe.py uebernehmen <ordner-mit-db-export>
       Liest den Export der Sammlung (ArtifactData list mit out_dir) und verschiebt jeden
@@ -72,15 +73,22 @@ def paket(slugs):
             for f in fehler:
                 print("  ", f, file=sys.stderr)
             continue
-        hinweise = []
+        hinweise, rang = [], {}
         notiz = ENTW / f"{slug}.hinweis.txt"
         if notiz.exists():
-            hinweise.append(notiz.read_text().strip())
+            text = notiz.read_text().strip()
+            # erste Zeile „Rang <n>: <warum>“ ordnet die Freigabeseite nach Wichtigkeit (20.10.2026)
+            m = re.match(r"Rang (\d+): (.*)\n?", text)
+            if m:
+                rang = {"rang": int(m.group(1)), "warum": m.group(2).strip()}
+                text = text[m.end():].strip()
+            if text:
+                hinweise.append(text)
         hinweise += [w for w in warn if not w.startswith("Zahlen nicht")]
         doc = {"titel": meta.get("titel", slug), "beschreibung": meta.get("beschreibung", ""),
                "woerter": len(pruefen.norm(rumpf).split()), "vorschau": seite,
                "hinweise": "\n".join(hinweise), "status": "wartet", "kommentar": "",
-               "eingestellt": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+               "eingestellt": datetime.now(timezone.utc).isoformat(timespec="seconds"), **rang}
         out = ziel / f"{slug}.json"
         out.write_text(json.dumps(doc, ensure_ascii=False))
         kb = out.stat().st_size // 1024

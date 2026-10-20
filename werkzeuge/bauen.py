@@ -47,7 +47,9 @@ NAV = [("wasserspiele-kassel", "Wasserspiele"), ("bergpark-wilhelmshoehe", "Berg
 THEMEN = ["herkules-kassel", "loewenburg-kassel", "schloss-wilhelmshoehe", "beleuchtete-wasserspiele",
           "kassel-sehenswuerdigkeiten", "kassel-mit-kindern", "kassel-bei-regen", "weihnachtsmarkt-kassel",
           "grimmwelt-kassel", "orangerie-karlsaue", "kassel-wochenende", "kassel-geheimtipps", "zissel-kassel", "documenta-uebernachten",
-          "winterzauber-kassel", "kurhessen-therme", "habichtswald-wandern", "kliniken-angehoerige"]
+          "winterzauber-kassel", "kurhessen-therme", "habichtswald-wandern", "kliniken-angehoerige",
+          "mit-bus-und-bahn-zum-bergpark", "parken-bahnhof-wilhelmshoehe", "steinhoefer-wasserfall", "kletterwald-kassel",
+          "kassel-altstadt", "ahle-wurscht", "kassel-mit-hund"]
 START_DIAS = [("wasserspiele-kassel", "Bergpark · Saison 1. Mai bis 3. Oktober", "Wann laufen die Wasserspiele?", "Termine und Ablauf"),
               ("documenta-2027", "documenta 16 · Sommer 2027", "Was du zur documenta wissen musst", "Zum documenta-Ratgeber"),
               ("weihnachtsmarkt-kassel", "Innenstadt · Märchenweihnachtsmarkt", "Weihnachtsmarkt in Kassel", "Zeiten, Orte, Anreise"),
@@ -213,6 +215,10 @@ EMPFEHLUNG = {  # Titel, Satz, Tipp, Foto, Bildunterschrift, Wohnungsseite
                 "Mehr Raum als im Hotelzimmer, eine eigene Küche und der Bergpark gleich um die Ecke.",
                 "Unser Tipp: die „Löwenburg“ mit zwei Schlafzimmern für bis zu 4 Personen.",
                 "wohnung-loewenburg.jpg", "Wohnung Löwenburg", "lowenburg-2-schlafzimmer-fur-zwei-paare"),
+    "hund": ("Mit Hund am Bergpark wohnen",
+             "Morgens die erste Runde im Park, abends zurück in die eigene Wohnung: Haustiere sind bei uns auf Anfrage möglich, gegen Aufpreis.",
+             "Unser Tipp: vor der Buchung kurz nachfragen, dann klären wir die passende Wohnung.",
+             "wohnung-herkules.jpg", "Wohnung Herkules", ""),
     "start": ("Dein Zuhause am Bergpark",
               "Zehn Ferienwohnungen in Bad Wilhelmshöhe, vom Apartment für zwei bis zur Wohnung mit Garten für sechs.",
               "Kostenlos parken an der Straße, die Linie 4 ganz in der Nähe.",
@@ -220,9 +226,12 @@ EMPFEHLUNG = {  # Titel, Satz, Tipp, Foto, Bildunterschrift, Wohnungsseite
 }
 EMPFEHLUNG_THEMA = {s: "park" for s in ["wasserspiele-kassel", "beleuchtete-wasserspiele", "herkules-kassel", "bergpark-wilhelmshoehe",
                                         "loewenburg-kassel", "schloss-wilhelmshoehe", "parken-bergpark-wilhelmshoehe",
-                                        "kurhessen-therme", "habichtswald-wandern"]}
+                                        "kurhessen-therme", "habichtswald-wandern", "mit-bus-und-bahn-zum-bergpark",
+                                        "steinhoefer-wasserfall"]}
 EMPFEHLUNG_THEMA.update({s: "kunst" for s in ["documenta-2027", "documenta-uebernachten"]})
-EMPFEHLUNG_THEMA.update({s: "familie" for s in ["kassel-mit-kindern", "kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue"]})
+EMPFEHLUNG_THEMA.update({s: "familie" for s in ["kassel-mit-kindern", "kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue",
+                                                 "kletterwald-kassel"]})
+EMPFEHLUNG_THEMA["kassel-mit-hund"] = "hund"
 
 
 def eigenwerbung(slug, tiefe):
