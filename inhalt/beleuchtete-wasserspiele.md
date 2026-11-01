@@ -4,7 +4,7 @@ beschreibung: Beleuchtete Wasserspiele Kassel: die Termine 2026 als Beispiel, Ab
 slug: beleuchtete-wasserspiele
 kurz: Beleuchtete Wasserspiele
 bild: wasserspiele-beleuchtet.jpg
-stand: 2026-10-09
+stand: 2026-11-01
 blick: Termine 2026=5./6. Juni, 11./12. September | Termine 2027=stehen noch nicht fest | Beginn 2026=21.00 Uhr (Juni), 20.00 Uhr (September) | Finale=Große Fontäne | Anreise=Tram 4, dann Bus 22 oder 23 | Mitnehmen=Taschenlampe
 weiter: wasserspiele-kassel, parken-bergpark-wilhelmshoehe, bergpark-wilhelmshoehe
 ---
@@ -103,9 +103,9 @@ Nur eingeschränkt. Vom Herkules bis zum Schloss sind es rund 2,3 Kilometer berg
 
 ## Quellen
 
-- [Stadt Kassel, Beleuchtete Wasserspiele](https://www.kassel.de/beleuchtete-wasserspiele/index.php), abgerufen 09.10.2026
-- [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im Juni](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-juni.php), abgerufen 09.10.2026
-- [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im September](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-september.php), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
-- [hessenschau, Bergparkleuchten 2026 abgesagt](https://www.hessenschau.de/panorama/bergparkleuchten-2026-in-kassel-abgesagt-stadt-fehlt-das-geld-v1,bergpark-leuchten-abgesagt-100.html), abgerufen 09.10.2026
+- [Stadt Kassel, Beleuchtete Wasserspiele](https://www.kassel.de/beleuchtete-wasserspiele/index.php), abgerufen 01.11.2026
+- [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im Juni](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-juni.php), abgerufen 01.11.2026
+- [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im September](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-september.php), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
+- [hessenschau, Bergparkleuchten 2026 abgesagt](https://www.hessenschau.de/panorama/bergparkleuchten-2026-in-kassel-abgesagt-stadt-fehlt-das-geld-v1,bergpark-leuchten-abgesagt-100.html), abgerufen 01.11.2026

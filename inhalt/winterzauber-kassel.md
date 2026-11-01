@@ -4,7 +4,7 @@ beschreibung: Winterzauber Kassel 2026 an der Orangerie: 5. bis 8. und 12. bis 1
 slug: winterzauber-kassel
 kurz: Winterzauber
 bild: orangerie-winter-laser.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Termine 2026=5. bis 8. und 12. bis 14. November | Ort=Orangerie, Auedamm 20B | Eintritt=12 Euro, Vorverkauf 10 Euro | Kinder=bis 17 Jahre frei | Aussteller=rund 120
 weiter: weihnachtsmarkt-kassel, orangerie-karlsaue, kassel-mit-kindern
 ---
@@ -94,10 +94,10 @@ An der Tageskasse, die 30 Minuten vor Beginn öffnet und EC-Karten nimmt, oder o
 
 ## Quellen
 
-- [Gartenfestivals, Winterzauber Kassel an der Orangerie](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 14.10.2026
-- [Visit Kassel, Winterzauber Kassel](https://visit.kassel.de/event/winterzauber-kassel), abgerufen 14.10.2026
-- [Märchenweihnachtsmarkt Kassel](https://www.weihnachtsmarkt-kassel.de/), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Marmorbad](https://www.heritage-kassel.de/standorte/marmorbad), abgerufen 09.10.2026
-- [documenta, Besuch FAQ (Tram zum Friedrichsplatz)](https://documentasixteen.com/de/besuch/faq), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV zum Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
+- [Gartenfestivals, Winterzauber Kassel an der Orangerie](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 01.11.2026
+- [Visit Kassel, Winterzauber Kassel](https://visit.kassel.de/event/winterzauber-kassel), abgerufen 01.11.2026
+- [Märchenweihnachtsmarkt Kassel](https://www.weihnachtsmarkt-kassel.de/), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Marmorbad](https://www.heritage-kassel.de/standorte/marmorbad), abgerufen 01.11.2026
+- [documenta, Besuch FAQ (Tram zum Friedrichsplatz)](https://documentasixteen.com/de/besuch/faq), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV zum Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026

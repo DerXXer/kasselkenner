@@ -4,7 +4,7 @@ beschreibung: Grimmwelt Kassel: Öffnungszeiten, Eintritt für Erwachsene, Kinde
 slug: grimmwelt-kassel
 kurz: Grimmwelt
 bild: grimmwelt.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Geöffnet=Di bis So 10 bis 18 Uhr | Eintritt=10 Euro, ermäßigt 7 Euro | Familie=25 Euro | Kinder=unter 6 Jahren frei | Adresse=Weinbergstraße 21 | Anreise=Tram 1, 3 oder 4 bis Rathaus
 weiter: kassel-mit-kindern, kassel-bei-regen, orangerie-karlsaue
 ---
@@ -137,11 +137,11 @@ Dienstags bis sonntags von 10 bis 18 Uhr, montags ist es zu. Frühstück gibt es
 
 ## Quellen
 
-- [Grimmwelt, Besucherinformationen](https://www.grimmwelt.de/de/besucherinformationen), abgerufen 14.10.2026
-- [Grimmwelt, Häufige Fragen](https://www.grimmwelt.de/de/faq), abgerufen 14.10.2026
-- [Grimmwelt, Familien und Kinder](https://www.grimmwelt.de/de/familien-und-kinder), abgerufen 09.10.2026
-- [Grimmwelt, Erlebnisraum GRIMMWELT](https://www.grimmwelt.de/de/ausstellungen/grimmwelt), abgerufen 09.10.2026
-- [Grimmwelt, Über uns](https://www.grimmwelt.de/de/ueber-uns), abgerufen 09.10.2026
-- [Grimmwelt, Die Kinder- und Hausmärchen](https://www.grimmwelt.de/de/journal/die-kinder-und-hausmaerchen), abgerufen 09.10.2026
-- [Visit Kassel, Weinbergterrassen](https://visit.kassel.de/poi/weinbergterrassen), abgerufen 15.10.2026
-- [Grimmwelt, Restaurant FALADA](https://www.grimmwelt.de/de/restaurant), abgerufen 15.10.2026
+- [Grimmwelt, Besucherinformationen](https://www.grimmwelt.de/de/besucherinformationen), abgerufen 01.11.2026
+- [Grimmwelt, Häufige Fragen](https://www.grimmwelt.de/de/faq), abgerufen 01.11.2026
+- [Grimmwelt, Familien und Kinder](https://www.grimmwelt.de/de/familien-und-kinder), abgerufen 01.11.2026
+- [Grimmwelt, Erlebnisraum GRIMMWELT](https://www.grimmwelt.de/de/ausstellungen/grimmwelt), abgerufen 01.11.2026
+- [Grimmwelt, Über uns](https://www.grimmwelt.de/de/ueber-uns), abgerufen 01.11.2026
+- [Grimmwelt, Die Kinder- und Hausmärchen](https://www.grimmwelt.de/de/journal/die-kinder-und-hausmaerchen), abgerufen 01.11.2026
+- [Visit Kassel, Weinbergterrassen](https://visit.kassel.de/poi/weinbergterrassen), abgerufen 01.11.2026
+- [Grimmwelt, Restaurant FALADA](https://www.grimmwelt.de/de/restaurant), abgerufen 01.11.2026

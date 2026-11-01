@@ -4,7 +4,7 @@ beschreibung: Orangerie Kassel in der Karlsaue: Park frei zugänglich, Planetari
 slug: orangerie-karlsaue
 kurz: Orangerie
 bild: orangerie-karlsaue.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Park=ganzjährig, Eintritt frei | Planetarium=Do bis So 10 bis 17 Uhr | Vorstellung=8 Euro, ermäßigt 5 Euro | Marmorbad=Eintritt frei, im Winter zu | Adresse=An der Karlsaue 20a
 weiter: zissel-kassel, documenta-2027, bergpark-wilhelmshoehe
 ---
@@ -119,15 +119,15 @@ Vom 1. April bis 30. September von 10 bis 18 Uhr, im Oktober von 10 bis 17 Uhr, 
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Orangerie](https://www.heritage-kassel.de/standorte/orangerie), abgerufen 14.10.2026
-- [Hessen Kassel Heritage, Insel Siebenbergen](https://www.heritage-kassel.de/standorte/insel-siebenbergen), abgerufen 14.10.2026
-- [Gartenfestivals, Winterzauber Kassel](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 14.10.2026
-- [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Marmorbad](https://www.heritage-kassel.de/standorte/marmorbad), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Park Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 09.10.2026
-- [Stadt Kassel, Orangerie in der Karlsaue](https://www1.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/karlsaue/orangerie.php), abgerufen 09.10.2026
-- [Visit Kassel, Staatspark Karlsaue](https://visit.kassel.de/poi/staatspark-karlsaue), abgerufen 09.10.2026
+- [Hessen Kassel Heritage, Orangerie](https://www.heritage-kassel.de/standorte/orangerie), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Insel Siebenbergen](https://www.heritage-kassel.de/standorte/insel-siebenbergen), abgerufen 01.11.2026
+- [Gartenfestivals, Winterzauber Kassel](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Marmorbad](https://www.heritage-kassel.de/standorte/marmorbad), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Park Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 01.11.2026
+- [Stadt Kassel, Orangerie in der Karlsaue](https://www1.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/karlsaue/orangerie.php), abgerufen 01.11.2026
+- [Visit Kassel, Staatspark Karlsaue](https://visit.kassel.de/poi/staatspark-karlsaue), abgerufen 01.11.2026
 - [KVG, Anreise zum Auepark (ältere Veranstaltungsmeldung)](https://www.kvg.de/en/news/milky-chance-staatsorchester-live-in-kassel-am-23-august-in-der-orangerie/), abgerufen 09.10.2026
-- [Wikipedia, Orangerie (Kassel)](https://de.wikipedia.org/wiki/Orangerie_(Kassel)), abgerufen 09.10.2026
-- [Wikipedia, Karlsaue](https://de.wikipedia.org/wiki/Karlsaue), abgerufen 09.10.2026
+- [Wikipedia, Orangerie (Kassel)](https://de.wikipedia.org/wiki/Orangerie_(Kassel)), abgerufen 01.11.2026
+- [Wikipedia, Karlsaue](https://de.wikipedia.org/wiki/Karlsaue), abgerufen 01.11.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026

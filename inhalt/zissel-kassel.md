@@ -4,7 +4,7 @@ beschreibung: Zissel Kassel: Das Volks- und Wasserfest an der Fulda findet 2027 
 slug: zissel-kassel
 kurz: Zissel
 bild: fulda-spitzhacke.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Termin 2027=30. Juli bis 2. August | Ort=Auedamm und Karlswiese | Programm=steht noch nicht fest | Drachenboot-Cup=31. Juli 2027 | Anreise=Tram bis Friedrichsplatz | Veranstalter=Zissel in Kassel e.V.
 weiter: orangerie-karlsaue, weihnachtsmarkt-kassel, uebernachten-kassel
 ---
@@ -103,11 +103,11 @@ Welche Viertel passen, steht unter [Übernachten in Kassel](/uebernachten-kassel
 
 ## Quellen
 
-- [Stadt Kassel, Zissel](https://www1.kassel.de/buerger/sport_und_freizeit/wiederkehrende-veranstaltungen/zissel.php), abgerufen 09.10.2026
-- [Stadt Kassel, Zisselbrunnen](https://www.kassel.de/buerger/kunst_und_kultur/sehenswertes/zisselbrunnen.php), abgerufen 09.10.2026
-- [Zissel in Kassel e.V., Startseite](https://www.zissel.de/), abgerufen 14.10.2026
-- [Zissel in Kassel e.V., Geschichte](https://www.zissel.de/geschichte), abgerufen 09.10.2026
-- [Zissel in Kassel e.V., Programm](https://www.zissel.de/programm), abgerufen 09.10.2026
-- [Zissel in Kassel e.V., Drachenboot-Cup](https://www.zissel.de/drachenbootcup), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Park Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 09.10.2026
-- [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 09.10.2026
+- [Stadt Kassel, Zissel](https://www1.kassel.de/buerger/sport_und_freizeit/wiederkehrende-veranstaltungen/zissel.php), abgerufen 01.11.2026
+- [Stadt Kassel, Zisselbrunnen](https://www.kassel.de/buerger/kunst_und_kultur/sehenswertes/zisselbrunnen.php), abgerufen 01.11.2026
+- [Zissel in Kassel e.V., Startseite](https://www.zissel.de/), abgerufen 01.11.2026
+- [Zissel in Kassel e.V., Geschichte](https://www.zissel.de/geschichte), abgerufen 01.11.2026
+- [Zissel in Kassel e.V., Programm](https://www.zissel.de/programm), abgerufen 01.11.2026
+- [Zissel in Kassel e.V., Drachenboot-Cup](https://www.zissel.de/drachenbootcup), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Park Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 01.11.2026
+- [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 01.11.2026

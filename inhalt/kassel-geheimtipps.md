@@ -4,7 +4,7 @@ beschreibung: Weniger bekannte Orte in Kassel: Künstler-Nekropole, Sepulkralmus
 slug: kassel-geheimtipps
 kurz: Abseits der Wege
 bild: kuenstlernekropole.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Nekropole=ganzjährig, Eintritt frei | Sepulkralkultur=8 Euro, Mi bis 20 Uhr | Bunkerführung=ab 5 Euro, mit Anmeldung | Laserscape=samstags, Eintritt frei | Gewächshaus=1. November bis 31. März
 weiter: kassel-sehenswuerdigkeiten, kassel-wochenende, bergpark-wilhelmshoehe
 ---
@@ -118,24 +118,24 @@ Die Laserstrahlen leuchten jeden Samstag nach Einbruch der Dunkelheit über der 
 
 ## Quellen
 
-- [Visit Kassel, Künstler-Nekropole](https://visit.kassel.de/poi/kuenstler-nekropole), abgerufen 09.10.2026
-- [Visit Kassel, Museum für Sepulkralkultur](https://visit.kassel.de/poi/museum-fuer-sepulkralkultur), abgerufen 09.10.2026
-- [Museum für Sepulkralkultur, Besuch](https://www.sepulkralmuseum.de/besuch), abgerufen 09.10.2026
-- [Visit Kassel, Führung im Weinbergbunker](https://visit.kassel.de/event/fuehrung-im-weinbergbunker), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Hessisches Landesmuseum](https://www.heritage-kassel.de/standorte/hessisches-landesmuseum), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Gewächshaus](https://www.heritage-kassel.de/standorte/gewaechshaus), abgerufen 09.10.2026
-- [Visit Kassel, Laserscape Kassel](https://visit.kassel.de/poi/laserscape-kassel), abgerufen 09.10.2026
-- [Visit Kassel, Botanischer Garten](https://visit.kassel.de/poi/botanischer-garten), abgerufen 09.10.2026
-- [Visit Kassel, Dönche](https://visit.kassel.de/poi/doenche), abgerufen 09.10.2026
-- [Visit Kassel, Public Art Gallery](https://visit.kassel.de/poi/public-art-gallery), abgerufen 09.10.2026
-- [Visit Kassel, Street Art](https://visit.kassel.de/kunst-und-kultur/street-art), abgerufen 09.10.2026
-- [Wikipedia, Kassel](https://de.wikipedia.org/wiki/Kassel), abgerufen 14.10.2026
-- [Hessen Kassel Heritage, Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 14.10.2026
-- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 14.10.2026
-- [Wikipedia, Vorderer Westen](https://de.wikipedia.org/wiki/Vorderer_Westen), abgerufen 14.10.2026
-- [Wikipedia, Wehlheiden](https://de.wikipedia.org/wiki/Wehlheiden), abgerufen 14.10.2026
-- [Wikipedia, Bad Wilhelmshöhe](https://de.wikipedia.org/wiki/Bad_Wilhelmsh%C3%B6he), abgerufen 14.10.2026
-- [Visit Kassel, Stadtmuseum Kassel](https://visit.kassel.de/poi/stadtmuseum-kassel), abgerufen 14.10.2026
-- [Visit Kassel, Tourist Information](https://visit.kassel.de/poi/tourist-information), abgerufen 09.10.2026
-- [Grimmwelt, Über uns](https://www.grimmwelt.de/de/ueber-uns), abgerufen 09.10.2026
+- [Visit Kassel, Künstler-Nekropole](https://visit.kassel.de/poi/kuenstler-nekropole), abgerufen 01.11.2026
+- [Visit Kassel, Museum für Sepulkralkultur](https://visit.kassel.de/poi/museum-fuer-sepulkralkultur), abgerufen 01.11.2026
+- [Museum für Sepulkralkultur, Besuch](https://www.sepulkralmuseum.de/besuch), abgerufen 01.11.2026
+- [Visit Kassel, Führung im Weinbergbunker](https://visit.kassel.de/event/fuehrung-im-weinbergbunker), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Hessisches Landesmuseum](https://www.heritage-kassel.de/standorte/hessisches-landesmuseum), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Gewächshaus](https://www.heritage-kassel.de/standorte/gewaechshaus), abgerufen 01.11.2026
+- [Visit Kassel, Laserscape Kassel](https://visit.kassel.de/poi/laserscape-kassel), abgerufen 01.11.2026
+- [Visit Kassel, Botanischer Garten](https://visit.kassel.de/poi/botanischer-garten), abgerufen 01.11.2026
+- [Visit Kassel, Dönche](https://visit.kassel.de/poi/doenche), abgerufen 01.11.2026
+- [Visit Kassel, Public Art Gallery](https://visit.kassel.de/poi/public-art-gallery), abgerufen 01.11.2026
+- [Visit Kassel, Street Art](https://visit.kassel.de/kunst-und-kultur/street-art), abgerufen 01.11.2026
+- [Wikipedia, Kassel](https://de.wikipedia.org/wiki/Kassel), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
+- [Wikipedia, Vorderer Westen](https://de.wikipedia.org/wiki/Vorderer_Westen), abgerufen 01.11.2026
+- [Wikipedia, Wehlheiden](https://de.wikipedia.org/wiki/Wehlheiden), abgerufen 01.11.2026
+- [Wikipedia, Bad Wilhelmshöhe](https://de.wikipedia.org/wiki/Bad_Wilhelmsh%C3%B6he), abgerufen 01.11.2026
+- [Visit Kassel, Stadtmuseum Kassel](https://visit.kassel.de/poi/stadtmuseum-kassel), abgerufen 01.11.2026
+- [Visit Kassel, Tourist Information](https://visit.kassel.de/poi/tourist-information), abgerufen 01.11.2026
+- [Grimmwelt, Über uns](https://www.grimmwelt.de/de/ueber-uns), abgerufen 01.11.2026
 - Gehzeit Grimmwelt – Landesmuseum: eigene Messung mit OpenStreetMap-Routing (Fußweg), 09.10.2026
