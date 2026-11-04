@@ -10,11 +10,22 @@
 
   python3 werkzeuge/freigabe.py uebernehmen <ordner-mit-db-export>
       Liest den Export der Sammlung (ArtifactData list mit out_dir) und verschiebt jeden
-      Entwurf mit status "freigegeben" nach inhalt/. Gibt die übernommenen Slugs aus;
-      danach bauen, committen, pushen und den Status auf "online" setzen.
+      Entwurf mit status "freigegeben" nach inhalt/, dazu jeden mit gültigem Prüfer-„frei“
+      (Fingerabdruck passt, Lektorat ohne Fehler), außer Aaron hat ihn zurückgegeben oder
+      verworfen. Gibt die übernommenen Slugs aus; danach bauen, committen, pushen und den
+      Status auf "online" setzen. Jede Übernahme: Zeile in _entwuerfe/.pruefer/freigegeben.tsv.
+
+  Prüfer (Aaron, 04.11.2026: ein unabhängiger Prüfer darf freigeben, Aaron bekommt eine Stichprobe):
+  python3 werkzeuge/freigabe.py urteil <slug> frei|zurueck "<Gründe>"
+      Urteil nach _entwuerfe/.pruefer/<slug>.json; gilt nur für diese Fassung von Entwurf und
+      Belegdatei. „frei“ nie für Rechtliches und Nicht-Artikel, ohne Belege oder mit Lektoratsfehler.
+  python3 werkzeuge/freigabe.py pruefer-stand [<ordner>]
+      Je Entwurf: zu prüfen | frei | zurück: <Gründe> | ausgenommen.
+  python3 werkzeuge/freigabe.py stichprobe [--tage 7] [--anzahl 3]
+      Neueste vom Prüfer freigegebene Seiten als Adressen. „heute“ = KK_HEUTE, sonst Tagesdatum.
 """
-import base64, json, re, subprocess, sys, tempfile
-from datetime import datetime, timezone
+import base64, hashlib, json, os, re, subprocess, sys, tempfile
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 WURZEL = Path(__file__).resolve().parent.parent
@@ -95,25 +106,185 @@ def paket(slugs):
         print(f"{slug}: {out} ({kb} KB){'  ZU GROSS' if kb > 250 else ''}")
 
 
-def uebernehmen(ordner):
-    fertig = []
+# ---------------------------------------------------------------- Prüfer (Aaron, 04.11.2026)
+PRUEFER = ENTW / ".pruefer"
+LISTE = PRUEFER / "freigegeben.tsv"
+AUSGENOMMEN = {"datenschutz", "impressum", "ueber-uns", "index", "404"}   # rechtlich oder Sonderseite: nur Aaron
+DOMAIN = "https://kasselkenner.de"
+
+
+def heute():
+    return date.fromisoformat(os.environ["KK_HEUTE"]) if os.environ.get("KK_HEUTE") else date.today()
+
+
+def entwuerfe():
+    """Slugs der Entwürfe; Beleg-, Hinweis- und Offen-Dateien zählen nicht."""
+    return sorted(p.stem for p in ENTW.glob("*.md") if "." not in p.stem)
+
+
+def fingerabdruck(slug):
+    h = hashlib.sha256()
+    for p in (ENTW / f"{slug}.md", ENTW / f"{slug}.belege.md"):
+        h.update(p.read_bytes() if p.exists() else b"")
+        h.update(b"\0")
+    return h.hexdigest()
+
+
+def ausgenommen(slug):
+    meta, _ = bauen.kopf_lesen((ENTW / f"{slug}.md").read_text(encoding="utf-8"))
+    return slug in AUSGENOMMEN or (meta.get("art") or "artikel") != "artikel"
+
+
+def gegen_frei(slug):
+    """Warum der Prüfer diesen Entwurf nicht freigeben darf (leer = darf)."""
+    if ausgenommen(slug):
+        return ["rechtliche oder Sonderseite (keine Artikelseite): gibt nur Aaron frei"]
+    b = ENTW / f"{slug}.belege.md"
+    if not b.exists() or not b.read_text(encoding="utf-8").strip():
+        return ["Belegdatei fehlt oder ist leer"]
+    fehler, _ = pruefen.pruefe(ENTW / f"{slug}.md")
+    return ["Lektorat: " + f for f in fehler]
+
+
+def urteil_lesen(slug):
+    """Gültiges Urteil für die jetzige Fassung, sonst None (fehlt oder Entwurf seither geändert)."""
+    p = PRUEFER / f"{slug}.json"
+    if not p.exists() or not (ENTW / f"{slug}.md").exists():
+        return None
+    u = json.loads(p.read_text(encoding="utf-8"))
+    return u if u.get("fingerabdruck") == fingerabdruck(slug) else None
+
+
+def urteil(a):
+    if len(a) < 2:
+        sys.exit('urteil <slug> frei|zurueck "<Gründe>"')
+    slug, wort, gruende = a[0], a[1], " ".join(a[2:]).strip()
+    if not (ENTW / f"{slug}.md").exists():
+        sys.exit(f"{slug}: Entwurf fehlt")
+    if wort not in ("frei", "zurueck"):
+        sys.exit(f"{slug}: Urteil „{wort}“ unbekannt — frei oder zurueck")
+    if wort == "zurueck" and not gruende:
+        sys.exit(f"{slug}: zurueck braucht Gründe")
+    if wort == "frei":
+        nein = gegen_frei(slug)
+        if nein:
+            sys.exit(f"{slug}: frei abgelehnt\n  " + "\n  ".join(nein))
+    PRUEFER.mkdir(parents=True, exist_ok=True)
+    doc = {"urteil": wort, "gruende": gruende, "fingerabdruck": fingerabdruck(slug), "datum": heute().isoformat()}
+    (PRUEFER / f"{slug}.json").write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{slug}: {wort}")
+
+
+def aarons_status(ordner):
+    """Aarons Status je Slug aus den Karten (<slug>.json) oder dem Export ({"id", "data"})."""
+    status = {}
     for f in sorted(Path(ordner).rglob("*.json")):
-        d = json.loads(f.read_text())
-        body = d.get("data", d)
-        slug = d.get("id") or d.get("doc_id") or f.stem
-        if body.get("status") != "freigegeben":
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except (OSError, ValueError) as e:
+            print(f"{f}: nicht lesbar ({e})", file=sys.stderr)
             continue
-        q = ENTW / f"{slug}.md"
-        if not q.exists():
+        body = d.get("data", d)
+        status[d.get("id") or d.get("doc_id") or f.stem] = body.get("status")
+    return status
+
+
+def liste_eintragen(slug, wer):
+    PRUEFER.mkdir(parents=True, exist_ok=True)
+    zeile = f"{heute().isoformat()}\t{slug}\t{wer}\n"
+    alt = LISTE.read_text(encoding="utf-8") if LISTE.exists() else ""
+    if zeile not in alt.splitlines(keepends=True):
+        with LISTE.open("a", encoding="utf-8") as f:
+            f.write(zeile)
+
+
+def uebernehmen(ordner):
+    status = aarons_status(ordner)
+    fertig, vom_pruefer = [], []
+
+    def online_stellen(slug, wer):
+        (ENTW / f"{slug}.md").rename(WURZEL / "inhalt" / f"{slug}.md")
+        liste_eintragen(slug, wer)
+        fertig.append(slug)
+
+    for slug, st in status.items():
+        if st != "freigegeben":
+            continue
+        if not (ENTW / f"{slug}.md").exists():
             print(f"{slug}: Entwurf fehlt", file=sys.stderr)
             continue
-        q.rename(WURZEL / "inhalt" / f"{slug}.md")
-        fertig.append(slug)
+        online_stellen(slug, "aaron")
+    for slug in entwuerfe():
+        if status.get(slug) in ("zurueck", "verworfen"):
+            continue
+        u = urteil_lesen(slug)
+        if not u:
+            continue
+        if u["urteil"] == "zurueck":
+            print(f"vom Prüfer zurück: {slug}: {u['gruende']}", file=sys.stderr)
+        elif u["urteil"] == "frei":
+            nein = gegen_frei(slug)
+            if nein:
+                print(f"{slug}: Prüfer-frei ungültig — " + "; ".join(nein), file=sys.stderr)
+                continue
+            online_stellen(slug, "pruefer")
+            vom_pruefer.append(slug)
+    if vom_pruefer:
+        print("vom Prüfer freigegeben: " + ", ".join(vom_pruefer), file=sys.stderr)
     print(" ".join(fertig))
 
 
+def pruefer_stand(a):
+    status = aarons_status(a[0] if a else ENTW / ".paperclip")
+    for slug in entwuerfe():
+        if status.get(slug) in ("freigegeben", "verworfen"):
+            continue
+        u = urteil_lesen(slug)
+        if ausgenommen(slug):
+            stand = "ausgenommen"
+        elif not u:
+            stand = "zu prüfen"
+        else:
+            stand = "frei" if u["urteil"] == "frei" else f"zurück: {u['gruende']}"
+        print(f"{slug}  {stand}")
+
+
+def stichprobe(a):
+    import argparse
+    p = argparse.ArgumentParser(prog="freigabe.py stichprobe")
+    p.add_argument("--tage", type=int, default=7)
+    p.add_argument("--anzahl", type=int, default=3)
+    arg = p.parse_args(a)
+    ab = heute() - timedelta(days=arg.tage)       # die letzten <tage> Tage bis heute, ohne Überschneidung zur Vorwoche
+    zeilen = []
+    for i, z in enumerate(LISTE.read_text(encoding="utf-8").splitlines() if LISTE.exists() else []):
+        teile = z.split("\t")
+        if len(teile) < 3 or teile[2].strip() != "pruefer":
+            continue
+        try:
+            tag = date.fromisoformat(teile[0].strip())
+        except ValueError:
+            continue
+        if ab < tag <= heute():
+            zeilen.append((tag, i, teile[1].strip()))
+    gesehen = []
+    for _, _, slug in sorted(zeilen, reverse=True):
+        if slug not in gesehen:
+            gesehen.append(slug)
+    for slug in gesehen[:arg.anzahl]:
+        print(f"{DOMAIN}/{slug}/")
+
+
+BEFEHLE = {   # Befehl: (mindestens Argumente, Ausführung)
+    "paket": (1, paket),
+    "uebernehmen": (1, lambda a: uebernehmen(a[0])),
+    "urteil": (2, urteil),
+    "pruefer-stand": (0, pruefer_stand),
+    "stichprobe": (0, stichprobe),
+}
+
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print(__doc__)
+    if len(sys.argv) < 2 or sys.argv[1] not in BEFEHLE or len(sys.argv) - 2 < BEFEHLE[sys.argv[1]][0]:
+        print(__doc__, file=sys.stderr)
         sys.exit(1)
-    {"paket": lambda a: paket(a), "uebernehmen": lambda a: uebernehmen(a[0])}[sys.argv[1]](sys.argv[2:])
+    BEFEHLE[sys.argv[1]][1](sys.argv[2:])
