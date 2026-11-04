@@ -21,6 +21,26 @@ AUTOR = {"@type": "Person", "@id": AUTOR_ID, "name": "Aaron Schiele", "url": DOM
          "jobTitle": "Gastgeber in Kassel-Bad Wilhelmshöhe", "image": DOMAIN + "/aaron.jpg",
          "worksFor": {"@type": "Organization", "name": "Wohnen am Bergpark", "url": "https://wohnenambergpark.de/"}}
 INDEXNOW = "408dcd67b168f09d160b92ca4366c418"
+# Besucherzähler Cloudflare Web Analytics (ohne Cookies), Entscheidung „Kasselkenner Besucherzähler Cloudflare“.
+# Aktiv nur, wenn vorlage/zaehler.txt den Schlüssel (oder den ganzen Schnipsel aus dem Cloudflare-Dashboard) enthält.
+# Dann kommt das Skript auf jede Seite, und in inhalt/*.md gelten Zeilen mit „?zaehler:“; ohne Schlüssel die mit „?ohne-zaehler:“.
+_z = re.search(r"[0-9a-f]{32}", (WURZEL / "vorlage" / "zaehler.txt").read_text()) if (WURZEL / "vorlage" / "zaehler.txt").exists() else None
+ZAEHLER = _z.group(0) if _z else None
+ZAEHLER_JS = (f"<script defer src=\"https://static.cloudflareinsights.com/beacon.min.js\" "
+              f"data-cf-beacon='{{\"token\": \"{ZAEHLER}\"}}'></script>") if ZAEHLER else ""
+
+
+def zaehler_zeilen(rumpf):
+    """Zeilen mit ?zaehler: / ?ohne-zaehler: je nach Schalter behalten (ohne Kennung) oder streichen."""
+    aus = []
+    for z in rumpf.splitlines():
+        for kenn, an in (("?zaehler:", True), ("?ohne-zaehler:", False)):
+            if z.startswith(kenn):
+                z = z[len(kenn):].lstrip() if bool(ZAEHLER) == an else None
+                break
+        if z is not None:
+            aus.append(z)
+    return "\n".join(aus) + ("\n" if rumpf.endswith("\n") else "")
 # Orte für strukturierte Daten (Entität + Wikipedia), je Seite
 ORTE = {
     "herkules-kassel": ("Herkules (Kassel)", "https://de.wikipedia.org/wiki/Herkules_(Kassel)"),
@@ -616,6 +636,7 @@ def main():
         {b for _, r in seiten.values() for b in re.findall(r"^!\[[^\]]*\]\(([^)\s]+)\)", r, re.M)}
     bilder_kopieren(benutzt)  # vorab, damit Bildmaße für og:image und JSON-LD bekannt sind
     for slug, (meta, rumpf) in seiten.items():
+        rumpf = zaehler_zeilen(rumpf)
         rumpf, quellen = quellen_block(rumpf)
         h, faq, toc = markdown(rumpf)
         if quellen:
@@ -630,6 +651,8 @@ def main():
             text = text.replace("</body>", EIGEN_JS + "\n</body>", 1)
         if 'class="strecke"' in text:
             text = text.replace("</body>", STRECKE_JS + "\n</body>", 1)
+        if ZAEHLER and slug != "404":
+            text = text.replace("</body>", ZAEHLER_JS + "\n</body>", 1)
         ziel.write_text(text)
     shutil.rmtree(AUS / "404", ignore_errors=True)
     for f in ("logo.svg", "favicon-48.png", "apple-touch-icon.png", "icon-512.png", "aaron-160.webp", "aaron-400.webp", "aaron.jpg"):
