@@ -4,7 +4,8 @@ beschreibung: Bergpark Wilhelmshöhe in Kassel: was dich im UNESCO-Welterbe erwa
 slug: bergpark-wilhelmshoehe
 kurz: Bergpark
 bild: teufelsbruecke.jpg
-stand: 2026-10-09
+stand: 2026-11-05
+eigenwerbung: nein
 blick: Eintritt=Park frei | Geöffnet=ganzjährig | Rundweg=rund 2,3 km bergab | Anreise=Tram 4, dann Bus 22 | Parken=am Herkules und am Schloss | Welterbe=seit 2013
 weiter: wasserspiele-kassel, herkules-kassel, loewenburg-kassel
 ---
@@ -92,7 +93,7 @@ Im Besucherzentrum Herkules gibt es Tickets, einen Shop und kleine Erfrischungen
 - **Unten (Schloss):** Tram 1 bis Wilhelmshöhe (Park). Linie 24 fährt täglich von 10 bis 18 Uhr alle 30 Minuten über den Bahnhof Wilhelmshöhe zum Schloss.
 - **Auto:** Der Park ist autofrei. Parkplätze gibt es am Herkules (280 Plätze) und am Schloss (390 Plätze). Alles zu den Tarifen unter [Parken am Bergpark Wilhelmshöhe](/parken-bergpark-wilhelmshoehe/).
 
-Unser Tipp: Aus Bad Wilhelmshöhe (ab der Lindenstraße) bist du in 14 Minuten zu Fuß am Schloss und in 18 Minuten an der Löwenburg.
+Unser Tipp: Von der Tram-Endhaltestelle Wilhelmshöhe (Park) bist du in gut 10 Minuten zu Fuß am Schloss. Zur Löwenburg rechne rund 25 Minuten, der Weg steigt an.
 
 ## Häufige Fragen
 

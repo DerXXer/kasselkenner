@@ -60,6 +60,10 @@ EVENTS = {
     "weihnachtsmarkt-kassel": ("Märchenweihnachtsmarkt Kassel 2026", "2026-11-23", "2026-12-30", "Königsplatz und Friedrichsplatz, Kassel", True, None),
     "zissel-kassel": ("Zissel 2027", "2027-07-30", "2027-08-02", "Auedamm und Karlswiese, Kassel", True, "https://de.wikipedia.org/wiki/Zissel"),
 }
+# Veranstalter aus dem Faktenspeicher (DO-083, KS-595, KS-229); Google meldete sie am 04.11.2026 als fehlend
+VERANSTALTER = {"documenta-2027": ("documenta und Museum Fridericianum gGmbH", "https://www.documenta.de/"),
+                "weihnachtsmarkt-kassel": ("Kassel Marketing GmbH", "https://www.weihnachtsmarkt-kassel.de/"),
+                "zissel-kassel": ("Zissel in Kassel e.V.", "https://www.zissel.de/")}
 BUCHEN = "https://wohnenambergpark.de/de/alle-ferienwohnungen"
 NAV = [("wasserspiele-kassel", "Wasserspiele"), ("bergpark-wilhelmshoehe", "Bergpark"),
        ("documenta-2027", "documenta 2027"), ("parken-bergpark-wilhelmshoehe", "Parken & Anreise"),
@@ -122,7 +126,8 @@ def inline(t):
         extern = ziel.startswith("http") and not ziel.startswith(DOMAIN)
         attr = ' rel="noopener"' if extern else ""
         return f'<a href="{html.escape(ziel)}"{attr}>{text}</a>'
-    return re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", link, t)
+    # Ziel darf eine Klammerebene enthalten (Wikipedia „Herkules_(Kassel)“), sonst endet der Link zu früh (04.11.2026)
+    return re.sub(r"\[([^\]]+)\]\(((?:[^()\s]|\([^()\s]*\))+)\)", link, t)
 
 
 def anker(t):
@@ -325,7 +330,7 @@ def bild_objekt(bild):
     o = {"@type": "ImageObject", "url": f"{DOMAIN}/bilder/{bild}", "width": b, "height": h}
     if n.get("urheber"):
         o.update({"creator": {"@type": "Person", "name": n["urheber"]}, "creditText": f'{n["urheber"]}, {n.get("lizenz", "")}'.strip(", "),
-                  "acquireLicensePage": DOMAIN + "/bildnachweise/"})
+                  "copyrightNotice": f'{n["urheber"]} / Wikimedia Commons', "acquireLicensePage": DOMAIN + "/bildnachweise/"})
         if n.get("lizenz_url", "").startswith("http"):
             o["license"] = n["lizenz_url"]
     return o
@@ -389,6 +394,8 @@ def seite(meta, inhalt_html, faq, toc, alle):
                   "isAccessibleForFree": frei, "url": url, "description": meta.get("beschreibung", "")}
             if wiki:
                 ev["sameAs"] = wiki
+            if slug in VERANSTALTER:
+                ev["organizer"] = {"@type": "Organization", "name": VERANSTALTER[slug][0], "url": VERANSTALTER[slug][1]}
             if bild:
                 ev["image"] = f"{DOMAIN}/bilder/{bild}"
             schema.append(ev)

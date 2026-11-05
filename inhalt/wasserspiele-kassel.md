@@ -4,7 +4,8 @@ beschreibung: Wasserspiele Kassel im Bergpark Wilhelmshöhe: wann sie laufen, Ab
 slug: wasserspiele-kassel
 kurz: Wasserspiele
 bild: wasserspiele-kaskaden.jpg
-stand: 2026-10-09
+stand: 2026-11-05
+eigenwerbung: nein
 blick: Saison=1. Mai bis 3. Oktober | Tage=Mi, So und Feiertage | Start=14.30 Uhr am Herkules | Ende=gegen 16 Uhr, Große Fontäne | Eintritt=frei | Strecke=rund 2,3 km bergab
 weiter: beleuchtete-wasserspiele, parken-bergpark-wilhelmshoehe, herkules-kassel
 ---
@@ -49,7 +50,7 @@ An Wasserspieltagen ist viel los, früh da sein lohnt sich. Wer alle Stationen s
 
 ## Unser Tipp: das Finale ohne Aufstieg
 
-Du musst nicht auf den Berg, um das Schönste mitzunehmen. Aus Bad Wilhelmshöhe (ab der Lindenstraße) gehst du in 14 Minuten flach zum Schloss Wilhelmshöhe. Um 15.45 Uhr steigt dort die Große Fontäne, danach fließt das Wasser in den Schlossteich direkt vor dem Schloss. Zum Herkules wären es dagegen 46 Minuten und 242 m bergauf.
+Du musst nicht auf den Berg, um das Schönste mitzunehmen. Von der Tram-Endhaltestelle Wilhelmshöhe (Park) gehst du in gut 10 Minuten zum Schloss Wilhelmshöhe. Um 15.45 Uhr steigt dort die Große Fontäne, danach fließt das Wasser in den Schlossteich direkt vor dem Schloss. Vom Schloss zum Herkules wären es dagegen rund 1,5 Stunden bergauf über Wege und Treppen.
 
 ## Wie funktionieren die Wasserspiele ohne Pumpen?
 

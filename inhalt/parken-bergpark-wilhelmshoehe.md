@@ -4,7 +4,8 @@ beschreibung: Parken am Bergpark Wilhelmshöhe: die Parkplätze am Herkules und 
 slug: parken-bergpark-wilhelmshoehe
 kurz: Parken
 bild: parkplatz-herkules.jpg
-stand: 2026-10-09
+stand: 2026-11-05
+eigenwerbung: nein
 blick: Plätze=Herkules 280, Schloss 390 | Normale Tage=erste 30 Min. frei, Tag 5 Euro | Wasserspieltage=8,50 Euro (9.30 bis 15 Uhr) | Shuttle=2 Euro je Fahrt | Ohne Auto=Tram 1 und 4, Bus 22 und 23
 weiter: wasserspiele-kassel, herkules-kassel, bergpark-wilhelmshoehe
 ---

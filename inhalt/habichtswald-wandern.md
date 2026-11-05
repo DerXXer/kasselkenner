@@ -4,7 +4,8 @@ beschreibung: Wandern im Habichtswald ab dem Bergpark Wilhelmshöhe: vier Rundto
 slug: habichtswald-wandern
 kurz: Wandern
 bild: blick-vom-herkules.jpg
-stand: 2026-10-14
+stand: 2026-11-05
+eigenwerbung: nein
 blick: Kürzeste=2,05 km | Längste=gut 18 km | Habichtswaldsteig=85 km Fernweg | Markierung=Habicht auf Purpur | Anreise=Tram 4, Bus 22
 weiter: herkules-kassel, loewenburg-kassel, bergpark-wilhelmshoehe
 ---
