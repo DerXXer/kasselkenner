@@ -4,13 +4,13 @@ beschreibung: Kassel bei Regen: Schloss Wilhelmshöhe, Grimmwelt, Naturkundemuse
 slug: kassel-bei-regen
 kurz: Bei Regen
 bild: ottoneum.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Museen=Di bis So, Mo geschlossen | Therme=täglich 9 bis 22 Uhr | Thermalbad=ab 18 Euro (2 Stunden) | Grimmwelt=10 Euro, unter 6 frei
 weiter: grimmwelt-kassel, kassel-mit-kindern, schloss-wilhelmshoehe
 ---
 # Kassel bei Regen: was du drinnen machen kannst
 
-Regen in Kassel? Dann hast du die Wahl: Museen, von Rembrandt im Schloss Wilhelmshöhe bis zu den Sauriern im Ottoneum, oder ein paar warme Stunden im Solewasser der Kurhessen-Therme. Schloss und Therme liegen direkt am [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/), die übrigen Ziele in der Innenstadt.
+Regen in Kassel? Dann hast du die Wahl: Museen, von Rembrandt im Schloss Wilhelmshöhe bis zu den Sauriern im Ottoneum, oder ein paar warme Stunden im Solewasser der [Kurhessen-Therme](/kurhessen-therme/). Schloss und Therme liegen direkt am [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/), die übrigen Ziele in der Innenstadt.
 
 ## Welche Ziele haben bei Regen offen und was kosten sie?
 
@@ -29,7 +29,7 @@ Denk an den Montag: Dann haben die Museen zu, außer an Feiertagen – die Therm
 
 ![Kurhessen-Therme](kurhessen-therme-aussen.jpg)
 
-Mit dem Tagesticket Wilhelmshöhe für 8 Euro (während der Ausstellung „DÜRER“ 12 Euro) kommst du ins Schloss und mit Führung in die Löwenburg. Die Kurhessen-Therme ist täglich von 9 bis 22 Uhr offen. Vom 1. November bis 31. März kommt das Große Gewächshaus dazu, Dienstag bis Sonntag von 10 bis 17 Uhr, ebenfalls im Tagesticket.
+Mit dem Tagesticket Wilhelmshöhe für 8 Euro (während der Ausstellung „DÜRER“ bis 17. Januar 2027 12 Euro, ermäßigt 9 Euro) kommst du ins Schloss und mit Führung in die Löwenburg. Die Kurhessen-Therme ist täglich von 9 bis 22 Uhr offen. Vom 1. November bis 31. März kommt das Große Gewächshaus dazu, Dienstag bis Sonntag von 10 bis 17 Uhr, ebenfalls im Tagesticket.
 
 **Schloss Wilhelmshöhe** ist wie gemacht für einen Regentag: Drinnen hängen Rembrandt, Rubens, Dürer und Tizian, und durch die Fenster schaust du auf den nassen, grünen Park. Im Untergeschoss wartet die Antikensammlung. Das Tagesticket Wilhelmshöhe kostet 8 Euro, unter 18 ist frei; während der Ausstellung „DÜRER“ sind es 12 Euro. Mehr unter [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/).
 
@@ -52,7 +52,7 @@ Grimmwelt, Naturkundemuseum und Landesmuseum sind alle dienstags bis sonntags ge
 
 **Die Grimmwelt** erzählt von den Brüdern Grimm, ihren Märchen und ihrer Liebe zur Sprache. Herzstück sind ihre eigenen Handexemplare der „Kinder- und Hausmärchen“, und in vielen Bereichen darfst du selbst mitmachen. Mehr unter [Grimmwelt Kassel](/grimmwelt-kassel/).
 
-**Das Naturkundemuseum im Ottoneum** am Steinweg holt Saurier, Haie und Mammuts ins Trockene. Ab 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Mittwochs ist bis 20 Uhr offen.
+**Das Naturkundemuseum im Ottoneum** am Steinweg holt Saurier, Haie und Mammuts ins Trockene. Seit dem 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Mittwochs ist bis 20 Uhr offen.
 
 **Das Hessische Landesmuseum** am Brüder-Grimm-Platz führt durch die Geschichte Hessens. Zu jeder vollen und halben Stunde geht es auf den Turm – vielleicht reißt der Himmel ja gerade auf. Wegen Bauarbeiten am Brüder-Grimm-Platz kann der Zugang eingeschränkt sein.
 
@@ -100,18 +100,18 @@ Ja. Mit dem Abriss deines Parkscheins bekommst du am selben Tag einmal ermäßig
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Dauerausstellung Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe/dauerausstellung), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Gewächshaus](https://www.heritage-kassel.de/standorte/gewaechshaus), abgerufen 14.10.2026
-- [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Hessisches Landesmuseum](https://www.heritage-kassel.de/standorte/hessisches-landesmuseum), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 09.10.2026
-- [Grimmwelt, Besucherinformationen](https://www.grimmwelt.de/de/besucherinformationen), abgerufen 09.10.2026
-- [Grimmwelt, Erlebnisraum GRIMMWELT](https://www.grimmwelt.de/de/ausstellungen/grimmwelt), abgerufen 09.10.2026
-- [Stadt Kassel, Naturkundemuseum, Besuch](https://www.kassel.de/einrichtungen/naturkundemuseum/besuch/index.php), abgerufen 09.10.2026
-- [Stadt Kassel, Naturkundemuseum](https://www.kassel.de/naturkundemuseum), abgerufen 09.10.2026
-- [Kurhessen-Therme, Startseite](https://www.kurhessen-therme.de/), abgerufen 09.10.2026
-- [Kurhessen-Therme, Preise](https://www.kurhessen-therme.de/preise/), abgerufen 09.10.2026
-- [Wikipedia, Bad Wilhelmshöhe](https://de.wikipedia.org/wiki/Bad_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
+- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Dauerausstellung Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe/dauerausstellung), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Gewächshaus](https://www.heritage-kassel.de/standorte/gewaechshaus), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Hessisches Landesmuseum](https://www.heritage-kassel.de/standorte/hessisches-landesmuseum), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 01.11.2026
+- [Grimmwelt, Besucherinformationen](https://www.grimmwelt.de/de/besucherinformationen), abgerufen 01.11.2026
+- [Grimmwelt, Erlebnisraum GRIMMWELT](https://www.grimmwelt.de/de/ausstellungen/grimmwelt), abgerufen 01.11.2026
+- [Stadt Kassel, Naturkundemuseum, Besuch](https://www.kassel.de/einrichtungen/naturkundemuseum/besuch/index.php), abgerufen 01.11.2026
+- [Stadt Kassel, Naturkundemuseum](https://www.kassel.de/naturkundemuseum), abgerufen 01.11.2026
+- [Kurhessen-Therme, Startseite](https://www.kurhessen-therme.de/), abgerufen 01.11.2026
+- [Kurhessen-Therme, Preise](https://www.kurhessen-therme.de/preise/), abgerufen 01.11.2026
+- [Wikipedia, Bad Wilhelmshöhe](https://de.wikipedia.org/wiki/Bad_Wilhelmsh%C3%B6he), abgerufen 01.11.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026
-- [Stadt Kassel, Anreise Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 15.10.2026
+- [Stadt Kassel, Anreise Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 01.11.2026
