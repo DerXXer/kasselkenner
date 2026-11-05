@@ -1,12 +1,12 @@
 ---
-titel: Herkules Kassel: Öffnungszeiten, Eintritt, Anreise
+titel: Herkules Kassel: Eintritt, Tickets, Öffnungszeiten, Stufen
 beschreibung: Herkules Kassel: Was das Monument ist, wann Oktogon und Plattform offen sind, was der Eintritt kostet und wie du mit Bus oder Auto hinaufkommst.
 slug: herkules-kassel
 kurz: Herkules
 bild: herkules-oktogon.jpg
-stand: 2026-10-09
+stand: 2026-11-01
 blick: Geöffnet=1. April bis 31. Oktober | Zeiten=Di bis So 10 bis 17 Uhr | Eintritt=8 Euro, unter 18 frei | Anreise=Tram 4, dann Bus 22 | Parken=280 Plätze, Tag 5 Euro
-weiter: wasserspiele-kassel, bergpark-wilhelmshoehe, parken-bergpark-wilhelmshoehe
+weiter: wasserspiele-kassel, bergpark-wilhelmshoehe, habichtswald-wandern
 ---
 # Herkules Kassel: Öffnungszeiten, Eintritt und Anreise
 
@@ -30,13 +30,13 @@ Rund 70 Meter misst das ganze Monument. Der Herkules obendrauf ist mit Sockel ü
 
 Ja, das Oktogon mit der Aussichtsplattform ist vom 1. April bis 31. Oktober dienstags bis sonntags und feiertags von 10 bis 17 Uhr geöffnet, im Winter ist es zu. Das Monument besteht aus dem Grottenbau, dem „Riesenschloss“ mit der Aussichtsplattform und der Pyramide mit der Statue obendrauf. Der Eintritt läuft über das Tagesticket Wilhelmshöhe für 8 Euro.
 
-## Was hat der Herkules mit Kassel zu tun?
+## Wie alt ist der Herkules, und wer hat ihn gebaut?
 
-Er ist das Wahrzeichen der Stadt: Landgraf Carl begann 1696 mit dem barocken Bergpark, ab 1701 wuchs der Herkules aus dem Berg, und am 30. November 1717 stand die Statue oben. Er ist damit über 300 Jahre alt.
+Über 300 Jahre: Landgraf Carl begann 1696 mit dem barocken Bergpark, ab 1701 wuchs der Herkules nach Plänen des Architekten Giovanni Francesco Guerniero aus dem Berg, und am 30. November 1717 stand die Statue oben. Seitdem ist er das Wahrzeichen von Kassel.
 
 ## Wann beginnen die Wasserspiele am Herkules?
 
-Die [Wasserspiele](/wasserspiele-kassel/) starten am Herkules: In der Saison zwischen 1. Mai und 3. Oktober rauscht das Wasser mittwochs, sonntags und an Feiertagen um 14.30 Uhr unterhalb des Oktogons los. Danach folgen Steinhöfer Wasserfall, Teufelsbrücke, Aquädukt und um 15.45 Uhr die Große Fontäne. Die Saison 2026 ist beendet, die Termine für 2027 stehen noch aus. Abends gibt es an wenigen Terminen die [Beleuchteten Wasserspiele](/beleuchtete-wasserspiele/).
+Die [Wasserspiele](/wasserspiele-kassel/) starten am Herkules: In der Saison zwischen 1. Mai und 3. Oktober rauscht das Wasser mittwochs, sonntags und an Feiertagen um 14.30 Uhr unterhalb des Oktogons los. Danach folgen Steinhöfer Wasserfall, Teufelsbrücke, Aquädukt und um 15.45 Uhr die Große Fontäne. Die Saison 2026 ist beendet; 2027 laufen die Wasserspiele vom 1. Mai bis 3. Oktober. Abends gibt es an wenigen Terminen die [Beleuchteten Wasserspiele](/beleuchtete-wasserspiele/).
 
 ## Ist das Besucherzentrum im Winter geöffnet?
 
@@ -46,7 +46,7 @@ Ja, das Besucherzentrum ist ganzjährig dienstags bis sonntags und feiertags von
 
 ## Wo kann man am Herkules essen?
 
-Direkt am Monument gibt es Gastronomie, gut für eine Pause nach dem Aufstieg. Die Kaskadenwirtschaft Grischäfer weiter unten im Bergpark ist wegen Renovierung geschlossen und soll im Mai 2027 wieder öffnen.
+Direkt am Monument gibt es Gastronomie, gut für eine Pause nach dem Aufstieg. Die Kaskadenwirtschaft Grischäfer weiter unten im Bergpark ist wegen Renovierung geschlossen.
 
 ## Wie lange läuft man zum Herkules?
 
@@ -54,7 +54,20 @@ Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß rund 46 Minuten und 2
 
 Unser Tipp: Mit dem Bus hinauf und dann gemütlich zu Fuß hinunter. Vom Herkules bis zum Schloss sind es rund 2,3 Kilometer bergab, mit dem Blick über die Stadt immer vor Augen.
 
-## Praktisches: Öffnungszeiten, Eintritt und Anreise
+## Was kostet der Eintritt am Herkules?
+
+8 Euro für Erwachsene, ermäßigt 5 Euro, unter 18 Jahren gar nichts: Ins Oktogon und auf die Aussichtsplattform kommst du mit dem Tagesticket Wilhelmshöhe. Tickets gibt es im Besucherzentrum am Parkplatz hinter dem Herkules.
+
+| Tagesticket Wilhelmshöhe | Preis |
+|---|---|
+| Erwachsene | 8 Euro |
+| ermäßigt | 5 Euro |
+| unter 18 Jahren | frei |
+| Jahreskarte | 60 Euro |
+
+Das Tagesticket gilt am selben Tag auch für Schloss Wilhelmshöhe und die [Löwenburg](/loewenburg-kassel/) mit Führung, du kannst also oben anfangen und unten weitermachen. Von November bis März ist das Oktogon zu, dann gilt das Ticket stattdessen für das Große Gewächshaus. Der Bergpark selbst und der Platz am Herkules mit dem Blick über die Stadt kosten nichts.
+
+## Praktisches: Öffnungszeiten und Anreise
 
 ### Wann hat der Herkules geöffnet?
 
@@ -69,19 +82,6 @@ Im Winter ist das Oktogon geschlossen, das Besucherzentrum aber ganzjährig offe
 
 Am Herkules wird immer wieder gebaut. Ein kurzer Blick auf die Seite von Hessen Kassel Heritage vor dem Besuch erspart dir eine gesperrte Plattform.
 
-### Was kostet der Eintritt in den Herkules?
-
-Der Eintritt läuft über das Tagesticket Wilhelmshöhe.
-
-| Tagesticket Wilhelmshöhe | Preis |
-|---|---|
-| Erwachsene | 8 Euro |
-| ermäßigt | 5 Euro |
-| unter 18 Jahren | frei |
-| Jahreskarte | 60 Euro |
-
-Das Tagesticket gilt am selben Tag auch für Schloss Wilhelmshöhe und die [Löwenburg](/loewenburg-kassel/) (mit Führung).
-
 ### Wie komme ich zum Herkules mit Bus und Auto?
 
 - **Bus und Bahn:** Mit der Tram 4 bis zur Endhaltestelle Druseltal, dann mit Bus 22 oder 23 bis Herkules. Bus 22 fährt halbstündlich. Bus 23 fährt nur an Wasserspieltagen, zusätzlich ab Wilhelmshöhe (Park), der Endhaltestelle der Tram 1.
@@ -89,9 +89,9 @@ Das Tagesticket gilt am selben Tag auch für Schloss Wilhelmshöhe und die [Löw
 
 ## Häufige Fragen
 
-### Was kostet der Eintritt am Herkules?
+### Wo kauft man Tickets für den Herkules?
 
-8 Euro, ermäßigt 5 Euro, unter 18 Jahren frei, über das Tagesticket Wilhelmshöhe. Der Bergpark und der Blick vom Platz am Herkules kosten nichts.
+Im Besucherzentrum Herkules am Parkplatz hinter dem Monument, dienstags bis sonntags und feiertags von 10 bis 17 Uhr. Das Tagesticket Wilhelmshöhe kostet 8 Euro und gilt am selben Tag auch für Schloss Wilhelmshöhe und die Löwenburg.
 
 ### Ist der Herkules im Winter geöffnet?
 
@@ -123,17 +123,18 @@ Die Herkules Terrassen mit Selbstbedienung haben laut Betreiber mittwochs bis sa
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Besucherzentrum Herkules](https://www.heritage-kassel.de/service/bz/besucherzentrum-herkules), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
-- [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 09.10.2026
-- [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
-- [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im September](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-september.php), abgerufen 09.10.2026
-- [Deutsche UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 09.10.2026
-- [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 09.10.2026
-- [Wikipedia, Herkules (Kassel)](https://de.wikipedia.org/wiki/Herkules_(Kassel)), abgerufen 09.10.2026
-- [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
-- [Herkules Terrassen, Öffnungszeiten](https://www.herkules-terrassen.de/oeffnungszeiten/), abgerufen 15.10.2026
-- [Herkules Panorama](https://herkules-panorama.de/), abgerufen 15.10.2026
+- [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Besucherzentrum Herkules](https://www.heritage-kassel.de/service/bz/besucherzentrum-herkules), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
+- [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 01.11.2026
+- [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 01.11.2026
+- [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im September](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-september.php), abgerufen 01.11.2026
+- [Deutsche UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 01.11.2026
+- [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 01.11.2026
+- [Wikipedia, Herkules (Kassel)](https://de.wikipedia.org/wiki/Herkules_(Kassel)), abgerufen 01.11.2026
+- [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 01.11.2026
+- [Herkules Terrassen, Öffnungszeiten](https://www.herkules-terrassen.de/oeffnungszeiten/), abgerufen 01.11.2026
+- [Herkules Panorama](https://herkules-panorama.de/), abgerufen 01.11.2026
+- [Stadt Kassel, Wasserspiele 2027](https://www.kassel.de/beleuchtete-wasserspiele/index.php), abgerufen 01.11.2026

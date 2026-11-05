@@ -4,7 +4,7 @@ beschreibung: Märchenweihnachtsmarkt Kassel 2026: vom 23. November bis 30. Deze
 slug: weihnachtsmarkt-kassel
 kurz: Weihnachtsmarkt
 bild: weihnachtsmarkt-kassel.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Termin 2026=23. November bis 30. Dezember | Geöffnet=täglich 11 bis 20 Uhr | Gastronomie=bis 22 Uhr | Geschlossen=24. bis 26. Dezember | Ort=Königsplatz und Friedrichsplatz
 weiter: grimmwelt-kassel, uebernachten-kassel, bergpark-wilhelmshoehe
 ---
@@ -40,7 +40,7 @@ Zwischen den Plätzen gehst du zu Fuß. Die Treppenstraße mit der Märchenrutsc
 
 ![Märchenkarussell](maerchen-karussell-detail.jpg)
 
-Prüf die Zeiten kurz vor deinem Besuch. Verzehrgutscheine zu 3 Euro gibt es in der Tourist Information in der Wilhelmsstraße 23 und am Kassel Service Point in der GALERIA.
+Prüf die Zeiten kurz vor deinem Besuch. Verzehrgutscheine zu 4 Euro gibt es in der Tourist Information in der Wilhelmsstraße 23 und online im KasselShop.
 
 ## Praktisches: Anreise und Parken
 
@@ -93,11 +93,11 @@ In der Tiefgarage Friedrichsplatz oder in der Kurfürsten Galerie, beide direkt 
 
 ### Kostet der Weihnachtsmarkt in Kassel Eintritt?
 
-Einen Eintrittspreis für den Markt nennt der Veranstalter nicht, genannt werden nur Verzehrgutscheine zu 3 Euro. Ganz sicher gehst du, wenn du bei Kassel Marketing nachfragst, Telefon +49 561 707707.
+Einen Eintrittspreis für den Markt nennt der Veranstalter nicht, genannt werden nur Verzehrgutscheine zu 4 Euro. Ganz sicher gehst du, wenn du bei Kassel Marketing nachfragst, Telefon +49 561 707707.
 
 ### Was kostet der Eintritt zum Winterzauber in Kassel?
 
-Der Winterzauber ist ein eigenes Fest mit Eintrittskarte vor der [Orangerie](/orangerie-karlsaue/) und kein Teil des Märchenweihnachtsmarkts. Er findet 2026 vom 5. bis 8. und vom 12. bis 14. November statt. Erwachsene zahlen 12 Euro, im Online-Vorverkauf bis zum 4. November 10 Euro. Kinder bis 17 Jahre in Begleitung sind frei.
+Der [Winterzauber](/winterzauber-kassel/) ist ein eigenes Fest mit Eintrittskarte vor der [Orangerie](/orangerie-karlsaue/) und kein Teil des Märchenweihnachtsmarkts. Er findet 2026 vom 5. bis 8. und vom 12. bis 14. November statt. Erwachsene zahlen 12 Euro, im Online-Vorverkauf bis zum 4. November 10 Euro. Kinder bis 17 Jahre in Begleitung sind frei.
 
 ### Wo übernachte ich für den Weihnachtsmarkt?
 
@@ -105,7 +105,7 @@ Welche Viertel passen, steht unter [Übernachten in Kassel](/uebernachten-kassel
 
 ### Wo bekomme ich Verzehrgutscheine?
 
-Die Gutscheine zu 3 Euro gibt es in der Tourist Information, Wilhelmsstraße 23, montags bis freitags von 10 bis 17 Uhr und samstags von 10 bis 15 Uhr, und am Kassel Service Point in der GALERIA, Obere Königsstraße 31, montags bis samstags von 10 bis 18 Uhr.
+Die Gutscheine zu 4 Euro gibt es in der Tourist Information, Wilhelmsstraße 23, montags bis freitags von 10 bis 17 Uhr und samstags von 10 bis 15 Uhr, und online im KasselShop (beim Versand kommt Porto dazu).
 
 ### Halten die Straßenbahnen während des Markts am Königsplatz?
 
@@ -113,12 +113,12 @@ Tagsüber nicht. Vom 23. November bis 30. Dezember fahren die Bahnen zwischen 10
 
 ## Quellen
 
-- [Kassel Marketing, Märchenweihnachtsmarkt](https://www.weihnachtsmarkt-kassel.de/), abgerufen 14.10.2026
-- [Kassel Marketing, Standorte](https://www.weihnachtsmarkt-kassel.de/standorte/index.php), abgerufen 09.10.2026
-- [Kassel Marketing, Highlights](https://www.weihnachtsmarkt-kassel.de/highlights/index.php), abgerufen 09.10.2026
-- [Kassel Marketing, Anreise](https://www.weihnachtsmarkt-kassel.de/services/anreise.php), abgerufen 09.10.2026
-- [Kassel Marketing, Service](https://www.weihnachtsmarkt-kassel.de/services/index.php), abgerufen 14.10.2026
-- [Gartenfestivals, Winterzauber Kassel](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 14.10.2026
-- [Stadt Kassel, Märchenhafte Veranstaltungen](https://www.kassel.de/buerger/sport_und_freizeit/wiederkehrende-veranstaltungen/maerchenhafte-veranstaltungen.php), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 09.10.2026
+- [Kassel Marketing, Märchenweihnachtsmarkt](https://www.weihnachtsmarkt-kassel.de/), abgerufen 01.11.2026
+- [Kassel Marketing, Standorte](https://www.weihnachtsmarkt-kassel.de/standorte/index.php), abgerufen 01.11.2026
+- [Kassel Marketing, Highlights](https://www.weihnachtsmarkt-kassel.de/highlights/index.php), abgerufen 01.11.2026
+- [Kassel Marketing, Anreise](https://www.weihnachtsmarkt-kassel.de/services/anreise.php), abgerufen 01.11.2026
+- [Kassel Marketing, Service](https://www.weihnachtsmarkt-kassel.de/services/index.php), abgerufen 01.11.2026
+- [Gartenfestivals, Winterzauber Kassel](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 01.11.2026
+- [Stadt Kassel, Märchenhafte Veranstaltungen](https://www.kassel.de/buerger/sport_und_freizeit/wiederkehrende-veranstaltungen/maerchenhafte-veranstaltungen.php), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 01.11.2026

@@ -21,7 +21,7 @@ Es gibt zwei Parkplätze: Am Herkules sind es 280 Plätze, am Schloss 390.
 | Parkplatz Herkules Besucherzentrum | oben, hinter dem Herkules | 280 | [Herkules](/herkules-kassel/), Besucherzentrum, Start der Wasserspiele |
 | Parkplatz Schloss Wilhelmshöhe | unten, unterhalb des Schlosses | 390 | [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/), Große Fontäne, unterer Bergpark |
 
-Wie voll die beiden Plätze gerade sind, zeigt die Stadt Kassel live auf ihrer Seite zum Parken am Bergpark. Für beide gelten dieselben Preise. Plätze für Menschen mit Schwerbehindertenparkausweis gibt es.
+Beide liegen an der Straße Schlosspark: der untere direkt am Schloss unter Schlosspark 1, der obere beim Besucherzentrum Herkules unter Schlosspark 28. Wie voll die beiden Plätze gerade sind, zeigt die Stadt Kassel live auf ihrer Seite zum Parken am Bergpark. Für beide gelten dieselben Preise. Plätze für Menschen mit Schwerbehindertenparkausweis gibt es.
 
 ## Parken am Herkules oder am Schloss?
 
@@ -34,7 +34,7 @@ Bergauf zu Fuß brauchst du vom Schloss-Plateau zum Herkules etwa 1,5 Stunden ü
 
 ## Was wird an Wasserspieltagen voll?
 
-An Wasserspieltagen kommst du am besten früh, wenn du einen Platz willst. Wie stark die Parkplätze gerade belegt sind, zeigt die Live-Anzeige der Stadt. Zu den [Beleuchteten Wasserspielen](/beleuchtete-wasserspiele/) im September 2026 sollten Autofahrer außerhalb des Bergparks parken und auf Bus und Bahn umsteigen.
+An Wasserspieltagen kommst du am besten früh, wenn du einen Platz willst. Wie stark die Parkplätze gerade belegt sind, zeigt die Live-Anzeige der Stadt. Zu den [Beleuchteten Wasserspielen](/beleuchtete-wasserspiele/) sollten Autofahrer außerhalb des Bergparks parken und auf Bus und Bahn umsteigen.
 
 ## Praktisches: Preise, Shuttle und Bus
 
@@ -50,7 +50,7 @@ An normalen Tagen sind die ersten 30 Minuten frei und der ganze Tag kostet 5 Eur
 | Wasserspieltage, 9.30 bis 15 Uhr | 8,50 Euro | 6,50 Euro | 11,50 Euro | 21,50 Euro |
 | Wasserspieltage, 6.30 bis 9.30 Uhr und nach 15 Uhr | normaler Tarif | – | – | – |
 
-An normalen Tagen gibt es nur einen Tarif ohne Unterscheidung nach Fahrzeug. Der Wohnmobil-Tarif an Wasserspieltagen gilt ohne Übernachtung. Wasserspieltage sind vom 1. Mai bis 3. Oktober die Mittwoche, Sonntage und hessischen Feiertage. Die Saison 2026 ist vorbei, bestätigte Termine für 2027 stehen noch aus.
+An normalen Tagen gibt es nur einen Tarif ohne Unterscheidung nach Fahrzeug. Der Wohnmobil-Tarif an Wasserspieltagen gilt ohne Übernachtung. Wasserspieltage sind vom 1. Mai bis 3. Oktober die Mittwoche, Sonntage und hessischen Feiertage. Die Saison 2026 ist vorbei; 2027 laufen die Wasserspiele vom 1. Mai bis 3. Oktober.
 
 **Parkschein als Busticket.** An Wasserspieltagen gilt der Parkschein als KombiTicket für bis zu 7 Personen. Wie weit es reicht, ist uneinheitlich angegeben: nur Bus 23, die Buslinien 23 und 24 oder alle Busse und Bahnen der KVG. Bus 23, der die Parkplätze unten am Park und am Herkules verbindet, ist in jedem Fall dabei. Verkauft wird dieser Parkschein vom Aufsichtspersonal an den Parkplätzen Schloss Wilhelmshöhe und Herkules sowie an der Kreisstraße 6. Auch an den Abenden der Beleuchteten Wasserspiele galt 2026 der Wasserspieltag-Tarif mit KombiTicket.
 
@@ -110,20 +110,25 @@ Ja, der Bergpark ist ganzjährig kostenfrei zugänglich, auch die Wasserspiele k
 
 0,8 Kilometer, rund 10 Minuten zu Fuß bis zur Endhaltestelle Wilhelmshöhe (Park) der Tram 1.
 
+### Wo ist der Parkplatz Schlosspark in Kassel?
+
+Unter Schlosspark 1 liegt der Parkplatz Schloss Wilhelmshöhe mit 390 Plätzen, unten im Bergpark und direkt am Schloss. Er passt, wenn du am Schloss oder an der Großen Fontäne anfangen willst; zum Herkules geht es von hier bergauf. Auch der obere Parkplatz am Herkules liegt an der Straße Schlosspark.
+
 ### Welche Adresse gebe ich fürs Navi ein?
 
 Für den Parkplatz am Schloss gibst du Schlosspark 1 in Kassel ein, er liegt direkt am Schloss Wilhelmshöhe. Für den Parkplatz am Herkules nimmst du das Besucherzentrum Herkules, Schlosspark 28, 34131 Kassel, und folgst der Beschilderung „Herkules“.
 
 ## Quellen
 
-- [Stadt Kassel, Parken am Bergpark Wilhelmshöhe](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 09.10.2026
-- [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 09.10.2026
-- [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im September](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-september.php), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
-- [NVV, KombiTicket](https://www.nvv.de/tickets/weitere-tickets/kombiticket), abgerufen 09.10.2026
-- [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 09.10.2026
+- [Stadt Kassel, Parken am Bergpark Wilhelmshöhe](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 01.11.2026
+- [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 01.11.2026
+- [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im September](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-september.php), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
+- [NVV, KombiTicket](https://www.nvv.de/tickets/weitere-tickets/kombiticket), abgerufen 01.11.2026
+- [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 01.11.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
-- [Visit Kassel, Parkplatz Schloss Wilhelmshöhe](https://visit.kassel.de/poi/parkplatz-schloss-wilhelmshoehe-bergpark), abgerufen 15.10.2026
-- [Visit Kassel, Parkplatz am Herkules](https://visit.kassel.de/poi/parkplatz-am-herkules), abgerufen 15.10.2026
+- [Visit Kassel, Parkplatz Schloss Wilhelmshöhe](https://visit.kassel.de/poi/parkplatz-schloss-wilhelmshoehe-bergpark), abgerufen 01.11.2026
+- [Visit Kassel, Parkplatz am Herkules](https://visit.kassel.de/poi/parkplatz-am-herkules), abgerufen 01.11.2026
+- [Stadt Kassel, Wasserspiele 2027](https://www.kassel.de/beleuchtete-wasserspiele/index.php), abgerufen 01.11.2026

@@ -1,5 +1,5 @@
 ---
-titel: Zissel Kassel 2027: Termin, Programm und Festgelände
+titel: Zissel 2027 in Kassel: Termin 30. Juli bis 2. August
 beschreibung: Zissel Kassel: Das Volks- und Wasserfest an der Fulda findet 2027 vom 30. Juli bis 2. August statt. Programm, Festgelände, Geschichte und Anreise.
 slug: zissel-kassel
 kurz: Zissel

@@ -34,7 +34,9 @@ Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß 18 Minuten und 1,0 Ki
 
 ## Praktisches: Öffnungszeiten, Tickets und Parken
 
-### Wann ist die Löwenburg geöffnet?
+### Wann hat die Löwenburg geöffnet?
+
+Von April bis Oktober dienstags bis sonntags von 10 bis 17 Uhr, von November bis März nur freitags bis sonntags von 10 bis 16 Uhr, an Feiertagen jeweils auch. Im Winter lohnt also ein Blick in den Kalender, bevor du dich auf den Weg machst.
 
 | Saison | Uhrzeit | Geöffnet an |
 |---|---|---|
@@ -45,7 +47,9 @@ Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß 18 Minuten und 1,0 Ki
 
 Die letzte Führung beginnt im Sommer um 16 Uhr, im Winter um 15 Uhr. Montags ist geschlossen, außer an Feiertagen; im Winter auch dienstags bis donnerstags.
 
-### Was kostet der Eintritt in die Löwenburg?
+### Was kosten Tickets für die Löwenburg?
+
+8 Euro für Erwachsene, ermäßigt 5 Euro, unter 18 Jahren frei, die Führung ist dabei. Du zahlst über das Tagesticket Wilhelmshöhe und reservierst deinen Platz im Rundgang vorab im Online-Ticketshop von Hessen Kassel Heritage.
 
 | Ticket | Preis |
 |---|---|
@@ -55,7 +59,7 @@ Die letzte Führung beginnt im Sommer um 16 Uhr, im Winter um 15 Uhr. Montags is
 | Aufpreis Bergfried | 2 Euro |
 | Jahreskarte | 60 Euro |
 
-Die Führung ist im Tagesticket enthalten, eine Reservierung ist aber nötig. Gebucht wird im Online-Ticketshop von Hessen Kassel Heritage. Mit demselben Tagesticket kommst du am selben Tag auch in [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/) und von April bis Oktober in den [Herkules](/herkules-kassel/).
+Vor Ort gibt es nur Plätze, die kurzfristig frei geworden sind. Mit demselben Tagesticket kommst du am selben Tag auch in [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/) und von April bis Oktober in den [Herkules](/herkules-kassel/).
 
 Während der Ausstellung „DÜRER“ im Schloss kostet das Tagesticket 12 Euro, ermäßigt 9 Euro.
 

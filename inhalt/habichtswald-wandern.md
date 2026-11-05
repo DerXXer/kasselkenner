@@ -4,7 +4,7 @@ beschreibung: Wandern im Habichtswald ab dem Bergpark Wilhelmshöhe: vier Rundto
 slug: habichtswald-wandern
 kurz: Wandern
 bild: blick-vom-herkules.jpg
-stand: 2026-11-05
+stand: 2026-11-01
 blick: Kürzeste=2,05 km | Längste=gut 18 km | Habichtswaldsteig=85 km Fernweg | Markierung=Habicht auf Purpur | Anreise=Tram 4, Bus 22
 weiter: herkules-kassel, loewenburg-kassel, bergpark-wilhelmshoehe
 ---
@@ -49,11 +49,11 @@ Zum Start kommst du mit Bus 22 bis Am Steinbruch oder mit der Tram 4 bis zur End
 
 „Im Glanz des Herkules“ ist mit 12 Kilometern und rund 300 Höhenmetern eine leichte Tagestour von etwa 4 Stunden. Sie verläuft auf einer Hochfläche meist über 500 Metern Höhe durch Buchenwälder, über Waldwiesen und alte Huteweiden. Zu sehen gibt es unter anderem den Silbersee, den Waldsee Höllchen mit Kneippanlage, den Essigbergturm und den Turm am Hohen Gras.
 
-Starten kannst du am Wanderparkplatz Herkules, am Hohen Gras, am Essigberg oder am Roten Stollen. Du folgst dem Wegzeichen mit der Tourbezeichnung H3. Einkehren kannst du in der Waldgaststätte Hohes Gras, in den Herkules-Terrassen oder im Waldhotel Elfbuchen.
+Starten kannst du am Wanderparkplatz Herkules, am Hohen Gras, am Essigberg oder am Roten Stollen. Einkehren kannst du in der Waldgaststätte Hohes Gras, in den Herkules-Terrassen oder im Waldhotel Elfbuchen.
 
 ## Wie schwer ist die 18-Kilometer-Runde H10 über den Dächern der Stadt?
 
-Die H10 ist mit gut 18 Kilometern und rund 440 Höhenmetern die einzige schwere Extratour und eher etwas für einen langen Tag. Sie führt vom Hohen Gras zum Sichelbachbecken und zum Oktogon am [Herkules](/herkules-kassel/), weiter über Neu Holland und den Asch ins Druseltal, am Naturschutzgebiet Dönche entlang auf den Brasselsberg und zur Teufelsmauer, einer Basaltwand mitten im Wald. Durch die Firnsbachklamm geht es zurück zum Hohen Gras. Du folgst dem H10-Logo.
+Die H10 ist mit gut 18 Kilometern und rund 440 Höhenmetern als schwer eingestuft und eher etwas für einen langen Tag. Sie führt vom Hohen Gras zum Sichelbachbecken und zum Oktogon am [Herkules](/herkules-kassel/), weiter über Neu Holland und den Asch ins Druseltal, am Naturschutzgebiet Dönche entlang auf den Brasselsberg und zur Teufelsmauer, einer Basaltwand mitten im Wald. Durch die Firnsbachklamm geht es zurück zum Hohen Gras. Du folgst dem H10-Logo.
 
 Weil Herkules und Druseltal ebenfalls Einstiegspunkte sind, kannst du die Runde in zwei Etappen teilen oder an einer der Haltestellen abkürzen. Einkehr gibt es in der Waldgaststätte Hohes Gras, in den Herkules-Terrassen, im Herbsthäuschen am oberen Ende der Firnsbachklamm und im Landgasthaus Unteres Firnsbachtal. Bei Nässe ist der Bereich unter der Teufelsmauer rutschig, dann gehst du die Runde besser gegen den Uhrzeigersinn. Der Bismarckturm am Rand der Route wird saniert und ist derzeit nicht begehbar.
 
@@ -75,7 +75,7 @@ Zum Habichtswaldsteig gehören zehn Extratouren von H1 bis H10, alle als Rundtou
 
 ### Wie ist der Habichtswaldsteig markiert?
 
-Der Fernweg trägt einen Habicht auf purpurnem Grund. Die Extratouren sind mit ihrer Nummer wie H3 oder H10 markiert, die Naturpark-Rundwege mit einer Zahl wie der gelben 9 an der Kleinen Hohes-Gras-Runde.
+Der Fernweg trägt einen Habicht auf purpurnem Grund. Die H10 folgt ihrem eigenen H10-Logo, die Naturpark-Rundwege mit einer Zahl wie der gelben 9 an der Kleinen Hohes-Gras-Runde.
 
 ### Welche Wanderung ab dem Bergpark geht ohne Auto?
 
@@ -87,7 +87,7 @@ Ja, der Rundweg Wasserspiele K5 führt rund 5 Kilometer vom Besucherzentrum Wilh
 
 ### Kann ich die Wanderung am Hohen Gras mit dem Kletterwald verbinden?
 
-Ja, am Hohen Gras liegen Waldgaststätte, Aussichtsturm und Kletterwald nah beieinander. Der Kletterwald hat 2026 vom 4. April bis 1. November geöffnet, an Wochenenden, Feiertagen und Brückentagen, in den hessischen Schulferien täglich. Du meldest dich vorher an, ein Besuch dauert 2,5 Stunden mit Einweisung.
+Ja, am Hohen Gras liegen Waldgaststätte, Aussichtsturm und Kletterwald nah beieinander. Die Kletterwald-Saison 2026 lief vom 4. April bis 1. November, für 2027 hat der Betreiber noch nichts angekündigt. Geöffnet ist in der Saison an Wochenenden, Feiertagen und Brückentagen, in den hessischen Schulferien täglich. Du meldest dich vorher an, ein Besuch dauert 2,5 Stunden mit Einweisung.
 
 ### Wie weit ist es vom Herkules zum Hohen Gras?
 
@@ -99,21 +99,21 @@ Laut Visit Kassel außer montags täglich von 11 bis 18 Uhr. Warme Küche gibt e
 
 ## Quellen
 
-- [Naturpark Habichtswald, Habichtswaldsteig](https://www.naturpark-habichtswald.de/erleben/wandern/habichtswaldsteig), abgerufen 14.10.2026
-- [Naturpark Habichtswald, Habichtswaldsteig Leitweg und Etappen](https://naturpark-habichtswald.de/habichtswaldsteig/leitweg-etappen), abgerufen 14.10.2026
-- [Naturpark Habichtswald, Extratouren des Habichtswaldsteigs](https://www.naturpark-habichtswald.de/erleben/wandern/habichtswaldsteig/extratouren), abgerufen 14.10.2026
-- [Naturpark Habichtswald, Etappen mit dem ÖPNV von Kassel](https://www.naturpark-habichtswald.de/erleben/wandern/habichtswaldsteig/hwst-etappen-mit-dem-oepnv-von-kassel), abgerufen 14.10.2026
-- [Naturpark Habichtswald, Naturpark-Rundwege](https://www.naturpark-habichtswald.de/erleben/wandern/naturpark-rundwege), abgerufen 14.10.2026
-- [Naturpark Habichtswald, Wanderparkplatz Hohes Gras](https://www.naturpark-habichtswald.de/erleben/wandern/naturpark-rundwege/wanderparkplaetze-nph/wp-hohes-gras), abgerufen 14.10.2026
-- [Habichtswaldsteig, Flyer Extratour H10 (PDF)](https://dam.destination.one/3404766/e3b6efe747aaf88efee7516e17f7d742fad725627acbd760c270351b51336c89/flyer-h10-web-pdf.pdf), abgerufen 14.10.2026
-- [Habichtswaldsteig, Flyer Extratour H3 (PDF)](https://dam.destination.one/2660841/9182eb987624c7f75add5f065e1d9b7a35cfd61a238a7ad170cf4f08b52a6c22/00822_1713_flyer_extratour_hws_extratour_8_seitig_h3_aufl_6-pdf.pdf), abgerufen 14.10.2026
-- [Visit Kassel, Habichtswaldsteig Extratour H10](https://visit.kassel.de/tour/habichtswaldsteig-extratour-h10-ueber-den-daechern-der-stadt), abgerufen 14.10.2026
-- [Visit Kassel, Kleine Hohes-Gras-Runde](https://visit.kassel.de/tour/kleine-hohes-gras-runde-kassel-naturpark-rundweg-9), abgerufen 14.10.2026
-- [Visit Kassel, Terrainkurweg K5 Rundweg Wasserspiele](https://visit.kassel.de/tour/terrainkurweg-k5-rundweg-wasserspiele), abgerufen 14.10.2026
-- [Nordhessen erleben, Löwenburgrunde](https://www.nordhessenerleben.de/tour/loewenburgrunde-kassel-naturpark-rundweg-17), abgerufen 14.10.2026
+- [Naturpark Habichtswald, Habichtswaldsteig](https://www.naturpark-habichtswald.de/erleben/wandern/habichtswaldsteig), abgerufen 01.11.2026
+- [Naturpark Habichtswald, Habichtswaldsteig Leitweg und Etappen](https://naturpark-habichtswald.de/habichtswaldsteig/leitweg-etappen), abgerufen 01.11.2026
+- [Naturpark Habichtswald, Extratouren des Habichtswaldsteigs](https://www.naturpark-habichtswald.de/erleben/wandern/habichtswaldsteig/extratouren), abgerufen 01.11.2026
+- [Naturpark Habichtswald, Etappen mit dem ÖPNV von Kassel](https://www.naturpark-habichtswald.de/erleben/wandern/habichtswaldsteig/hwst-etappen-mit-dem-oepnv-von-kassel), abgerufen 01.11.2026
+- [Naturpark Habichtswald, Naturpark-Rundwege](https://www.naturpark-habichtswald.de/erleben/wandern/naturpark-rundwege), abgerufen 01.11.2026
+- [Naturpark Habichtswald, Wanderparkplatz Hohes Gras](https://www.naturpark-habichtswald.de/erleben/wandern/naturpark-rundwege/wanderparkplaetze-nph/wp-hohes-gras), abgerufen 01.11.2026
+- [Habichtswaldsteig, Flyer Extratour H10 (PDF)](https://dam.destination.one/3404766/e3b6efe747aaf88efee7516e17f7d742fad725627acbd760c270351b51336c89/flyer-h10-web-pdf.pdf), abgerufen 01.11.2026
+- [Habichtswaldsteig, Flyer Extratour H3 (PDF)](https://dam.destination.one/2660841/9182eb987624c7f75add5f065e1d9b7a35cfd61a238a7ad170cf4f08b52a6c22/00822_1713_flyer_extratour_hws_extratour_8_seitig_h3_aufl_6-pdf.pdf), abgerufen 01.11.2026
+- [Visit Kassel, Habichtswaldsteig Extratour H10](https://visit.kassel.de/tour/habichtswaldsteig-extratour-h10-ueber-den-daechern-der-stadt), abgerufen 01.11.2026
+- [Visit Kassel, Kleine Hohes-Gras-Runde](https://visit.kassel.de/tour/kleine-hohes-gras-runde-kassel-naturpark-rundweg-9), abgerufen 01.11.2026
+- [Visit Kassel, Terrainkurweg K5 Rundweg Wasserspiele](https://visit.kassel.de/tour/terrainkurweg-k5-rundweg-wasserspiele), abgerufen 01.11.2026
+- [Nordhessen erleben, Löwenburgrunde](https://www.nordhessenerleben.de/tour/loewenburgrunde-kassel-naturpark-rundweg-17), abgerufen 01.11.2026
 - [KVG Kassel, Fahrplan Linie 22 (2026)](https://www.kvg.de/fileadmin/kvg/Dokumente/Plaene/Fahrplan/Bus/2026/F1B22_2026.pdf), abgerufen 14.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
-- [Kletterwald Kassel, Öffnungszeiten](https://www.kletterwald-kassel.de/oeffnungszeiten/), abgerufen 15.10.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 01.11.2026
+- [Kletterwald Kassel, Öffnungszeiten](https://www.kletterwald-kassel.de/oeffnungszeiten/), abgerufen 01.11.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
-- [Visit Kassel, Waldgaststätte Hohes Gras](https://visit.kassel.de/en/gastro/forest-restaurant-hohes-gras), abgerufen 15.10.2026
+- [Visit Kassel, Waldgaststätte Hohes Gras](https://visit.kassel.de/en/gastro/forest-restaurant-hohes-gras), abgerufen 01.11.2026

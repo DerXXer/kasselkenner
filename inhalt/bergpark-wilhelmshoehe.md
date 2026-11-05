@@ -6,7 +6,7 @@ kurz: Bergpark
 bild: teufelsbruecke.jpg
 stand: 2026-11-05
 blick: Eintritt=Park frei | Geöffnet=ganzjährig | Rundweg=rund 2,3 km bergab | Anreise=Tram 4, dann Bus 22 | Parken=am Herkules und am Schloss | Welterbe=seit 2013
-weiter: wasserspiele-kassel, herkules-kassel, loewenburg-kassel
+weiter: wasserspiele-kassel, herkules-kassel, habichtswald-wandern
 ---
 # Bergpark Wilhelmshöhe in Kassel: was dich erwartet
 
@@ -53,9 +53,15 @@ Vom Herkules bis zum Schloss sind es rund 2,3 km, und es geht nur bergab. Am beq
 
 Mit Pausen, Ausblicken und einem Museum zwischendurch füllt der Weg gut einen ganzen Tag.
 
+## Wie lange läuft man vom Herkules zum Schloss Wilhelmshöhe?
+
+Bergab sind es rund 2,3 Kilometer und reine Gehzeit von etwa 30 Minuten, wenn du ohne Halt durchgehst. Das schafft allerdings kaum jemand: Die Treppen an den Kaskaden wollen mit Bedacht genommen werden, und an Teufelsbrücke, Aquädukt und Fontäne bleibt man ohnehin stehen. An Wasserspieltagen folgst du dem Wasser von 14.30 Uhr bis etwa 16 Uhr, also rund eineinhalb Stunden.
+
+Andersherum ist es ein anderer Spaziergang: Vom Schloss hinauf zum Herkules rechnest du etwa 1,5 Stunden über Wege und Treppen. Wer nicht bergauf will, fährt mit Tram 4 und Bus 22 nach oben und läuft nur hinunter.
+
 ## Wo kann man im Bergpark essen?
 
-Am Herkules gibt es Gastronomie. Die Kaskadenwirtschaft Grischäfer im Park ist wegen Renovierung geschlossen und soll im Mai 2027 wieder öffnen. Unten im Schloss lädt das Café Jérôme ein, dienstags bis sonntags von 10 bis 17 Uhr, auch ohne Museumsbesuch. Gleich in der Nähe liegt die „Alte Wache“, auch „Gloria in der Alten Wache“ genannt.
+Am Herkules gibt es Gastronomie. Die Kaskadenwirtschaft Grischäfer im Park ist wegen Renovierung geschlossen. Unten im Schloss lädt das Café Jérôme ein, dienstags bis sonntags von 10 bis 17 Uhr, auch ohne Museumsbesuch. Gleich in der Nähe liegt die „Alte Wache“, auch „Gloria in der Alten Wache“ genannt.
 
 ## Praktisches: Eintritt, Öffnungszeiten und Anreise
 
@@ -164,6 +170,7 @@ An normalen Tagen über den Bahnhof Wilhelmshöhe: Tram 1 ab Wilhelmshöhe (Park
 - [Deutsche UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 09.10.2026
 - [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026
+- Gehzeit Herkules–Schloss: eigene Messung mit OpenStreetMap-Routing (Fußweg), 20.10.2026
 - [Visit Kassel, Parkplatz Schloss Wilhelmshöhe](https://visit.kassel.de/poi/parkplatz-schloss-wilhelmshoehe-bergpark), abgerufen 15.10.2026
 - [Visit Kassel, Parkplatz am Herkules](https://visit.kassel.de/poi/parkplatz-am-herkules), abgerufen 15.10.2026
 - [Hessen Kassel Heritage, Parkordnung Bergpark Wilhelmshöhe](https://a.storyblok.com/f/96181/x/099a9189d9/parkordnung-bergpark.pdf), abgerufen 15.10.2026

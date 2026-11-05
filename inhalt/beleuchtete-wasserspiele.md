@@ -1,6 +1,6 @@
 ---
 titel: Beleuchtete Wasserspiele Kassel: Termine, Zeiten, Anreise
-beschreibung: Beleuchtete Wasserspiele Kassel: die Termine 2026 als Beispiel, Ablauf am Abend mit Uhrzeiten, Anreise mit Bus und Bahn und was anders ist als tagsüber.
+beschreibung: Beleuchtete Wasserspiele Kassel: Termine 2026 als Beispiel, Ablauf am Abend mit Uhrzeiten, Anreise und der Unterschied zum Bergparkleuchten.
 slug: beleuchtete-wasserspiele
 kurz: Beleuchtete Wasserspiele
 bild: wasserspiele-beleuchtet.jpg
@@ -37,6 +37,10 @@ Im September ging es eine Stunde früher los als im Juni. Prüf die Startzeit de
 ![Aquädukt bei Nacht](aquaedukt-beleuchtet.jpg)
 
 Zwischen den Stationen sind manche Wege dunkel, eine Taschenlampe gehört also ins Gepäck. An den Kaskaden kommen Treppen ohne Geländer dazu, feste Schuhe helfen auch hier.
+
+## Bergparkleuchten oder Beleuchtete Wasserspiele: was ist der Unterschied?
+
+Das Bergparkleuchten ist ein eigenes Lichtkunstfestival und nicht dasselbe wie die Beleuchteten Wasserspiele. Für 2026 wurde es abgesagt, weil der Stadt das Geld fehlte. Die Beleuchteten Wasserspiele fanden trotzdem statt, im Juni und im September, veranstaltet von Kassel Marketing. Wer abends Licht und Wasser im Bergpark sehen will, achtet also auf ihre Termine; die für 2027 stehen noch nicht fest.
 
 ## Praktisches: Termine und Anreise
 
@@ -84,10 +88,6 @@ Ja, an den Abenden der Beleuchteten Wasserspiele beginnt alles am angestrahlten 
 ### Welche Stationen werden angestrahlt?
 
 Kaskaden, Teufelsbrücke, Aquädukt und Jussowtempel, den Abschluss macht die Große Fontäne. Der Steinhöfer Wasserfall gehört abends nicht zur Inszenierung.
-
-### Ist das Bergparkleuchten dasselbe wie die Beleuchteten Wasserspiele?
-
-Nein, das Bergparkleuchten ist ein eigenes Lichtkunstfestival. Es wurde für 2026 abgesagt, weil der Stadt das Geld fehlte; die Beleuchteten Wasserspiele fanden trotzdem statt.
 
 ### Brauche ich eine Taschenlampe?
 

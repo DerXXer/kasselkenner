@@ -4,7 +4,7 @@ beschreibung: documenta 16 in Kassel: 12. Juni bis 19. September 2027, täglich 
 slug: documenta-2027
 kurz: documenta 2027
 bild: fridericianum-friedrichsplatz.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Zeitraum=12. Juni bis 19. September 2027 | Geöffnet=täglich 10 bis 20 Uhr | Tagesticket=29 Euro, ermäßigt 19 Euro | Kinder=bis zwölf Jahre frei | Start=Welcome Center Friedrichsplatz | Anreise=ICE bis Kassel-Wilhelmshöhe
 weiter: documenta-uebernachten, uebernachten-kassel, bergpark-wilhelmshoehe
 ---
@@ -40,6 +40,8 @@ Geöffnet ist an allen 100 Tagen, bei Veranstaltungen weichen die Zeiten teils a
 
 ### Was kosten Tickets für die documenta 2027?
 
+Ein Tagesticket kostet 29 Euro, ermäßigt 19 Euro, und Kinder bis einschließlich zwölf Jahre kommen umsonst hinein. Für zwei Tage hintereinander gibt es ein eigenes Ticket, für viele Besuche die Dauerkarte:
+
 | Ticket | Preis | Ermäßigt | Hinweis |
 |---|---|---|---|
 | Tagesticket | 29 Euro | 19 Euro | ein Tag |
@@ -56,7 +58,7 @@ Kaufen kannst du im Onlineshop der D16, im Fridericianum und in der Tourist Info
 
 ### Gilt das Ticket auch für Bus und Tram?
 
-Ja. An dem Tag, für den dein Ticket gilt, fährst du damit bis Betriebsschluss kostenlos mit Bus und Bahn, nur die Dauerkarte ist ausgenommen. Innerhalb Kassels bist du damit sicher unterwegs. Kommst du von weiter her, frag vor dem Kauf kurz beim Besucherservice nach, wie weit das Ticket reicht.
+Ja. An dem Tag, für den dein Ticket gilt, fährst du damit in Kassel bis Betriebsschluss kostenlos mit Bus und Bahn. Die Dauerkarte gilt nicht als Fahrkarte. Wohnst du außerhalb Kassels, frag vor der Fahrt kurz nach, ob dein Ticket bis dorthin reicht.
 
 ### Wo ist das Welcome Center?
 
@@ -120,17 +122,17 @@ Begleitpersonen von Menschen mit Behinderung, die auf Begleitung angewiesen sind
 
 ## Quellen
 
-- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 14.10.2026
-- [documenta 16, Tickets](https://documentasixteen.com/de/besuch/tickets), abgerufen 09.10.2026
-- [documenta 16, Neuigkeiten](https://documentasixteen.com/de/news), abgerufen 14.10.2026
-- [documenta, documenta 16 nimmt Gestalt an](https://documenta.de/de/news/documenta-16-nimmt-gestalt-an), abgerufen 14.10.2026
-- [documenta, Das Künstlerische Team der documenta 16](https://documenta.de/en/news/the-artistic-team-for-documenta-16), abgerufen 14.10.2026
-- [Fridericianum, Besuch](https://www.fridericianum.org/en/visit), abgerufen 14.10.2026
-- [documenta 16, Visit FAQ (englisch)](https://documentasixteen.com/visit/faq), abgerufen 09.10.2026
-- [documenta, Besuchszahlen documenta fifteen](https://documenta.de/en/news/documenta-fifteen-schliesst-mit-sehr-guten-besuchszahlen), abgerufen 09.10.2026
-- [Wikipedia, documenta fifteen](https://de.wikipedia.org/wiki/Documenta_fifteen), abgerufen 09.10.2026
-- [Wikipedia, documenta 14](https://de.wikipedia.org/wiki/Documenta_14), abgerufen 09.10.2026
-- [Wikipedia, Fridericianum](https://de.wikipedia.org/wiki/Fridericianum_(Kassel)), abgerufen 09.10.2026
+- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 01.11.2026
+- [documenta 16, Tickets](https://documentasixteen.com/de/besuch/tickets), abgerufen 01.11.2026
+- [documenta 16, Neuigkeiten](https://documentasixteen.com/de/news), abgerufen 01.11.2026
+- [documenta, documenta 16 nimmt Gestalt an](https://documenta.de/de/news/documenta-16-nimmt-gestalt-an), abgerufen 01.11.2026
+- [documenta, Das Künstlerische Team der documenta 16](https://documenta.de/en/news/the-artistic-team-for-documenta-16), abgerufen 01.11.2026
+- [Fridericianum, Besuch](https://www.fridericianum.org/en/visit), abgerufen 01.11.2026
+- [documenta 16, Visit FAQ (englisch)](https://documentasixteen.com/visit/faq), abgerufen 01.11.2026
+- [documenta, Besuchszahlen documenta fifteen](https://documenta.de/en/news/documenta-fifteen-schliesst-mit-sehr-guten-besuchszahlen), abgerufen 01.11.2026
+- [Wikipedia, documenta fifteen](https://de.wikipedia.org/wiki/Documenta_fifteen), abgerufen 01.11.2026
+- [Wikipedia, documenta 14](https://de.wikipedia.org/wiki/Documenta_14), abgerufen 01.11.2026
+- [Wikipedia, Fridericianum](https://de.wikipedia.org/wiki/Fridericianum_(Kassel)), abgerufen 01.11.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
-- [Visit Kassel, Treppenstraße](https://visit.kassel.de/poi/treppenstrasse), abgerufen 15.10.2026
-- [documenta 16, Barrierefreiheit](https://documentasixteen.com/de/besuch/barrierefreiheit), abgerufen 15.10.2026
+- [Visit Kassel, Treppenstraße](https://visit.kassel.de/poi/treppenstrasse), abgerufen 01.11.2026
+- [documenta 16, Barrierefreiheit](https://documentasixteen.com/de/besuch/barrierefreiheit), abgerufen 01.11.2026

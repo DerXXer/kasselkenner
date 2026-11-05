@@ -1,14 +1,14 @@
 ---
-titel: Kassel Sehenswürdigkeiten: die wichtigsten Orte im Überblick
+titel: Kassel Sehenswürdigkeiten und Ausflugsziele im Überblick
 beschreibung: Kassel Sehenswürdigkeiten im Überblick: Bergpark mit Herkules und Schloss, Innenstadt mit Fridericianum, Karlsaue und Grimmwelt, mit Eintritt und Zeiten.
 slug: kassel-sehenswuerdigkeiten
 kurz: Sehenswürdigkeiten
 bild: blick-landesmuseum-turm.jpg
-stand: 2026-10-14
+stand: 2026-11-04
 blick: Bergpark=Eintritt frei | Wasserspiele=Mi, So und Feiertag ab 14.30 Uhr | Museen=meist 8 Euro | Montag=fast alle Museen zu | Herkules=Tram 4, dann Bus 22
 weiter: bergpark-wilhelmshoehe, kassel-wochenende, kassel-geheimtipps
 ---
-# Kassel Sehenswürdigkeiten: die wichtigsten Orte im Überblick
+# Kassel Sehenswürdigkeiten und Ausflugsziele im Überblick
 
 Kassel hat zwei Herzen: im Westen den [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) mit Herkules, Löwenburg und Schloss, UNESCO-Welterbe und eine ganze Landschaft für sich, und die Innenstadt mit Fridericianum, Karlsaue und Grimmwelt. Nimm dir für jede Gegend einen eigenen Tag, dann wird es entspannt statt gehetzt.
 
@@ -44,7 +44,7 @@ Wer nur einen Tag hat, nimmt oben den Herkules und unten das Schloss mit. Zu Fu�
 
 ![Treppenstraße](treppenstrasse.jpg)
 
-In der Innenstadt liegt alles nah beieinander: Vom Fridericianum zum Marmorbad sind es 8 Minuten zu Fuß, von dort zur Neuen Galerie 9 Minuten und weiter zur Grimmwelt 5 Minuten. Du läufst gemütlich von Ort zu Ort.
+In der Innenstadt liegt alles nah beieinander: Vom Fridericianum zum Marmorbad sind es rund 10 Minuten zu Fuß, von dort zur Neuen Galerie 9 Minuten und weiter zur Grimmwelt 5 Minuten. Du läufst gemütlich von Ort zu Ort.
 
 - **Friedrichsplatz und Fridericianum:** Das Fridericianum ist das Herz der documenta. Zwischen 12. Juni und 19. September 2027 ist die nächste Ausgabe zu sehen, dann ist die ganze Stadt voller Kunst.
 - **Karlsaue und Orangerie:** Ein weiter Park an der Fulda mit Alleen, Wasserflächen und viel Platz zum Durchatmen. In der Orangerie wartet ein Planetarium, daneben das Marmorbad, das im Sommerhalbjahr kostenlos offen ist.
@@ -70,6 +70,10 @@ Manche Kunst ist nach der documenta einfach geblieben und steht heute kostenlos 
 Wie sich das gut auf zwei Tage verteilt, steht unter [Kassel am Wochenende](/kassel-wochenende/). Mit Kindern helfen dir [Kassel mit Kindern](/kassel-mit-kindern/), bei Regen [Kassel bei Regen](/kassel-bei-regen/).
 
 ## Häufige Fragen
+
+### Welche Ausflugsziele gibt es in Kassel?
+
+Die großen Ausflugsziele sind der [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/) mit [Herkules](/herkules-kassel/), [Löwenburg](/loewenburg-kassel/) und [Schloss](/schloss-wilhelmshoehe/), die Karlsaue mit der [Orangerie](/orangerie-karlsaue/) und die [Grimmwelt](/grimmwelt-kassel/). Wer raus ins Grüne will, wandert im [Habichtswald](/habichtswald-wandern/) gleich hinter dem Herkules, und an Regentagen wartet die [Kurhessen-Therme](/kurhessen-therme/). Mit Kindern helfen die Tipps unter [Kassel mit Kindern](/kassel-mit-kindern/).
 
 ### Was ist das Besondere an Kassel?
 
@@ -109,7 +113,7 @@ Die Neue Galerie liegt an der Schönen Aussicht 1, das Hessische Landesmuseum am
 
 ### Wo parke ich in der Kasseler Innenstadt?
 
-980 Plätze hat die Tiefgarage Friedrichsplatz, die Kurfürsten Galerie 560 und das Parkhaus Wilhelmsstraße 322. Die Gebühren nennt die Stadt dort nicht.
+980 Plätze hat die Tiefgarage Friedrichsplatz, die Kurfürsten Galerie 560 und das Parkhaus Wilhelmsstraße 322. Was eine Stunde kostet, schau vor dem Einfahren auf die Tafel an der Einfahrt.
 
 ## Quellen
 

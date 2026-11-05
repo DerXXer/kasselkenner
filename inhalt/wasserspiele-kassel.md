@@ -4,7 +4,7 @@ beschreibung: Wasserspiele Kassel im Bergpark Wilhelmshöhe: wann sie laufen, Ab
 slug: wasserspiele-kassel
 kurz: Wasserspiele
 bild: wasserspiele-kaskaden.jpg
-stand: 2026-11-05
+stand: 2026-11-01
 blick: Saison=1. Mai bis 3. Oktober | Tage=Mi, So und Feiertage | Start=14.30 Uhr am Herkules | Ende=gegen 16 Uhr, Große Fontäne | Eintritt=frei | Strecke=rund 2,3 km bergab
 weiter: beleuchtete-wasserspiele, parken-bergpark-wilhelmshoehe, herkules-kassel
 ---
@@ -63,7 +63,7 @@ Das Schauspiel ist über 300 Jahre alt: Schon zur Zeit der Landgrafen staunten B
 
 ### Wann gibt es wieder Wasserspiele in Kassel?
 
-Die Saison 2026 ist beendet, bestätigte Termine für 2027 gibt es noch nicht. Der Rahmen ist wie jedes Jahr der 1. Mai bis 3. Oktober, schau vor deinem Besuch auf der Seite von Hessen Kassel Heritage nach. Wasserspieltage sind Mittwoch, Sonntag und alle hessischen Feiertage.
+Die Saison 2026 ist beendet. 2027 laufen die Wasserspiele vom 1. Mai bis 3. Oktober, das hat die Stadt Kassel bestätigt; schau vor deinem Besuch trotzdem kurz auf der Seite von Hessen Kassel Heritage nach. Wasserspieltage sind Mittwoch, Sonntag und alle hessischen Feiertage.
 
 **Saison 2026:** Die Saison lief vom 1. Mai bis 3. Oktober 2026 und ist beendet.
 
@@ -141,14 +141,15 @@ Oben im Besucherzentrum Herkules gibt es dienstags bis sonntags und feiertags vo
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
-- [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
-- [UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 09.10.2026
-- [hessenschau, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 09.10.2026
-- [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
+- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
+- [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 01.11.2026
+- [UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 01.11.2026
+- [hessenschau, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 01.11.2026
+- [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 01.11.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026
-- [Hessen Kassel Heritage, Besucherzentrum Herkules](https://www.heritage-kassel.de/service/bz/besucherzentrum-herkules), abgerufen 15.10.2026
-- [Café Jérôme, Schloss Wilhelmshöhe](https://www.cafe-jerome.de), abgerufen 15.10.2026
+- [Hessen Kassel Heritage, Besucherzentrum Herkules](https://www.heritage-kassel.de/service/bz/besucherzentrum-herkules), abgerufen 01.11.2026
+- [Café Jérôme, Schloss Wilhelmshöhe](https://www.cafe-jerome.de), abgerufen 01.11.2026
+- [Stadt Kassel, Wasserspiele 2027](https://www.kassel.de/beleuchtete-wasserspiele/index.php), abgerufen 01.11.2026

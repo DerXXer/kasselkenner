@@ -6,7 +6,7 @@ kurz: Übernachten
 bild: grosse-fontaene.jpg
 stand: 2026-10-14
 blick: Für Bergpark=Bad Wilhelmshöhe | Für Stadt=Mitte | ICE-Halt=Kassel-Wilhelmshöhe
-weiter: documenta-uebernachten, bergpark-wilhelmshoehe, wasserspiele-kassel
+weiter: documenta-uebernachten, kliniken-angehoerige, bergpark-wilhelmshoehe
 ---
 # Kassel übernachten: welcher Stadtteil passt zu dir?
 

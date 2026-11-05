@@ -44,7 +44,7 @@ Der Park ist flach und angenehm zum Schlendern. Hunde sind als Assistenzhunde er
 
 ## Welche Veranstaltungen finden in der Orangerie statt?
 
-Das aktuelle Programm steht im Programmkalender von Hessen Kassel Heritage. Im November 2026 findet vor der Orangerie der Winterzauber statt, eine Ausstellung mit rund 120 Ausstellern, an zwei Wochenenden: vom 5. bis 8. und vom 12. bis 14. November.
+Das aktuelle Programm steht im Programmkalender von Hessen Kassel Heritage. Im November 2026 findet vor der Orangerie der [Winterzauber](/winterzauber-kassel/) statt, eine Ausstellung mit rund 120 Ausstellern, an zwei Wochenenden: vom 5. bis 8. und vom 12. bis 14. November.
 
 Die documenta nutzt den Park immer wieder als Ausstellungsort unter freiem Himmel, mehr dazu unter [documenta 2027](/documenta-2027/). Am ersten Augustwochenende feiert Kassel am Auedamm und auf der Karlswiese den [Zissel](/zissel-kassel/), ein Volksfest am Wasser.
 
