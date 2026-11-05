@@ -14,7 +14,7 @@ Kassel ist mit Hund gut zu machen. Die beiden großen Parks, der Bergpark Wilhel
 
 ## Darf mein Hund in den Bergpark Wilhelmshöhe?
 
-![Blick vom Herkules über den Bergpark](blick-vom-herkules.jpg)
+![Die Große Fontäne im Bergpark Wilhelmshöhe](grosse-fontaene.jpg)
 
 Ja, an der kurzen Leine. Das gilt für den ganzen Park, auch an Tagen mit [Wasserspielen](/wasserspiele-kassel/). Die Parkwege darfst du nicht verlassen, baden lassen ist verboten, und Hundekot nimmst du sofort mit.
 

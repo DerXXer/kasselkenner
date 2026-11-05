@@ -3,7 +3,7 @@ titel: Termine Kassel 2027: Wasserspiele, documenta, Zissel
 beschreibung: Alle Termine Kassel 2027 auf einen Blick: 49 Wasserspieltage vom 1. Mai bis 3. Oktober, documenta 16 ab 12. Juni, Zissel vom 30. Juli bis 2. August.
 slug: termine-kassel-2027
 kurz: Termine 2027
-bild: wasserspiele-kaskaden.jpg
+bild: wasserspiele-beleuchtet.jpg
 stand: 2026-11-05
 blick: Wasserspiele=1. Mai bis 3. Oktober 2027 | Wasserspieltage=49 | documenta 16=12. Juni bis 19. September | Zissel=30. Juli bis 2. August | Beleuchtete Wasserspiele=noch offen
 weiter: wasserspiele-kassel, documenta-2027, zissel-kassel
@@ -14,7 +14,7 @@ weiter: wasserspiele-kassel, documenta-2027, zissel-kassel
 
 ## Wasserspiele 2027: alle 49 Termine
 
-![Wasser stürzt über die Kaskaden unterhalb des Herkules](wasserspiele-kaskaden.jpg)
+![Wasser fließt über die Peneuskaskaden im Bergpark Wilhelmshöhe](peneuskaskaden.jpg)
 
 Die Saison 2027 läuft vom 1. Mai bis 3. Oktober. Das Wasser fließt jeden Mittwoch und Sonntag und an jedem hessischen Feiertag, los geht es um 14.30 Uhr am Herkules. Gut eine Stunde später, um 15.45 Uhr, steigt unten am Schloss die Große Fontäne. Wie der Ablauf von Station zu Station geht und wo du am besten stehst, steht auf der Seite zu den [Wasserspielen](/wasserspiele-kassel/).
 
@@ -40,6 +40,8 @@ Die Termine für die [beleuchteten Wasserspiele](/beleuchtete-wasserspiele/) am 
 Die documenta 16 läuft 100 Tage lang in der ganzen Stadt. Los geht es am 12. Juni, Schluss ist am 19. September. Es gibt Tages- und Zweitagestickets. Was du jetzt schon wissen kannst, steht auf der Seite zur [documenta 2027](/documenta-2027/). Wenn du für die documenta übernachten willst, buche früh, im Sommer 2027 wird es voll.
 
 ## Zissel 2027: 30. Juli bis 2. August
+
+![Der Zisselbrunnen mit dem goldenen Hering](zisselbrunnen.jpg)
 
 Der [Zissel](/zissel-kassel/), das Volks- und Wasserfest an der Fulda, findet vom 30. Juli bis 2. August 2027 statt. Am Samstag, 31. Juli, ist der Drachenboot-Cup, Start ist um 9.30 Uhr. Das Programm veröffentlicht der Verein rechtzeitig vor dem Fest.
 

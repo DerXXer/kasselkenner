@@ -60,6 +60,23 @@ def pruefe(datei):
             fehler.append(f"Bild im Text fehlt: {b}")
         elif f"| {b} |" not in nachweise:
             fehler.append(f"Bild im Text ohne Nachweis: {b}")
+    # Bilder nicht doppelt zeigen (Aaron 05.11.2026): auf einer Seite jedes Bild nur einmal, auch nicht als
+    # Titelbild einer Weiterlesen-Karte; über die ganze Website ein Bild auf höchstens zwei Seiten.
+    def bilder_von(text):
+        m, r = kopf_lesen(text)
+        return ([m["bild"]] if m.get("bild") else []) + re.findall(r"^!\[[^\]]*\]\(([^)\s]+)\)", r, re.M)
+    gezeigt = bilder_von(datei.read_text())
+    for ziel in [x.strip() for x in meta.get("weiter", "").split(",") if x.strip()]:
+        k = WURZEL / "inhalt" / f"{ziel}.md"
+        if k.exists():
+            gezeigt += [kopf_lesen(k.read_text())[0].get("bild")]
+    for b in sorted({b for b in gezeigt if b and gezeigt.count(b) > 1}):
+        fehler.append(f"Bild doppelt auf der Seite (auch Weiterlesen-Karten zählen): {b}")
+    andere = [f for f in (WURZEL / "inhalt").glob("*.md") if f.stem != datei.stem]
+    for b in sorted(set(bilder_von(datei.read_text()))):
+        n = sum(b in bilder_von(f.read_text()) for f in andere)
+        if n >= 2:
+            warn.append(f"Bild steht schon auf {n} anderen Seiten: {b}")
     h1 = re.findall(r"^# ", rumpf, re.M)
     if len(h1) != 1:
         fehler.append(f"{len(h1)} H1-Überschriften (genau 1)")

@@ -3,7 +3,7 @@ titel: Kassel-Steig mit Bus und Tram: alle 12 Etappen
 beschreibung: Kassel-Steig ohne Auto: für alle 12 Etappen Start, Ziel, Länge und welche Tram oder welcher Bus dich hin und zurück nach Kassel bringt, auch sonntags.
 slug: kassel-steig-bus-tram
 kurz: Kassel-Steig
-bild: blick-vom-herkules.jpg
+bild: kassel-steig-markierung-herkules.jpg
 stand: 2026-11-05
 blick: Etappen=12 | Länge=rund 160 km | Längste Etappe=20,6 km | Kürzeste Etappe=8,0 km | Start und Ziel=Herkules | Betreut von=HWGV Kassel
 weiter: habichtswald-wandern, herkules-kassel, mit-bus-und-bahn-zum-bergpark
@@ -33,7 +33,7 @@ Die Gehzeit ist eine Faustregel mit vier Kilometern in der Stunde, ohne Pausen. 
 
 ## So kommst du hin und zurück
 
-![Eine Straßenbahn an der Haltestelle Wilhelmshöhe (Park) am Rand des Bergparks](tram-wilhelmshoehe-park.jpg)
+![Die Bushaltestelle Druseltal in Bad Wilhelmshöhe](haltestelle-druseltal.jpg)
 
 Weil jede Etappe dort beginnt, wo die vorige endet, ist die Linie zurück nach Kassel auch die Linie für den Start der nächsten Etappe. Die Zahlen zeigen, wie viele Fahrten an einem Sonntag Richtung Kassel gehen, gezählt im Fahrplan vom November 2026. Werktags fahren die meisten Linien öfter.
 
@@ -56,7 +56,7 @@ Weil jede Etappe dort beginnt, wo die vorige endet, ist die Linie zurück nach K
 
 ## Start am Herkules
 
-![Das Oktogon mit der Herkules-Statue, Start und Ziel des Kassel-Steigs](herkules-oktogon.jpg)
+![Das Besucherzentrum am Herkules](besucherzentrum-herkules.jpg)
 
 Die erste und die letzte Etappe beginnen und enden am Herkules. Hin kommst du mit der Tram 4 bis zur Endhaltestelle Druseltal und weiter mit dem Bus 22 bis zur Haltestelle Herkules am Besucherzentrum. Der Bus fährt auch im Winter, sonntags ungefähr von 10 bis 19 Uhr. Wer die letzte Etappe vom Brasselsberg aus geht, kann sie am Druseltal abkürzen: Nach gut zwei Kilometern führt ein Zuweg zur Haltestelle, von dort fährt die Tram 4 zurück in die Stadt.
 
