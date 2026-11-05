@@ -13,6 +13,9 @@ import bauen  # noqa: E402
 ziel = Path(sys.argv[1]).resolve()
 with tempfile.TemporaryDirectory() as tmp:
     for q in list((WURZEL / "inhalt").glob("*.md")) + [p for p in (WURZEL / "_entwuerfe").glob("*.md") if "." not in p.stem]:
-        (Path(tmp) / q.name).write_text(q.read_text())
+        text = q.read_text()
+        if not text.startswith("---"):  # Gastbeiträge und andere Texte ohne Seitenkopf sind keine Seiten
+            continue
+        (Path(tmp) / q.name).write_text(text)
     bauen.INHALT, bauen.AUS = Path(tmp), ziel
     bauen.main()

@@ -5,7 +5,6 @@ slug: wasserspiele-kassel
 kurz: Wasserspiele
 bild: wasserspiele-kaskaden.jpg
 stand: 2026-11-05
-eigenwerbung: nein
 blick: Saison=1. Mai bis 3. Oktober | Tage=Mi, So und Feiertage | Start=14.30 Uhr am Herkules | Ende=gegen 16 Uhr, Große Fontäne | Eintritt=frei | Strecke=rund 2,3 km bergab
 weiter: beleuchtete-wasserspiele, parken-bergpark-wilhelmshoehe, herkules-kassel
 ---

@@ -5,7 +5,6 @@ slug: bergpark-wilhelmshoehe
 kurz: Bergpark
 bild: teufelsbruecke.jpg
 stand: 2026-11-05
-eigenwerbung: nein
 blick: Eintritt=Park frei | Geöffnet=ganzjährig | Rundweg=rund 2,3 km bergab | Anreise=Tram 4, dann Bus 22 | Parken=am Herkules und am Schloss | Welterbe=seit 2013
 weiter: wasserspiele-kassel, herkules-kassel, loewenburg-kassel
 ---
