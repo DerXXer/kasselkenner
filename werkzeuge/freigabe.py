@@ -37,13 +37,14 @@ ENTW = WURZEL / "_entwuerfe"
 FREIGABE_URL = "https://claude.ai/artifact/EsxUgEhwNQ9RWDVVuGn67C"
 
 
-def kleines_bild(name):
-    q = WURZEL / "bilder" / name
-    if not q.exists():
+def kleines_bild(name, breite=640):
+    q = next((k for k in (WURZEL / "bilder" / name, WURZEL / "docs" / "bilder" / name, WURZEL / "vorlage" / name)
+              if k.exists()), None)
+    if q is None:
         return ""
     with tempfile.TemporaryDirectory() as t:
         z = Path(t) / "v.jpg"
-        subprocess.run(["sips", "-Z", "640", "-s", "format", "jpeg", "-s", "formatOptions", "60", str(q), "--out", str(z)],
+        subprocess.run(["sips", "-Z", str(breite), "-s", "format", "jpeg", "-s", "formatOptions", "60", str(q), "--out", str(z)],
                        capture_output=True)
         return "data:image/jpeg;base64," + base64.b64encode(z.read_bytes()).decode()
 
@@ -67,9 +68,18 @@ def vorschau(slug):
     # Platz sparen: Bilder in Karten, Eigenwerbung und Stapel weglassen, nur das Titelbild klein einbetten
     seite = re.sub(r'(<aside class="eigen"[^>]*>)\s*<img[^>]*>', r"\1", seite)
     seite = re.sub(r'(<figure class="polaroid">)<img[^>]*>', r"\1", seite)
+    # leere Kartenrahmen weglassen statt sie leer zu zeigen (Aaron 05.11.2026)
+    seite = re.sub(r'<figure class="polaroid"><figcaption>[^<]*</figcaption></figure>', "", seite)
     if meta.get("bild"):
-        seite = re.sub(r'src="(\.\./)?bilder/[^"]+"', f'src="{kleines_bild(meta["bild"])}"', seite, count=1)
+        seite = re.sub(r'src="(\.\./)?bilder/[^"]+"', f'src="{kleines_bild(meta["bild"], 560)}"', seite, count=1)
+    # Bilder im Text klein einbetten, damit die Vorschau zeigt, was online steht
+    def im_text(m):
+        quelle = kleines_bild(m.group(2) + ".jpg", 360)
+        return f'{m.group(1)}<img src="{quelle}" alt="{m.group(3)}" loading="lazy">' if quelle else m.group(1)
+    seite = re.sub(r'(<figure class="polaroid im-text[^"]*">)<img src="(?:\.\./)?bilder/([^"]+?)-600\.webp"[^>]*?alt="([^"]*)"[^>]*>',
+                   im_text, seite)
     seite = re.sub(r'<img src="(\.\./)?bilder/[^"]+"[^>]*>', "", seite)
+    seite = re.sub(r'src="(\.\./)?aaron-160\.webp"', lambda m: f'src="{kleines_bild("aaron-160.webp", 160)}"', seite)
     return meta, rumpf, seite
 
 
