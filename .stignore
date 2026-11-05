@@ -1,0 +1,7 @@
+// Erzeugt von KI-Mitarbeiter/betrieb/projektabgleich.py aus der Betriebsdatei — nicht von Hand ändern.
+(?d).DS_Store
+(?d)__pycache__
+(?d)node_modules
+(?d).venv
+.claude/worktrees
+(?d).git
