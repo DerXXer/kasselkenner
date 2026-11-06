@@ -4,7 +4,7 @@ beschreibung: Kurhessen Therme in Kassel: Preise mit Stand, Öffnungszeiten, Sau
 slug: kurhessen-therme
 kurz: Kurhessen-Therme
 bild: kurhessen-therme-aussen.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Geöffnet=täglich 9 bis 22 Uhr | Thermalbad=2 Stunden 18 Euro (Mo bis Do) | Tageskarte=26 Euro, mit Sauna 32 Euro | Preise=Stand 14.10.2026 | Adresse=Wilhelmshöher Allee 361 | Anreise=Tram 1, Haltestelle Kurhessen-Therme
 weiter: bergpark-wilhelmshoehe, kassel-bei-regen, kassel-wochenende
 ---
@@ -14,7 +14,7 @@ Die Kurhessen-Therme ist das Solebad am Rand des Bergparks: warme Becken drinnen
 
 ## Was erwartet dich in der Kurhessen-Therme?
 
-Die Thermalwelt hat rund 1.200 Quadratmeter Wasserfläche, innen und außen, mit 31 bis 37 Grad warmem Wasser. Außen- und Innenbecken sind mit reiner Thermalsole gefüllt und haben 31 Grad, genauso die Sprudelliegen. Wer es heißer mag, steigt in die Whirlpools mit 37 Grad, die ohne Sole auskommen. Die Außenrutsche läuft noch bis 2. November 2026, danach ist Winterpause. Dienstags um 12 Uhr gibt es im Innenbecken kostenlos Aqua-Fitness.
+Die Thermalwelt hat rund 1.200 Quadratmeter Wasserfläche, innen und außen, mit 31 bis 37 Grad warmem Wasser. Außen- und Innenbecken sind mit reiner Thermalsole gefüllt und haben 31 Grad, genauso die Sprudelliegen. Wer es heißer mag, steigt in die Whirlpools mit 37 Grad, die ohne Sole auskommen. Die Außenrutsche ist seit dem 1. November 2026 in der Winterpause. Dienstags um 12 Uhr gibt es im Innenbecken kostenlos Aqua-Fitness.
 
 Zum Abschalten gibt es die Traumwelt mit Klang- und Relax-Tempel, Fünf-Duft-Tempel und einem Kristall-Tempel mit Kamin und Marmorbad. Massagen und Behandlungen kosten extra. Hunger? Im Haus gibt es ein Restaurant mit Salaten, Pasta, Burgern und Kinderportionen, glutenfreie Gerichte sind möglich. Im Restaurant trägst du Bademantel oder gleichwertige Kleidung, bezahlt wird bar, mit EC- oder Kreditkarte.
 
@@ -47,7 +47,7 @@ Ein Mindestalter gibt es nicht, aber Kinder bis 15 Jahre brauchen eine Begleitpe
 
 ## Wie komme ich mit der Tram zur Kurhessen-Therme?
 
-Mit der Straßenbahnlinie 1 bis zur Haltestelle Kurhessen-Therme, von dort sind es nur wenige Meter. Die Linie fährt vom Königsplatz über den Bahnhof Kassel-Wilhelmshöhe bis zur Endstation Wilhelmshöhe (Park); die Haltestelle liegt zwischen Bahnhof und Endstation. Wer mit dem ICE kommt, steigt am Bahnhof Wilhelmshöhe in die Tram 1 Richtung Wilhelmshöhe (Park). Aktuelle Abfahrten zeigt die NVV-App.
+Mit der Straßenbahnlinie 1 bis zur Haltestelle Kurhessen-Therme. Die Linie fährt vom Königsplatz über den Bahnhof Kassel-Wilhelmshöhe bis zur Endstation Wilhelmshöhe (Park); die Haltestelle liegt zwischen Bahnhof und Endstation. Wer mit dem ICE kommt, steigt am Bahnhof Wilhelmshöhe in die Tram 1 Richtung Wilhelmshöhe (Park). Aktuelle Abfahrten zeigt die NVV-App.
 
 Mit dem Auto fährst du die Wilhelmshöher Allee 361 an, zur Therme gehört ein Parkplatz. Was er kostet und wie viele Plätze er hat, nennt die Therme nicht; im Zweifel rufst du vorher unter 0561 318080 an. Wenn du erst in den Park willst, findest du alles Weitere unter [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/).
 
@@ -55,8 +55,8 @@ Mit dem Auto fährst du die Wilhelmshöher Allee 361 an, zur Therme gehört ein 
 
 Zum Schloss Wilhelmshöhe sind es 1,3 Kilometer, zu Fuß rund 17 Minuten. Die Therme liegt am Rand des Bergparks, der Park selbst ist ganzjährig kostenlos. So lässt sich der Tag planen:
 
-- **Park am Vormittag, Therme am Nachmittag.** Schloss Wilhelmshöhe ist dienstags bis sonntags von 10 bis 17 Uhr offen, das Tagesticket kostet 8 Euro. Danach tut warmes Wasser gut. Mehr zum Park unter [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/).
-- **Wasserspiele, dann Therme.** Die Saison der Wasserspiele beginnt jedes Jahr am 1. Mai und endet am 3. Oktober. Gezeigt werden sie mittwochs, sonntags und an Feiertagen, Start ist 14.30 Uhr, Ende gegen 16 Uhr. Die Saison 2026 ist vorbei, die Termine 2027 stehen noch nicht fest. Danach bleiben bis 22 Uhr Zeit für die Therme. Alles dazu unter [Wasserspiele Kassel](/wasserspiele-kassel/).
+- **Park am Vormittag, Therme am Nachmittag.** Schloss Wilhelmshöhe ist dienstags bis sonntags von 10 bis 17 Uhr offen, das Tagesticket kostet 8 Euro, während der Ausstellung „DÜRER“ bis 17. Januar 2027 12 Euro. Danach tut warmes Wasser gut. Mehr zum Park unter [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/).
+- **Wasserspiele, dann Therme.** Die Saison der Wasserspiele beginnt jedes Jahr am 1. Mai und endet am 3. Oktober. Gezeigt werden sie mittwochs, sonntags und an Feiertagen, Start ist 14.30 Uhr, Ende gegen 16 Uhr. Die Saison 2026 ist vorbei, 2027 geht es am 1. Mai wieder los. Danach bleiben bis 22 Uhr Zeit für die Therme. Alles dazu unter [Wasserspiele Kassel](/wasserspiele-kassel/).
 - **Regentag.** Draußen grau, drinnen 31 Grad warm: Ideen für schlechtes Wetter stehen unter [Kassel bei Regen](/kassel-bei-regen/).
 - **Wochenende.** Samstag Innenstadt, Sonntag Bergpark und abends in die Therme: Den Plan findest du unter [Kassel am Wochenende](/kassel-wochenende/).
 
@@ -76,7 +76,7 @@ Nein, aber es wird empfohlen. Tickets für dein Wunschdatum gibt es im Online-Sh
 
 ### Hat die Kurhessen-Therme montags geöffnet?
 
-Ja, sie hat täglich von 9 bis 22 Uhr offen. Montags ist in der Sauna Textiler Sauna Tag.
+Ja, sie hat täglich von 9 bis 22 Uhr offen.
 
 ### Kann ich in der Kurhessen-Therme einen Bademantel leihen?
 
@@ -92,15 +92,16 @@ Ja, die Therme hat barrierefreie Beckenzugänge, Umkleiden und Sanitäranlagen.
 
 ## Quellen
 
-- [Kurhessen-Therme, Startseite](https://www.kurhessen-therme.de/), abgerufen 14.10.2026
-- [Kurhessen-Therme, Preise](https://www.kurhessen-therme.de/preise/), abgerufen 14.10.2026
-- [Kurhessen-Therme, Thermalwelt](https://www.kurhessen-therme.de/thermalwelt/), abgerufen 14.10.2026
-- [Kurhessen-Therme, Saunawelt](https://www.kurhessen-therme.de/saunawelt/), abgerufen 14.10.2026
-- [Kurhessen-Therme, Gastronomie](https://www.kurhessen-therme.de/gastronomie/), abgerufen 14.10.2026
-- [Kurhessen-Therme, Häufige Fragen](https://www.kurhessen-therme.de/faq/), abgerufen 14.10.2026
-- [Kurhessen-Therme, Haus- und Badeordnung (Stand 07/2026)](https://www.kurhessen-therme.de/haus-und-badeordnung/), abgerufen 14.10.2026
-- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV zum Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [Wikipedia, Kurhessen-Therme](https://de.wikipedia.org/wiki/Kurhessen-Therme), abgerufen 14.10.2026
+- [Kurhessen-Therme, Startseite](https://www.kurhessen-therme.de/), abgerufen 01.11.2026
+- [Kurhessen-Therme, Preise](https://www.kurhessen-therme.de/preise/), abgerufen 01.11.2026
+- [Kurhessen-Therme, Thermalwelt](https://www.kurhessen-therme.de/thermalwelt/), abgerufen 01.11.2026
+- [Kurhessen-Therme, Saunawelt](https://www.kurhessen-therme.de/saunawelt/), abgerufen 01.11.2026
+- [Kurhessen-Therme, Gastronomie](https://www.kurhessen-therme.de/gastronomie/), abgerufen 01.11.2026
+- [Kurhessen-Therme, Häufige Fragen](https://www.kurhessen-therme.de/faq/), abgerufen 01.11.2026
+- [Kurhessen-Therme, Haus- und Badeordnung (Stand 07/2026)](https://www.kurhessen-therme.de/haus-und-badeordnung/), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV zum Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [Wikipedia, Kurhessen-Therme](https://de.wikipedia.org/wiki/Kurhessen-Therme), abgerufen 01.11.2026
+- [Stadt Kassel, Wasserspiele 2027](https://www.kassel.de/beleuchtete-wasserspiele/index.php), abgerufen 01.11.2026
 - Gehzeit: eigene Messung mit OpenStreetMap-Routing (Fußweg), 14.10.2026

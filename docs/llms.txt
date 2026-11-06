@@ -2,7 +2,7 @@
 
 > Bergpark, Wasserspiele und documenta – von Gastgebern aus Bad Wilhelmshöhe. Praktische, geprüfte Antworten für Besucher in Kassel; jede Angabe mit Quelle und Prüfdatum. Betrieben von den Gastgebern von Wohnen am Bergpark (Kassel-Bad Wilhelmshöhe).
 
-Stand: 2026-11-05
+Stand: 2026-11-06
 
 ## Seiten
 
@@ -44,7 +44,7 @@ Stand: 2026-11-05
 - Beleuchtete Wasserspiele (geprüft 2026-11-01): Termine 2026: 5./6. Juni, 11./12. September; Termine 2027: stehen noch nicht fest; Beginn 2026: 21.00 Uhr (Juni), 20.00 Uhr (September); Finale: Große Fontäne; Anreise: Tram 4, dann Bus 22 oder 23; Mitnehmen: Taschenlampe
 - Bergpark (geprüft 2026-11-05): Eintritt: Park frei; Geöffnet: ganzjährig; Rundweg: rund 2,3 km bergab; Anreise: Tram 4, dann Bus 22; Parken: am Herkules und am Schloss; Welterbe: seit 2013
 - documenta 2027 (geprüft 2026-11-01): Zeitraum: 12. Juni bis 19. September 2027; Geöffnet: täglich 10 bis 20 Uhr; Tagesticket: 29 Euro, ermäßigt 19 Euro; Kinder: bis zwölf Jahre frei; Start: Welcome Center Friedrichsplatz; Anreise: ICE bis Kassel-Wilhelmshöhe
-- Unterkunft documenta (geprüft 2026-10-14): documenta: 100 Tage, 10 bis 20 Uhr; ICE-Halt: Kassel-Wilhelmshöhe; Zum Friedrichsplatz: Tram 1, 3 oder 4
+- Unterkunft documenta (geprüft 2026-11-01): documenta: 100 Tage, 10 bis 20 Uhr; ICE-Halt: Kassel-Wilhelmshöhe; Zum Friedrichsplatz: Tram 1, 3 oder 4
 - Grimmwelt (geprüft 2026-11-01): Geöffnet: Di bis So 10 bis 18 Uhr; Eintritt: 10 Euro, ermäßigt 7 Euro; Familie: 25 Euro; Kinder: unter 6 Jahren frei; Adresse: Weinbergstraße 21; Anreise: Tram 1, 3 oder 4 bis Rathaus
 - Wandern (geprüft 2026-11-01): Kürzeste: 2,05 km; Längste: gut 18 km; Habichtswaldsteig: 85 km Fernweg; Markierung: Habicht auf Purpur; Anreise: Tram 4, Bus 22
 - Herkules (geprüft 2026-11-01): Geöffnet: 1. April bis 31. Oktober; Zeiten: Di bis So 10 bis 17 Uhr; Eintritt: 8 Euro, unter 18 frei; Anreise: Tram 4, dann Bus 22; Parken: 280 Plätze, Tag 5 Euro
@@ -52,13 +52,13 @@ Stand: 2026-11-05
 - Bei Regen (geprüft 2026-11-01): Museen: Di bis So, Mo geschlossen; Therme: täglich 9 bis 22 Uhr; Thermalbad: ab 18 Euro (2 Stunden); Grimmwelt: 10 Euro, unter 6 frei
 - Abseits der Wege (geprüft 2026-11-01): Nekropole: ganzjährig, Eintritt frei; Sepulkralkultur: 8 Euro, Mi bis 20 Uhr; Bunkerführung: ab 5 Euro, mit Anmeldung; Laserscape: samstags, Eintritt frei; Gewächshaus: 1. November bis 31. März
 - Mit Hund (geprüft 2026-10-20): Bergpark und Karlsaue: erlaubt, an der kurzen Leine; Bus und Tram im NVV: Hund fährt kostenlos; Leinenpflicht: 49 Flächen, u. a. Fußgängerzone, Friedrichsplatz; Freilauf: Hundeauslauffläche Fuldatalstraße, Wolfsanger; Nie erlaubt: Kinderspielplätze
-- Mit Kindern (geprüft 2026-10-14): Bergpark: Eintritt frei; Löwenburg: unter 18 frei; Grimmwelt: unter 6 frei; Planetarium: unter 18 Jahren 2 Euro; Wasserspiele: 1. Mai bis 3. Oktober
+- Mit Kindern (geprüft 2026-11-01): Bergpark: Eintritt frei; Löwenburg: unter 18 frei; Grimmwelt: unter 6 frei; Planetarium: unter 18 Jahren 2 Euro; Wasserspiele: 1. Mai bis 3. Oktober
 - Sehenswürdigkeiten (geprüft 2026-11-04): Bergpark: Eintritt frei; Wasserspiele: Mi, So und Feiertag ab 14.30 Uhr; Museen: meist 8 Euro; Montag: fast alle Museen zu; Herkules: Tram 4, dann Bus 22
 - Kassel-Steig (geprüft 2026-11-05): Etappen: 12; Länge: rund 160 km; Längste Etappe: 20,6 km; Kürzeste Etappe: 8,0 km; Start und Ziel: Herkules; Betreut von: HWGV Kassel
 - Wochenende (geprüft 2026-10-14): Samstag: Innenstadt zu Fuß; Sonntag: Bergpark Wilhelmshöhe; Wasserspiele: 14.30 Uhr am Herkules; Löwenburg: vorab buchen; Anreise: ICE bis Kassel-Wilhelmshöhe; Auto: nicht nötig
 - Kletterwald (geprüft 2026-10-20): Saison: Anfang April bis Anfang November, 2027 noch nicht angekündigt; Geöffnet: Sa, So, Feiertage, Brückentage; Hessen-Ferien täglich; Erwachsene: 28 Euro, ermäßigt 26 Euro; Kinder 6 bis 11: 24 Euro; Ab: 4 Jahren und 1 m Größe; Reservierung: Pflicht, online
 - Kliniken (geprüft 2026-11-05): Kliniken: 5 am Bergpark; Tram: Linie 1 und 4; Vom Bahnhof zu Fuß: 18 bis 23 Min.; Parken: Tiefgarage und Klinikparkplätze; Zum Schloss zu Fuß: 12 bis 20 Min.
-- Kurhessen-Therme (geprüft 2026-10-14): Geöffnet: täglich 9 bis 22 Uhr; Thermalbad: 2 Stunden 18 Euro (Mo bis Do); Tageskarte: 26 Euro, mit Sauna 32 Euro; Preise: Stand 14.10.2026; Adresse: Wilhelmshöher Allee 361; Anreise: Tram 1, Haltestelle Kurhessen-Therme
+- Kurhessen-Therme (geprüft 2026-11-01): Geöffnet: täglich 9 bis 22 Uhr; Thermalbad: 2 Stunden 18 Euro (Mo bis Do); Tageskarte: 26 Euro, mit Sauna 32 Euro; Preise: Stand 14.10.2026; Adresse: Wilhelmshöher Allee 361; Anreise: Tram 1, Haltestelle Kurhessen-Therme
 - Löwenburg (geprüft 2026-10-09): Sommer: Di bis So 10 bis 17 Uhr; Winter: Fr bis So 10 bis 16 Uhr; Besuch: nur mit Führung; Führungen: zur vollen Stunde; Eintritt: 8 Euro (Tagesticket Wilhelmshöhe), unter 18 frei; Barrierefrei: nein
 - Bus und Bahn (geprüft 2026-10-20): Zum Herkules: Tram 4 + Bus 22, rund 20 Min.; Zum Schloss: Tram 1, 6 Min. + 10 Min. Fußweg; Schlossshuttle: Linie 24, täglich 10 bis 18 Uhr; Einzelfahrt: 3,40 Euro (Stadt Kassel); KasselCard: 24 Std. 10 Euro für 1 bis 2 Personen
 - Orangerie (geprüft 2026-11-01): Park: ganzjährig, Eintritt frei; Planetarium: Do bis So 10 bis 17 Uhr; Vorstellung: 8 Euro, ermäßigt 5 Euro; Marmorbad: Eintritt frei, im Winter zu; Adresse: An der Karlsaue 20a

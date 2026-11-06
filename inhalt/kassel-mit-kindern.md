@@ -4,7 +4,7 @@ beschreibung: Kassel mit Kindern: Bergpark und Löwenburg, Grimmwelt, Naturkunde
 slug: kassel-mit-kindern
 kurz: Mit Kindern
 bild: loewenburg.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: Bergpark=Eintritt frei | Löwenburg=unter 18 frei | Grimmwelt=unter 6 frei | Planetarium=unter 18 Jahren 2 Euro | Wasserspiele=1. Mai bis 3. Oktober
 weiter: grimmwelt-kassel, kassel-bei-regen, bergpark-wilhelmshoehe
 ---
@@ -44,7 +44,7 @@ Die Ausstellung ist für Kinder ab 6 Jahren gedacht, die Märchenwelt gefällt a
 
 ![Dinosaurier](iguanodon-ottoneum-skelett.jpg)
 
-Kinder unter 6 sind frei, ältere Kinder zahlen 3 Euro, Erwachsene 5 Euro. Saurier, Haie und Mammuts – im Naturkundemuseum am Steinweg staunen Kinder über Tiere aus Urzeit und Meer. Ab 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Montags ist zu, mittwochs offen bis 20 Uhr. Einen Wickeltisch gibt es auch.
+Kinder unter 6 sind frei, ältere Kinder zahlen 3 Euro, Erwachsene 5 Euro. Saurier, Haie und Mammuts – im Naturkundemuseum am Steinweg staunen Kinder über Tiere aus Urzeit und Meer. Seit dem 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Montags ist zu, mittwochs offen bis 20 Uhr. Einen Wickeltisch gibt es auch.
 
 ## Ab welchem Alter dürfen Kinder ins Planetarium?
 
@@ -58,7 +58,7 @@ Unter 18 Jahren ist der Eintritt frei. Im Landesmuseum am Brüder-Grimm-Platz ge
 
 ## Gibt es in Kassel einen Kletterwald?
 
-Ja, der Kletterwald Kassel liegt am Hohen Gras im Habichtswald. In der Saison 2026 ist er vom 4. April bis 1. November geöffnet, an Wochenenden, Feiertagen und Brückentagen, in den hessischen Schulferien täglich. Du musst vorher anmelden, ein Besuch dauert 2,5 Stunden inklusive Einweisung. Die Preisliste beginnt bei Kindern von 4 bis 5 Jahren und 19 Euro; ein Mindestalter nennt der Betreiber nicht, frag bei der Anmeldung nach. Die Zeiten für 2027 stehen später auf der Seite des Kletterwalds.
+Ja, der Kletterwald Kassel liegt am Hohen Gras im Habichtswald. Die Saison 2026 lief vom 4. April bis 1. November, für 2027 hat der Betreiber noch nichts angekündigt. Geöffnet ist in der Saison an Wochenenden, Feiertagen und Brückentagen, in den hessischen Schulferien täglich. Du musst vorher anmelden, ein Besuch dauert 2,5 Stunden inklusive Einweisung. Klettern dürfen Kinder ab 4 Jahren und 1 Meter Größe, für 4- bis 5-Jährige kostet es 19 Euro. Die Zeiten für 2027 stehen später auf der Seite des Kletterwalds.
 
 ## Häufige Fragen
 
@@ -72,7 +72,7 @@ Grimmwelt, Naturkundemuseum, Planetarium und Landesmuseum. Mehr Ideen unter [Kas
 
 ### Was ist in Kassel für Kinder los?
 
-Aktuelle Termine für Familien findest du bei Visit Kassel unter „Veranstaltungen in Kassel“, dort gibt es auch einen Bereich „Kassel mit Kindern“. Jedes Jahr kommen die Wasserspiele zwischen 1. Mai und 3. Oktober dazu, am ersten Augustwochenende der [Zissel](/zissel-kassel/) mit nostalgischem Jahrmarkt und vom 23. November bis 30. Dezember 2026 der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/) mit Kinderprogramm im Märchenwagen.
+Aktuelle Termine für Familien findest du bei Visit Kassel unter „Veranstaltungen in Kassel“, dort gibt es auch einen Bereich „Kassel mit Kindern“. Jedes Jahr kommen die Wasserspiele zwischen 1. Mai und 3. Oktober dazu, am ersten Augustwochenende der [Zissel](/zissel-kassel/) mit nostalgischem Jahrmarkt und vom 23. November bis 30. Dezember 2026 der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/).
 
 ### Gibt es einen Erlebnispfad für Kinder in Kassel?
 
@@ -96,19 +96,19 @@ Zwischen 1. Mai und 3. Oktober, jeweils mittwochs und sonntags sowie an Feiertag
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Hessisches Landesmuseum](https://www.heritage-kassel.de/standorte/hessisches-landesmuseum), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 09.10.2026
-- [Stadt Kassel, Naturkundemuseum, Besuch](https://www.kassel.de/einrichtungen/naturkundemuseum/besuch/index.php), abgerufen 09.10.2026
-- [Stadt Kassel, Naturkundemuseum](https://www.kassel.de/naturkundemuseum), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [Grimmwelt, Familien und Kinder](https://www.grimmwelt.de/de/familien-und-kinder), abgerufen 09.10.2026
-- [Kletterwald Kassel, Öffnungszeiten](https://www.kletterwald-kassel.de/oeffnungszeiten/), abgerufen 14.10.2026
-- [Visit Kassel, Kletterwald Kassel](https://visit.kassel.de/poi/kletterwald-kassel), abgerufen 14.10.2026
-- [Kletterwald Kassel, Preise](https://www.kletterwald-kassel.de/preise/), abgerufen 14.10.2026
-- [Visit Kassel, Veranstaltungen](https://visit.kassel.de/veranstaltungen), abgerufen 14.10.2026
-- [Grimmwelt, Häufige Fragen](https://www.grimmwelt.de/de/faq), abgerufen 09.10.2026
+- [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Hessisches Landesmuseum](https://www.heritage-kassel.de/standorte/hessisches-landesmuseum), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 01.11.2026
+- [Stadt Kassel, Naturkundemuseum, Besuch](https://www.kassel.de/einrichtungen/naturkundemuseum/besuch/index.php), abgerufen 01.11.2026
+- [Stadt Kassel, Naturkundemuseum](https://www.kassel.de/naturkundemuseum), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [Grimmwelt, Familien und Kinder](https://www.grimmwelt.de/de/familien-und-kinder), abgerufen 01.11.2026
+- [Kletterwald Kassel, Öffnungszeiten](https://www.kletterwald-kassel.de/oeffnungszeiten/), abgerufen 01.11.2026
+- [Visit Kassel, Kletterwald Kassel](https://visit.kassel.de/poi/kletterwald-kassel), abgerufen 01.11.2026
+- [Kletterwald Kassel, Preise](https://www.kletterwald-kassel.de/preise/), abgerufen 01.11.2026
+- [Visit Kassel, Veranstaltungen](https://visit.kassel.de/veranstaltungen), abgerufen 01.11.2026
+- [Grimmwelt, Häufige Fragen](https://www.grimmwelt.de/de/faq), abgerufen 01.11.2026
 - Gehzeiten: eigene Messung mit Google Maps (Fußweg), 08.10.2026

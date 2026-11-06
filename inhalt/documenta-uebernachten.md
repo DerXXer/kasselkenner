@@ -4,7 +4,7 @@ beschreibung: Übernachten zur documenta 2027 in Kassel: Innenstadt, Vorderer We
 slug: documenta-uebernachten
 kurz: Unterkunft documenta
 bild: blick-vom-herkules.jpg
-stand: 2026-10-14
+stand: 2026-11-01
 blick: documenta=100 Tage, 10 bis 20 Uhr | ICE-Halt=Kassel-Wilhelmshöhe | Zum Friedrichsplatz=Tram 1, 3 oder 4
 weiter: documenta-2027, uebernachten-kassel, bergpark-wilhelmshoehe
 ---
@@ -73,7 +73,7 @@ Sobald deine Reisetage feststehen, warte nicht bis zum Frühjahr 2027. Zur docum
 
 ### Gilt das documenta-Ticket als Fahrkarte?
 
-Ja: Mit einem Tages- oder Abendticket der documenta fährst du an diesem Tag bis Betriebsschluss gratis Bus und Bahn, also auch zwischen Unterkunft und Ausstellung. Innerhalb Kassels bist du damit sicher unterwegs; wohnst du weiter draußen, frag beim Besucherservice nach, wie weit das Ticket reicht. Für die Dauerkarte gilt das nicht.
+Ja: Mit einem Tages- oder Abendticket der documenta fährst du an diesem Tag bis Betriebsschluss gratis Bus und Bahn, also auch zwischen Unterkunft und Ausstellung. Für die Dauerkarte gilt das nicht. Wohnst du außerhalb Kassels, frag vor der Fahrt kurz nach, ob dein Ticket bis dorthin reicht.
 
 ## Häufige Fragen
 
@@ -87,7 +87,7 @@ Mit der Tram 1, 3 oder 4 fährst du ohne Umsteigen zum Friedrichsplatz.
 
 ### Kann ich mit dem documenta-Ticket zur Unterkunft fahren?
 
-Ja, Tages- und Abendtickets gelten am selben Tag bis Betriebsschluss in Bus und Bahn. Wohnst du außerhalb Kassels, frag kurz beim Besucherservice nach, wie weit das Ticket reicht.
+Ja, Tages- und Abendtickets gelten am selben Tag bis Betriebsschluss in Bus und Bahn. Wohnst du außerhalb Kassels, frag vorher kurz nach, ob das Ticket bis zu deiner Unterkunft reicht.
 
 ### Lohnt sich eine Unterkunft am Bergpark für die documenta?
 
@@ -103,17 +103,17 @@ Rund 11 Minuten für 0,8 Kilometer bis zum Fridericianum am Friedrichsplatz. Du 
 
 ## Quellen
 
-- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 14.10.2026
-- [documenta 16, Visit FAQ (englisch)](https://documentasixteen.com/visit/faq), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV zum Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Wasserspiele und Anreise](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
-- [documenta, Besuchszahlen documenta fifteen](https://documenta.de/en/news/documenta-fifteen-schliesst-mit-sehr-guten-besuchszahlen), abgerufen 09.10.2026
-- [Wikipedia, Mitte (Kassel)](https://de.wikipedia.org/wiki/Mitte_(Kassel)), abgerufen 09.10.2026
-- [Wikipedia, Vorderer Westen](https://de.wikipedia.org/wiki/Vorderer_Westen), abgerufen 09.10.2026
-- [Wikipedia, Bad Wilhelmshöhe](https://de.wikipedia.org/wiki/Bad_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
-- [Wikipedia, Bahnhof Kassel-Wilhelmshöhe](https://de.wikipedia.org/wiki/Bahnhof_Kassel-Wilhelmsh%C3%B6he), abgerufen 09.10.2026
-- [Wikipedia, Kirchditmold](https://de.wikipedia.org/wiki/Kirchditmold), abgerufen 09.10.2026
-- [Wikipedia, documenta 14](https://de.wikipedia.org/wiki/Documenta_14), abgerufen 09.10.2026
+- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 01.11.2026
+- [documenta 16, Visit FAQ (englisch)](https://documentasixteen.com/visit/faq), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV zum Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Wasserspiele und Anreise](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
+- [documenta, Besuchszahlen documenta fifteen](https://documenta.de/en/news/documenta-fifteen-schliesst-mit-sehr-guten-besuchszahlen), abgerufen 01.11.2026
+- [Wikipedia, Mitte (Kassel)](https://de.wikipedia.org/wiki/Mitte_(Kassel)), abgerufen 01.11.2026
+- [Wikipedia, Vorderer Westen](https://de.wikipedia.org/wiki/Vorderer_Westen), abgerufen 01.11.2026
+- [Wikipedia, Bad Wilhelmshöhe](https://de.wikipedia.org/wiki/Bad_Wilhelmsh%C3%B6he), abgerufen 01.11.2026
+- [Wikipedia, Bahnhof Kassel-Wilhelmshöhe](https://de.wikipedia.org/wiki/Bahnhof_Kassel-Wilhelmsh%C3%B6he), abgerufen 01.11.2026
+- [Wikipedia, Kirchditmold](https://de.wikipedia.org/wiki/Kirchditmold), abgerufen 01.11.2026
+- [Wikipedia, documenta 14](https://de.wikipedia.org/wiki/Documenta_14), abgerufen 01.11.2026
 - Fußwege: eigene Messung mit Google Maps, 08.10.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
-- [Visit Kassel, Treppenstraße](https://visit.kassel.de/poi/treppenstrasse), abgerufen 15.10.2026
+- [Visit Kassel, Treppenstraße](https://visit.kassel.de/poi/treppenstrasse), abgerufen 01.11.2026
