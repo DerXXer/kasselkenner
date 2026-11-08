@@ -4,8 +4,8 @@ beschreibung: Schloss Wilhelmshöhe in Kassel: welche Sammlungen du siehst, wann
 slug: schloss-wilhelmshoehe
 kurz: Schloss Wilhelmshöhe
 bild: schloss-wilhelmshoehe.jpg
-stand: 2026-10-09
-blick: Geöffnet=Di bis So 10 bis 17 Uhr | Länger=1. und 3. Freitag bis 19 Uhr | Winter=geöffnet | Eintritt=8 Euro (Tagesticket Wilhelmshöhe), unter 18 frei | Anreise=Tram 1 oder Linie 24 | Parken=390 Plätze, Tag 5 Euro
+stand: 2026-11-07
+blick: Geöffnet=Di bis So 10 bis 17 Uhr | Länger=1. und 3. Freitag bis 19 Uhr | Winter=geöffnet | Eintritt=8 Euro, bis 17.1.2027 12 Euro (Tagesticket Wilhelmshöhe), unter 18 frei | Anreise=Tram 1 oder Linie 24 | Parken=390 Plätze, Tag 5 Euro, an Wasserspieltagen 8,50 Euro
 weiter: loewenburg-kassel, herkules-kassel, bergpark-wilhelmshoehe
 ---
 # Schloss Wilhelmshöhe: Öffnungszeiten, Eintritt und Sammlungen
@@ -24,7 +24,7 @@ Schloss Wilhelmshöhe liegt am unteren Ende des [Bergparks Wilhelmshöhe](/bergp
 
 ## Wann springt die Große Fontäne?
 
-An Wasserspieltagen schießt sie gegen 15.45 Uhr rund 50 Meter in die Höhe, zu ihrer Zeit war sie die größte der Welt. Sie steht im Fontänenteich unterhalb des Schlosses und ist der Schlusspunkt der Wasserspiele. Danach fließt das Wasser über künstliche Wasserfälle in den Schlossteich, den „Lac“. Mehr dazu unter [Wasserspiele Kassel](/wasserspiele-kassel/).
+An Wasserspieltagen schießt sie gegen 15.45 Uhr rund 50 Meter in die Höhe, zu ihrer Zeit war sie die größte der Welt. Sie steht im Fontänenteich und ist der Schlusspunkt der Wasserspiele. Danach fließt das Wasser über künstliche Wasserfälle in den Schlossteich, den „Lac“. Mehr dazu unter [Wasserspiele Kassel](/wasserspiele-kassel/).
 
 ## Wer hat Schloss Wilhelmshöhe gebaut?
 
@@ -50,7 +50,7 @@ Ja, das Café Jérôme im Schloss ist dienstags bis sonntags von 10 bis 17 Uhr g
 
 ### Was kostet das Tagesticket Wilhelmshöhe?
 
-| Tagesticket Wilhelmshöhe | Preis | während „DÜRER“ |
+| Tagesticket Wilhelmshöhe | Preis | bis 17.1.2027 |
 |---|---|---|
 | Erwachsene | 8 Euro | 12 Euro |
 | ermäßigt | 5 Euro | 9 Euro |
@@ -63,11 +63,11 @@ Kleiner Tipp fürs Auto: Mit dem Abriss vom Parkschein gibt es am selben Tag ein
 
 ### Wie komme ich zum Schloss Wilhelmshöhe?
 
-Die Tram 1 fährt über den Bahnhof Wilhelmshöhe bis zur Endhaltestelle Wilhelmshöhe (Park). Von dort spazierst du in den unteren Bergpark zum Schloss. An Wasserspieltagen fährt sie alle 15 Minuten.
+Die Tram 1 fährt über den Bahnhof Wilhelmshöhe bis zur Endhaltestelle Wilhelmshöhe (Park). Von dort spazierst du in den unteren Bergpark zum Schloss. An Wasserspieltagen fährt sie von 10.30 bis 17.15 Uhr alle 15 Minuten.
 
 Wer am ICE-Bahnhof Kassel-Wilhelmshöhe ankommt, kann auch die Linie 24 nehmen: Sie fährt täglich von 10 bis 18 Uhr alle 30 Minuten ab Bussteig A bis zum Schloss.
 
-**Mit dem Auto:** Der Parkplatz Schloss Wilhelmshöhe liegt unterhalb des Schlosses. Mehr unter [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/).
+**Mit dem Auto:** Der Parkplatz Schloss Wilhelmshöhe liegt unterhalb des Schlosses. Der ganze Tag kostet 5 Euro, an Wasserspieltagen zahlst du zwischen 9.30 und 15 Uhr 8,50 Euro. Mehr unter [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/).
 
 **Zu Fuß:** Von der Lindenstraße in Bad Wilhelmshöhe sind es 14 Minuten und 1,0 Kilometer auf flachem Weg.
 
@@ -75,7 +75,7 @@ Wer am ICE-Bahnhof Kassel-Wilhelmshöhe ankommt, kann auch die Linie 24 nehmen: 
 
 ### Was kostet der Eintritt in Schloss Wilhelmshöhe?
 
-Mit dem Tagesticket Wilhelmshöhe 8 Euro, ermäßigt 5 Euro, unter 18 Jahren frei. Während der Ausstellung „DÜRER“ sind es 12 Euro, ermäßigt 9 Euro.
+Mit dem Tagesticket Wilhelmshöhe 8 Euro, ermäßigt 5 Euro, unter 18 Jahren frei. Bis 17. Januar 2027 sind es 12 Euro, ermäßigt 9 Euro.
 
 ### Hat Schloss Wilhelmshöhe montags geöffnet?
 
@@ -91,31 +91,31 @@ Mit der Linie 1 bis zur Endhaltestelle Wilhelmshöhe (Park), dann zu Fuß in den
 
 ### Kann man den Bergpark ohne Ticket besuchen?
 
-Ja, der Bergpark ist das ganze Jahr frei. Ein Ticket brauchst du nur für Schloss, Löwenburg und Herkules.
+Ja, der Bergpark ist das ganze Jahr frei. Ein Ticket brauchst du nur für die Häuser: Schloss, Löwenburg, Herkules (1.4. bis 31.10.) und das Große Gewächshaus (1.11. bis 31.3.).
 
-### Wie lange läuft die Ausstellung DÜRER?
+### Bis wann gilt der höhere Eintritt?
 
-Vom 9. Oktober 2026 bis 17. Januar 2027. In dieser Zeit kostet das Tagesticket Wilhelmshöhe 12 Euro statt 8 Euro, ermäßigt 9 Euro.
+Bis 17. Januar 2027 kostet das Tagesticket Wilhelmshöhe 12 Euro statt 8 Euro, ermäßigt 9 Euro.
 
 ### Wie weit ist es von der Tram zum Schloss?
 
-Von der Endhaltestelle Wilhelmshöhe (Park) der Tram 1 gehst du 0,8 Kilometer, rund 10 Minuten.
+Von der Endhaltestelle Wilhelmshöhe (Park) der Tram 1 sind es 0,8 Kilometer, reine Gehzeit rund 10 Minuten. Der Weg steigt an, rechne also etwas mehr Zeit ein.
 
 ### Ist Schloss Wilhelmshöhe barrierefrei?
 
-Ja, das Schloss ist mit Rollstuhl zugänglich und hat einen Fahrstuhl, barrierearme Toiletten und einen Wickeltisch. Mit Schwerbehindertenparkausweis gibt es eigene Parkplätze, Assistenzhunde sind erlaubt.
+Das Schloss ist mit Rollstuhl zugänglich und hat einen Fahrstuhl. In der Gemäldegalerie gibt es außerdem barrierearme Toiletten und einen Wickeltisch, mit Schwerbehindertenparkausweis eigene Parkplätze, und Assistenzhunde sind erlaubt.
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Dauerausstellung Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe/dauerausstellung), abgerufen 09.10.2026
-- [Café Jérôme, Schloss Wilhelmshöhe](https://www.cafe-jerome.de), abgerufen 14.10.2026
-- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
-- [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 09.10.2026
-- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026
-- [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 09.10.2026
-- [Deutsche UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 09.10.2026
-- [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 09.10.2026
-- [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 09.10.2026
+- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 06.11.2026
+- [Hessen Kassel Heritage, Dauerausstellung Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe/dauerausstellung), abgerufen 01.11.2026
+- [Café Jérôme, Schloss Wilhelmshöhe](https://www.cafe-jerome.de), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
+- [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 01.11.2026
+- [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
+- [Stadt Kassel, Parken am Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/parken-am-bergpark-wilhelmshoehe.php), abgerufen 01.11.2026
+- [Deutsche UNESCO-Kommission, Bergpark Wilhelmshöhe](https://www.unesco.de/staette/bergpark-wilhelmshoehe/), abgerufen 01.11.2026
+- [hessenschau.de, Wasserspiele in Kassel](https://www.hessenschau.de/freizeit/wasserspiele-in-kassel-gestartet-tipps-fuer-die-historische-wasser-show-v2,wasserspiele-bergpark-kassel-102.html), abgerufen 01.11.2026
+- [Wikipedia, Bergpark Wilhelmshöhe](https://de.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he), abgerufen 01.11.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026
-- [Hessen Kassel Heritage, Gemäldegalerie Alte Meister](https://www.heritage-kassel.de/standorte/gemaeldegalerie-alte-meister), abgerufen 15.10.2026
+- [Hessen Kassel Heritage, Gemäldegalerie Alte Meister](https://www.heritage-kassel.de/standorte/gemaeldegalerie-alte-meister), abgerufen 01.11.2026
