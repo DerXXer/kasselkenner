@@ -37,6 +37,7 @@ Ausgangsstand: Prüfprotokoll der documenta-Seite vom 08.10.2026, am 09.10.2026 
 ## ÖPNV und Welcome Center
 
 - [DO-030] D16-Tickets gelten am Gültigkeitstag bis Betriebsschluss als kostenlose Fahrkarte für Bus und Bahn, ausgenommen Dauerkarte und Schulklassenticket. | Quelle: https://documentasixteen.com/de/besuch/faq | geprüft: 2026-10-09 | Status: unsicher – Geltungsbereich uneinheitlich: deutsche FAQ „NVV-Gebiet“, englische FAQ „KasselPlus area“; im Abschnitt Fortbewegung ist nur die Dauerkarte ausgenommen
+- [DO-121] In Kooperation mit der Deutschen Bahn bekommen Besucher während der Laufzeit vom 12. Juni bis 19. September 2027 15 Prozent Rabatt auf Bahnreisen nach Kassel im deutschlandweiten Fernverkehr (ICE, IC/EC); die Tickets gibt es online über einen Buchungslink auf der FAQ-Seite der D16, der Rabatt wird automatisch berücksichtigt. | Quelle: https://documentasixteen.com/de/besuch/faq | geprüft: 2026-11-12
 - [DO-031] Alle Ausstellungsrundgänge der D16 beginnen am Welcome Center am Friedrichsplatz, wo es auch Merchandise gibt. | Quelle: https://documentasixteen.com/de/besuch/faq | geprüft: 2026-10-09
 - [DO-032] Das Welcome Center liegt am Friedrichsplatz 19. | Quelle: https://documentasixteen.com/de/besuch/faq | geprüft: 2026-10-09 | Status: unsicher – englische FAQ (https://documentasixteen.com/visit/faq) nennt Friedrichsplatz 20
 - [DO-033] Zur Haltestelle Friedrichsplatz am Welcome Center fahren die Straßenbahnlinien 1, 3, 4, 5, 6 und 8. | Quelle: https://documentasixteen.com/de/besuch/faq | geprüft: 2026-10-09
