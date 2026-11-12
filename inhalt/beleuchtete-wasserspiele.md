@@ -1,11 +1,11 @@
 ---
 titel: Beleuchtete Wasserspiele Kassel: Termine, Zeiten, Anreise
-beschreibung: Beleuchtete Wasserspiele Kassel: Termine 2026 als Beispiel, Ablauf am Abend mit Uhrzeiten, Anreise und der Unterschied zum Bergparkleuchten.
+beschreibung: Beleuchtete Wasserspiele Kassel 2027 am 14. und 15. Mai: Ablauf am Abend mit Uhrzeiten von 2026, Anreise und der Unterschied zum Bergparkleuchten.
 slug: beleuchtete-wasserspiele
 kurz: Beleuchtete Wasserspiele
 bild: wasserspiele-beleuchtet.jpg
-stand: 2026-11-01
-blick: Termine 2026=5./6. Juni, 11./12. September | Termine 2027=stehen noch nicht fest | Beginn 2026=21.00 Uhr (Juni), 20.00 Uhr (September) | Finale=Große Fontäne | Anreise=Tram 4, dann Bus 22 oder 23 | Mitnehmen=Taschenlampe
+stand: 2026-11-11
+blick: Termin 2027=14. und 15. Mai | Termine 2026=5./6. Juni, 11./12. September | Beginn 2026=21.00 Uhr (Juni), 20.00 Uhr (September) | Finale=Große Fontäne | Anreise=Tram 4, dann Bus 22 oder 23 | Mitnehmen=Taschenlampe
 weiter: wasserspiele-kassel, parken-bergpark-wilhelmshoehe, bergpark-wilhelmshoehe
 ---
 # Beleuchtete Wasserspiele Kassel: der Herkules bei Nacht
@@ -40,7 +40,7 @@ Zwischen den Stationen sind manche Wege dunkel, eine Taschenlampe gehört also i
 
 ## Bergparkleuchten oder Beleuchtete Wasserspiele: was ist der Unterschied?
 
-Das Bergparkleuchten ist ein eigenes Lichtkunstfestival und nicht dasselbe wie die Beleuchteten Wasserspiele. Für 2026 wurde es abgesagt, weil der Stadt das Geld fehlte. Die Beleuchteten Wasserspiele fanden trotzdem statt, im Juni und im September, veranstaltet von Kassel Marketing. Wer abends Licht und Wasser im Bergpark sehen will, achtet also auf ihre Termine; die für 2027 stehen noch nicht fest.
+Das Bergparkleuchten ist ein eigenes Lichtkunstfestival und nicht dasselbe wie die Beleuchteten Wasserspiele. Für 2026 wurde es abgesagt, weil der Stadt das Geld fehlte. Die Beleuchteten Wasserspiele fanden trotzdem statt, im Juni und im September, veranstaltet von Kassel Marketing. Wer abends Licht und Wasser im Bergpark sehen will, achtet also auf ihre Termine; 2027 geht es am 14. und 15. Mai los.
 
 ## Praktisches: Termine und Anreise
 
@@ -53,7 +53,7 @@ Das Bergparkleuchten ist ein eigenes Lichtkunstfestival und nicht dasselbe wie d
 | Juni | Freitag, 5. Juni, und Samstag, 6. Juni |
 | September (Saisonfinale) | Freitag, 11. September, und Samstag, 12. September |
 
-Die Termine für 2027 stehen noch nicht fest. Aktuelle Infos gibt es unter beleuchtete-wasserspiele.de und bei der Stadt Kassel.
+2027 sind die Beleuchteten Wasserspiele am Freitag, 14. Mai, und Samstag, 15. Mai, mit Rahmenprogramm. Die Uhrzeiten und ob es im Herbst einen zweiten Termin gibt, stehen noch nicht fest. Aktuelle Infos gibt es unter beleuchtete-wasserspiele.de und bei der Stadt Kassel.
 
 ### Wie komme ich abends zum Herkules?
 
@@ -71,7 +71,7 @@ Am entspanntesten parkst du außerhalb des Bergparks und steigst auf Bus und Bah
 
 ### Wann sind die Beleuchteten Wasserspiele 2027?
 
-Die Termine für 2027 stehen noch nicht fest. 2026 fanden sie am 5. und 6. Juni sowie am 11. und 12. September statt.
+Am Freitag, 14. Mai, und Samstag, 15. Mai 2027. Die Uhrzeiten stehen noch nicht fest; 2026 begann es im Juni um 21.00 Uhr am Herkules.
 
 ### Wann finden die Beleuchteten Wasserspiele in Kassel 2026 statt?
 
@@ -103,6 +103,7 @@ Nur eingeschränkt. Vom Herkules bis zum Schloss sind es rund 2,3 Kilometer berg
 
 ## Quellen
 
+- [Kassel Marketing, Beleuchtete Wasserspiele](https://www.beleuchtete-wasserspiele.de), abgerufen 11.11.2026
 - [Stadt Kassel, Beleuchtete Wasserspiele](https://www.kassel.de/beleuchtete-wasserspiele/index.php), abgerufen 01.11.2026
 - [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im Juni](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-juni.php), abgerufen 01.11.2026
 - [Stadt Kassel, Pressemitteilung Beleuchtete Wasserspiele im September](https://www.kassel.de/pressemitteilungen/kassel-marketing/beleuchtete-wasserspiele-im-september.php), abgerufen 01.11.2026
