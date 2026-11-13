@@ -4,7 +4,7 @@ beschreibung: Übernachten zur documenta 2027 in Kassel: Innenstadt, Vorderer We
 slug: documenta-uebernachten
 kurz: Unterkunft documenta
 bild: blick-vom-herkules.jpg
-stand: 2026-11-01
+stand: 2026-11-12
 blick: documenta=100 Tage, 10 bis 20 Uhr | ICE-Halt=Kassel-Wilhelmshöhe | Zum Friedrichsplatz=Tram 1, 3 oder 4
 weiter: documenta-2027, uebernachten-kassel, bergpark-wilhelmshoehe
 ---
@@ -75,6 +75,10 @@ Sobald deine Reisetage feststehen, warte nicht bis zum Frühjahr 2027. Zur docum
 
 Ja: Mit einem Tages- oder Abendticket der documenta fährst du an diesem Tag bis Betriebsschluss gratis Bus und Bahn, also auch zwischen Unterkunft und Ausstellung. Für die Dauerkarte gilt das nicht. Wohnst du außerhalb Kassels, frag vor der Fahrt kurz nach, ob dein Ticket bis dorthin reicht.
 
+### Gibt es Rabatt auf die Bahnfahrt nach Kassel?
+
+Ja, während der documenta gibt es 15 Prozent auf ICE und IC/EC nach Kassel. Du buchst über den Link auf der FAQ-Seite der documenta, der Rabatt wird automatisch abgezogen.
+
 ## Häufige Fragen
 
 ### Wo übernachtet man am besten zur documenta 2027?
@@ -103,7 +107,7 @@ Rund 11 Minuten für 0,8 Kilometer bis zum Fridericianum am Friedrichsplatz. Du 
 
 ## Quellen
 
-- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 01.11.2026
+- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 12.11.2026
 - [documenta 16, Visit FAQ (englisch)](https://documentasixteen.com/visit/faq), abgerufen 01.11.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV zum Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
 - [Hessen Kassel Heritage, Wasserspiele und Anreise](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026

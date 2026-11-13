@@ -4,8 +4,8 @@ beschreibung: Alle Termine Kassel 2027 auf einen Blick: 49 Wasserspieltage vom 1
 slug: termine-kassel-2027
 kurz: Termine 2027
 bild: wasserspiele-beleuchtet.jpg
-stand: 2026-11-05
-blick: Wasserspiele=1. Mai bis 3. Oktober 2027 | Wasserspieltage=49 | documenta 16=12. Juni bis 19. September | Zissel=30. Juli bis 2. August | Beleuchtete Wasserspiele=noch offen
+stand: 2026-11-12
+blick: Wasserspiele=1. Mai bis 3. Oktober 2027 | Wasserspieltage=49 | documenta 16=12. Juni bis 19. September | Zissel=30. Juli bis 2. August | Beleuchtete Wasserspiele=14. und 15. Mai
 weiter: wasserspiele-kassel, documenta-2027, zissel-kassel
 ---
 # Termine Kassel 2027: alle großen Termine auf einen Blick
@@ -33,11 +33,11 @@ Fünf Feiertage machen den Unterschied: Der 1. Mai fällt 2027 auf einen Samstag
 
 ## Beleuchtete Wasserspiele 2027
 
-Die Termine für die [beleuchteten Wasserspiele](/beleuchtete-wasserspiele/) am Abend stehen noch nicht fest. Sie werden hier eingetragen, sobald die Stadt Kassel sie nennt.
+Die [beleuchteten Wasserspiele](/beleuchtete-wasserspiele/) am Abend gibt es 2027 am Freitag, 14. Mai, und Samstag, 15. Mai, mit Rahmenprogramm. Die Uhrzeiten und ob im Herbst ein zweiter Termin folgt, stehen noch nicht fest; beides kommt hierher, sobald es bekannt ist.
 
 ## documenta 16 im Sommer 2027
 
-Die documenta 16 läuft 100 Tage lang in der ganzen Stadt. Los geht es am 12. Juni, Schluss ist am 19. September. Es gibt Tages- und Zweitagestickets. Was du jetzt schon wissen kannst, steht auf der Seite zur [documenta 2027](/documenta-2027/). Wenn du für die documenta übernachten willst, buche früh, im Sommer 2027 wird es voll.
+Die documenta 16 läuft 100 Tage lang in der ganzen Stadt. Los geht es am 12. Juni, Schluss ist am 19. September. Es gibt Tages- und Zweitagestickets. Wer mit der Bahn anreist, spart während der Laufzeit 15 Prozent auf ICE und IC/EC nach Kassel; gebucht wird über den Link auf der FAQ-Seite der documenta. Was du jetzt schon wissen kannst, steht auf der Seite zur [documenta 2027](/documenta-2027/). Wenn du für die documenta übernachten willst, buche früh, im Sommer 2027 wird es voll.
 
 ## Zissel 2027: 30. Juli bis 2. August
 
@@ -49,7 +49,7 @@ Der [Zissel](/zissel-kassel/), das Volks- und Wasserfest an der Fulda, findet vo
 
 | Termin | Stand |
 |---|---|
-| Beleuchtete Wasserspiele | noch nicht bekannt |
+| Uhrzeiten der beleuchteten Wasserspiele, zweiter Termin | noch nicht bekannt |
 | Programm des Zissel | erscheint vor dem Fest |
 | Weihnachtsmarkt 2027 | noch nicht bekannt |
 | Programm der documenta 16 | noch nicht veröffentlicht |
@@ -74,13 +74,14 @@ Vom 30. Juli bis 2. August 2027 an der Fulda.
 
 ### Wann sind die beleuchteten Wasserspiele 2027?
 
-Die Termine stehen noch nicht fest. Sobald die Stadt Kassel sie bekannt gibt, stehen sie auf dieser Seite.
+Am Freitag, 14. Mai, und Samstag, 15. Mai 2027. Die Uhrzeiten stehen noch nicht fest.
 
 ## Quellen
 
+- [Kassel Marketing, Beleuchtete Wasserspiele](https://www.beleuchtete-wasserspiele.de), abgerufen 11.11.2026
 - [Stadt Kassel, Beleuchtete Wasserspiele](https://www.kassel.de/beleuchtete-wasserspiele/index.php), abgerufen 05.11.2026
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 05.11.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 05.11.2026
-- [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 05.11.2026
+- [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 12.11.2026
 - [Zissel in Kassel e.V.](https://www.zissel.de/), abgerufen 05.11.2026
 - [Zissel in Kassel e.V., Drachenboot-Cup](https://www.zissel.de/drachenboot), abgerufen 05.11.2026

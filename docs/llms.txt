@@ -2,7 +2,7 @@
 
 > Bergpark, Wasserspiele und documenta – von Gastgebern aus Bad Wilhelmshöhe. Praktische, geprüfte Antworten für Besucher in Kassel; jede Angabe mit Quelle und Prüfdatum. Betrieben von den Gastgebern von Wohnen am Bergpark (Kassel-Bad Wilhelmshöhe).
 
-Stand: 2026-11-12
+Stand: 2026-11-13
 
 ## Seiten
 
@@ -43,8 +43,8 @@ Stand: 2026-11-12
 
 - Beleuchtete Wasserspiele (geprüft 2026-11-11): Termin 2027: 14. und 15. Mai; Termine 2026: 5./6. Juni, 11./12. September; Beginn 2026: 21.00 Uhr (Juni), 20.00 Uhr (September); Finale: Große Fontäne; Anreise: Tram 4, dann Bus 22 oder 23; Mitnehmen: Taschenlampe
 - Bergpark (geprüft 2026-11-05): Eintritt: Park frei; Geöffnet: ganzjährig; Rundweg: rund 2,3 km bergab; Anreise: Tram 4, dann Bus 22; Parken: am Herkules und am Schloss; Welterbe: seit 2013
-- documenta 2027 (geprüft 2026-11-01): Zeitraum: 12. Juni bis 19. September 2027; Geöffnet: täglich 10 bis 20 Uhr; Tagesticket: 29 Euro, ermäßigt 19 Euro; Kinder: bis zwölf Jahre frei; Start: Welcome Center Friedrichsplatz; Anreise: ICE bis Kassel-Wilhelmshöhe
-- Unterkunft documenta (geprüft 2026-11-01): documenta: 100 Tage, 10 bis 20 Uhr; ICE-Halt: Kassel-Wilhelmshöhe; Zum Friedrichsplatz: Tram 1, 3 oder 4
+- documenta 2027 (geprüft 2026-11-12): Zeitraum: 12. Juni bis 19. September 2027; Geöffnet: täglich 10 bis 20 Uhr; Tagesticket: 29 Euro, ermäßigt 19 Euro; Kinder: bis zwölf Jahre frei; Start: Welcome Center Friedrichsplatz; Anreise: ICE bis Kassel-Wilhelmshöhe
+- Unterkunft documenta (geprüft 2026-11-12): documenta: 100 Tage, 10 bis 20 Uhr; ICE-Halt: Kassel-Wilhelmshöhe; Zum Friedrichsplatz: Tram 1, 3 oder 4
 - Grimmwelt (geprüft 2026-11-01): Geöffnet: Di bis So 10 bis 18 Uhr; Eintritt: 10 Euro, ermäßigt 7 Euro; Familie: 25 Euro; Kinder: unter 6 Jahren frei; Adresse: Weinbergstraße 21; Anreise: Tram 1, 3 oder 4 bis Rathaus
 - Wandern (geprüft 2026-11-01): Kürzeste: 2,05 km; Längste: gut 18 km; Habichtswaldsteig: 85 km Fernweg; Markierung: Habicht auf Purpur; Anreise: Tram 4, Bus 22
 - Herkules (geprüft 2026-11-01): Geöffnet: 1. April bis 31. Oktober; Zeiten: Di bis So 10 bis 17 Uhr; Eintritt: 8 Euro, unter 18 frei; Anreise: Tram 4, dann Bus 22; Parken: 280 Plätze, Tag 5 Euro
@@ -66,7 +66,7 @@ Stand: 2026-11-12
 - Parken (geprüft 2026-11-05): Plätze: Herkules 280, Schloss 390; Normale Tage: erste 30 Min. frei, Tag 5 Euro; Wasserspieltage: 8,50 Euro (9.30 bis 15 Uhr); Shuttle: 2 Euro je Fahrt; Ohne Auto: Tram 1 und 4, Bus 22 und 23
 - Schloss Wilhelmshöhe (geprüft 2026-11-07): Geöffnet: Di bis So 10 bis 17 Uhr; Länger: 1. und 3. Freitag bis 19 Uhr; Winter: geöffnet; Eintritt: 8 Euro, bis 17.1.2027 12 Euro (Tagesticket Wilhelmshöhe), unter 18 frei; Anreise: Tram 1 oder Linie 24; Parken: 390 Plätze, Tag 5 Euro, an Wasserspieltagen 8,50 Euro
 - Steinhöfer Wasserfall (geprüft 2026-10-20): Wasser fließt: an Wasserspieltagen gegen 15.05 Uhr; Saison: 1. Mai bis 3. Oktober, Mi, So und Feiertage; Eintritt: frei; Vom Herkules: rund 16 Min. bergab; Angelegt: 1793
-- Termine 2027 (geprüft 2026-11-05): Wasserspiele: 1. Mai bis 3. Oktober 2027; Wasserspieltage: 49; documenta 16: 12. Juni bis 19. September; Zissel: 30. Juli bis 2. August; Beleuchtete Wasserspiele: noch offen
+- Termine 2027 (geprüft 2026-11-12): Wasserspiele: 1. Mai bis 3. Oktober 2027; Wasserspieltage: 49; documenta 16: 12. Juni bis 19. September; Zissel: 30. Juli bis 2. August; Beleuchtete Wasserspiele: 14. und 15. Mai
 - Übernachten (geprüft 2026-10-14): Für Bergpark: Bad Wilhelmshöhe; Für Stadt: Mitte; ICE-Halt: Kassel-Wilhelmshöhe
 - Wasserspiele (geprüft 2026-11-01): Saison: 1. Mai bis 3. Oktober; Tage: Mi, So und Feiertage; Start: 14.30 Uhr am Herkules; Ende: gegen 16 Uhr, Große Fontäne; Eintritt: frei; Strecke: rund 2,3 km bergab
 - Weihnachtsmarkt (geprüft 2026-11-01): Termin 2026: 23. November bis 30. Dezember; Geöffnet: täglich 11 bis 20 Uhr; Gastronomie: bis 22 Uhr; Geschlossen: 24. bis 26. Dezember; Ort: Königsplatz und Friedrichsplatz

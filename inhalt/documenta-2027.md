@@ -4,7 +4,7 @@ beschreibung: documenta 16 in Kassel: 12. Juni bis 19. September 2027, täglich 
 slug: documenta-2027
 kurz: documenta 2027
 bild: fridericianum-friedrichsplatz.jpg
-stand: 2026-11-01
+stand: 2026-11-12
 blick: Zeitraum=12. Juni bis 19. September 2027 | Geöffnet=täglich 10 bis 20 Uhr | Tagesticket=29 Euro, ermäßigt 19 Euro | Kinder=bis zwölf Jahre frei | Start=Welcome Center Friedrichsplatz | Anreise=ICE bis Kassel-Wilhelmshöhe
 weiter: documenta-uebernachten, uebernachten-kassel, bergpark-wilhelmshoehe
 ---
@@ -66,7 +66,7 @@ Am Friedrichsplatz mitten in der Innenstadt. Hier starten alle geführten Rundg�
 
 ### Wie komme ich mit dem ICE zur documenta?
 
-ICE-Züge halten am Bahnhof Kassel-Wilhelmshöhe, nicht am Hauptbahnhof. Ab Hannover dauert die Fahrt 50 Minuten, ab Frankfurt 1:50 Stunden und ab Berlin 2:40 Stunden.
+ICE-Züge halten am Bahnhof Kassel-Wilhelmshöhe, nicht am Hauptbahnhof. Ab Hannover dauert die Fahrt 50 Minuten, ab Frankfurt 1:50 Stunden und ab Berlin 2:40 Stunden. Während der documenta sparst du 15 Prozent auf ICE und IC/EC nach Kassel, wenn du über den Buchungslink auf der FAQ-Seite der documenta buchst; der Rabatt wird automatisch abgezogen.
 
 | Von | Fahrzeit (Std.) |
 |---|---|
@@ -83,6 +83,10 @@ Vom Bahnhof Wilhelmshöhe bringen dich die Linien 1, 3 und 4 ohne Umsteigen zum 
 Am entspanntesten parkst du am Stadtrand auf Park & Ride und fährst mit Bus oder Tram weiter. Die nächste Parkmöglichkeit zum Friedrichsplatz ist die Tiefgarage Friedrichsplatz. Über A7, A49 und A44 kommst du in die Stadt.
 
 ## Häufige Fragen
+
+### Gibt es einen Bahnrabatt zur documenta 2027?
+
+Ja, vom 12. Juni bis 19. September 2027 gibt es 15 Prozent Rabatt auf Fernverkehrsfahrten (ICE, IC/EC) nach Kassel. Gebucht wird online über den Link auf der FAQ-Seite der documenta.
 
 ### Wann ist wieder documenta in Kassel?
 
@@ -122,7 +126,7 @@ Begleitpersonen von Menschen mit Behinderung, die auf Begleitung angewiesen sind
 
 ## Quellen
 
-- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 01.11.2026
+- [documenta 16, Häufige Fragen](https://documentasixteen.com/de/besuch/faq), abgerufen 12.11.2026
 - [documenta 16, Tickets](https://documentasixteen.com/de/besuch/tickets), abgerufen 01.11.2026
 - [documenta 16, Neuigkeiten](https://documentasixteen.com/de/news), abgerufen 01.11.2026
 - [documenta, documenta 16 nimmt Gestalt an](https://documenta.de/de/news/documenta-16-nimmt-gestalt-an), abgerufen 01.11.2026
