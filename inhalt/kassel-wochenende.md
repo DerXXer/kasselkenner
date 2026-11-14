@@ -4,7 +4,7 @@ beschreibung: Kassel am Wochenende: Samstag Innenstadt mit Markthalle, Friderici
 slug: kassel-wochenende
 kurz: Wochenende
 bild: strassenbahn-friedrichsplatz.jpg
-stand: 2026-10-14
+stand: 2026-11-11
 blick: Samstag=Innenstadt zu Fuß | Sonntag=Bergpark Wilhelmshöhe | Wasserspiele=14.30 Uhr am Herkules | Löwenburg=vorab buchen | Anreise=ICE bis Kassel-Wilhelmshöhe | Auto=nicht nötig
 weiter: kassel-sehenswuerdigkeiten, wasserspiele-kassel, uebernachten-kassel
 ---
@@ -61,7 +61,7 @@ Die Wasserspiele laufen sonntags vom 1. Mai bis 3. Oktober, Beginn ist um 14.30 
 4. **14.30 Uhr am Herkules:** Das Wasser rauscht los, und du läufst mit ihm bergab – über Kaskaden, Wasserfall und Aquädukt bis zur Großen Fontäne um 15.45 Uhr.
 5. **Gegen 16 Uhr** stehst du unten am Schloss und fährst mit Tram 1 zurück.
 
-Alle Uhrzeiten der Stationen findest du unter [Wasserspiele Kassel](/wasserspiele-kassel/). 2026 gab es außerdem im Juni und im September je zwei Abende mit den [Beleuchteten Wasserspielen](/beleuchtete-wasserspiele/), die Termine 2027 stehen noch nicht fest.
+Alle Uhrzeiten der Stationen findest du unter [Wasserspiele Kassel](/wasserspiele-kassel/). 2026 gab es außerdem im Juni und im September je zwei Abende mit den [Beleuchteten Wasserspielen](/beleuchtete-wasserspiele/), 2027 sind sie am 14. und 15. Mai.
 
 ### Was macht man im Bergpark im Winter?
 
@@ -75,7 +75,7 @@ Fast alle Museen haben dienstags bis sonntags offen und montags zu – ein Woche
 
 ### Was kostet das Tagesticket Wilhelmshöhe?
 
-Das Tagesticket Wilhelmshöhe für 8 Euro gilt für Schloss, Löwenburg mit Führung und Herkules. Während der Ausstellung „DÜRER“ kostet es 12 Euro. In die Löwenburg kommst du nur mit Führung zur vollen Stunde, und die Plätze sind begrenzt – also früh buchen.
+Das Tagesticket Wilhelmshöhe für 8 Euro gilt für Schloss, Löwenburg mit Führung und Herkules. Bis zum 17. Januar 2027 gilt wegen einer Sonderausstellung ein Aufschlag, dann kostet es 12 Euro. In die Löwenburg kommst du nur mit Führung zur vollen Stunde, und die Plätze sind begrenzt – also früh buchen.
 
 ### Wie komme ich vom ICE-Bahnhof in die Innenstadt?
 
@@ -97,7 +97,7 @@ Samstag die Innenstadt mit Markthalle, Fridericianum, Karlsaue und Grimmwelt, So
 
 ### Wann laufen die Wasserspiele am Wochenende?
 
-Zwischen 1. Mai und 3. Oktober jeden Sonntag ab 14.30 Uhr, außerdem mittwochs und an hessischen Feiertagen. Samstags laufen sie nicht.
+Zwischen 1. Mai und 3. Oktober jeden Sonntag ab 14.30 Uhr, außerdem mittwochs und an hessischen Feiertagen. Samstags nur, wenn ein Feiertag darauf fällt, 2027 am 1. Mai.
 
 ### Was kostet der Eintritt für das Wochenende?
 
@@ -156,6 +156,7 @@ Dienstags und donnerstags bis sonntags von 10 bis 17 Uhr, mittwochs bis 20 Uhr, 
 - [documenta 16, FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 09.10.2026
 - [Visit Kassel, Veranstaltungen](https://visit.kassel.de/veranstaltungen), abgerufen 14.10.2026
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
+- [Kassel Marketing, Beleuchtete Wasserspiele](https://www.beleuchtete-wasserspiele.de), abgerufen 11.11.2026
 - Gehzeiten: eigene Messung mit OpenStreetMap-Routing (Fußweg), 09.10.2026
 - [Kassel Marketing, Anreise](https://www.weihnachtsmarkt-kassel.de/services/anreise.php), abgerufen 15.10.2026
 - [Visit Kassel, KasselCard](https://visit.kassel.de/en/guest-cards/kasselcard), abgerufen 15.10.2026
