@@ -636,7 +636,7 @@ def main():
         rumpf = ("# Bildnachweise\n\nDie Fotos auf Kasselkenner stehen unter freien Lizenzen. Danke an alle Fotografinnen und Fotografen. "
                  "Für die Seite haben wir die Fotos zugeschnitten, verkleinert und in ein anderes Dateiformat umgewandelt.\n\n"
                  + "\n".join(zeilen) + "\n")
-        seiten["bildnachweise"] = ({"titel": "Bildnachweise | Kasselkenner", "beschreibung": "Urheber und Lizenzen der Fotos auf kasselkenner.de.",
+        seiten["bildnachweise"] = ({"titel": "Bildnachweise | Kasselkenner", "beschreibung": "Urheber, Lizenzen und Quellen aller Fotos auf kasselkenner.de. Die Fotos sind zugeschnitten, verkleinert und umgewandelt.",
                                     "slug": "bildnachweise", "art": "rechtliches", "eigenwerbung": "nein", "sitemap": "nein"}, rumpf)
     alle = {s: m for s, (m, _) in seiten.items()}
     benutzt = {m["bild"] for m in alle.values() if m.get("bild")} | {EIGEN_BILD} | {e[3] for e in EMPFEHLUNG.values()} | \
