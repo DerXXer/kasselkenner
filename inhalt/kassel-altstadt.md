@@ -46,7 +46,7 @@ Am Ende stehst du jenseits der Fulda in der **Unterneustadt**. Sie entstand Ende
 
 ## Wo esse und kaufe ich in der Altstadt?
 
-In der **Markthalle** im alten Marstall am Altmarkt, donnerstags und freitags von 7 bis 18 Uhr und samstags von 7 bis 14 Uhr. Regionale Händler verkaufen dort, was Nordhessen ausmacht, zum Beispiel [Ahle Wurscht](/ahle-wurscht/). Am Donnerstag- und Samstagvormittag ist zusätzlich Wochenmarkt. Wer den Rundgang auf einen dieser Tage legt, verbindet beides.
+In der **Markthalle** im alten Marstall am Altmarkt, donnerstags und freitags von 7 bis 18 Uhr und samstags von 7 bis 14 Uhr. Regionale Händler verkaufen dort, was Nordhessen ausmacht, zum Beispiel Ahle Wurscht. Am Donnerstag- und Samstagvormittag ist zusätzlich Wochenmarkt. Wer den Rundgang auf einen dieser Tage legt, verbindet beides.
 
 ## Wo erfahre ich mehr über das alte Kassel?
 
