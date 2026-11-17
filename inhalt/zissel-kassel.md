@@ -1,5 +1,5 @@
 ---
-titel: Zissel 2027 in Kassel: Termin 30. Juli bis 2. August
+titel: Zissel 2027 Kassel: Stadtfest an der Fulda, 30.7. bis 2.8.
 beschreibung: Zissel Kassel: Das Volks- und Wasserfest an der Fulda findet 2027 vom 30. Juli bis 2. August statt. Programm, Festgelände, Geschichte und Anreise.
 slug: zissel-kassel
 kurz: Zissel
@@ -51,7 +51,7 @@ Der Zissel 2027 läuft vom 30. Juli bis 2. August, also am ersten Augustwochenen
 | Letzter Termin | 31. Juli bis 3. August 2026 (vorbei) |
 | Festgelände | Auedamm, Südteil der Karlswiese, Spitzhacke |
 
-Das Programm für 2027 veröffentlicht der Verein vor dem Fest. Schon angekündigt ist der Zissel-Drachenboot-Cup am 31. Juli 2027 von 9.30 bis etwa 17 Uhr auf dem Gelände des CKS98.
+Das Programm für 2027 veröffentlicht der Verein vor dem Fest. Schon angekündigt ist der Zissel-Drachenboot-Cup am 31. Juli 2027 von 9.30 bis etwa 17 Uhr auf dem Gelände des CKS98. Weitere Feste des Jahres findest du unter [Termine in Kassel 2027](/termine-kassel-2027/).
 
 ### Wie komme ich zum Zissel?
 

@@ -1,12 +1,12 @@
 ---
 titel: Herkules Kassel: Eintritt, Tickets, Öffnungszeiten, Stufen
-beschreibung: Herkules Kassel: Was das Monument ist, wann Oktogon und Plattform offen sind, was der Eintritt kostet und wie du mit Bus oder Auto hinaufkommst.
+beschreibung: Herkules Kassel: Plattform und Oktogon vom 1. April bis 31. Oktober, Eintritt 8 Euro, unter 18 frei. Tickets, Stufen, Bus 22 und Parken.
 slug: herkules-kassel
 kurz: Herkules
 bild: herkules-oktogon.jpg
-stand: 2026-11-01
+stand: 2026-11-17
 blick: Geöffnet=1. April bis 31. Oktober | Zeiten=Di bis So 10 bis 17 Uhr | Eintritt=8 Euro, unter 18 frei | Anreise=Tram 4, dann Bus 22 | Parken=280 Plätze, Tag 5 Euro
-weiter: wasserspiele-kassel, bergpark-wilhelmshoehe, habichtswald-wandern
+weiter: schloss-wilhelmshoehe, bergpark-wilhelmshoehe, wasserspiele-kassel
 ---
 # Herkules Kassel: Öffnungszeiten, Eintritt und Anreise
 
@@ -115,16 +115,16 @@ Der Blick reicht über den Bergpark auf Schloss Wilhelmshöhe, die Stadt und das
 
 ### Wie komme ich vom Herkules zurück in die Stadt?
 
-Mit dem Bus 22, der halbstündlich vom Herkules zur Endhaltestelle Druseltal fährt. Dort steigst du in die Tram 4 in die Innenstadt um, die auch am Bahnhof Wilhelmshöhe hält.
+Mit dem Bus 22 vom Herkules zur Endhaltestelle Druseltal. An Sonn- und Feiertagen fährt er in diese Richtung nur stündlich, die letzte reguläre Fahrt geht um 19.21 Uhr. In Druseltal steigst du in die Tram 4 in die Innenstadt um, die auch am Bahnhof Wilhelmshöhe hält.
 
 ### Wo kann ich am Herkules essen?
 
-Die Herkules Terrassen mit Selbstbedienung haben laut Betreiber mittwochs bis samstags von 11 bis 20 Uhr und sonntags bis 18 Uhr offen. Das Restaurant Herkules Panorama öffnet dienstags bis samstags von 11 bis 22 Uhr und sonntags bis 20 Uhr, an Wasserspieltagen und Wochenenden reservierst du besser. Montags ist beides zu, die Zeiten im Winter nennen die Betreiber nicht.
+Die Herkules Terrassen mit Selbstbedienung haben mittwochs bis samstags von 11 bis 20 Uhr und sonntags bis 18 Uhr offen. Das Restaurant Herkules Panorama öffnet dienstags bis samstags von 11 bis 22 Uhr und sonntags bis 20 Uhr, an Wasserspieltagen und Wochenenden reservierst du besser. Montags ist beides zu, die Zeiten im Winter nennen die Betreiber nicht.
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 01.11.2026
-- [Hessen Kassel Heritage, Besucherzentrum Herkules](https://www.heritage-kassel.de/service/bz/besucherzentrum-herkules), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 17.11.2026
+- [Hessen Kassel Heritage, Besucherzentrum Herkules](https://www.heritage-kassel.de/service/bz/besucherzentrum-herkules), abgerufen 17.11.2026
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
 - [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 01.11.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026

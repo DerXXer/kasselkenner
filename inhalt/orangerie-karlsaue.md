@@ -14,7 +14,7 @@ Die Orangerie ist das lang gestreckte Barockschloss am Rand der Karlsaue, eines 
 
 ## Wer hat die Orangerie in Kassel gebaut?
 
-Landgraf Carl ließ die Orangerie zu Beginn des 18. Jahrhunderts bauen, als Winterquartier für Orangen- und Lorbeerbäume. Die beiden Eckpavillons nutzten er und seine Frau als Sommerresidenz. Später schaute ein Landgraf von ihren Dächern aus in den Himmel und beobachtete Mond und Planeten, – heute passt das Planetarium unter seinem Dach also bestens dazu. Nach schweren Kriegsschäden ist das Gebäude wieder aufgebaut und strahlt heute über die Wiesen der Karlsaue.
+Landgraf Carl ließ die Orangerie zu Beginn des 18. Jahrhunderts bauen, als Winterquartier für Orangen- und Lorbeerbäume. Die beiden Eckpavillons nutzten er und seine Frau als Sommerresidenz. Später schaute ein Landgraf von ihren Dächern aus in den Himmel und beobachtete Mond und Planeten. Heute passt das Planetarium unter seinem Dach also bestens dazu. Nach schweren Kriegsschäden ist das Gebäude wieder aufgebaut und strahlt heute über die Wiesen der Karlsaue.
 
 ## Wie viele Sterne zeigt das Planetarium und wie komme ich hinein?
 
@@ -29,6 +29,7 @@ Das Astronomisch-Physikalische Kabinett in der Orangerie ist zurzeit geschlossen
 Vom 1. April bis 31. Oktober, dienstags bis sonntags und feiertags von 10 bis 17 Uhr; der Eintritt ist frei. Im Winter bleibt es zu.
 
 In einem der Eckpavillons der Orangerie versteckt sich das Marmorbad: ein prunkvolles Bad aus dem Barock. Es gilt als das letzte bedeutende erhaltene Bad dieser Art in Deutschland – und der Eintritt ist frei. 
+
 ## Was gibt es in der Karlsaue zu sehen?
 
 ![Siebenbergen](siebenbergen-allium.jpg)
@@ -44,7 +45,7 @@ Der Park ist flach und angenehm zum Schlendern. Hunde sind als Assistenzhunde er
 
 ## Welche Veranstaltungen finden in der Orangerie statt?
 
-Das aktuelle Programm steht im Programmkalender von Hessen Kassel Heritage. Im November 2026 findet vor der Orangerie der [Winterzauber](/winterzauber-kassel/) statt, eine Ausstellung mit rund 120 Ausstellern, an zwei Wochenenden: vom 5. bis 8. und vom 12. bis 14. November.
+Das aktuelle Programm steht im Programmkalender von Hessen Kassel Heritage. Im Herbst steht vor der Orangerie der [Winterzauber](/winterzauber-kassel/), eine Ausstellung mit rund 120 Ausstellern. 2026 lief er an zwei Wochenenden im November.
 
 Die documenta nutzt den Park immer wieder als Ausstellungsort unter freiem Himmel, mehr dazu unter [documenta 2027](/documenta-2027/). Am ersten Augustwochenende feiert Kassel am Auedamm und auf der Karlswiese den [Zissel](/zissel-kassel/), ein Volksfest am Wasser.
 
@@ -127,7 +128,6 @@ Vom 1. April bis 30. September von 10 bis 18 Uhr, im Oktober von 10 bis 17 Uhr, 
 - [Hessen Kassel Heritage, Park Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 01.11.2026
 - [Stadt Kassel, Orangerie in der Karlsaue](https://www1.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/karlsaue/orangerie.php), abgerufen 01.11.2026
 - [Visit Kassel, Staatspark Karlsaue](https://visit.kassel.de/poi/staatspark-karlsaue), abgerufen 01.11.2026
-- [KVG, Anreise zum Auepark (ältere Veranstaltungsmeldung)](https://www.kvg.de/en/news/milky-chance-staatsorchester-live-in-kassel-am-23-august-in-der-orangerie/), abgerufen 09.10.2026
 - [Wikipedia, Orangerie (Kassel)](https://de.wikipedia.org/wiki/Orangerie_(Kassel)), abgerufen 01.11.2026
 - [Wikipedia, Karlsaue](https://de.wikipedia.org/wiki/Karlsaue), abgerufen 01.11.2026
 - [OpenStreetMap-Routing, Fußwege](https://routing.openstreetmap.de), abgerufen 15.10.2026

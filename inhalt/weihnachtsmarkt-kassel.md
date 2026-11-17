@@ -6,7 +6,7 @@ kurz: Weihnachtsmarkt
 bild: weihnachtsmarkt-kassel.jpg
 stand: 2026-11-01
 blick: Termin 2026=23. November bis 30. Dezember | Geöffnet=täglich 11 bis 20 Uhr | Gastronomie=bis 22 Uhr | Geschlossen=24. bis 26. Dezember | Ort=Königsplatz und Friedrichsplatz
-weiter: grimmwelt-kassel, uebernachten-kassel, bergpark-wilhelmshoehe
+weiter: kassel-sehenswuerdigkeiten, grimmwelt-kassel, bergpark-wilhelmshoehe
 ---
 # Weihnachtsmarkt Kassel 2026: wann, wo und wie du hinkommst
 
@@ -27,6 +27,8 @@ In der Innenstadt, verteilt auf fünf Bereiche zwischen Königsplatz und Friedri
 | Opernplatz | regionale Spezialitäten wie „Schmeggewöhlerchen“, Märchenbühne |
 | Florentiner Platz | skandinavische Spezialitäten, Waffeln, Glühwein, Ochsenbraterei |
 | Grimms Märchendorf am Obelisken | Punsch, Kunsthandwerk, Märchenlesungen, Kinderprogramm |
+
+Welcher Stand auf welchem Platz steht, kann sich von Jahr zu Jahr ändern. Frag im Zweifel vor Ort kurz nach.
 
 Zwischen den Plätzen gehst du zu Fuß. Die Treppenstraße mit der Märchenrutsche verbindet die Bereiche.
 
@@ -61,7 +63,7 @@ Vom Bahnhof Kassel-Wilhelmshöhe bringen dich die Linien 1, 3 und 4 in die Innen
 
 ### Wo parke ich am Weihnachtsmarkt?
 
-Mehrere Parkhäuser liegen direkt am Markt, die größten sind die Tiefgarage Friedrichsplatz mit 980 und die Kurfürsten Galerie mit 560 Plätzen. Die aktuelle Belegung zeigt der Veranstalter auf seiner Anreiseseite.
+Mehrere Parkhäuser liegen direkt am Markt, die größten sind die Tiefgarage Friedrichsplatz mit 980 und die Kurfürsten Galerie mit 560 Plätzen. Wie viele Plätze gerade frei sind, zeigt die Stadt Kassel auf ihrer [Parkhaus-Übersicht](https://www.kassel.de/buerger/verkehr_und_mobilitaet/mit-dem-auto/inhaltsseiten/parkhaeuser-parkplaetze-innenstadt.php).
 
 Mit dem Rad findest du während des Markts zusätzliche Ständer in der Innenstadt, unter anderem vor dem Fridericianum. Reisebusse parken kostenlos am Staatstheater.
 
@@ -97,7 +99,7 @@ Einen Eintrittspreis für den Markt nennt der Veranstalter nicht, genannt werden
 
 ### Was kostet der Eintritt zum Winterzauber in Kassel?
 
-Der [Winterzauber](/winterzauber-kassel/) ist ein eigenes Fest mit Eintrittskarte vor der [Orangerie](/orangerie-karlsaue/) und kein Teil des Märchenweihnachtsmarkts. Er findet 2026 vom 5. bis 8. und vom 12. bis 14. November statt. Erwachsene zahlen 12 Euro, im Online-Vorverkauf bis zum 4. November 10 Euro. Kinder bis 17 Jahre in Begleitung sind frei.
+Der [Winterzauber](/winterzauber-kassel/) ist ein eigenes Fest mit Eintrittskarte vor der [Orangerie](/orangerie-karlsaue/) und kein Teil des Märchenweihnachtsmarkts. 2026 lief er an zwei Wochenenden im November, Erwachsene zahlten 12 Euro, Kinder bis 17 Jahre in Begleitung waren frei.
 
 ### Wo übernachte ich für den Weihnachtsmarkt?
 
@@ -122,3 +124,4 @@ Tagsüber nicht. Vom 23. November bis 30. Dezember fahren die Bahnen zwischen 10
 - [Stadt Kassel, Märchenhafte Veranstaltungen](https://www.kassel.de/buerger/sport_und_freizeit/wiederkehrende-veranstaltungen/maerchenhafte-veranstaltungen.php), abgerufen 01.11.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 01.11.2026
 - [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 01.11.2026
+- [Stadt Kassel, Parkhäuser und Parkplätze Innenstadt](https://www.kassel.de/buerger/verkehr_und_mobilitaet/mit-dem-auto/inhaltsseiten/parkhaeuser-parkplaetze-innenstadt.php), abgerufen 17.11.2026
