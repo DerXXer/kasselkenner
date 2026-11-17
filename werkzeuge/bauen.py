@@ -161,6 +161,39 @@ def anker(t):
     return re.sub(r"[^a-z0-9]+", "-", t).strip("-")
 
 
+MONATE = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
+
+
+def monatskalender(reihen):
+    """Tabelle „| Monat | Wasserspieltage JJJJ |“ als Monatskalender (Aaron, 17.11.2026: die Liste mit Punkten wirkt unruhig).
+    Mittwoch und Sonntag weinrot, Termine an anderen Wochentagen (Feiertage) orange. Die Tagesliste bleibt als Text für
+    Vorleseprogramme und Suchmaschinen erhalten."""
+    import calendar
+    jahr = int(re.search(r"\d{4}", reihen[0][1]).group(0))
+    karten, sonder = [], False
+    for r in reihen[1:]:
+        if r[0] not in MONATE:
+            continue
+        mon = MONATE.index(r[0]) + 1
+        tage = {int(t) for t in re.findall(r"\d+", r[1])}
+        felder = ['<i class="leer"></i>'] * date(jahr, mon, 1).weekday()
+        for t in range(1, calendar.monthrange(jahr, mon)[1] + 1):
+            if t in tage:
+                art = "an" if date(jahr, mon, t).weekday() in (2, 6) else "fest"
+                sonder = sonder or art == "fest"
+                felder.append(f'<i class="{art}">{t}</i>')
+            else:
+                felder.append(f"<i>{t}</i>")
+        kopf = "".join(f"<b>{w}</b>" for w in "MDMDFSS")
+        anzahl = f'{len(tage)} {"Tag" if len(tage) == 1 else "Tage"}'
+        karten.append(f'<figure class="monat"><figcaption>{r[0]}<span>{anzahl}</span></figcaption>'
+                      f'<div class="tage" aria-hidden="true">{kopf}{"".join(felder)}</div>'
+                      f'<p class="nur-lesen">{r[0]} {jahr}: {html.escape(r[1])}</p></figure>')
+    legende = ('<p class="legende"><span><i></i>Mittwoch und Sonntag</span>'
+               + ('<span><i class="fest"></i>Feiertag</span>' if sonder else "") + "</p>")
+    return f'<div class="kalender-monate" role="group" aria-label="{html.escape(reihen[0][1])}">{"".join(karten)}</div>{legende}'
+
+
 def markdown(rumpf):
     """Gibt (html, faq-liste, inhaltsverzeichnis) zurück."""
     aus, faq, toc = [], [], []
@@ -203,6 +236,9 @@ def markdown(rumpf):
             if reihen[0][0].lower() == "uhrzeit" and len(reihen[0]) == 2:
                 punkte = "".join(f'<li><time>{inline(r[0].replace(" Uhr", ""))}</time><i class="p"></i><span>{inline(r[1])}</span></li>' for r in reihen[1:])
                 aus.append(f'<ol class="strecke" aria-label="Ablauf mit Uhrzeiten">{punkte}</ol>')
+                continue
+            if reihen[0][0].lower() == "monat" and reihen[0][1].lower().startswith("wasserspieltage"):
+                aus.append(monatskalender(reihen))
                 continue
             kopf = "".join(f"<th>{inline(c)}</th>" for c in reihen[0])
             namen = [html.escape(re.sub(r"[*_`]", "", c).strip()) for c in reihen[0]]
