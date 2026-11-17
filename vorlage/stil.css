@@ -243,9 +243,9 @@ tr:nth-child(even) td{background:var(--grund)}
 .eigen-zeile{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:24px;align-items:center;overflow:hidden;margin:8px 0 36px;padding:14px 0 16px;border-top:1.5px dashed rgba(91,30,45,.35);border-bottom:1.5px dashed rgba(91,30,45,.35)}
 .eigen-zeile .etikett{grid-column:1/-1;font:700 12px/1.4 Archivo,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--sonne-d);margin:0 0 4px}
 .eigen-zeile p{margin:0;font:400 17px/1.55 Lora,Georgia,serif;color:var(--text)}
-.pille{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 18px;border:1.5px solid var(--wein);border-radius:999px;font:700 15px "Instrument Sans",sans-serif;color:var(--wein);text-decoration:none;white-space:nowrap}
+.pille{display:inline-flex;align-items:center;gap:8px;min-height:46px;padding:0 22px;border:1.5px solid var(--wein);border-radius:999px;background:var(--wein);box-shadow:0 6px 14px -8px rgba(91,30,45,.7);font:700 16px "Instrument Sans",sans-serif;color:#fff;text-decoration:none;white-space:nowrap}
 .pille:after{content:"→"}
-.pille:hover,.pille:focus-visible{background:var(--wein);color:#fff}
+.pille:hover,.pille:focus-visible{background:var(--wein-d);border-color:var(--wein-d);color:#fff}
 @media (prefers-reduced-motion:no-preference){.pille{transition:background-color .2s,color .2s}}
 /* Startseite: Kasten quer nach „Was hast du vor?“ */
 .start-eigen{padding-top:80px}
