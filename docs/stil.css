@@ -132,7 +132,7 @@ tr:nth-child(even) td{background:var(--grund)}
 .strecke:before,.strecke:after{content:"";position:absolute;left:84px;top:16px;bottom:16px;width:6px;border-radius:3px;background:rgba(91,30,45,.14)}
 .strecke:after{background:linear-gradient(var(--sonne),var(--wein));transform-origin:top;transform:scaleY(var(--f,1))}
 .strecke li{display:grid;grid-template-columns:66px 42px 1fr;align-items:center;padding:9px 0;margin:0}
-.strecke time{font:800 17px Archivo;text-align:right;padding-right:10px;color:var(--wein)}
+.strecke time{font:800 17px Archivo;text-align:right;padding-right:10px;color:var(--wein);white-space:nowrap;font-variant-numeric:tabular-nums}
 .strecke .p{width:22px;height:22px;border-radius:50%;background:#fff;border:5px solid var(--wein);justify-self:center;z-index:1;transition:background .35s,border-color .35s,transform .35s}
 .strecke li:first-child .p,.strecke li:last-child .p{border-color:var(--sonne)}
 .strecke.lebt li .p{border-color:rgba(91,30,45,.3)}
@@ -298,7 +298,8 @@ tr:nth-child(even) td{background:var(--grund)}
   .reiter .breite{justify-content:center;gap:10px}
   .reiter button{width:64px;padding:4px}
   .reiter .cap{display:none}
-  .strecke:before,.strecke:after{left:72px}.strecke li{grid-template-columns:56px 38px 1fr}
+  .strecke:before,.strecke:after{left:80px}.strecke li{grid-template-columns:64px 38px 1fr}
+  .strecke time{padding-right:6px}
   /* Kopf: Menü statt Leiste */
   .menue{display:block}
   .themen{display:none}
