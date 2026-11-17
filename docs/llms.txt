@@ -2,14 +2,14 @@
 
 > Bergpark, Wasserspiele und documenta – von Gastgebern aus Bad Wilhelmshöhe. Praktische, geprüfte Antworten für Besucher in Kassel; jede Angabe mit Quelle und Prüfdatum. Betrieben von den Gastgebern von Wohnen am Bergpark (Kassel-Bad Wilhelmshöhe).
 
-Stand: 2026-11-16
+Stand: 2026-11-17
 
 ## Seiten
 
 - [Startseite](https://kasselkenner.de/): Überblick über alle Ratgeber
 - [Beleuchtete Wasserspiele Kassel: Termine, Zeiten, Anreise](https://kasselkenner.de/beleuchtete-wasserspiele/): Beleuchtete Wasserspiele Kassel 2027 am 14. und 15. Mai: Ablauf am Abend mit Uhrzeiten von 2026, Anreise und der Unterschied zum Bergparkleuchten.
 - [Bergpark Wilhelmshöhe Kassel: Eintritt, Rundweg, Anreise](https://kasselkenner.de/bergpark-wilhelmshoehe/): Bergpark Wilhelmshöhe in Kassel: was dich im UNESCO-Welterbe erwartet, Eintritt (Park frei), ein Rundweg bergab für einen Tag und die Anreise.
-- [documenta 2027 in Kassel: Termine, Tickets, Anreise](https://kasselkenner.de/documenta-2027/): documenta 16 in Kassel: 12. Juni bis 19. September 2027, täglich 10 bis 20 Uhr. Ticketpreise, Bus und Bahn, Welcome Center und Anreise im Überblick.
+- [documenta 2027 Kassel: Tickets 29 Euro, Termine, Anreise](https://kasselkenner.de/documenta-2027/): documenta 16 in Kassel: 12. Juni bis 19. September 2027, täglich 10 bis 20 Uhr. Ticketpreise, Bus und Bahn, Welcome Center und Anreise im Überblick.
 - [Unterkunft zur documenta 2027: welcher Stadtteil passt?](https://kasselkenner.de/documenta-uebernachten/): Übernachten zur documenta 2027 in Kassel: Innenstadt, Vorderer Westen, Bad Wilhelmshöhe, Bahnhof Wilhelmshöhe, Kirchditmold im Vergleich, mit Tram.
 - [Grimmwelt Kassel: Öffnungszeiten, Eintritt, Anreise](https://kasselkenner.de/grimmwelt-kassel/): Grimmwelt Kassel: Öffnungszeiten, Eintritt für Erwachsene, Kinder und Familien, was die Ausstellung zeigt, Dachterrasse und Anreise mit Tram und Auto.
 - [Habichtswaldsteig: Wandern ab Bergpark Kassel, 4 Touren](https://kasselkenner.de/habichtswald-wandern/): Wandern im Habichtswald ab dem Bergpark Wilhelmshöhe: vier Rundtouren von 2 bis 18 Kilometern mit Start, Markierung und Rückweg per Bus 22 und Tram 4.
@@ -24,7 +24,7 @@ Stand: 2026-11-16
 - [Kassel am Wochenende: zwei Tage mit Zeiten und Wegen](https://kasselkenner.de/kassel-wochenende/): Kassel am Wochenende: Samstag Innenstadt mit Markthalle, Fridericianum und Grimmwelt, Sonntag Bergpark mit Herkules und Schloss, mit Wegen und Zeiten.
 - [Kletterwald Kassel: Preise, Öffnungszeiten, Anreise](https://kasselkenner.de/kletterwald-kassel/): Kletterwald Kassel am Hohen Gras: Preise für Kinder und Erwachsene, ab welchem Alter, Saison und Reservierung, Anreise mit Bus 22 und vom Bergpark.
 - [Kliniken Bad Wilhelmshöhe: Besuch, Anreise, Parken](https://kasselkenner.de/kliniken-angehoerige/): Kliniken in Bad Wilhelmshöhe besuchen: Anreise mit Tram 1 und 4, Parken, Besuchsregeln, Café in der Nähe und Pausen im Bergpark.
-- [Kurhessen Therme Kassel: Preise, Zeiten, Anreise](https://kasselkenner.de/kurhessen-therme/): Kurhessen Therme in Kassel: Preise mit Stand, Öffnungszeiten, Sauna, Regeln für Tagesgäste, Anreise mit Tram 1 und der Weg zum Bergpark.
+- [Kurhessen Therme Kassel: Preise, Öffnungszeiten, Sauna](https://kasselkenner.de/kurhessen-therme/): Kurhessen Therme in Kassel: Preise mit Stand, Öffnungszeiten, Sauna, Regeln für Tagesgäste, Anreise mit Tram 1 und der Weg zum Bergpark.
 - [Löwenburg Kassel: Öffnungszeiten, Führung, Tickets](https://kasselkenner.de/loewenburg-kassel/): Löwenburg Kassel: Öffnungszeiten im Sommer und Winter, warum du nur mit Führung hineinkommst, was Tickets kosten und wo du parkst.
 - [Bahnhof Wilhelmshöhe zum Herkules: mit Bus und Bahn](https://kasselkenner.de/mit-bus-und-bahn-zum-bergpark/): Vom Bahnhof Kassel-Wilhelmshöhe mit Tram und Bus zum Herkules, Schloss und Bergpark: Linien, Fahrzeiten, Tickets und der Weg zurück am Abend.
 - [Orangerie Kassel und Karlsaue: Planetarium, Marmorbad, Park](https://kasselkenner.de/orangerie-karlsaue/): Orangerie Kassel in der Karlsaue: Park frei zugänglich, Planetarium Do bis So 10 bis 17 Uhr für 8 Euro, Marmorbad April bis Oktober gratis. Anreise.

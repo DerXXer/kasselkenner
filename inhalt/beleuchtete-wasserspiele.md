@@ -53,7 +53,7 @@ Das Bergparkleuchten ist ein eigenes Lichtkunstfestival und nicht dasselbe wie d
 | Juni | Freitag, 5. Juni, und Samstag, 6. Juni |
 | September (Saisonfinale) | Freitag, 11. September, und Samstag, 12. September |
 
-2027 sind die Beleuchteten Wasserspiele am Freitag, 14. Mai, und Samstag, 15. Mai, mit Rahmenprogramm. Die Uhrzeiten und ob es im Herbst einen zweiten Termin gibt, stehen noch nicht fest. Aktuelle Infos gibt es unter beleuchtete-wasserspiele.de und bei der Stadt Kassel.
+2027 sind die Beleuchteten Wasserspiele am Freitag, 14. Mai, und Samstag, 15. Mai, mit Rahmenprogramm. Die Uhrzeiten und ob es im Herbst einen zweiten Termin gibt, stehen noch nicht fest. Aktuelle Infos gibt es unter beleuchtete-wasserspiele.de und bei der Stadt Kassel. Alle Termine des Jahres findest du gesammelt unter [Termine in Kassel 2027](/termine-kassel-2027/).
 
 ### Wie komme ich abends zum Herkules?
 

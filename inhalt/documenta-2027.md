@@ -1,12 +1,12 @@
 ---
-titel: documenta 2027 in Kassel: Termine, Tickets, Anreise
+titel: documenta 2027 Kassel: Tickets 29 Euro, Termine, Anreise
 beschreibung: documenta 16 in Kassel: 12. Juni bis 19. September 2027, täglich 10 bis 20 Uhr. Ticketpreise, Bus und Bahn, Welcome Center und Anreise im Überblick.
 slug: documenta-2027
 kurz: documenta 2027
 bild: fridericianum-friedrichsplatz.jpg
 stand: 2026-11-12
 blick: Zeitraum=12. Juni bis 19. September 2027 | Geöffnet=täglich 10 bis 20 Uhr | Tagesticket=29 Euro, ermäßigt 19 Euro | Kinder=bis zwölf Jahre frei | Start=Welcome Center Friedrichsplatz | Anreise=ICE bis Kassel-Wilhelmshöhe
-weiter: documenta-uebernachten, uebernachten-kassel, bergpark-wilhelmshoehe
+weiter: documenta-uebernachten, termine-kassel-2027, uebernachten-kassel
 ---
 # documenta 2027 in Kassel: was du jetzt schon wissen kannst
 

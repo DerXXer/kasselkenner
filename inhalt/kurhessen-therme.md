@@ -1,5 +1,5 @@
 ---
-titel: Kurhessen Therme Kassel: Preise, Zeiten, Anreise
+titel: Kurhessen Therme Kassel: Preise, Öffnungszeiten, Sauna
 beschreibung: Kurhessen Therme in Kassel: Preise mit Stand, Öffnungszeiten, Sauna, Regeln für Tagesgäste, Anreise mit Tram 1 und der Weg zum Bergpark.
 slug: kurhessen-therme
 kurz: Kurhessen-Therme
