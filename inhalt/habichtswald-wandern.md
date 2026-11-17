@@ -3,7 +3,7 @@ titel: Habichtswaldsteig: Wandern ab Bergpark Kassel, 4 Touren
 beschreibung: Wandern im Habichtswald ab dem Bergpark Wilhelmshöhe: vier Rundtouren von 2 bis 18 Kilometern mit Start, Markierung und Rückweg per Bus 22 und Tram 4.
 slug: habichtswald-wandern
 kurz: Wandern
-bild: blick-vom-herkules.jpg
+bild: wegweiser-habichtswaldsteig.jpg
 stand: 2026-11-01
 blick: Kürzeste=2,05 km | Längste=gut 18 km | Habichtswaldsteig=85 km Fernweg | Markierung=Habicht auf Purpur | Anreise=Tram 4, Bus 22
 weiter: herkules-kassel, loewenburg-kassel, bergpark-wilhelmshoehe
@@ -14,7 +14,7 @@ Der Habichtswald beginnt gleich hinter dem Bergpark: Wer oben am Herkules oder u
 
 ## Was ist der Habichtswaldsteig, und passt er für einen Tag ab Kassel?
 
-![Wegweiser](wegweiser-habichtswaldsteig.jpg)
+![Blick vom Herkules über Kassel](blick-vom-herkules.jpg)
 
 Der Habichtswaldsteig ist ein 85 Kilometer langer Premiumwanderweg von Zierenberg bis zum Edersee. Den Fernweg gehst du in vier Tagesetappen von 18 bis knapp 24 Kilometern, markiert mit einem Habicht auf purpurnem Grund. Für einen Tag ab Kassel sind die Extratouren die bessere Wahl: zehn Rundtouren zwischen 10 und gut 18 Kilometern, alle als Premium-Wanderweg ausgezeichnet. Zwei davon, H3 und H10, führen an Herkules und Bergpark vorbei.
 

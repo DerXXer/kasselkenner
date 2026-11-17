@@ -3,7 +3,7 @@ titel: Kassel mit Kindern: Ausflüge, Museen und Preise
 beschreibung: Kassel mit Kindern: Bergpark und Löwenburg, Grimmwelt, Naturkundemuseum, Planetarium und Karlsaue mit Öffnungszeiten und Kinderpreisen im Überblick.
 slug: kassel-mit-kindern
 kurz: Mit Kindern
-bild: loewenburg.jpg
+bild: iguanodon-ottoneum-skelett.jpg
 stand: 2026-11-01
 blick: Bergpark=Eintritt frei | Löwenburg=unter 18 frei | Grimmwelt=unter 6 frei | Planetarium=unter 18 Jahren 2 Euro | Wasserspiele=1. Mai bis 3. Oktober
 weiter: grimmwelt-kassel, kassel-bei-regen, bergpark-wilhelmshoehe
@@ -42,7 +42,7 @@ Die Ausstellung ist für Kinder ab 6 Jahren gedacht, die Märchenwelt gefällt a
 
 ## Was kostet das Naturkundemuseum für Kinder?
 
-![Dinosaurier](iguanodon-ottoneum-skelett.jpg)
+![Die Löwenburg im Bergpark](loewenburg.jpg)
 
 Kinder unter 6 sind frei, ältere Kinder zahlen 3 Euro, Erwachsene 5 Euro. Saurier, Haie und Mammuts – im Naturkundemuseum am Steinweg staunen Kinder über Tiere aus Urzeit und Meer. Seit dem 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Montags ist zu, mittwochs offen bis 20 Uhr. Einen Wickeltisch gibt es auch.
 

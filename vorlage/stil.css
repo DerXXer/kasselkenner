@@ -208,7 +208,7 @@ tr:nth-child(even) td{background:var(--grund)}
 .start-intro h1{font:800 clamp(30px,3.6vw,42px)/1.12 Archivo,sans-serif;color:var(--wein);margin:8px 0 16px;letter-spacing:-.015em}
 .stapel{position:relative;justify-self:center;width:min(100%,440px)}
 .stapel .polaroid{width:80%;transform:rotate(-3deg);position:relative;z-index:1}
-.notiz{width:62%;margin:-16px 0 0 auto;transform:rotate(3deg);padding:26px 22px 18px;font-size:16px;line-height:1.55;
+.notiz{position:relative;z-index:2;width:62%;margin:-6px 0 0 auto;transform:rotate(3deg);padding:26px 22px 18px;font-size:16px;line-height:1.55;
   background:var(--zettel)}
 .notiz .marke{color:var(--sonne-d)}
 .notiz .unterschrift{display:block;text-align:right;font:600 26px/1 Caveat,cursive;color:var(--wein);margin-top:6px}
@@ -298,6 +298,7 @@ tr:nth-child(even) td{background:var(--grund)}
   .kopf .breite{min-height:60px}
   /* Bildwechsel: Fortschrittsleiste über die ganze Breite statt Mini-Fotos */
   .reiter{bottom:18px}
+  .reiter button.an .balken i{animation-duration:4.5s}
   .reiter .breite{gap:6px;justify-content:stretch}
   .reiter button,.reiter button:nth-child(n),.reiter button.an{flex:1;width:auto;padding:12px 0;background:none;box-shadow:none;transform:none;opacity:1}
   .reiter img,.reiter .cap{display:none}
@@ -306,7 +307,7 @@ tr:nth-child(even) td{background:var(--grund)}
   .dia .text{bottom:64px}
   .buehne{height:min(74vh,620px);min-height:460px}
   /* Zettel nicht über die Polaroid-Beschriftung */
-  .notiz{width:88%;margin:6px auto 0;transform:rotate(1.5deg)}
+  .notiz{width:88%;margin:-4px auto 0;transform:rotate(1.5deg)}
   .stapel .polaroid{width:88%}
   .aktuell .zettel{margin:8px 10px 0}
   .anpinnen{margin-top:-56px}
@@ -347,3 +348,7 @@ tr:nth-child(even) td{background:var(--grund)}
   .start-intro .lede{font-size:18px}
   .start-eigen{padding-top:64px}
 }
+
+/* Lesefortschritt unter der Kopfzeile (Aaron, 17.11.2026) */
+.lesefortschritt{position:absolute;left:0;right:0;bottom:-1px;height:3px;pointer-events:none}
+.lesefortschritt span{display:block;height:100%;background:var(--sonne);transform:scaleX(0);transform-origin:0 50%}

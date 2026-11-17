@@ -3,7 +3,7 @@ titel: Unterkunft zur documenta 2027: welcher Stadtteil passt?
 beschreibung: Übernachten zur documenta 2027 in Kassel: Innenstadt, Vorderer Westen, Bad Wilhelmshöhe, Bahnhof Wilhelmshöhe, Kirchditmold im Vergleich, mit Tram.
 slug: documenta-uebernachten
 kurz: Unterkunft documenta
-bild: blick-vom-herkules.jpg
+bild: documenta-halle.jpg
 stand: 2026-11-12
 blick: documenta=100 Tage, 10 bis 20 Uhr | ICE-Halt=Kassel-Wilhelmshöhe | Zum Friedrichsplatz=Tram 1, 3 oder 4
 weiter: documenta-2027, uebernachten-kassel, bergpark-wilhelmshoehe
@@ -14,7 +14,7 @@ Für die documenta 2027 musst du nicht direkt am Friedrichsplatz schlafen. Wicht
 
 ## Worauf achte ich bei der Unterkunft zur documenta?
 
-![documenta-Halle](documenta-halle.jpg)
+![Blick vom Herkules über Kassel](blick-vom-herkules.jpg)
 
 Drei Fragen helfen dir beim Sortieren:
 

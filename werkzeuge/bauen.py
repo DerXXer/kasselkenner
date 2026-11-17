@@ -99,6 +99,7 @@ AKTUELL = [
 ]
 # Empfehlungskarte: Klebeabstand so wählen, dass die ganze Karte im Fenster bleibt
 # Messen und Setzen je Durchgang gebündelt, nur einmal je Bild (requestAnimationFrame), 16.11.2026
+FORTSCHRITT_JS = """<script>(function(){var b=document.querySelector('.lesefortschritt span');if(!b)return;var w=0;function f(){w=0;var h=document.documentElement.scrollHeight-innerHeight;b.style.transform='scaleX('+(h>0?Math.min(1,Math.max(0,scrollY/h)):0).toFixed(4)+')'}function g(){if(!w){w=1;requestAnimationFrame(f)}}addEventListener('scroll',g,{passive:true});addEventListener('resize',g);g()})();</script>"""
 EIGEN_JS = """<script>(function(){var e=document.querySelector('.seite .eigen');if(!e)return;var k=document.querySelector('.kopf'),b=e.querySelector('.polaroid'),w=0;function u(){var r=e.getBoundingClientRect(),q=b?b.getBoundingClientRect():r;return (k?k.offsetHeight:68)+12+Math.max(0,r.top-q.top)}function p(){return innerHeight-e.offsetHeight-16}function f(){w=0;if(getComputedStyle(e).position!=='sticky'&&!e.style.position)return;e.classList.remove('knapp');e.style.position='';e.style.top='';var o=u(),t=p();if(t<o){e.classList.add('knapp');o=u();t=p()}if(t<o){e.style.position='static';return}e.style.top=Math.max(o,Math.min(140,t))+'px'}function g(){if(!w){w=1;requestAnimationFrame(f)}}addEventListener('resize',g);addEventListener('load',g);if(document.fonts)document.fonts.ready.then(g);g()})();</script>"""
 # Linienplan: Wasser „fließt“ beim Scrollen die Strecke hinab, erreichte Stationen leuchten orange.
 # Erst alle Maße lesen, dann alle Klassen und Werte schreiben (kein Wechsel von Lesen und Schreiben)
@@ -297,6 +298,40 @@ for _thema, _seiten in {
         "klinik": ["kliniken-angehoerige"],
         "start": ["fruehlingsfest-kassel"]}.items():
     EMPFEHLUNG_THEMA.update({s: _thema for s in _seiten})
+# Einzeiler je Seite, mit Bezug zum Artikel (Aaron, 17.11.2026); sonst gilt die Zeile des Themas
+ZEILE_SEITE = {
+    "wasserspiele-kassel": "Nach dem Finale gehst du vom Schloss in 14 Minuten zu Fuß in unsere Wohnung Löwenburg.",
+    "beleuchtete-wasserspiele": "Nach den beleuchteten Wasserspielen spazierst du vom Schloss in 14 Minuten in unsere Wohnung Löwenburg.",
+    "steinhoefer-wasserfall": "Schöne Ferienwohnungen am Bergpark, von unserer Wohnung Löwenburg sind es 14 Minuten zu Fuß zum Schloss.",
+    "herkules-kassel": "Abends vom Herkules zurück in die eigene Ferienwohnung, 14 Minuten zu Fuß vom Schloss.",
+    "bergpark-wilhelmshoehe": "Schöne Ferienwohnungen direkt um die Ecke. Von unserer Wohnung Löwenburg gehst du 14 Minuten zum Schloss.",
+    "loewenburg-kassel": "Von unserer Wohnung Löwenburg sind es 18 Minuten zu Fuß bis zur echten Löwenburg.",
+    "schloss-wilhelmshoehe": "Schöne Ferienwohnungen gleich um die Ecke, von unserer Wohnung Löwenburg sind es 14 Minuten zum Schloss.",
+    "habichtswald-wandern": "Nach der Tour die Füße hochlegen, in unserer Ferienwohnung 14 Minuten zu Fuß vom Schloss.",
+    "kurhessen-therme": "Nach der Therme ist es nicht weit, unsere Ferienwohnungen liegen im selben Stadtteil.",
+    "bad-wilhelmshoehe": "Mittendrin wohnen, unsere Ferienwohnungen liegen hier in Bad Wilhelmshöhe.",
+    "kassel-im-fruehling": "Für ein paar Frühlingstage am Bergpark, schöne Ferienwohnungen gleich um die Ecke vom Schloss.",
+    "parken-bahnhof-wilhelmshoehe": "An unseren Ferienwohnungen parkst du kostenlos an der Straße, ganz ohne Parkhaus.",
+    "documenta-2027": "Nach einem langen Tag auf der documenta zurück ins Grüne, in eine unserer Ferienwohnungen.",
+    "documenta-uebernachten": "Ferienwohnungen für die documenta 2027, mit der Tram schnell in der Innenstadt.",
+    "kassel-mit-kindern": "Mehr Platz als im Hotelzimmer, unsere Wohnung Löwenburg hat zwei Schlafzimmer und eine eigene Küche.",
+    "kassel-bei-regen": "Regentag? Zurück in die eigene Ferienwohnung mit Küche am Bergpark.",
+    "grimmwelt-kassel": "Nach der Grimmwelt zurück ins Grüne, in eine Ferienwohnung mit eigener Küche am Bergpark.",
+    "orangerie-karlsaue": "Nach der Karlsaue zurück an den Bergpark, in eine Ferienwohnung mit eigener Küche.",
+    "kletterwald-kassel": "Nach dem Klettern ausruhen, in unserer Wohnung Löwenburg mit zwei Schlafzimmern am Bergpark.",
+    "planetarium-kassel": "Nach dem Sternenhimmel im Planetarium zurück in die eigene Ferienwohnung am Bergpark.",
+    "weihnachtsmarkt-kassel": "Nach dem Glühwein in den warmen Whirlpool, im Garten unserer Wohnung Herkules.",
+    "winterzauber-kassel": "Nach dem Winterzauber in den beheizten Whirlpool unserer Wohnung Herkules.",
+    "kliniken-angehoerige": "Ferienwohnungen mit eigener Küche im selben Stadtteil wie die Kliniken, auch für längere Aufenthalte.",
+    "kassel-altstadt": "Nach dem Stadtbummel zurück ins Grüne, unsere Ferienwohnungen liegen am Bergpark.",
+    "kassel-geheimtipps": "Ruhig wohnen am Bergpark, in einer unserer Ferienwohnungen in Bad Wilhelmshöhe.",
+    "kassel-sehenswuerdigkeiten": "Schöne Ferienwohnungen am Bergpark, mit der Linie 4 schnell in der Innenstadt.",
+    "kassel-steig-bus-tram": "Mit der Linie 4 bis vor unsere Ferienwohnungen in Bad Wilhelmshöhe.",
+    "kassel-wochenende": "Fürs Wochenende eine eigene Ferienwohnung am Bergpark, mit Küche und kostenlosem Parken an der Straße.",
+    "termine-kassel-2027": "Für die großen Termine 2027 eine eigene Ferienwohnung am Bergpark, mit Küche und kostenlosem Parken.",
+    "uebernachten-kassel": "Schöne Ferienwohnungen direkt am Bergpark, vom Apartment für zwei bis zur Wohnung mit Garten für sechs.",
+    "zissel-kassel": "Nach dem Zissel an der Fulda mit der Tram zurück in die Ferienwohnung am Bergpark.",
+}
 # Kein Einzeiler auf diesen Seiten
 OHNE_ZEILE = {"impressum", "datenschutz", "bildnachweise", "ueber-uns", "404", "index"}
 
@@ -361,6 +396,7 @@ addEventListener('load',function(){{setTimeout(w,120)}});setTimeout(w,600)}})();
 def eigen_zeile(slug, tiefe):
     """Schmaler Streifen „In eigener Sache“ früh im Text (Aaron, 16.11.2026)."""
     _, _, _, _, zeile, kurz, seite_, _, _ = empfehlung(slug)
+    zeile = ZEILE_SEITE.get(slug, zeile)
     href, rel = eigen_link(slug, tiefe, "zeile")
     knopf = "Wohnung ansehen" if seite_ else "Wohnungen ansehen"
     return (f'<aside class="eigen-zeile" aria-label="In eigener Sache"><span class="etikett">In eigener Sache</span>'
@@ -435,7 +471,7 @@ def kopf_und_fuss(slug, tiefe, alle):
 <nav class="haupt" aria-label="Hauptnavigation">{nav}</nav>
 <details class="menue"><summary aria-label="Menü öffnen"><span class="striche" aria-hidden="true"><i></i><i></i><i></i></span>Menü</summary>
 <nav class="menue-tafel" aria-label="Menü"><p class="dach">Planen</p><div class="menue-haupt">{nav}</div><p class="dach">Alle Themen</p><div class="menue-themen">{themen}</div></nav></details>
-</div></header>
+</div><div class="lesefortschritt" aria-hidden="true"><span></span></div></header>
 <nav class="themen" aria-label="Themen"><div class="breite">{themen}</div></nav>"""
     fuss_links = " · ".join(f'<a href="{tiefe}{s}/">{t}</a>' for s, t in FUSS)
     fuss = f"""<footer class="fuss"><div class="breite">
@@ -684,7 +720,7 @@ def startseite(meta, h1_text, lede, rest, alle):
             aktuell_html = f"""<section class="breite aktuell"><figure class="polaroid">{titelbild_tag(m["bild"], "", ' loading="lazy"')}<figcaption>{html.escape(m.get("kurz", ""))}</figcaption></figure>
 <div class="zettel"><b class="marke">{html.escape(dach)}</b><p class="gross-zettel">{html.escape(m["titel"].split(":")[0])}</p><p>{html.escape(satz)}</p><a class="mehr" href="{s}/">Alles dazu lesen</a></div></section>"""
             break
-    skript = """<script>(function(){var d=[].slice.call(document.querySelectorAll('.dia')),b=[].slice.call(document.querySelectorAll('.reiter button')),i=0,t;if(d.length<2)return;function z(n){d[i].classList.remove('an');b[i].classList.remove('an');i=n;d[i].classList.add('an');b.forEach(function(x,k){x.classList.toggle('vorbei',k<i)});void b[i].offsetWidth;b[i].classList.add('an');clearTimeout(t);t=setTimeout(function(){z((i+1)%d.length)},7000)}b.forEach(function(x,k){x.onclick=function(){z(k)}});var s=document.querySelector('.buehne'),x0=null;s.addEventListener('touchstart',function(e){x0=e.touches[0].clientX},{passive:true});s.addEventListener('touchend',function(e){if(x0===null)return;var dx=e.changedTouches[0].clientX-x0;x0=null;if(Math.abs(dx)>40)z((i+(dx<0?1:d.length-1))%d.length)},{passive:true});z(0)})();</script>"""
+    skript = """<script>(function(){var d=[].slice.call(document.querySelectorAll('.dia')),b=[].slice.call(document.querySelectorAll('.reiter button')),i=0,t;if(d.length<2)return;function z(n){d[i].classList.remove('an');b[i].classList.remove('an');i=n;d[i].classList.add('an');b.forEach(function(x,k){x.classList.toggle('vorbei',k<i)});void b[i].offsetWidth;b[i].classList.add('an');clearTimeout(t);t=setTimeout(function(){z((i+1)%d.length)},matchMedia('(max-width:760px)').matches?4500:7000)}b.forEach(function(x,k){x.onclick=function(){z(k)}});var s=document.querySelector('.buehne'),x0=null;s.addEventListener('touchstart',function(e){x0=e.touches[0].clientX},{passive:true});s.addEventListener('touchend',function(e){if(x0===null)return;var dx=e.changedTouches[0].clientX-x0;x0=null;if(Math.abs(dx)>40)z((i+(dx<0?1:d.length-1))%d.length)},{passive:true});z(0)})();</script>"""
     return f"""{buehne}
 <main id="inhalt">
 <section class="breite start-intro"><div><h1>{h1_text}</h1><p class="lede">{lede}</p></div>{stapel}</section>
@@ -790,6 +826,8 @@ def main():
         text = seite(meta, h, faq, toc, alle)
         if 'class="eigen"' in text:
             text = text.replace("</body>", EIGEN_JS + "\n</body>", 1)
+        if 'class="lesefortschritt"' in text:
+            text = text.replace("</body>", FORTSCHRITT_JS + "\n</body>", 1)
         if 'class="strecke"' in text:
             text = text.replace("</body>", STRECKE_JS + "\n</body>", 1)
         if ZAEHLER and slug != "404":
