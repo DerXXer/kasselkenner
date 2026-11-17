@@ -100,7 +100,7 @@ MENUE_GRUPPEN = [
     ("Stadt & Stadtteile", ["kassel-sehenswuerdigkeiten", "kassel-altstadt", "kassel-geheimtipps", "bad-wilhelmshoehe",
                             "kurhessen-therme"]),
     ("Wandern & Natur", ["habichtswald-wandern", "kassel-steig-bus-tram", "kassel-mit-hund"]),
-    ("Anreise & Parken", ["mit-bus-und-bahn-zum-bergpark", "parken-bahnhof-wilhelmshoehe"]),
+    ("Anreise & Parken", ["parken-kassel-innenstadt", "mit-bus-und-bahn-zum-bergpark", "parken-bahnhof-wilhelmshoehe"]),
     ("Übernachten & Wochenende", ["documenta-uebernachten", "kassel-wochenende", "kliniken-angehoerige"]),
 ]
 # „Gerade aktuell“: (von MMTT, bis MMTT, Jahr oder None, Seite, Dachzeile, Satz) – erster Treffer zum Bautag gilt
@@ -305,7 +305,7 @@ for _thema, _seiten in {
         "wasser": ["wasserspiele-kassel", "beleuchtete-wasserspiele", "steinhoefer-wasserfall"],
         "berg": ["herkules-kassel", "bergpark-wilhelmshoehe", "loewenburg-kassel", "schloss-wilhelmshoehe", "habichtswald-wandern",
                  "kurhessen-therme", "bad-wilhelmshoehe", "kassel-im-fruehling", "aussichtspunkte-kassel"],
-        "parken": ["parken-bergpark-wilhelmshoehe", "parken-bahnhof-wilhelmshoehe"],
+        "parken": ["parken-bergpark-wilhelmshoehe", "parken-bahnhof-wilhelmshoehe", "parken-kassel-innenstadt"],
         "bahn": ["mit-bus-und-bahn-zum-bergpark"],
         "kunst": ["documenta-2027", "documenta-uebernachten"],
         "familie": ["kassel-mit-kindern", "kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue", "kletterwald-kassel",
@@ -349,6 +349,7 @@ ZEILE_SEITE = {
     "uebernachten-kassel": "Schöne Ferienwohnungen direkt am Bergpark, vom Apartment für zwei bis zur Wohnung mit Garten für sechs.",
     "zissel-kassel": "Nach dem Zissel an der Fulda mit der Tram zurück in die Ferienwohnung am Bergpark.",
     "aussichtspunkte-kassel": "Den Herkules jeden Tag im Blick, in unseren Ferienwohnungen am Bergpark.",
+    "parken-kassel-innenstadt": "Bei uns parkst du kostenlos an der Straße, die Linie 4 fährt dich zum Friedrichsplatz.",
     "kassel-im-winter": "Nach dem Winterspaziergang in den beheizten Whirlpool im Garten unserer Wohnung Herkules.",
 }
 # Kein Einzeiler auf diesen Seiten
