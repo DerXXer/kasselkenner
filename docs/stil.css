@@ -415,6 +415,35 @@ tr:nth-child(even) td{background:var(--grund)}
 .kalender-abo .klein{font-size:14px;color:var(--leise);margin:0;overflow-wrap:anywhere}
 tr[id^="etappe-"]{scroll-margin-top:120px}
 tr[id^="etappe-"]:target td{background:var(--zettel)}
+/* Titelbild wächst mit der Überschrift und rutscht nie unter den Kopf (Aaron, 18.11.2026) */
+.held:not(.ohne-bild){display:flex;flex-direction:column;justify-content:flex-end;height:auto;min-height:max(440px,min(70vh,640px))}
+.held:not(.ohne-bild) img{position:absolute;inset:0}
+.held:not(.ohne-bild) .text{position:relative;bottom:auto;padding:28px 0 118px}
+.dia .gross{font-size:clamp(42px,min(8vw,14vh),100px)}
+@media (max-width:1023px) and (min-width:761px){
+  .reiter button{width:104px}
+  .reiter .breite{gap:10px}
+  .dia .text{bottom:178px}
+  .reiter .cap{font-size:14px;padding:4px 0 6px}
+}
+@media (max-height:700px) and (min-width:1024px){
+  .held:not(.ohne-bild){min-height:max(300px,52vh)}
+  .held:not(.ohne-bild) .text{padding-bottom:96px}
+  .buehne{min-height:460px}
+  .dia .text{bottom:112px}
+  .reiter button{width:104px}
+  .reiter .cap{font-size:14px;padding:4px 0 6px}
+  .reiter .breite{gap:10px}
+  .dia .gross{font-size:clamp(40px,11vh,72px);margin:6px 0 16px;max-width:640px}
+}
+@media (max-width:760px){
+  .held:not(.ohne-bild) .text{padding-bottom:104px}
+}
+@media (max-width:600px){
+  .held:not(.ohne-bild){min-height:max(250px,38vh)}
+  .held:not(.ohne-bild) .text{padding:20px 0 66px}
+  .dia .gross{font-size:34px}
+}
 /* Druckansicht: nur Inhalt (Linkplan 17.11.2026) */
 @media print{
   .kopf,.themen,.menue,.sprung,.lesefortschritt,.eigen,.eigen-zeile,.kalender-abo,.fuss,.toc{display:none!important}
