@@ -130,21 +130,21 @@ th{text-align:left;font:800 13px Archivo,sans-serif;text-transform:uppercase;let
 td{padding:10px 12px;border-bottom:1px solid var(--linie);vertical-align:top}
 tr:nth-child(even) td{background:var(--grund)}
 /* Monatskalender (Tabellen „Monat | Wasserspieltage JJJJ“, Aaron 17.11.2026) */
-.kalender-monate{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px;margin:18px 0 12px}
-.monat{margin:0;padding:14px 14px 12px;background:#fff;border:1px solid var(--linie);border-top:4px solid var(--wein);border-radius:4px}
-.monat figcaption{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font:800 15px Archivo,sans-serif;text-transform:uppercase;letter-spacing:.05em;color:var(--wein);margin:0 0 10px}
-.monat figcaption span{font:600 12px "Instrument Sans",sans-serif;text-transform:none;letter-spacing:0;color:var(--leise)}
-.monat .tage{display:grid;grid-template-columns:repeat(7,1fr);gap:3px;text-align:center;font:500 13px/1 "Instrument Sans",sans-serif;font-variant-numeric:tabular-nums}
-.monat .tage b{font:700 10px/1 Archivo,sans-serif;color:var(--leise);padding:2px 0 5px}
+.kalender-monate{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:14px 0 8px} /* kompakt, drei Spalten (Aaron, 17.11.2026: nimmt zu viel Platz ein) */
+.monat{margin:0;padding:8px 8px 6px;background:#fff;border:1px solid var(--linie);border-top:3px solid var(--wein);border-radius:4px}
+.monat figcaption{display:flex;justify-content:space-between;align-items:baseline;gap:6px;font:800 12px Archivo,sans-serif;text-transform:uppercase;letter-spacing:.04em;color:var(--wein);margin:0 0 5px}
+.monat figcaption span{font:600 11px "Instrument Sans",sans-serif;text-transform:none;letter-spacing:0;color:var(--leise)}
+.monat .tage{display:grid;grid-template-columns:repeat(7,1fr);gap:1px;text-align:center;font:500 11px/1 "Instrument Sans",sans-serif;font-variant-numeric:tabular-nums}
+.monat .tage b{font:700 9px/1 Archivo,sans-serif;color:var(--leise);padding:0 0 3px}
 .monat .tage i{font-style:normal;display:grid;place-items:center;aspect-ratio:1;border-radius:50%;color:#8a827b}
 .monat .tage i.an{background:var(--wein);color:#fff;font-weight:700}
 .monat .tage i.fest{background:var(--sonne);color:#fff;font-weight:700}
 .nur-lesen{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-.legende{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px;color:var(--leise);margin:0 0 36px}
+.legende{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:13px;color:var(--leise);margin:0 0 28px}
 .legende span{display:inline-flex;align-items:center;gap:7px}
 .legende i{width:12px;height:12px;border-radius:50%;background:var(--wein)}
 .legende i.fest{background:var(--sonne)}
-@media (max-width:480px){.kalender-monate{grid-template-columns:1fr 1fr;gap:10px}.monat{padding:10px 8px 8px}.monat figcaption{font-size:13px;flex-direction:column;gap:2px}.monat .tage{gap:2px;font-size:11.5px}}
+@media (max-width:520px){.kalender-monate{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}}
 
 .hinweis{margin:48px 0 48px 12px;max-width:560px}
 .faq{border-bottom:1px solid var(--linie);padding:4px 0}
