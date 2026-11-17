@@ -89,6 +89,20 @@ VORHABEN = [
     ("Übernachten & Wochenende", "Welcher Stadtteil passt zu dir, und wie du zwei Tage füllst.", "uebernachten-kassel",
      ["kassel-wochenende", "kassel-sehenswuerdigkeiten", "kassel-geheimtipps"]),
 ]
+# Handy-Menü: eigene Gruppen, kleiner als „Weitere Themen“ (Aaron, 17.11.2026); Seiten, die noch nicht online sind, fallen weg
+MENUE_GRUPPEN = [
+    ("Bergpark & Wasserspiele", ["herkules-kassel", "loewenburg-kassel", "schloss-wilhelmshoehe", "beleuchtete-wasserspiele",
+                                 "steinhoefer-wasserfall", "aussichtspunkte-kassel"]),
+    ("Feste & Jahreszeiten", ["weihnachtsmarkt-kassel", "winterzauber-kassel", "kassel-im-winter", "kassel-im-fruehling",
+                              "zissel-kassel", "termine-kassel-2027"]),
+    ("Mit Kindern & bei Regen", ["kassel-mit-kindern", "kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue",
+                                 "planetarium-kassel", "kletterwald-kassel"]),
+    ("Stadt & Stadtteile", ["kassel-sehenswuerdigkeiten", "kassel-altstadt", "kassel-geheimtipps", "bad-wilhelmshoehe",
+                            "kurhessen-therme"]),
+    ("Wandern & Natur", ["habichtswald-wandern", "kassel-steig-bus-tram", "kassel-mit-hund"]),
+    ("Anreise & Parken", ["mit-bus-und-bahn-zum-bergpark", "parken-bahnhof-wilhelmshoehe"]),
+    ("Übernachten & Wochenende", ["documenta-uebernachten", "kassel-wochenende", "kliniken-angehoerige"]),
+]
 # „Gerade aktuell“: (von MMTT, bis MMTT, Jahr oder None, Seite, Dachzeile, Satz) – erster Treffer zum Bautag gilt
 AKTUELL = [
     ("0721", "0805", None, "zissel-kassel", "Gerade aktuell", "Sommerfest an der Fulda: Boote, Musik und lange Abende am Wasser."),
@@ -479,14 +493,14 @@ def menue_tafel(slug, tiefe, alle):
 
     teile = [gruppe(0, "Planen", "menue-haupt", [zeile(s, t) for s, t in NAV if s in alle])]
     gesehen = {s for s, _ in NAV}
-    for nr, (titel, _, haupt, weitere) in enumerate(VORHABEN, 1):
-        seiten = [s for s in [haupt] + weitere if s in alle and s not in gesehen]
+    for nr, (titel, liste) in enumerate(MENUE_GRUPPEN, 1):
+        seiten = [s for s in liste if s in alle and s not in gesehen]
         gesehen.update(seiten)
         if seiten:
             teile.append(gruppe(nr, titel, "menue-liste", [zeile(s, html.escape(alle[s].get("kurz", s))) for s in seiten]))
     rest = [s for s in THEMEN if s in alle and s not in gesehen]
     if rest:
-        teile.append(gruppe(len(VORHABEN) + 1, "Weitere Themen", "menue-liste", [zeile(s, html.escape(alle[s].get("kurz", s))) for s in rest]))
+        teile.append(gruppe(len(MENUE_GRUPPEN) + 1, "Weitere Themen", "menue-liste", [zeile(s, html.escape(alle[s].get("kurz", s))) for s in rest]))
     return "".join(teile)
 
 
