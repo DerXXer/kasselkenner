@@ -213,7 +213,7 @@ def markdown(rumpf):
                 bilder_im_text += 1
             aus.append(f'<figure class="polaroid im-text {seite_}"><img src="../bilder/{stem}-600.webp" '
                        f'srcset="../bilder/{stem}-600.webp 600w, ../bilder/{stem}.webp 1200w" sizes="(max-width:760px) 80vw, 420px" '
-                       f'alt="{html.escape(alt)}" width="1200" height="900" loading="lazy"><figcaption>{html.escape(unterschrift)}<small class="nachweis">{bild_nachweis_kurz(datei)}</small></figcaption></figure>')
+                       f'alt="{html.escape(alt)}" width="1200" height="900" loading="lazy"><figcaption>{html.escape(unterschrift)}</figcaption></figure>')
             i += 1
             continue
         if z.startswith("> "):
@@ -358,23 +358,6 @@ addEventListener('load',function(){{setTimeout(w,120)}});setTimeout(w,600)}})();
 """
 
 
-def bild_nachweis_kurz(bild, tiefe=""):
-    """Kurze Namensnennung am Bild: „Foto: Urheber, Lizenz“ mit Link auf die Lizenz (Aaron, 16.11.2026)."""
-    n = BILDNACHWEIS.get(bild, {})
-    if not n:
-        return ""
-    if n.get("lizenz", "").startswith("eigen"):
-        return "Foto: Wohnen am Bergpark"
-    u = n.get("urheber", "")
-    u = re.sub(r"\s*\(talk\).*$", "", u)
-    u = re.sub(r"^User:\s*(.+?)\s+at\s+\w+\s+shared$", r"\1", u)
-    u = re.sub(r"^Foto von\s+(.+?)\s+bei\s+\w+$", r"\1", u)
-    u = u.lstrip("© ").strip()
-    lz, lu = html.escape(n.get("lizenz", "")), n.get("lizenz_url", "")
-    lizenz = f'<a href="{html.escape(lu)}" rel="noopener license">{lz}</a>' if lu.startswith("http") else lz
-    return f"Foto: {html.escape(u)}, {lizenz}"
-
-
 def eigen_zeile(slug, tiefe):
     """Schmaler Streifen „In eigener Sache“ früh im Text (Aaron, 16.11.2026)."""
     _, _, _, _, zeile, kurz, seite_, _, _ = empfehlung(slug)
@@ -411,7 +394,7 @@ def eigenwerbung(slug, tiefe, quer=False):
     href, rel = eigen_link(slug, tiefe, "kasten")
     knopf = "Wohnung ansehen" if seite_ else "Wohnungen ansehen"
     return f"""<aside class="eigen{' quer' if quer else ''}" aria-label="In eigener Sache">
-<figure class="polaroid"><img src="{tiefe}bilder/{Path(bild).stem}-600.webp" alt="{html.escape(BILDNACHWEIS.get(bild, {}).get("alt", ""))}" width="1000" height="667" decoding="async"><figcaption>{unterschrift}<small class="nachweis">{bild_nachweis_kurz(bild)}</small></figcaption></figure>
+<figure class="polaroid"><img src="{tiefe}bilder/{Path(bild).stem}-600.webp" alt="{html.escape(BILDNACHWEIS.get(bild, {}).get("alt", ""))}" width="1000" height="667" decoding="async"><figcaption>{unterschrift}</figcaption></figure>
 <div class="k"><p class="dach">In eigener Sache</p>
 <h3>{titel}</h3>
 <p>{satz}</p>
@@ -592,7 +575,7 @@ def seite(meta, inhalt_html, faq, toc, alle):
         if bild:
             held = f"""<section class="held">{titelbild_tag(bild, tiefe, ' fetchpriority="high"')}
 <div class="text"><div class="breite"><div class="krumen"><a href="{tiefe or './'}">Start</a> / {html.escape(meta.get("kurz", ""))}</div><h1 class="gross"{groesse}>{h1_text}</h1></div></div>
-{foto_zeile(bild, tiefe)}</section>"""
+</section>"""
         else:
             held = f'<section class="held ohne-bild"><div class="text"><div class="breite"><h1 class="gross"{groesse}>{h1_text}</h1></div></div></section>'
         blick = blick_lesen(meta.get("blick"))
@@ -669,26 +652,17 @@ def seite(meta, inhalt_html, faq, toc, alle):
 """
 
 
-def foto_zeile(bild, tiefe):
-    """Namensnennung am Bild, gleich bei Titelbildern und im Startseiten-Slider."""
-    kurz = bild_nachweis_kurz(bild)
-    if not kurz:
-        return ""
-    zusatz = "" if BILDNACHWEIS.get(bild, {}).get("lizenz", "").startswith("eigen") else ", zugeschnitten"
-    return f'<div class="foto">{kurz}{zusatz} · <a href="{tiefe}bildnachweise/">Nachweis</a></div>'
-
-
 def startseite(meta, h1_text, lede, rest, alle):
     dias, reiter = [], []
     for nr, (s, dach, frage, knopf) in enumerate([d for d in START_DIAS if d[0] in alle and alle[d[0]].get("bild")]):
         m = alle[s]
         titel = html.escape(frage)
         dias.append(f"""<div class="dia{' an' if nr == 0 else ''}">{titelbild_tag(m["bild"], "", ' fetchpriority="high"' if nr == 0 else ' loading="lazy"')}
-<div class="text"><div class="breite"><div class="dach">{html.escape(dach)}</div><p class="gross">{titel}</p><a class="knopf" href="{s}/">{html.escape(knopf)}</a></div></div>{foto_zeile(m["bild"], "")}</div>""")
+<div class="text"><div class="breite"><div class="dach">{html.escape(dach)}</div><p class="gross">{titel}</p><a class="knopf" href="{s}/">{html.escape(knopf)}</a></div></div></div>""")
         reiter.append(f'<button type="button"{" class=\"an\"" if nr == 0 else ""} aria-label="{html.escape(m.get("kurz", s))}"><img src="bilder/{Path(m["bild"]).stem}-600.webp" alt="{html.escape(BILDNACHWEIS.get(m["bild"], {}).get("alt", ""))}" width="240" height="180" loading="lazy"><span class="cap">{html.escape(m.get("kurz", s))}</span><span class="balken"><i></i></span></button>')
     buehne = f"""<section class="buehne" aria-label="Aktuelle Themen">{"".join(dias)}
 <div class="reiter"><div class="breite">{"".join(reiter)}</div></div></section>""" if dias else ""
-    stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules<small class="nachweis">{bild_nachweis_kurz(EIGEN_BILD)}</small></figcaption></figure>
+    stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules</figcaption></figure>
 <div class="zettel notiz"><b class="marke">Mein Lieblingsmoment</b><p>Wenn um 15.45 Uhr die Große Fontäne hochgeht und alle, die sich zu nah ans Wasser gestellt haben, plötzlich nass werden.</p><span class="unterschrift">Aaron</span></div></div>"""
     alle_artikel = [s for s, m in alle.items() if m.get("art", "artikel") == "artikel" and s != "index"]
     vorhaben = []
@@ -707,7 +681,7 @@ def startseite(meta, h1_text, lede, rest, alle):
         drin = (von <= md <= bis) if von <= bis else (md >= von or md <= bis)
         if drin and (jahr is None or jahr == heute.year) and s in alle and alle[s].get("bild"):
             m = alle[s]
-            aktuell_html = f"""<section class="breite aktuell"><figure class="polaroid">{titelbild_tag(m["bild"], "", ' loading="lazy"')}<figcaption>{html.escape(m.get("kurz", ""))}<small class="nachweis">{bild_nachweis_kurz(m["bild"])}</small></figcaption></figure>
+            aktuell_html = f"""<section class="breite aktuell"><figure class="polaroid">{titelbild_tag(m["bild"], "", ' loading="lazy"')}<figcaption>{html.escape(m.get("kurz", ""))}</figcaption></figure>
 <div class="zettel"><b class="marke">{html.escape(dach)}</b><p class="gross-zettel">{html.escape(m["titel"].split(":")[0])}</p><p>{html.escape(satz)}</p><a class="mehr" href="{s}/">Alles dazu lesen</a></div></section>"""
             break
     skript = """<script>(function(){var d=[].slice.call(document.querySelectorAll('.dia')),b=[].slice.call(document.querySelectorAll('.reiter button')),i=0,t;if(d.length<2)return;function z(n){d[i].classList.remove('an');b[i].classList.remove('an');i=n;d[i].classList.add('an');b.forEach(function(x,k){x.classList.toggle('vorbei',k<i)});void b[i].offsetWidth;b[i].classList.add('an');clearTimeout(t);t=setTimeout(function(){z((i+1)%d.length)},7000)}b.forEach(function(x,k){x.onclick=function(){z(k)}});var s=document.querySelector('.buehne'),x0=null;s.addEventListener('touchstart',function(e){x0=e.touches[0].clientX},{passive:true});s.addEventListener('touchend',function(e){if(x0===null)return;var dx=e.changedTouches[0].clientX-x0;x0=null;if(Math.abs(dx)>40)z((i+(dx<0?1:d.length-1))%d.length)},{passive:true});z(0)})();</script>"""

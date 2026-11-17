@@ -3,7 +3,7 @@ titel: Kliniken Bad Wilhelmshöhe: Besuch, Anreise, Parken
 beschreibung: Kliniken in Bad Wilhelmshöhe besuchen: Anreise mit Tram 1 und 4, Parken, Besuchsregeln, Café in der Nähe und Pausen im Bergpark.
 slug: kliniken-angehoerige
 kurz: Kliniken
-bild: kurviertel-villa-kurhausstrasse.jpg
+bild: kliniken-wigandstrasse.jpg
 stand: 2026-11-05
 blick: Kliniken=5 am Bergpark | Tram=Linie 1 und 4 | Vom Bahnhof zu Fuß=18 bis 23 Min. | Parken=Tiefgarage und Klinikparkplätze | Zum Schloss zu Fuß=12 bis 20 Min.
 weiter: bergpark-wilhelmshoehe, parken-bergpark-wilhelmshoehe, uebernachten-kassel
