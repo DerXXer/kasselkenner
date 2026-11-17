@@ -11,6 +11,9 @@ import html, json, re, shutil, subprocess, sys
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import kalender  # Kalender zum Abonnieren (Linkplan 17.11.2026)
+
 WURZEL = Path(__file__).resolve().parent.parent
 INHALT, AUS, BILDER = WURZEL / "inhalt", WURZEL / "docs", WURZEL / "bilder"
 DOMAIN = "https://kasselkenner.de"
@@ -121,7 +124,7 @@ MENUE_JS = """<script>(function(){var d=document.querySelector('.menue');if(!d)r
 # Linienplan: Wasser „fließt“ beim Scrollen die Strecke hinab, erreichte Stationen leuchten orange.
 # Erst alle Maße lesen, dann alle Klassen und Werte schreiben (kein Wechsel von Lesen und Schreiben)
 STRECKE_JS = """<script>(function(){var s=[].slice.call(document.querySelectorAll('.strecke'));if(!s.length)return;s.forEach(function(o){o.classList.add('lebt')});var w=0;function f(){w=0;var m=innerHeight*0.6,a=s.map(function(o){var r=o.getBoundingClientRect();return [o,Math.max(0,Math.min(1,(m-r.top)/r.height)),[].map.call(o.children,function(l){var q=l.getBoundingClientRect();return q.top+q.height/2<m})]});a.forEach(function(x){x[0].style.setProperty('--f',x[1].toFixed(3));[].forEach.call(x[0].children,function(l,i){l.classList.toggle('an',x[2][i])})})}function g(){if(!w){w=1;requestAnimationFrame(f)}}addEventListener('scroll',g,{passive:true});addEventListener('resize',g);g()})();</script>"""
-# Google „bevorzugte Quelle“ (Aaron, 16.11.2026): im Fuß jeder Seite und auf Über uns
+# Google „bevorzugte Quelle“ (Aaron, 16.11.2026): nur noch auf Über uns (Linkplan 17.11.2026: Fußzeile ohne)
 BEVORZUGT = ('<a href="https://www.google.com/preferences/source?q=kasselkenner.de" rel="noopener">'
              'Kasselkenner bei Google als bevorzugte Quelle wählen</a>')
 FUSS = [("ueber-uns", "Über uns"), ("bildnachweise", "Bildnachweise"),
@@ -203,7 +206,8 @@ def markdown(rumpf):
                 continue
             kopf = "".join(f"<th>{inline(c)}</th>" for c in reihen[0])
             namen = [html.escape(re.sub(r"[*_`]", "", c).strip()) for c in reihen[0]]
-            koerper = "".join("<tr>" + "".join(f'<td data-k="{namen[i] if i < len(namen) else ""}">{inline(c)}</td>' for i, c in enumerate(r)) + "</tr>" for r in reihen[1:])
+            etappen = reihen[0][0].lower() == "etappe"
+            koerper = "".join((f'<tr id="etappe-{r[0]}">' if etappen and r[0].isdigit() else "<tr>") + "".join(f'<td data-k="{namen[i] if i < len(namen) else ""}">{inline(c)}</td>' for i, c in enumerate(r)) + "</tr>" for r in reihen[1:])
             aus.append(f'<div class="tabelle{" breit" if len(reihen[0]) >= 3 else ""}"><table><thead><tr>{kopf}</tr></thead><tbody>{koerper}</tbody></table></div>')
             continue
         if re.match(r"(- |\d+\. )", z):
@@ -353,7 +357,8 @@ ZEILE_SEITE = {
     "kassel-im-winter": "Nach dem Winterspaziergang in den beheizten Whirlpool im Garten unserer Wohnung Herkules.",
 }
 # Kein Einzeiler auf diesen Seiten
-OHNE_ZEILE = {"impressum", "datenschutz", "bildnachweise", "ueber-uns", "404", "index"}
+OHNE_ZEILE = {"impressum", "datenschutz", "bildnachweise", "ueber-uns", "404", "index",
+              "kliniken-angehoerige"}  # Klinikseite: nur der Kasten am Ende (Linkplan 17.11.2026)
 
 
 def empfehlung(slug):
@@ -522,7 +527,6 @@ def kopf_und_fuss(slug, tiefe, alle):
 <div class="wortmarke"><b>KASSEL</b><i>kenner.</i></div>
 <p>Bergpark, Wasserspiele und documenta: Tipps für deinen Besuch in Kassel. Angaben ohne Gewähr; Termine und Preise ändern sich, im Zweifel gilt die Seite des Veranstalters.</p>
 <p class="fuss-links">{fuss_links}</p>
-<p class="bevorzugt">{BEVORZUGT}</p>
 </div></footer>"""
     return kopf, fuss
 
@@ -860,6 +864,9 @@ def main():
         rumpf = zaehler_zeilen(rumpf)
         rumpf, quellen = quellen_block(rumpf)
         h, faq, toc = markdown(rumpf)
+        if slug in kalender.KASTEN:
+            k = kalender.kasten(slug, "../")
+            h = h.replace('<h2 id="haeufige-fragen"', k + '\n<h2 id="haeufige-fragen"', 1) if 'id="haeufige-fragen"' in h else h + "\n" + k
         if quellen:
             h += "\n" + quellen
             toc.append(("quellen", "Quellen"))
@@ -888,6 +895,7 @@ def main():
     (AUS / f"{INDEXNOW}.txt").write_text(INDEXNOW)
     (AUS / "stil.css").write_text((WURZEL / "vorlage" / "schriften.css").read_text() + (WURZEL / "vorlage" / "stil.css").read_text())
     shutil.copytree(WURZEL / "vorlage" / "schriften", AUS / "schriften", dirs_exist_ok=True)
+    kalender.schreiben(AUS)
     heute = date.today().isoformat()
     karte = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']

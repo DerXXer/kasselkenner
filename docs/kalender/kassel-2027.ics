@@ -1,0 +1,878 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kasselkenner.de//Termine 2027//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Termine Kassel 2027
+X-WR-CALDESC:Wasserspiele\, Beleuchtete Wasserspiele\, documenta 16 und Zis
+ sel 2027\, gepflegt von kasselkenner.de
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-01@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270501T143000
+DTEND;TZID=Europe/Berlin:20270501T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-02@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270502T143000
+DTEND;TZID=Europe/Berlin:20270502T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-05@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270505T143000
+DTEND;TZID=Europe/Berlin:20270505T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-06@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270506T143000
+DTEND;TZID=Europe/Berlin:20270506T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-09@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270509T143000
+DTEND;TZID=Europe/Berlin:20270509T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-12@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270512T143000
+DTEND;TZID=Europe/Berlin:20270512T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-16@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270516T143000
+DTEND;TZID=Europe/Berlin:20270516T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-17@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270517T143000
+DTEND;TZID=Europe/Berlin:20270517T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-19@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270519T143000
+DTEND;TZID=Europe/Berlin:20270519T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-23@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270523T143000
+DTEND;TZID=Europe/Berlin:20270523T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-26@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270526T143000
+DTEND;TZID=Europe/Berlin:20270526T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-27@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270527T143000
+DTEND;TZID=Europe/Berlin:20270527T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-05-30@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270530T143000
+DTEND;TZID=Europe/Berlin:20270530T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-06-02@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270602T143000
+DTEND;TZID=Europe/Berlin:20270602T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-06-06@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270606T143000
+DTEND;TZID=Europe/Berlin:20270606T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-06-09@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270609T143000
+DTEND;TZID=Europe/Berlin:20270609T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-06-13@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270613T143000
+DTEND;TZID=Europe/Berlin:20270613T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-06-16@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270616T143000
+DTEND;TZID=Europe/Berlin:20270616T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-06-20@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270620T143000
+DTEND;TZID=Europe/Berlin:20270620T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-06-23@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270623T143000
+DTEND;TZID=Europe/Berlin:20270623T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-06-27@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270627T143000
+DTEND;TZID=Europe/Berlin:20270627T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-06-30@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270630T143000
+DTEND;TZID=Europe/Berlin:20270630T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-07-04@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270704T143000
+DTEND;TZID=Europe/Berlin:20270704T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-07-07@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270707T143000
+DTEND;TZID=Europe/Berlin:20270707T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-07-11@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270711T143000
+DTEND;TZID=Europe/Berlin:20270711T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-07-14@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270714T143000
+DTEND;TZID=Europe/Berlin:20270714T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-07-18@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270718T143000
+DTEND;TZID=Europe/Berlin:20270718T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-07-21@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270721T143000
+DTEND;TZID=Europe/Berlin:20270721T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-07-25@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270725T143000
+DTEND;TZID=Europe/Berlin:20270725T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-07-28@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270728T143000
+DTEND;TZID=Europe/Berlin:20270728T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-08-01@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270801T143000
+DTEND;TZID=Europe/Berlin:20270801T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-08-04@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270804T143000
+DTEND;TZID=Europe/Berlin:20270804T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-08-08@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270808T143000
+DTEND;TZID=Europe/Berlin:20270808T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-08-11@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270811T143000
+DTEND;TZID=Europe/Berlin:20270811T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-08-15@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270815T143000
+DTEND;TZID=Europe/Berlin:20270815T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-08-18@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270818T143000
+DTEND;TZID=Europe/Berlin:20270818T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-08-22@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270822T143000
+DTEND;TZID=Europe/Berlin:20270822T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-08-25@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270825T143000
+DTEND;TZID=Europe/Berlin:20270825T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-08-29@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270829T143000
+DTEND;TZID=Europe/Berlin:20270829T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-09-01@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270901T143000
+DTEND;TZID=Europe/Berlin:20270901T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-09-05@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270905T143000
+DTEND;TZID=Europe/Berlin:20270905T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-09-08@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270908T143000
+DTEND;TZID=Europe/Berlin:20270908T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-09-12@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270912T143000
+DTEND;TZID=Europe/Berlin:20270912T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-09-15@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270915T143000
+DTEND;TZID=Europe/Berlin:20270915T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-09-19@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270919T143000
+DTEND;TZID=Europe/Berlin:20270919T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-09-22@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270922T143000
+DTEND;TZID=Europe/Berlin:20270922T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-09-26@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270926T143000
+DTEND;TZID=Europe/Berlin:20270926T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-09-29@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270929T143000
+DTEND;TZID=Europe/Berlin:20270929T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wasserspiele-2027-10-03@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20271003T143000
+DTEND;TZID=Europe/Berlin:20271003T160000
+SUMMARY:Wasserspiele im Bergpark Wilhelmshöhe
+LOCATION:Bergpark Wilhelmshöhe\, Kassel (Beginn an den Kaskaden unterhalb 
+ des Herkules)
+DESCRIPTION:14.30 Uhr Kaskaden am Herkules\, 15.05 Steinhöfer Wasserfall\,
+  15.20 Teufelsbrücke\, 15.30 Aquädukt\, 15.45 Große Fontäne. Ablauf\, 
+ Parken und Anreise: https://kasselkenner.de/wasserspiele-kassel/ · Ohne G
+ ewähr\, Ausfälle (Wassermangel\, Unwetter) möglich.
+URL:https://kasselkenner.de/wasserspiele-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:beleuchtete-wasserspiele-2027-05-14@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Beleuchtete Wasserspiele im Bergpark
+LOCATION:Bergpark Wilhelmshöhe\, Kassel
+DESCRIPTION:Uhrzeit steht noch nicht fest. Stand und Ablauf: https://kassel
+ kenner.de/beleuchtete-wasserspiele/
+URL:https://kasselkenner.de/beleuchtete-wasserspiele/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:beleuchtete-wasserspiele-2027-05-15@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Beleuchtete Wasserspiele im Bergpark
+LOCATION:Bergpark Wilhelmshöhe\, Kassel
+DESCRIPTION:Uhrzeit steht noch nicht fest. Stand und Ablauf: https://kassel
+ kenner.de/beleuchtete-wasserspiele/
+URL:https://kasselkenner.de/beleuchtete-wasserspiele/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:documenta-16-2027@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270920
+SUMMARY:documenta 16 in Kassel
+LOCATION:Kassel
+DESCRIPTION:12. Juni bis 19. September 2027. Was du jetzt schon wissen kann
+ st: https://kasselkenner.de/documenta-2027/
+URL:https://kasselkenner.de/documenta-2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zissel-2027@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270803
+SUMMARY:Zissel an der Fulda
+LOCATION:Fulda-Ufer\, Kassel
+DESCRIPTION:Volks- und Wasserfest. Anreise und Programm: https://kasselkenn
+ er.de/zissel-kassel/
+URL:https://kasselkenner.de/zissel-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zissel-drachenboot-2027@kasselkenner.de
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+DTSTART;TZID=Europe/Berlin:20270731T093000
+DTEND;TZID=Europe/Berlin:20270731T170000
+SUMMARY:Zissel Drachenboot-Cup
+LOCATION:Gelände des CKS98\, Kassel
+DESCRIPTION:9.30 bis etwa 17 Uhr. Mehr zum Zissel: https://kasselkenner.de/
+ zissel-kassel/
+URL:https://kasselkenner.de/zissel-kassel/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

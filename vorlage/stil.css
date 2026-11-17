@@ -381,3 +381,23 @@ tr:nth-child(even) td{background:var(--grund)}
 /* Lesefortschritt unter der Kopfzeile (Aaron, 17.11.2026) */
 .lesefortschritt{position:absolute;left:0;right:0;bottom:-1px;height:3px;pointer-events:none}
 .lesefortschritt span{display:block;height:100%;background:var(--sonne);transform:scaleX(0);transform-origin:0 50%}
+
+/* Kalender zum Abonnieren (Linkplan 17.11.2026) */
+.kalender-abo{margin:36px 0;padding:20px 22px;background:var(--zettel2);border-radius:6px}
+.kalender-abo p{margin:0 0 10px}
+.kalender-abo .dach{margin:0 0 6px}
+.kalender-abo .knoepfe{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center}
+.kalender-abo .knoepfe a:not(.knopf){color:var(--wein);font-weight:700}
+.kalender-abo .klein{font-size:14px;color:var(--leise);margin:0;overflow-wrap:anywhere}
+tr[id^="etappe-"]{scroll-margin-top:120px}
+tr[id^="etappe-"]:target td{background:var(--zettel)}
+/* Druckansicht: nur Inhalt (Linkplan 17.11.2026) */
+@media print{
+  .kopf,.themen,.menue,.sprung,.lesefortschritt,.eigen,.eigen-zeile,.kalender-abo,.fuss,.toc{display:none!important}
+  body{background:#fff;color:#000}
+  a{color:#000;text-decoration:underline}
+  .held img{max-height:6cm;object-fit:cover}
+  .tabelle{overflow:visible}
+  table{font-size:11pt}
+  tr,li{break-inside:avoid}
+}
