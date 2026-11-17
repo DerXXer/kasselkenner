@@ -9,8 +9,10 @@ User-agent: Claude-SearchBot
 User-agent: Google-Extended
 User-agent: Applebot
 Allow: /
+Disallow: /zu/
 
 User-agent: *
 Allow: /
+Disallow: /zu/
 
 Sitemap: https://kasselkenner.de/sitemap.xml

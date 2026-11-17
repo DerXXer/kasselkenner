@@ -98,9 +98,14 @@ AKTUELL = [
     ("0401", "1003", None, "wasserspiele-kassel", "Die Saison läuft", "Mittwochs, sonntags und feiertags rauscht das Wasser den Herkules hinab."),
 ]
 # Empfehlungskarte: Klebeabstand so wählen, dass die ganze Karte im Fenster bleibt
-EIGEN_JS = """<script>(function(){var e=document.querySelector('.seite .eigen');if(!e)return;var k=document.querySelector('.kopf'),b=e.querySelector('.polaroid');function u(){var r=e.getBoundingClientRect(),q=b?b.getBoundingClientRect():r;return (k?k.offsetHeight:68)+12+Math.max(0,r.top-q.top)}function p(){return innerHeight-e.offsetHeight-16}function f(){e.classList.remove('knapp');e.style.position='';e.style.top='';var o=u(),t=p();if(t<o){e.classList.add('knapp');o=u();t=p()}if(t<o){e.style.position='static';return}e.style.top=Math.max(o,Math.min(140,t))+'px'}addEventListener('resize',f);addEventListener('load',f);if(document.fonts)document.fonts.ready.then(f);f()})();</script>"""
-# Linienplan: Wasser „fließt“ beim Scrollen die Strecke hinab, erreichte Stationen leuchten orange
-STRECKE_JS = """<script>(function(){var s=[].slice.call(document.querySelectorAll('.strecke'));if(!s.length)return;s.forEach(function(o){o.classList.add('lebt')});var w=0;function f(){w=0;var m=innerHeight*0.6;s.forEach(function(o){var r=o.getBoundingClientRect(),p=Math.max(0,Math.min(1,(m-r.top)/r.height));o.style.setProperty('--f',p.toFixed(3));[].forEach.call(o.children,function(l){var q=l.getBoundingClientRect();l.classList.toggle('an',q.top+q.height/2<m)})})}addEventListener('scroll',function(){if(!w){w=1;requestAnimationFrame(f)}},{passive:true});addEventListener('resize',f);f()})();</script>"""
+# Messen und Setzen je Durchgang gebündelt, nur einmal je Bild (requestAnimationFrame), 16.11.2026
+EIGEN_JS = """<script>(function(){var e=document.querySelector('.seite .eigen');if(!e)return;var k=document.querySelector('.kopf'),b=e.querySelector('.polaroid'),w=0;function u(){var r=e.getBoundingClientRect(),q=b?b.getBoundingClientRect():r;return (k?k.offsetHeight:68)+12+Math.max(0,r.top-q.top)}function p(){return innerHeight-e.offsetHeight-16}function f(){w=0;if(getComputedStyle(e).position!=='sticky'&&!e.style.position)return;e.classList.remove('knapp');e.style.position='';e.style.top='';var o=u(),t=p();if(t<o){e.classList.add('knapp');o=u();t=p()}if(t<o){e.style.position='static';return}e.style.top=Math.max(o,Math.min(140,t))+'px'}function g(){if(!w){w=1;requestAnimationFrame(f)}}addEventListener('resize',g);addEventListener('load',g);if(document.fonts)document.fonts.ready.then(g);g()})();</script>"""
+# Linienplan: Wasser „fließt“ beim Scrollen die Strecke hinab, erreichte Stationen leuchten orange.
+# Erst alle Maße lesen, dann alle Klassen und Werte schreiben (kein Wechsel von Lesen und Schreiben)
+STRECKE_JS = """<script>(function(){var s=[].slice.call(document.querySelectorAll('.strecke'));if(!s.length)return;s.forEach(function(o){o.classList.add('lebt')});var w=0;function f(){w=0;var m=innerHeight*0.6,a=s.map(function(o){var r=o.getBoundingClientRect();return [o,Math.max(0,Math.min(1,(m-r.top)/r.height)),[].map.call(o.children,function(l){var q=l.getBoundingClientRect();return q.top+q.height/2<m})]});a.forEach(function(x){x[0].style.setProperty('--f',x[1].toFixed(3));[].forEach.call(x[0].children,function(l,i){l.classList.toggle('an',x[2][i])})})}function g(){if(!w){w=1;requestAnimationFrame(f)}}addEventListener('scroll',g,{passive:true});addEventListener('resize',g);g()})();</script>"""
+# Google „bevorzugte Quelle“ (Aaron, 16.11.2026): im Fuß jeder Seite und auf Über uns
+BEVORZUGT = ('<a href="https://www.google.com/preferences/source?q=kasselkenner.de" rel="noopener">'
+             'Kasselkenner bei Google als bevorzugte Quelle wählen</a>')
 FUSS = [("ueber-uns", "Über uns"), ("bildnachweise", "Bildnachweise"),
         ("impressum", "Impressum"), ("datenschutz", "Datenschutz")]
 
@@ -208,7 +213,7 @@ def markdown(rumpf):
                 bilder_im_text += 1
             aus.append(f'<figure class="polaroid im-text {seite_}"><img src="../bilder/{stem}-600.webp" '
                        f'srcset="../bilder/{stem}-600.webp 600w, ../bilder/{stem}.webp 1200w" sizes="(max-width:760px) 80vw, 420px" '
-                       f'alt="{html.escape(alt)}" width="1200" height="900" loading="lazy"><figcaption>{html.escape(unterschrift)}</figcaption></figure>')
+                       f'alt="{html.escape(alt)}" width="1200" height="900" loading="lazy"><figcaption>{html.escape(unterschrift)}<small class="nachweis">{bild_nachweis_kurz(datei)}</small></figcaption></figure>')
             i += 1
             continue
         if z.startswith("> "):
@@ -226,51 +231,192 @@ def markdown(rumpf):
     return "\n".join(aus), faq, toc
 
 
-# Empfehlung in eigener Sache, je Thema passend (Fakten: Wissensspeicher Wohnen am Bergpark)
-EMPFEHLUNG = {  # Titel, Satz, Tipp, Foto, Bildunterschrift, Wohnungsseite
-    "park": ("Übernachte da, wo das Wasser fließt",
-             "Wer am Bergpark schläft, ist morgens als Erster an den Kaskaden und muss abends nicht mehr ins Auto.",
-             "Unser Tipp: die Wohnung „Herkules“ mit eigenem Garten und Whirlpool für bis zu 6 Personen.",
-             "wohnung-herkules.jpg", "Wohnung Herkules", "herkules-whirlpool-im-garten-100-m2-6-gaste"),
+# Empfehlung in eigener Sache, je Thema passend (Fakten: Wissensspeicher Wohnen am Bergpark; Wortlaut Aaron, 16.11.2026)
+WOHNUNG = {  # Kurzname (für /zu/-Zählseiten) -> (Wohnungsseite oder "" = Übersicht, Foto, Bildunterschrift)
+    "loewenburg": ("lowenburg-2-schlafzimmer-fur-zwei-paare", "wohnung-loewenburg.jpg", "Wohnung Löwenburg"),
+    "herkules": ("herkules-whirlpool-im-garten-100-m2-6-gaste", "wohnung-herkules.jpg", "Wohnung Herkules"),
+    "romantisch": ("romantische-wohnung-dachbalkon-mit-herkulesblick", "wohnung-romantisch.jpg", "Romantische Wohnung"),
+}
+EMPFEHLUNG = {  # Titel, Satz, Tipp, Wohnung (Kurzname oder "" = Übersicht), Zeile (Einzeiler im Text)
+    "wasser": ("Nach dem Finale zu Fuß nach Hause",
+               "Von unserer Wohnung Löwenburg in der Lindenstraße gehst du 14 Minuten flach zum Schloss Wilhelmshöhe. Kein Parkplatzsuchen, kein Stau nach den Wasserspielen.",
+               "Zwei Schlafzimmer, eigene Küche, für bis zu 4 Personen.", "loewenburg",
+               "Unsere Wohnung Löwenburg liegt 14 Minuten zu Fuß vom Schloss Wilhelmshöhe."),
+    "berg": ("Der Bergpark als Vorgarten",
+             "Von unserer Wohnung Löwenburg sind es 14 Minuten zu Fuß zum Schloss und 18 Minuten zur Löwenburg. Morgens bist du im Park, bevor die Busse kommen.",
+             "Für Gruppen bis 6 Personen: die Wohnung „Herkules“ mit Garten und beheiztem Whirlpool.", "loewenburg",
+             "Wir vermieten Ferienwohnungen in Bad Wilhelmshöhe, 14 Minuten zu Fuß vom Schloss."),
+    "parken": ("Auto abstellen, Park zu Fuß",
+               "An unseren Häusern in Bad Wilhelmshöhe parkst du kostenlos an der Straße. Zum Bergpark gehst du zu Fuß oder fährst mit der Linie 4, Parkgebühren am Park fallen weg.",
+               "Unser Tipp: die Wohnung „Herkules“ mit Garten und Whirlpool für bis zu 6 Personen.", "herkules",
+               "Bei uns parkst du kostenlos an der Straße und gehst zu Fuß in den Bergpark."),
+    "bahn": ("Vom ICE direkt in die Wohnung",
+             "Die Linie 4 fährt vom Bahnhof Wilhelmshöhe zur Haltestelle Brabanter Straße, direkt an unserem Haus. Der Check-in ist kontaktlos, auch wenn dein Zug spät ankommt.",
+             "Unser Tipp: die Wohnung „Herkules“ mit Garten und Whirlpool für bis zu 6 Personen.", "herkules",
+             "Mit der Linie 4 vom ICE-Bahnhof bis vor unsere Ferienwohnungen."),
     "kunst": ("Kunst am Tag, Ruhe am Abend",
               "Mit der Linie 4 bist du schnell in der Innenstadt und abends zurück im Grünen am Bergpark.",
-              "Für zwei: die Romantische Wohnung mit Balkon und Blick auf den Herkules.",
-              "wohnung-romantisch.jpg", "Romantische Wohnung", "romantische-wohnung-dachbalkon-mit-herkulesblick"),
+              "Unser Tipp: die Romantische Wohnung mit Balkon und Blick auf den Herkules, für bis zu 4 Personen.", "romantisch",
+              "Für die documenta: Ferienwohnungen am Bergpark, mit der Linie 4 in die Innenstadt."),
     "familie": ("Platz für die ganze Familie",
                 "Mehr Raum als im Hotelzimmer, eine eigene Küche und der Bergpark gleich um die Ecke.",
-                "Unser Tipp: die „Löwenburg“ mit zwei Schlafzimmern für bis zu 4 Personen.",
-                "wohnung-loewenburg.jpg", "Wohnung Löwenburg", "lowenburg-2-schlafzimmer-fur-zwei-paare"),
+                "Unser Tipp: die „Löwenburg“ mit zwei Schlafzimmern für bis zu 4 Personen.", "loewenburg",
+                "Für Familien: Ferienwohnungen mit eigener Küche am Bergpark."),
+    "winter": ("Nach dem Markt ins Warme",
+               "Mit der Linie 4 bist du aus der Innenstadt schnell zurück in Bad Wilhelmshöhe. Die Wohnung „Herkules“ hat einen beheizten Whirlpool im Garten, das ganze Jahr.",
+               "Für bis zu 6 Personen, mit eigener Küche.", "herkules",
+               "Nach dem Weihnachtsmarkt zurück in die eigene Ferienwohnung am Bergpark."),
     "hund": ("Mit Hund am Bergpark wohnen",
              "Morgens die erste Runde im Park, abends zurück in die eigene Wohnung: Haustiere sind bei uns auf Anfrage möglich, gegen Aufpreis.",
-             "Unser Tipp: vor der Buchung kurz nachfragen, dann klären wir die passende Wohnung.",
-             "wohnung-herkules.jpg", "Wohnung Herkules", ""),
+             "Unser Tipp: vor der Buchung kurz nachfragen, dann klären wir die passende Wohnung.", "",
+             "Mit Hund? Unsere Ferienwohnungen am Bergpark gibt es auf Anfrage auch für Vierbeiner."),
+    "klinik": ("Nah bei den Kliniken",
+               "Unsere Wohnungen liegen in Bad Wilhelmshöhe, im selben Stadtteil wie die Kliniken am Bergpark. Eigene Küche, kostenlos parken an der Straße, Check-in kontaktlos.",
+               "Auch für längere Aufenthalte.", "",
+               "Für Angehörige: Ferienwohnungen mit Küche in Bad Wilhelmshöhe."),
     "start": ("Dein Zuhause am Bergpark",
               "Zehn Ferienwohnungen in Bad Wilhelmshöhe, vom Apartment für zwei bis zur Wohnung mit Garten für sechs.",
-              "Kostenlos parken an der Straße, die Linie 4 ganz in der Nähe.",
-              "wohnung-schlossteich.jpg", "Wohnung Schlossteich", ""),
+              "Kostenlos parken an der Straße, die Linie 4 ganz in der Nähe.", "",
+              "Wir vermieten zehn Ferienwohnungen in Bad Wilhelmshöhe, nah am Bergpark."),
 }
-EMPFEHLUNG_THEMA = {s: "park" for s in ["wasserspiele-kassel", "beleuchtete-wasserspiele", "herkules-kassel", "bergpark-wilhelmshoehe",
-                                        "loewenburg-kassel", "schloss-wilhelmshoehe", "parken-bergpark-wilhelmshoehe",
-                                        "kurhessen-therme", "habichtswald-wandern", "mit-bus-und-bahn-zum-bergpark",
-                                        "steinhoefer-wasserfall"]}
-EMPFEHLUNG_THEMA.update({s: "kunst" for s in ["documenta-2027", "documenta-uebernachten"]})
-EMPFEHLUNG_THEMA.update({s: "familie" for s in ["kassel-mit-kindern", "kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue",
-                                                 "kletterwald-kassel"]})
-EMPFEHLUNG_THEMA["kassel-mit-hund"] = "hund"
+# Foto und Unterschrift, wenn die Empfehlung auf die Übersicht zeigt (wie bisher)
+UEBERSICHT_FOTO = {"hund": ("wohnung-herkules.jpg", "Wohnung Herkules"), "klinik": ("wohnung-schlossteich.jpg", "Wohnung Schlossteich"),
+                   "start": ("wohnung-schlossteich.jpg", "Wohnung Schlossteich")}
+EMPFEHLUNG_THEMA = {}
+for _thema, _seiten in {
+        "wasser": ["wasserspiele-kassel", "beleuchtete-wasserspiele", "steinhoefer-wasserfall"],
+        "berg": ["herkules-kassel", "bergpark-wilhelmshoehe", "loewenburg-kassel", "schloss-wilhelmshoehe", "habichtswald-wandern",
+                 "kurhessen-therme", "bad-wilhelmshoehe", "kassel-im-fruehling"],
+        "parken": ["parken-bergpark-wilhelmshoehe", "parken-bahnhof-wilhelmshoehe"],
+        "bahn": ["mit-bus-und-bahn-zum-bergpark"],
+        "kunst": ["documenta-2027", "documenta-uebernachten"],
+        "familie": ["kassel-mit-kindern", "kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue", "kletterwald-kassel",
+                    "planetarium-kassel"],
+        "winter": ["weihnachtsmarkt-kassel", "winterzauber-kassel"],
+        "hund": ["kassel-mit-hund"],
+        "klinik": ["kliniken-angehoerige"],
+        "start": ["fruehlingsfest-kassel"]}.items():
+    EMPFEHLUNG_THEMA.update({s: _thema for s in _seiten})
+# Kein Einzeiler auf diesen Seiten
+OHNE_ZEILE = {"impressum", "datenschutz", "bildnachweise", "ueber-uns", "404", "index"}
 
 
-def eigenwerbung(slug, tiefe):
-    titel, satz, tipp, bild, unterschrift, wohnung = EMPFEHLUNG[EMPFEHLUNG_THEMA.get(slug, "start")]
-    ziel = (f"https://wohnenambergpark.de/de/{wohnung}" if wohnung else BUCHEN) + \
-        f"?utm_source=kasselkenner&utm_medium=referral&utm_campaign={slug}"
-    knopf = "Wohnung ansehen" if wohnung else "Wohnungen ansehen"
-    return f"""<aside class="eigen" aria-label="In eigener Sache">
-<figure class="polaroid"><img src="{tiefe}bilder/{Path(bild).stem}-600.webp" alt="{html.escape(BILDNACHWEIS.get(bild, {}).get("alt", ""))}" width="1000" height="667" loading="lazy"><figcaption>{unterschrift}</figcaption></figure>
+def empfehlung(slug):
+    """(thema, titel, satz, tipp, zeile, kurzname, wohnungsseite, foto, unterschrift) zur Seite."""
+    thema = EMPFEHLUNG_THEMA.get(slug, "start")
+    titel, satz, tipp, kurz, zeile = EMPFEHLUNG[thema]
+    if kurz:
+        seite_, bild, unterschrift = WOHNUNG[kurz]
+    else:
+        seite_, (bild, unterschrift) = "", UEBERSICHT_FOTO.get(thema, UEBERSICHT_FOTO["start"])
+    return thema, titel, satz, tipp, zeile, (kurz or "uebersicht"), seite_, bild, unterschrift
+
+
+def wohnung_url(seite_, slug, ort):
+    return (f"https://wohnenambergpark.de/de/{seite_}" if seite_ else BUCHEN) + \
+        f"?utm_source=kasselkenner&utm_medium=referral&utm_campaign={slug}&utm_content={ort}"
+
+
+# Zählseiten /zu/<wohnung>/<ort>/<seite>/: Cloudflare Web Analytics zählt nur Seitenaufrufe und schneidet die
+# Abfrage (?…) ab, daher steckt alles im Pfad. Gesammelt beim Bauen, geschrieben in main().
+ZAEHLSEITEN = {}
+
+
+def eigen_link(slug, tiefe, ort):
+    """Link für Kasten (ort=kasten) oder Einzeiler (ort=zeile): mit Zähler über /zu/…, sonst direkt."""
+    _, _, _, _, _, kurz, seite_, _, _ = empfehlung(slug)
+    ziel = wohnung_url(seite_, slug, ort)
+    if not ZAEHLER:
+        return ziel, ' rel="noopener"'
+    von = "startseite" if slug == "index" else slug
+    pfad = f"zu/{kurz}/{ort}/{von}/"
+    ZAEHLSEITEN[pfad] = ziel
+    return f"{tiefe}{pfad}", ' rel="nofollow"'
+
+
+def zaehlseite(pfad, ziel):
+    z = html.escape(ziel)
+    return f"""<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<title>Weiter zu Wohnen am Bergpark</title>
+<noscript><meta http-equiv="refresh" content="0;url={z}"></noscript>
+<style>body{{font:18px/1.6 system-ui,sans-serif;margin:0;display:grid;place-items:center;min-height:100vh;color:#1D1A18}}a{{color:#5B1E2D;font-weight:700}}</style>
+</head>
+<body>
+<p><a href="{z}" rel="noopener">Weiter zu Wohnen am Bergpark</a></p>
+<script>(function(){{var z={json.dumps(ziel)},g=0;function w(){{if(g)return;g=1;location.replace(z)}}
+/* Der Zähler sendet seinen Seitenaufruf kurz nach dem load-Ereignis (per sendBeacon); danach weiter, spätestens nach 600 ms */
+addEventListener('load',function(){{setTimeout(w,120)}});setTimeout(w,600)}})();</script>
+{ZAEHLER_JS}
+</body>
+</html>
+"""
+
+
+def bild_nachweis_kurz(bild, tiefe=""):
+    """Kurze Namensnennung am Bild: „Foto: Urheber, Lizenz“ mit Link auf die Lizenz (Aaron, 16.11.2026)."""
+    n = BILDNACHWEIS.get(bild, {})
+    if not n:
+        return ""
+    if n.get("lizenz", "").startswith("eigen"):
+        return "Foto: Wohnen am Bergpark"
+    u = n.get("urheber", "")
+    u = re.sub(r"\s*\(talk\).*$", "", u)
+    u = re.sub(r"^User:\s*(.+?)\s+at\s+\w+\s+shared$", r"\1", u)
+    u = re.sub(r"^Foto von\s+(.+?)\s+bei\s+\w+$", r"\1", u)
+    u = u.lstrip("© ").strip()
+    lz, lu = html.escape(n.get("lizenz", "")), n.get("lizenz_url", "")
+    lizenz = f'<a href="{html.escape(lu)}" rel="noopener license">{lz}</a>' if lu.startswith("http") else lz
+    return f"Foto: {html.escape(u)}, {lizenz}"
+
+
+def eigen_zeile(slug, tiefe):
+    """Schmaler Streifen „In eigener Sache“ früh im Text (Aaron, 16.11.2026)."""
+    _, _, _, _, zeile, kurz, seite_, _, _ = empfehlung(slug)
+    href, rel = eigen_link(slug, tiefe, "zeile")
+    knopf = "Wohnung ansehen" if seite_ else "Wohnungen ansehen"
+    return (f'<aside class="eigen-zeile" aria-label="In eigener Sache"><span class="etikett">In eigener Sache</span>'
+            f'<p>{html.escape(zeile)}</p><a class="pille" href="{href}"{rel}>{knopf}</a></aside>')
+
+
+def zeile_einfuegen(rest, slug, tiefe):
+    """Einzeiler nach dem ersten Absatz hinter der zweiten Zwischenüberschrift; sonst nach etwa einem Drittel.
+    Nur zwischen Blöcken der obersten Ebene, nie in Tabellen, FAQ oder Quellen."""
+    bloecke = rest.split("\n")
+    def ok(i):  # Einfügen hinter Block i?
+        return bloecke[i].startswith(("<p>", "<ul>", "<ol>"))
+    h2 = [i for i, b in enumerate(bloecke) if b.startswith("<h2 ")]
+    stelle = None
+    if len(h2) >= 2 and 'id="haeufige-fragen"' not in bloecke[h2[1]]:
+        ende = h2[2] if len(h2) > 2 else len(bloecke)
+        stelle = next((i for i in range(h2[1] + 1, ende) if ok(i)), None)
+    if stelle is None:
+        grenze = next((i for i, b in enumerate(bloecke) if 'id="haeufige-fragen"' in b or 'class="quellen"' in b), len(bloecke))
+        kandidaten = [i for i in range(grenze) if ok(i)]
+        if not kandidaten:
+            return rest
+        drittel = grenze // 3
+        stelle = min(kandidaten, key=lambda i: (i < drittel, abs(i - drittel)))
+    bloecke.insert(stelle + 1, eigen_zeile(slug, tiefe))
+    return "\n".join(bloecke)
+
+
+def eigenwerbung(slug, tiefe, quer=False):
+    _, titel, satz, tipp, _, _, seite_, bild, unterschrift = empfehlung(slug)
+    href, rel = eigen_link(slug, tiefe, "kasten")
+    knopf = "Wohnung ansehen" if seite_ else "Wohnungen ansehen"
+    return f"""<aside class="eigen{' quer' if quer else ''}" aria-label="In eigener Sache">
+<figure class="polaroid"><img src="{tiefe}bilder/{Path(bild).stem}-600.webp" alt="{html.escape(BILDNACHWEIS.get(bild, {}).get("alt", ""))}" width="1000" height="667" decoding="async"><figcaption>{unterschrift}<small class="nachweis">{bild_nachweis_kurz(bild)}</small></figcaption></figure>
 <div class="k"><p class="dach">In eigener Sache</p>
 <h3>{titel}</h3>
 <p>{satz}</p>
 <p class="tipp">{tipp}</p>
-<a class="knopf" href="{ziel}" rel="noopener">{knopf}</a></div>
+<a class="knopf" href="{href}"{rel}>{knopf}</a></div>
 </aside>"""
 
 
@@ -312,7 +458,8 @@ def kopf_und_fuss(slug, tiefe, alle):
     fuss = f"""<footer class="fuss"><div class="breite">
 <div class="wortmarke"><b>KASSEL</b><i>kenner.</i></div>
 <p>Bergpark, Wasserspiele und documenta: Tipps für deinen Besuch in Kassel. Angaben ohne Gewähr; Termine und Preise ändern sich, im Zweifel gilt die Seite des Veranstalters.</p>
-<p>{fuss_links}</p>
+<p class="fuss-links">{fuss_links}</p>
+<p class="bevorzugt">{BEVORZUGT}</p>
 </div></footer>"""
     return kopf, fuss
 
@@ -328,7 +475,10 @@ def bild_objekt(bild):
     n = BILDNACHWEIS.get(bild, {})
     b, h = BILDMASSE.get(bild, (1200, 675))
     o = {"@type": "ImageObject", "url": f"{DOMAIN}/bilder/{bild}", "width": b, "height": h}
-    if n.get("urheber"):
+    if n.get("lizenz", "").startswith("eigen"):
+        o.update({"creator": {"@type": "Organization", "name": "Wohnen am Bergpark"}, "creditText": "Wohnen am Bergpark, eigenes Foto",
+                  "copyrightNotice": "Wohnen am Bergpark"})
+    elif n.get("urheber"):
         o.update({"creator": {"@type": "Person", "name": n["urheber"]}, "creditText": f'{n["urheber"]}, {n.get("lizenz", "")}'.strip(", "),
                   "copyrightNotice": f'{n["urheber"]} / Wikimedia Commons', "acquireLicensePage": DOMAIN + "/bildnachweise/"})
         if n.get("lizenz_url", "").startswith("http"):
@@ -429,6 +579,8 @@ def seite(meta, inhalt_html, faq, toc, alle):
     if erster:
         rest = rest[erster.end():]
 
+    if slug == "ueber-uns":
+        rest += f'\n<p class="bevorzugt-text">Dir helfen unsere Seiten? Dann kannst du {BEVORZUGT}.</p>'
     if slug == "index":
         koerper = startseite(meta, h1_text, lede, rest, alle)
     elif art_seite != "artikel":
@@ -454,6 +606,8 @@ def seite(meta, inhalt_html, faq, toc, alle):
 </div></section>""" if lede else ""
         autor = f"""<div class="autor"><img class="kreis" src="{tiefe}aaron-160.webp" alt="Aaron Schiele" width="42" height="42"><div><a href="{tiefe}ueber-uns/"><strong>Aaron Schiele</strong></a><br>geprüft am <time datetime="{stand}">{date.fromisoformat(stand).strftime("%d.%m.%Y")}</time></div></div>"""
         werbung_an = meta.get("eigenwerbung", "ja") == "ja"
+        if werbung_an and slug not in OHNE_ZEILE:
+            rest = zeile_einfuegen(rest, slug, tiefe)
         offen = ""  # Kennzeichnung über die Karte „In eigener Sache“ (Aaron, 09.10.2026: nicht auf jeder Seite)
         verzeichnis = ""
         if len(toc) >= 4:
@@ -473,7 +627,7 @@ def seite(meta, inhalt_html, faq, toc, alle):
 {rest}
 {weiter}
 </main>
-<div class="seite">{verzeichnis}{eigenwerbung(slug, tiefe) if werbung_an else ""}</div>
+<div class="seite">{eigenwerbung(slug, tiefe) if werbung_an else ""}{verzeichnis}</div>
 </div>"""
     ld = "\n".join(f'<script type="application/ld+json">{json.dumps(s, ensure_ascii=False)}</script>' for s in schema)
     teil_bild = bild or EIGEN_BILD
@@ -517,9 +671,11 @@ def seite(meta, inhalt_html, faq, toc, alle):
 
 def foto_zeile(bild, tiefe):
     """Namensnennung am Bild, gleich bei Titelbildern und im Startseiten-Slider."""
-    n = BILDNACHWEIS.get(bild, {})
-    return (f'<div class="foto">Foto: {html.escape(n.get("urheber", ""))}, {html.escape(n.get("lizenz", ""))}, zugeschnitten'
-            f' · <a href="{tiefe}bildnachweise/">Nachweis</a></div>')
+    kurz = bild_nachweis_kurz(bild)
+    if not kurz:
+        return ""
+    zusatz = "" if BILDNACHWEIS.get(bild, {}).get("lizenz", "").startswith("eigen") else ", zugeschnitten"
+    return f'<div class="foto">{kurz}{zusatz} · <a href="{tiefe}bildnachweise/">Nachweis</a></div>'
 
 
 def startseite(meta, h1_text, lede, rest, alle):
@@ -532,7 +688,7 @@ def startseite(meta, h1_text, lede, rest, alle):
         reiter.append(f'<button type="button"{" class=\"an\"" if nr == 0 else ""} aria-label="{html.escape(m.get("kurz", s))}"><img src="bilder/{Path(m["bild"]).stem}-600.webp" alt="{html.escape(BILDNACHWEIS.get(m["bild"], {}).get("alt", ""))}" width="240" height="180" loading="lazy"><span class="cap">{html.escape(m.get("kurz", s))}</span><span class="balken"><i></i></span></button>')
     buehne = f"""<section class="buehne" aria-label="Aktuelle Themen">{"".join(dias)}
 <div class="reiter"><div class="breite">{"".join(reiter)}</div></div></section>""" if dias else ""
-    stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules</figcaption></figure>
+    stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules<small class="nachweis">{bild_nachweis_kurz(EIGEN_BILD)}</small></figcaption></figure>
 <div class="zettel notiz"><b class="marke">Mein Lieblingsmoment</b><p>Wenn um 15.45 Uhr die Große Fontäne hochgeht und alle, die sich zu nah ans Wasser gestellt haben, plötzlich nass werden.</p><span class="unterschrift">Aaron</span></div></div>"""
     alle_artikel = [s for s, m in alle.items() if m.get("art", "artikel") == "artikel" and s != "index"]
     vorhaben = []
@@ -551,7 +707,7 @@ def startseite(meta, h1_text, lede, rest, alle):
         drin = (von <= md <= bis) if von <= bis else (md >= von or md <= bis)
         if drin and (jahr is None or jahr == heute.year) and s in alle and alle[s].get("bild"):
             m = alle[s]
-            aktuell_html = f"""<section class="breite aktuell"><figure class="polaroid">{titelbild_tag(m["bild"], "", ' loading="lazy"')}<figcaption>{html.escape(m.get("kurz", ""))}</figcaption></figure>
+            aktuell_html = f"""<section class="breite aktuell"><figure class="polaroid">{titelbild_tag(m["bild"], "", ' loading="lazy"')}<figcaption>{html.escape(m.get("kurz", ""))}<small class="nachweis">{bild_nachweis_kurz(m["bild"])}</small></figcaption></figure>
 <div class="zettel"><b class="marke">{html.escape(dach)}</b><p class="gross-zettel">{html.escape(m["titel"].split(":")[0])}</p><p>{html.escape(satz)}</p><a class="mehr" href="{s}/">Alles dazu lesen</a></div></section>"""
             break
     skript = """<script>(function(){var d=[].slice.call(document.querySelectorAll('.dia')),b=[].slice.call(document.querySelectorAll('.reiter button')),i=0,t;if(d.length<2)return;function z(n){d[i].classList.remove('an');b[i].classList.remove('an');i=n;d[i].classList.add('an');b.forEach(function(x,k){x.classList.toggle('vorbei',k<i)});void b[i].offsetWidth;b[i].classList.add('an');clearTimeout(t);t=setTimeout(function(){z((i+1)%d.length)},7000)}b.forEach(function(x,k){x.onclick=function(){z(k)}});var s=document.querySelector('.buehne'),x0=null;s.addEventListener('touchstart',function(e){x0=e.touches[0].clientX},{passive:true});s.addEventListener('touchend',function(e){if(x0===null)return;var dx=e.changedTouches[0].clientX-x0;x0=null;if(Math.abs(dx)>40)z((i+(dx<0?1:d.length-1))%d.length)},{passive:true});z(0)})();</script>"""
@@ -559,6 +715,7 @@ def startseite(meta, h1_text, lede, rest, alle):
 <main id="inhalt">
 <section class="breite start-intro"><div><h1>{h1_text}</h1><p class="lede">{lede}</p></div>{stapel}</section>
 {vorhaben_html}
+<section class="breite start-eigen">{eigenwerbung("index", "", quer=True)}</section>
 {aktuell_html}
 <section class="breite" style="padding-top:72px"><div class="mitte"><h2>Alle Ratgeber</h2></div>{karten(alle_artikel, alle, "")}</section>
 </main>
@@ -632,14 +789,17 @@ def main():
     if BILDNACHWEIS:
         zeilen = ["| Bild | Urheber | Lizenz | Quelle |", "|---|---|---|---|"]
         for datei, n in sorted(BILDNACHWEIS.items()):
-            zeilen.append(f"| {n['motiv']} | {n['urheber']} | [{n['lizenz']}]({md_url(n['lizenz_url'])}) | [Wikimedia Commons]({md_url(n['seite'])}) |")
+            if n["lizenz"].startswith("eigen"):  # eigene Wohnungsfotos: kein Commons-Link (16.11.2026)
+                zeilen.append(f"| {n['motiv']} | Wohnen am Bergpark | eigenes Foto | Wohnen am Bergpark, eigenes Foto |")
+            else:
+                zeilen.append(f"| {n['motiv']} | {n['urheber']} | [{n['lizenz']}]({md_url(n['lizenz_url'])}) | [Wikimedia Commons]({md_url(n['seite'])}) |")
         rumpf = ("# Bildnachweise\n\nDie Fotos auf Kasselkenner stehen unter freien Lizenzen. Danke an alle Fotografinnen und Fotografen. "
                  "Für die Seite haben wir die Fotos zugeschnitten, verkleinert und in ein anderes Dateiformat umgewandelt.\n\n"
                  + "\n".join(zeilen) + "\n")
         seiten["bildnachweise"] = ({"titel": "Bildnachweise | Kasselkenner", "beschreibung": "Urheber, Lizenzen und Quellen aller Fotos auf kasselkenner.de. Die Fotos sind zugeschnitten, verkleinert und umgewandelt.",
                                     "slug": "bildnachweise", "art": "rechtliches", "eigenwerbung": "nein", "sitemap": "nein"}, rumpf)
     alle = {s: m for s, (m, _) in seiten.items()}
-    benutzt = {m["bild"] for m in alle.values() if m.get("bild")} | {EIGEN_BILD} | {e[3] for e in EMPFEHLUNG.values()} | \
+    benutzt = {m["bild"] for m in alle.values() if m.get("bild")} | {EIGEN_BILD} | {w[1] for w in WOHNUNG.values()} | {u[0] for u in UEBERSICHT_FOTO.values()} | \
         {b for _, r in seiten.values() for b in re.findall(r"^!\[[^\]]*\]\(([^)\s]+)\)", r, re.M)}
     bilder_kopieren(benutzt)  # vorab, damit Bildmaße für og:image und JSON-LD bekannt sind
     for slug, (meta, rumpf) in seiten.items():
@@ -662,6 +822,9 @@ def main():
             text = text.replace("</body>", ZAEHLER_JS + "\n</body>", 1)
         ziel.write_text(text)
     shutil.rmtree(AUS / "404", ignore_errors=True)
+    for pfad, ziel in ZAEHLSEITEN.items():  # Zählseiten für Klicks auf Kasten und Einzeiler
+        (AUS / pfad).mkdir(parents=True, exist_ok=True)
+        (AUS / pfad / "index.html").write_text(zaehlseite(pfad, ziel))
     for f in ("logo.svg", "favicon-48.png", "apple-touch-icon.png", "icon-512.png", "aaron-160.webp", "aaron-400.webp", "aaron.jpg"):
         shutil.copy(WURZEL / "vorlage" / f, AUS / f)
     (AUS / f"{INDEXNOW}.txt").write_text(INDEXNOW)
@@ -679,7 +842,7 @@ def main():
     (AUS / "sitemap.xml").write_text("\n".join(karte))
     # KI- und Suchcrawler ausdrücklich willkommen (GEO)
     bots = ["Googlebot", "Bingbot", "GPTBot", "OAI-SearchBot", "ChatGPT-User", "PerplexityBot", "ClaudeBot", "Claude-SearchBot", "Google-Extended", "Applebot"]
-    (AUS / "robots.txt").write_text("".join(f"User-agent: {b}\n" for b in bots) + "Allow: /\n\nUser-agent: *\nAllow: /\n\n"
+    (AUS / "robots.txt").write_text("".join(f"User-agent: {b}\n" for b in bots) + "Allow: /\nDisallow: /zu/\n\nUser-agent: *\nAllow: /\nDisallow: /zu/\n\n"
                                     f"Sitemap: {DOMAIN}/sitemap.xml\n")
     stand_max = max(m.get("stand", heute) for m in alle.values())
     llms = [f"# {NAME}", "", f"> {UNTERZEILE}. Praktische, geprüfte Antworten für Besucher in Kassel; "

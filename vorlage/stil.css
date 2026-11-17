@@ -15,6 +15,7 @@
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 body{margin:0;background:#fff;color:var(--text);font:400 18px/1.75 "Instrument Sans",system-ui,sans-serif;overflow-wrap:break-word}
 img{max-width:100%;height:auto;display:block}
 a{color:var(--wein);text-underline-offset:3px}
@@ -45,7 +46,7 @@ a:hover{color:var(--sonne-d)}
 .menue-tafel .dach{margin:6px 0 8px;font-size:12px}
 .menue-haupt a{display:block;font:800 22px/1.2 Archivo,sans-serif;color:var(--wein);text-decoration:none;padding:9px 0;border-bottom:1px solid var(--linie)}
 .menue-themen{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:4px}
-.menue-themen a{font:600 15px "Instrument Sans",sans-serif;color:var(--text);text-decoration:none;background:var(--grund);padding:7px 12px;border-radius:999px}
+.menue-themen a{display:inline-flex;align-items:center;min-height:44px;font:600 15px "Instrument Sans",sans-serif;color:var(--text);text-decoration:none;background:var(--grund);padding:10px 14px;border-radius:999px}
 .menue a[aria-current]{color:var(--sonne-d)}
 
 /* Überschriften */
@@ -64,8 +65,8 @@ li{margin-bottom:10px}
 .held .text{position:absolute;left:0;right:0;bottom:118px;z-index:2}
 .held .krumen{font:600 14px "Instrument Sans";margin-bottom:12px}
 .held .krumen a{color:#fff;text-decoration:none;opacity:.9}
-.held .foto,.dia .foto{position:absolute;right:20px;top:14px;z-index:2;font-size:12px;opacity:.85}
-.held .foto a,.dia .foto a{color:#fff}
+.held .foto,.dia .foto{position:absolute;right:20px;top:14px;z-index:2;font-size:12px;line-height:1.4;color:#fff;background:rgba(29,26,24,.62);padding:3px 9px;border-radius:3px;max-width:calc(100% - 40px)}
+.held .foto a,.dia .foto a{color:#fff;display:inline-block;padding:12px 0;margin:-12px 0}
 .held.ohne-bild{height:auto;min-height:0;padding:56px 0 130px}
 .held.ohne-bild:after{display:none}
 .held.ohne-bild .text{position:static}
@@ -115,10 +116,10 @@ tr:nth-child(even) td{background:var(--grund)}
 .quellen{margin:72px 0 0;padding:20px 22px;background:var(--grund);border-top:3px solid var(--wein);font-size:15px;line-height:1.5}
 .quellen .q-titel{font:800 13px Archivo,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--wein);margin:0 0 12px;display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline}
 .quellen .q-stand{font:400 13px "Instrument Sans",sans-serif;text-transform:none;letter-spacing:0;color:var(--leise)}
-.quellen ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.quellen ul{list-style:none;margin:0;padding:0;display:grid;gap:0}
 .quellen li{margin:0}
 .quellen b{color:var(--text);margin-right:4px}
-.quellen a{color:var(--leise);text-decoration-color:var(--linie);text-underline-offset:3px}
+.quellen a{color:var(--leise);text-decoration-color:var(--linie);text-underline-offset:3px;display:inline-block;padding:11px 0;line-height:22px}
 .quellen a:hover{color:var(--sonne-d)}
 
 /* Linienplan (Tabellen mit Spalte „Uhrzeit“) */
@@ -138,7 +139,7 @@ tr:nth-child(even) td{background:var(--grund)}
 
 /* Seitenleiste */
 .seite{display:flex;flex-direction:column;gap:32px;padding-top:40px}
-.seite .eigen{position:sticky;top:140px;margin-top:50px}
+.seite .eigen{position:sticky;top:140px;margin-top:50px;z-index:2}
 .toc .dach{margin:0 0 8px}
 .toc ol{list-style:none;margin:0;padding:0;counter-reset:t}
 .toc li{margin:0;counter-increment:t}
@@ -147,7 +148,7 @@ tr:nth-child(even) td{background:var(--grund)}
 .eigen{position:relative;background:var(--grund);padding:0 0 22px;box-shadow:0 14px 30px -20px rgba(29,26,24,.5)}
 .eigen .polaroid{transform:rotate(-2.5deg);width:78%;margin:-30px auto 20px;position:relative;box-shadow:0 12px 24px -14px rgba(29,26,24,.6),0 0 10px -3px rgba(29,26,24,.2)}
 .eigen .k{padding:0 22px}
-.eigen .dach{font-size:11px;color:var(--leise);margin:0 0 6px}
+.eigen .dach{font-size:12px;color:var(--leise);margin:0 0 6px}
 .eigen h3{margin:0 0 8px;font:800 22px/1.15 Archivo,sans-serif;color:var(--wein)}
 .eigen p{font-size:15px;line-height:1.55;margin:0 0 12px;color:var(--text)}
 .eigen .tipp{font:400 15px/1.55 Lora,Georgia,serif;color:var(--text);margin:0 0 16px;padding-top:12px;border-top:1px solid var(--linie)}
@@ -172,6 +173,9 @@ tr:nth-child(even) td{background:var(--grund)}
 .polaroid{background:#fff;padding:10px 10px 0;box-shadow:0 12px 24px -14px rgba(29,26,24,.6);transform:rotate(-2deg);margin:0}
 .polaroid img{aspect-ratio:4/3;object-fit:cover;width:100%}
 .polaroid figcaption{font:600 22px/1 Caveat,cursive;color:var(--wein);padding:10px 4px 14px;text-align:center}
+.polaroid .nachweis{display:block;margin-top:6px;font:400 11px/1.4 "Instrument Sans",sans-serif;color:var(--leise);letter-spacing:0}
+.polaroid .nachweis a{color:var(--leise);display:inline-block;padding:12px 0;margin:-12px 0}
+.polaroid.im-text figcaption .nachweis{font-size:11px}
 .mitte{text-align:center;max-width:760px;margin:0 auto}
 .mitte p{color:var(--leise)}
 .karten{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px;margin:32px 0 20px}
@@ -201,10 +205,10 @@ tr:nth-child(even) td{background:var(--grund)}
 .reiter img{width:100%;aspect-ratio:4/3;object-fit:cover}
 .reiter .cap{display:block;font:600 18px/1 Caveat,cursive;color:var(--wein);text-align:center;padding:6px 2px 8px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .reiter .balken{position:absolute;left:0;right:0;bottom:-7px;height:4px;overflow:hidden}
-.reiter .balken i{display:block;height:100%;width:0;background:var(--sonne)}
+.reiter .balken i{display:block;height:100%;width:100%;background:var(--sonne);transform:scaleX(0);transform-origin:left center}
 .reiter button.an .balken i{animation:lauf 7s linear forwards}
-@keyframes lauf{to{width:100%}}
-@media (prefers-reduced-motion:reduce){.reiter button.an .balken i{animation:none;width:100%}.dia{transition:none}}
+@keyframes lauf{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){.reiter button.an .balken i{animation:none;transform:none}.dia{transition:none}}
 .start-intro{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:56px;align-items:center;padding-block:64px 40px}
 .start-intro h1{font:800 clamp(30px,3.6vw,42px)/1.12 Archivo,sans-serif;color:var(--wein);margin:8px 0 16px;letter-spacing:-.015em}
 .stapel{position:relative;justify-self:center;width:min(100%,440px)}
@@ -235,12 +239,47 @@ tr:nth-child(even) td{background:var(--grund)}
 .fuss .wortmarke i{font-size:31px;color:var(--sonne)}
 .fuss a{color:#fff}
 .fuss p{max-width:720px}
+.fuss .fuss-links a{display:inline-block;padding:10px 0}
+.fuss .bevorzugt{font-size:14px;margin:0}
+.fuss .bevorzugt a{color:#F2E6E8;display:inline-block;padding:10px 0}
+.bevorzugt-text{font-size:16px;color:var(--leise)}
+
+/* In eigener Sache: Einzeiler im Text (Aaron, 16.11.2026) – Abrisslinie wie ein Ticket, kein Kasten */
+.eigen-zeile{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:24px;align-items:center;overflow:hidden;margin:8px 0 36px;padding:14px 0 16px;border-top:1.5px dashed rgba(91,30,45,.35);border-bottom:1.5px dashed rgba(91,30,45,.35)}
+.eigen-zeile .etikett{grid-column:1/-1;font:700 12px/1.4 Archivo,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--sonne-d);margin:0 0 4px}
+.eigen-zeile p{margin:0;font:400 17px/1.55 Lora,Georgia,serif;color:var(--text)}
+.pille{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 18px;border:1.5px solid var(--wein);border-radius:999px;font:700 15px "Instrument Sans",sans-serif;color:var(--wein);text-decoration:none;white-space:nowrap}
+.pille:after{content:"→"}
+.pille:hover,.pille:focus-visible{background:var(--wein);color:#fff}
+@media (prefers-reduced-motion:no-preference){.pille{transition:background-color .2s,color .2s}}
+/* Startseite: Kasten quer nach „Was hast du vor?“ */
+.start-eigen{padding-top:80px}
+.eigen.quer{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:40px;align-items:center;max-width:900px;margin:0 auto;padding:28px 32px 28px 28px}
+.eigen.quer .polaroid{width:100%;margin:-56px 0 0}
+.eigen.quer .k{padding:0}
+.eigen.quer .knopf{width:auto}
+.eigen.quer h3{font-size:26px}
+/* Chip-Leiste: weicher Rand rechts zeigt, dass es weitergeht */
+.themen .breite{-webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 48px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 48px),transparent);padding-right:48px}
+.themen a{display:inline-flex;align-items:center;min-height:38px}
+/* Niedrige Laptop-Fenster: Kopf und Themenleiste kompakt, Titelbild kürzer */
+@media (max-height:700px) and (min-width:1024px){
+  .kopf .breite{min-height:54px}
+  .themen .breite{min-height:28px}
+  .themen a{min-height:28px;font-size:11px}
+  .held{height:52vh;min-height:300px}
+  .held .text{bottom:96px}
+  .buehne{height:62vh;min-height:360px}
+}
 
 @media (max-width:980px){
   .anpinnen .breite,.raster{grid-template-columns:minmax(0,1fr)}
   .blick{margin-top:0}
   .seite{padding-top:0}
   .seite .eigen{position:static}
+  .eigen.quer{grid-template-columns:minmax(0,1fr);padding:0 0 22px;max-width:520px}
+  .eigen.quer .polaroid{width:78%;margin:-30px auto 8px}
+  .eigen.quer .k{padding:0 22px}
   .karten{grid-template-columns:repeat(2,minmax(0,1fr))}
   .start-intro{grid-template-columns:minmax(0,1fr)}
   .vorhaben-raster{grid-template-columns:repeat(2,minmax(0,1fr))}
@@ -268,7 +307,7 @@ tr:nth-child(even) td{background:var(--grund)}
   .reiter button,.reiter button:nth-child(n),.reiter button.an{flex:1;width:auto;padding:12px 0;background:none;box-shadow:none;transform:none;opacity:1}
   .reiter img,.reiter .cap{display:none}
   .reiter .balken{position:static;display:block;height:4px;border-radius:2px;background:rgba(255,255,255,.35)}
-  .reiter button.vorbei .balken i{width:100%}
+  .reiter button.vorbei .balken i{transform:none}
   .dia .text{bottom:64px}
   .buehne{height:min(74vh,620px);min-height:460px}
   /* Zettel nicht über die Polaroid-Beschriftung */
@@ -294,4 +333,24 @@ tr:nth-child(even) td{background:var(--grund)}
   h2{margin-top:56px}
   .portraet{float:none;width:70%;margin:8px auto 28px}
   .seite .toc{display:none}
+}
+
+@media (max-width:600px){
+  /* Erste Bildschirmseite: Titelbild flacher, damit „Kurz gesagt“ sichtbar wird */
+  .held{height:38vh;min-height:250px}
+  .held .text{bottom:66px}
+  .held .krumen{margin-bottom:6px;font-size:13px}
+  .anpinnen{margin-top:-44px}
+  .held .foto{top:auto;bottom:auto;top:8px;right:10px;font-size:11px;max-width:calc(100% - 20px)}
+  .eigen-zeile{grid-template-columns:minmax(0,1fr)}
+  .eigen-zeile .pille{margin-top:12px;justify-self:start}
+  /* Startseite: Bildwechsel flacher, Begrüßung im ersten Bildschirm */
+  .buehne{height:45vh;min-height:300px}
+  .dia .text{bottom:52px}
+  .dia .gross{font-size:34px;margin:6px 0 14px}
+  .dia .knopf{padding:10px 18px}
+  .dia .foto{top:8px;right:10px;font-size:11px}
+  .start-intro{padding-block:24px 32px;gap:32px}
+  .start-intro .lede{font-size:18px}
+  .start-eigen{padding-top:64px}
 }

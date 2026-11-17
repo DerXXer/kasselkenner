@@ -10,7 +10,7 @@ in den Faktenspeicher eingetragen, die Seiten werden angepasst und an IndexNow g
 
 Erster Lauf je Quelle legt nur den Stand an. Stand: werkzeuge/.terminwache.json.
 """
-import hashlib, html, json, os, re, sys, urllib.request
+import gzip, hashlib, html, json, os, re, ssl, sys, time, urllib.request
 
 HIER = os.path.dirname(os.path.abspath(__file__))
 STAND = os.path.join(HIER, ".terminwache.json")
@@ -40,10 +40,29 @@ QUELLEN = {
 }
 
 
+def laden(url):
+    """Seite holen: Browser-Kennung, gzip, drei Versuche mit Pause; Fehlertext nennt Art und Versuch."""
+    kopf = {"User-Agent": "Mozilla/5.0 (compatible; kasselkenner-terminwache/1.1; +https://kasselkenner.de)",
+            "Accept": "text/html,application/xhtml+xml", "Accept-Language": "de-DE,de;q=0.9",
+            "Accept-Encoding": "gzip"}
+    letzter = None
+    for versuch in (1, 2, 3):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=kopf), timeout=45,
+                                        context=ssl.create_default_context()) as r:
+                daten = r.read()
+                if r.headers.get("Content-Encoding") == "gzip":
+                    daten = gzip.decompress(daten)
+                return daten.decode(r.headers.get_content_charset() or "utf-8", "replace")
+        except Exception as e:
+            letzter = "%s: %s (Versuch %d)" % (type(e).__name__, str(e)[:120], versuch)
+            if versuch < 3:
+                time.sleep(5 * versuch)
+    raise RuntimeError(letzter)
+
+
 def text(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "kasselkenner-terminwache/1.0 (+https://kasselkenner.de)"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        roh = r.read().decode(r.headers.get_content_charset() or "utf-8", "replace")
+    roh = laden(url)
     roh = re.sub(r"(?is)<(script|style|noscript|svg)\b.*?</\1>", " ", roh)
     roh = re.sub(r"(?i)<br\s*/?>|</(p|li|h\d|div|tr|td|section|article)>", "\n", roh)
     t = html.unescape(re.sub(r"<[^>]+>", " ", roh))
@@ -72,7 +91,7 @@ def main():
             try:
                 gefunden = saetze(url)
             except Exception as e:
-                fehler.append("%s: %s" % (url, str(e)[:80]))
+                fehler.append("%s: %s" % (url, str(e)[:200]))
                 continue
             alt = stand.get(url)
             if alle:
