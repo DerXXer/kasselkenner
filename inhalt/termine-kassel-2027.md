@@ -4,7 +4,7 @@ beschreibung: Alle Termine Kassel 2027 auf einen Blick: 49 Wasserspieltage vom 1
 slug: termine-kassel-2027
 kurz: Termine 2027
 bild: peneuskaskaden.jpg
-stand: 2026-11-12
+stand: 2026-11-17
 blick: Wasserspiele=1. Mai bis 3. Oktober 2027 | Wasserspieltage=49 | documenta 16=12. Juni bis 19. September | Zissel=30. Juli bis 2. August | Beleuchtete Wasserspiele=14. und 15. Mai
 weiter: wasserspiele-kassel, documenta-2027, zissel-kassel
 ---
@@ -29,21 +29,35 @@ Die Saison 2027 läuft vom 1. Mai bis 3. Oktober. Das Wasser fließt jeden Mittw
 
 Fünf Feiertage machen den Unterschied: Der 1. Mai fällt 2027 auf einen Samstag, Christi Himmelfahrt (6. Mai) und Fronleichnam (27. Mai) auf einen Donnerstag, Pfingstmontag ist der 17. Mai. An diesen Tagen laufen die Wasserspiele auch außer der Reihe. Der 3. Oktober ist ein Sonntag und der letzte Tag der Saison.
 
+Quelle: [Stadt Kassel, Saison 2027](https://www.kassel.de/beleuchtete-wasserspiele/index.php) und [Hessen Kassel Heritage, Ablauf der Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele)
+
 > An Wasserspieltagen kostet der Parkplatz am Herkules zwischen 9.30 und 15 Uhr 8,50 Euro für ein Auto. Wenn du kannst, nimm Tram und Bus, Einzelheiten stehen bei [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/).
 
 ## Beleuchtete Wasserspiele 2027
 
 Die [beleuchteten Wasserspiele](/beleuchtete-wasserspiele/) am Abend gibt es 2027 am Freitag, 14. Mai, und Samstag, 15. Mai, mit Rahmenprogramm. Die Uhrzeiten und ob im Herbst ein zweiter Termin folgt, stehen noch nicht fest; beides kommt hierher, sobald es bekannt ist.
 
+Quelle: [Kassel Marketing, Beleuchtete Wasserspiele](https://www.beleuchtete-wasserspiele.de)
+
 ## documenta 16 im Sommer 2027
 
 Die documenta 16 läuft 100 Tage lang in der ganzen Stadt. Los geht es am 12. Juni, Schluss ist am 19. September. Es gibt Tages- und Zweitagestickets. Wer mit der Bahn anreist, spart während der Laufzeit 15 Prozent auf ICE und IC/EC nach Kassel; gebucht wird über den Link auf der FAQ-Seite der documenta. Was du jetzt schon wissen kannst, steht auf der Seite zur [documenta 2027](/documenta-2027/). Wenn du für die documenta übernachten willst, buche früh, im Sommer 2027 wird es voll.
+
+Quelle: [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq)
 
 ## Zissel 2027: 30. Juli bis 2. August
 
 ![Der Zisselbrunnen mit dem goldenen Hering](zisselbrunnen.jpg)
 
 Der [Zissel](/zissel-kassel/), das Volks- und Wasserfest an der Fulda, findet vom 30. Juli bis 2. August 2027 statt. Am Samstag, 31. Juli, ist der Drachenboot-Cup, Start ist um 9.30 Uhr. Das Programm veröffentlicht der Verein rechtzeitig vor dem Fest.
+
+Quelle: [Zissel in Kassel e.V.](https://www.zissel.de/) und [Drachenboot-Cup](https://www.zissel.de/drachenbootcup)
+
+## Winterzauber 2027: 4. bis 7. und 11. bis 13. November
+
+Der [Winterzauber](/winterzauber-kassel/) an der Orangerie kommt an zwei Wochenenden im November wieder, jeweils ab Donnerstag. Karten gibt es schon im Online-Vorverkauf, Erwachsene zahlen 12 Euro, Kinder bis 17 Jahre in Begleitung sind frei.
+
+Quelle: [Gartenfestivals, Winterzauber Kassel](https://www.gartenfestivals.de/winterzauber-kassel/)
 
 ## Was 2027 noch offen ist
 
@@ -84,4 +98,5 @@ Am Freitag, 14. Mai, und Samstag, 15. Mai 2027. Die Uhrzeiten stehen noch nicht 
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 05.11.2026
 - [documenta 16, Besuch und FAQ](https://documentasixteen.com/de/besuch/faq), abgerufen 12.11.2026
 - [Zissel in Kassel e.V.](https://www.zissel.de/), abgerufen 05.11.2026
-- [Zissel in Kassel e.V., Drachenboot-Cup](https://www.zissel.de/drachenboot), abgerufen 05.11.2026
+- [Zissel in Kassel e.V., Drachenboot-Cup](https://www.zissel.de/drachenbootcup), abgerufen 16.11.2026
+- [Gartenfestivals, Winterzauber Kassel](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 17.11.2026

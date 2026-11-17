@@ -45,7 +45,7 @@ Der Park ist flach und angenehm zum Schlendern. Hunde sind als Assistenzhunde er
 
 ## Welche Veranstaltungen finden in der Orangerie statt?
 
-Das aktuelle Programm steht im Programmkalender von Hessen Kassel Heritage. Im Herbst steht vor der Orangerie der [Winterzauber](/winterzauber-kassel/), eine Ausstellung mit rund 120 Ausstellern. 2026 lief er an zwei Wochenenden im November.
+Das aktuelle Programm steht im Programmkalender von Hessen Kassel Heritage. Im Herbst steht vor der Orangerie der [Winterzauber](/winterzauber-kassel/), eine Ausstellung mit rund 120 Ausstellern. 2027 steht er vom 4. bis 7. und vom 11. bis 13. November dort.
 
 Die documenta nutzt den Park immer wieder als Ausstellungsort unter freiem Himmel, mehr dazu unter [documenta 2027](/documenta-2027/). Am ersten Augustwochenende feiert Kassel am Auedamm und auf der Karlswiese den [Zissel](/zissel-kassel/), ein Volksfest am Wasser.
 
@@ -122,7 +122,7 @@ Vom 1. April bis 30. September von 10 bis 18 Uhr, im Oktober von 10 bis 17 Uhr, 
 
 - [Hessen Kassel Heritage, Orangerie](https://www.heritage-kassel.de/standorte/orangerie), abgerufen 01.11.2026
 - [Hessen Kassel Heritage, Insel Siebenbergen](https://www.heritage-kassel.de/standorte/insel-siebenbergen), abgerufen 01.11.2026
-- [Gartenfestivals, Winterzauber Kassel](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 01.11.2026
+- [Gartenfestivals, Winterzauber Kassel](https://www.gartenfestivals.de/winterzauber-kassel/), abgerufen 17.11.2026
 - [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 01.11.2026
 - [Hessen Kassel Heritage, Marmorbad](https://www.heritage-kassel.de/standorte/marmorbad), abgerufen 01.11.2026
 - [Hessen Kassel Heritage, Park Karlsaue](https://www.heritage-kassel.de/standorte/karlsaue), abgerufen 01.11.2026

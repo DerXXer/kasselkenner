@@ -43,7 +43,7 @@ Stand: 2026-11-17
 - [Kassel übernachten: welcher Stadtteil, welcher Bahnhof?](https://kasselkenner.de/uebernachten-kassel/): Übernachten in Kassel: welche Stadtteile zu deinem Plan passen, warum der Bahnhof Wilhelmshöhe zählt und wo du Ferienwohnungen findest.
 - [Wasserspiele Kassel: Termine, Uhrzeit, Ablauf, Eintritt](https://kasselkenner.de/wasserspiele-kassel/): Wasserspiele Kassel im Bergpark Wilhelmshöhe: wann sie laufen, Ablauf mit Uhrzeiten, Route vom Herkules zur Fontäne, Eintritt frei, Anreise.
 - [Weihnachtsmarkt Kassel 2026: Termine, Zeiten, Anreise](https://kasselkenner.de/weihnachtsmarkt-kassel/): Märchenweihnachtsmarkt Kassel 2026: vom 23. November bis 30. Dezember, täglich 11 bis 20 Uhr. Standorte, Highlights, Tram, Parken und Anreise.
-- [Winterzauber Kassel 2026: Termine, Eintritt und Anreise](https://kasselkenner.de/winterzauber-kassel/): Winterzauber Kassel 2026 an der Orangerie: 5. bis 8. und 12. bis 14. November, Eintritt 12 Euro, Kinder bis 17 frei. Zeiten, Parken, Anreise.
+- [Winterzauber Kassel 2027: Termin, Eintritt, Parken](https://kasselkenner.de/winterzauber-kassel/): Winterzauber Kassel 2027 an der Orangerie: 4. bis 7. und 11. bis 13. November, Eintritt 12 Euro, Kinder frei. Zeiten, Parken und Anreise.
 - [Zissel 2027 Kassel: Stadtfest an der Fulda, 30.7. bis 2.8.](https://kasselkenner.de/zissel-kassel/): Zissel Kassel: Das Volks- und Wasserfest an der Fulda findet 2027 vom 30. Juli bis 2. August statt. Programm, Festgelände, Geschichte und Anreise.
 
 ## Kernfakten (je Seite, mit Prüfdatum)
@@ -80,11 +80,11 @@ Stand: 2026-11-17
 - Planetarium (geprüft 2026-11-16): Geöffnet: Do bis So und feiertags 10 bis 17 Uhr; Eintritt: 8 Euro, ermäßigt 5 Euro; Unter 18: 2 Euro; Plätze: 54; Kinder: ab 3 Jahren; Ort: Orangerie, An der Karlsaue 20d
 - Schloss Wilhelmshöhe (geprüft 2026-11-07): Geöffnet: Di bis So 10 bis 17 Uhr; Länger: 1. und 3. Freitag bis 19 Uhr; Winter: geöffnet; Eintritt: 8 Euro, bis 17.1.2027 12 Euro (Tagesticket Wilhelmshöhe), unter 18 frei; Anreise: Tram 1 oder Linie 24; Parken: 390 Plätze, Tag 5 Euro, an Wasserspieltagen 8,50 Euro
 - Steinhöfer Wasserfall (geprüft 2026-10-20): Wasser fließt: an Wasserspieltagen gegen 15.05 Uhr; Saison: 1. Mai bis 3. Oktober, Mi, So und Feiertage; Eintritt: frei; Vom Herkules: rund 16 Min. bergab; Angelegt: 1793
-- Termine 2027 (geprüft 2026-11-12): Wasserspiele: 1. Mai bis 3. Oktober 2027; Wasserspieltage: 49; documenta 16: 12. Juni bis 19. September; Zissel: 30. Juli bis 2. August; Beleuchtete Wasserspiele: 14. und 15. Mai
+- Termine 2027 (geprüft 2026-11-17): Wasserspiele: 1. Mai bis 3. Oktober 2027; Wasserspieltage: 49; documenta 16: 12. Juni bis 19. September; Zissel: 30. Juli bis 2. August; Beleuchtete Wasserspiele: 14. und 15. Mai
 - Übernachten (geprüft 2026-10-14): Für Bergpark: Bad Wilhelmshöhe; Für Stadt: Mitte; ICE-Halt: Kassel-Wilhelmshöhe
 - Wasserspiele (geprüft 2026-11-01): Saison: 1. Mai bis 3. Oktober; Tage: Mi, So und Feiertage; Start: 14.30 Uhr am Herkules; Ende: gegen 16 Uhr, Große Fontäne; Eintritt: frei; Strecke: rund 2,3 km bergab
 - Weihnachtsmarkt (geprüft 2026-11-01): Termin 2026: 23. November bis 30. Dezember; Geöffnet: täglich 11 bis 20 Uhr; Gastronomie: bis 22 Uhr; Geschlossen: 24. bis 26. Dezember; Ort: Königsplatz und Friedrichsplatz
-- Winterzauber (geprüft 2026-11-01): Termine 2026: 5. bis 8. und 12. bis 14. November; Ort: Orangerie, Auedamm 20B; Eintritt: 12 Euro, Vorverkauf 10 Euro; Kinder: bis 17 Jahre frei; Aussteller: rund 120
+- Winterzauber (geprüft 2026-11-17): Termin 2027: 4. bis 7. und 11. bis 13. November; Ort: Orangerie in der Karlsaue; Eintritt: 12 Euro, Vorverkauf 10 Euro; Kinder: bis 17 Jahre frei; Bis dahin: Märchenweihnachtsmarkt ab 23. November
 - Zissel (geprüft 2026-11-01): Termin 2027: 30. Juli bis 2. August; Ort: Auedamm und Karlswiese; Programm: steht noch nicht fest; Drachenboot-Cup: 31. Juli 2027; Anreise: Tram bis Friedrichsplatz; Veranstalter: Zissel in Kassel e.V.
 
 ## Über

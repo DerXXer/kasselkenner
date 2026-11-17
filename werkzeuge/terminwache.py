@@ -37,6 +37,10 @@ QUELLEN = {
     "Weihnachtsmarkt (weihnachtsmarkt-kassel)": [
         "https://www.weihnachtsmarkt-kassel.de/",
     ],
+    # fehlte: Termine 2027 standen am 17.11.2026 beim Veranstalter, die Wache sah sie nicht (Aaron, 17.11.2026)
+    "Winterzauber (winterzauber-kassel, orangerie-karlsaue, termine-kassel-2027)": [
+        "https://www.gartenfestivals.de/winterzauber-kassel/",
+    ],
 }
 
 

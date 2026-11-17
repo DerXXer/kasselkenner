@@ -52,7 +52,9 @@ Ergänzung zu KS-260 ff. (kassel-a.md).
 
 - [KS-903] Winterzauber 2026: zwei Wochenenden, 5.–8. November und 12.–14. November 2026, Orangerie, Auedamm 20B, 34121 Kassel; Do 14–20 Uhr, Fr/Sa 12–21 Uhr, am Volkstrauertag (15.11.) geschlossen; Erwachsene 12 Euro, ermäßigt 10 Euro, Kinder bis 17 Jahre in Begleitung frei, Gruppen ab 20 Personen 10 Euro, Vorverkauf bis 4.11.2026 10 Euro zzgl. 0,30 Euro; Veranstalter Evergreen GmbH. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel | geprüft: 2026-11-16
 - [KS-904] Rückschau: Die Veranstalterseite beschreibt das erste Wochenende (Beginn 5.11.2026) als gelungen („Lichterglanz, winterliche Genüsse, viele Besucher“), ohne Besucherzahlen; Rahmenprogramm u. a. Walking Act, historisches Karussell, Fotobus. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel | geprüft: 2026-11-16 | Status: Das erste Wochenende hat danach stattgefunden; das zweite Wochenende (12.–14.11.) ist nicht ausdrücklich als stattgefunden bestätigt
-- [KS-905] OFFEN: Winterzauber 2027 (Termin, Preise). Geprüft 2026-11-16: gartenfestivals.de nennt keine 2027-Termine; der visit.kassel.de-Eintrag ist entfernt (410).
+- [KS-905] Winterzauber 2027: zwei Wochenenden, 4. bis 7. November und 11. bis 13. November 2027, Orangerie, Auedamm 20B. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-11-17 | sicher
+- [KS-986] Winterzauber 2027 Öffnungszeiten: Donnerstag 14 bis 20 Uhr, Freitag und Samstag 12 bis 21 Uhr; Sonntagszeiten nennt die Seite am 17.11.2026 nicht. | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-11-17 | sicher
+- [KS-987] Winterzauber 2027 Eintritt: Erwachsene 12 Euro, ermäßigt 10 Euro, Online-Vorverkauf bis 3.11.2027 10 Euro plus 0,30 Euro Gebühr, Kinder bis 17 Jahre in Begleitung frei, Gruppen ab 20 Personen 10 Euro; Online-Tickets bereits erhältlich (Reservix). | Quelle: https://www.gartenfestivals.de/winterzauber-kassel/ | geprüft: 2026-11-17 | sicher
 
 ## Ersatzquellen für tote Links
 
