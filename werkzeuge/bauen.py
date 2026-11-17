@@ -606,11 +606,12 @@ def seite(meta, inhalt_html, faq, toc, alle):
 <div class="breite raster">
 <main id="inhalt">
 {autor}
+{verzeichnis}
 {offen}
 {rest}
 {weiter}
 </main>
-<div class="seite">{eigenwerbung(slug, tiefe) if werbung_an else ""}{verzeichnis}</div>
+<div class="seite">{eigenwerbung(slug, tiefe) if werbung_an else ""}</div>
 </div>"""
     ld = "\n".join(f'<script type="application/ld+json">{json.dumps(s, ensure_ascii=False)}</script>' for s in schema)
     teil_bild = bild or EIGEN_BILD

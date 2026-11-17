@@ -137,7 +137,11 @@ tr:nth-child(even) td{background:var(--grund)}
 
 /* Seitenleiste */
 .seite{display:flex;flex-direction:column;gap:32px;padding-top:40px}
-.seite .eigen{position:relative;margin-top:50px;margin-bottom:28px;z-index:2}
+.seite .eigen{position:sticky;top:140px;margin-top:50px;z-index:2}
+/* Inhaltsverzeichnis im Textbereich, damit die mitlaufende Anzeige es nie verdeckt (Aaron, 17.11.2026) */
+main .toc{margin:32px 0 0;padding:18px 0 6px;border-top:2px solid var(--wein)}
+main .toc ol{columns:2;column-gap:36px}
+main .toc li{break-inside:avoid}
 .toc .dach{margin:0 0 8px}
 .toc ol{list-style:none;margin:0;padding:0;counter-reset:t}
 .toc li{margin:0;counter-increment:t}
@@ -327,7 +331,7 @@ tr:nth-child(even) td{background:var(--grund)}
   .tabelle.breit td[data-k=""]:before{display:none}
   h2{margin-top:56px}
   .portraet{float:none;width:70%;margin:8px auto 28px}
-  .seite .toc{display:none}
+  .toc{display:none}
 }
 
 @media (max-width:600px){
