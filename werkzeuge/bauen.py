@@ -101,6 +101,9 @@ AKTUELL = [
 # Messen und Setzen je Durchgang gebündelt, nur einmal je Bild (requestAnimationFrame), 16.11.2026
 FORTSCHRITT_JS = """<script>(function(){var b=document.querySelector('.lesefortschritt span');if(!b)return;var w=0,q=document.getElementById('haeufige-fragen')||document.querySelector('.quellen');function f(){w=0;var m=document.documentElement.scrollHeight-innerHeight,h=m;if(q){h=Math.min(m,q.getBoundingClientRect().top+scrollY-innerHeight*0.5)}b.style.transform='scaleX('+(h>0?Math.min(1,Math.max(0,scrollY/h)):0).toFixed(4)+')'}function g(){if(!w){w=1;requestAnimationFrame(f)}}addEventListener('scroll',g,{passive:true});addEventListener('resize',g);g()})();</script>"""
 EIGEN_JS = """<script>(function(){var e=document.querySelector('.seite .eigen');if(!e)return;var k=document.querySelector('.kopf'),b=e.querySelector('.polaroid'),w=0;function u(){var r=e.getBoundingClientRect(),q=b?b.getBoundingClientRect():r;return (k?k.offsetHeight:68)+12+Math.max(0,r.top-q.top)}function p(){return innerHeight-e.offsetHeight-16}function f(){w=0;if(getComputedStyle(e).position!=='sticky'&&!e.style.position)return;e.classList.remove('knapp');e.style.position='';e.style.top='';var o=u(),t=p();if(t<o){e.classList.add('knapp');o=u();t=p()}if(t<o){e.style.position='static';return}e.style.top=Math.max(o,Math.min(140,t))+'px'}function g(){if(!w){w=1;requestAnimationFrame(f)}}addEventListener('resize',g);addEventListener('load',g);if(document.fonts)document.fonts.ready.then(g);g()})();</script>"""
+# Handy-Menü (17.11.2026): öffnet mit Bewegung, Seite dahinter wird unbedienbar (inert), Escape, Linktipp,
+# Zurück-Taste (bfcache) und Wechsel auf breite Fenster schließen. Ohne Skript bleibt details/summary bedienbar.
+MENUE_JS = """<script>(function(){var d=document.querySelector('.menue');if(!d)return;var s=d.querySelector('summary'),t=d.querySelector('.menue-tafel'),k=document.querySelector('.kopf'),r=matchMedia('(prefers-reduced-motion:reduce)'),z=0;d.classList.add('lebt');function sperren(an){[].forEach.call(document.body.children,function(e){if(e!==k&&e.tagName!=='SCRIPT')e.inert=an})}function auf(){clearTimeout(z);d.style.setProperty('--menue-oben',Math.max(0,Math.round(k.getBoundingClientRect().bottom))+'px');d.open=true;sperren(true);void t.offsetWidth;d.classList.add('auf')}function zu(sofort){if(!d.open)return;clearTimeout(z);d.classList.remove('auf');sperren(false);if(sofort||r.matches){d.open=false;return}z=setTimeout(function(){d.open=false},180)}s.addEventListener('click',function(e){e.preventDefault();if(d.open&&d.classList.contains('auf'))zu();else auf()});d.addEventListener('toggle',function(){if(d.open&&!d.classList.contains('auf')&&!z){sperren(true);d.classList.add('auf')}if(!d.open){z=0;d.classList.remove('auf');sperren(false)}});document.addEventListener('keydown',function(e){if(e.key==='Escape'&&d.open){zu();s.focus()}});t.addEventListener('click',function(e){if(e.target.closest('a'))zu(true)});addEventListener('pageshow',function(e){if(e.persisted)zu(true)});var b=matchMedia('(max-width:760px)');if(b.addEventListener)b.addEventListener('change',function(e){if(!e.matches)zu(true)})})();</script>"""
 # Linienplan: Wasser „fließt“ beim Scrollen die Strecke hinab, erreichte Stationen leuchten orange.
 # Erst alle Maße lesen, dann alle Klassen und Werte schreiben (kein Wechsel von Lesen und Schreiben)
 STRECKE_JS = """<script>(function(){var s=[].slice.call(document.querySelectorAll('.strecke'));if(!s.length)return;s.forEach(function(o){o.classList.add('lebt')});var w=0;function f(){w=0;var m=innerHeight*0.6,a=s.map(function(o){var r=o.getBoundingClientRect();return [o,Math.max(0,Math.min(1,(m-r.top)/r.height)),[].map.call(o.children,function(l){var q=l.getBoundingClientRect();return q.top+q.height/2<m})]});a.forEach(function(x){x[0].style.setProperty('--f',x[1].toFixed(3));[].forEach.call(x[0].children,function(l,i){l.classList.toggle('an',x[2][i])})})}function g(){if(!w){w=1;requestAnimationFrame(f)}}addEventListener('scroll',g,{passive:true});addEventListener('resize',g);g()})();</script>"""
@@ -287,13 +290,13 @@ EMPFEHLUNG_THEMA = {}
 for _thema, _seiten in {
         "wasser": ["wasserspiele-kassel", "beleuchtete-wasserspiele", "steinhoefer-wasserfall"],
         "berg": ["herkules-kassel", "bergpark-wilhelmshoehe", "loewenburg-kassel", "schloss-wilhelmshoehe", "habichtswald-wandern",
-                 "kurhessen-therme", "bad-wilhelmshoehe", "kassel-im-fruehling"],
+                 "kurhessen-therme", "bad-wilhelmshoehe", "kassel-im-fruehling", "aussichtspunkte-kassel"],
         "parken": ["parken-bergpark-wilhelmshoehe", "parken-bahnhof-wilhelmshoehe"],
         "bahn": ["mit-bus-und-bahn-zum-bergpark"],
         "kunst": ["documenta-2027", "documenta-uebernachten"],
         "familie": ["kassel-mit-kindern", "kassel-bei-regen", "grimmwelt-kassel", "orangerie-karlsaue", "kletterwald-kassel",
                     "planetarium-kassel"],
-        "winter": ["weihnachtsmarkt-kassel", "winterzauber-kassel"],
+        "winter": ["weihnachtsmarkt-kassel", "winterzauber-kassel", "kassel-im-winter"],
         "hund": ["kassel-mit-hund"],
         "klinik": ["kliniken-angehoerige"],
         "start": ["fruehlingsfest-kassel"]}.items():
@@ -331,6 +334,8 @@ ZEILE_SEITE = {
     "termine-kassel-2027": "Für die großen Termine 2027 eine eigene Ferienwohnung am Bergpark, mit Küche und kostenlosem Parken.",
     "uebernachten-kassel": "Schöne Ferienwohnungen direkt am Bergpark, vom Apartment für zwei bis zur Wohnung mit Garten für sechs.",
     "zissel-kassel": "Nach dem Zissel an der Fulda mit der Tram zurück in die Ferienwohnung am Bergpark.",
+    "aussichtspunkte-kassel": "Den Herkules jeden Tag im Blick, in unseren Ferienwohnungen am Bergpark.",
+    "kassel-im-winter": "Nach dem Winterspaziergang in den beheizten Whirlpool im Garten unserer Wohnung Herkules.",
 }
 # Kein Einzeiler auf diesen Seiten
 OHNE_ZEILE = {"impressum", "datenschutz", "bildnachweise", "ueber-uns", "404", "index"}
@@ -461,16 +466,40 @@ def blick_lesen(text):
     return paare
 
 
+def menue_tafel(slug, tiefe, alle):
+    """Handy-Menü: „Planen“ oben, darunter die Themen nach den Vorhaben-Gruppen der Startseite, Rest unter „Weitere Themen“.
+    Jede Seite steht genau einmal im Menü (17.11.2026)."""
+    def zeile(s, text):
+        aktuell = ' aria-current="page"' if s == slug else ""
+        return f'<li><a href="{tiefe}{s}/"{aktuell}>{text}</a></li>'
+
+    def gruppe(nr, titel, liste, eintraege):
+        return (f'<div class="menue-gruppe"><p class="menue-titel" id="menue-g{nr}">{html.escape(titel)}</p>'
+                f'<ul class="{liste}" aria-labelledby="menue-g{nr}">{"".join(eintraege)}</ul></div>')
+
+    teile = [gruppe(0, "Planen", "menue-haupt", [zeile(s, t) for s, t in NAV if s in alle])]
+    gesehen = {s for s, _ in NAV}
+    for nr, (titel, _, haupt, weitere) in enumerate(VORHABEN, 1):
+        seiten = [s for s in [haupt] + weitere if s in alle and s not in gesehen]
+        gesehen.update(seiten)
+        if seiten:
+            teile.append(gruppe(nr, titel, "menue-liste", [zeile(s, html.escape(alle[s].get("kurz", s))) for s in seiten]))
+    rest = [s for s in THEMEN if s in alle and s not in gesehen]
+    if rest:
+        teile.append(gruppe(len(VORHABEN) + 1, "Weitere Themen", "menue-liste", [zeile(s, html.escape(alle[s].get("kurz", s))) for s in rest]))
+    return "".join(teile)
+
+
 def kopf_und_fuss(slug, tiefe, alle):
-    nav = "".join(f'<a href="{tiefe}{s}/"{" aria-current=\"page\"" if s == slug else ""}>{t}</a>' for s, t in NAV if s in alle)
+    nav ="".join(f'<a href="{tiefe}{s}/"{" aria-current=\"page\"" if s == slug else ""}>{t}</a>' for s, t in NAV if s in alle)
     themen = "".join(f'<a href="{tiefe}{s}/"{" aria-current=\"page\"" if s == slug else ""}>{html.escape(alle[s].get("kurz", s))}</a>'
                      for s in THEMEN if s in alle)
     kopf = f"""<a class="sprung" href="#inhalt">Zum Inhalt</a>
 <header class="kopf"><div class="breite">
 <a class="wortmarke" href="{tiefe or './'}" aria-label="{NAME} – Startseite"><b>KASSEL</b><i>kenner.</i></a>
 <nav class="haupt" aria-label="Hauptnavigation">{nav}</nav>
-<details class="menue"><summary aria-label="Menü öffnen"><span class="striche" aria-hidden="true"><i></i><i></i><i></i></span>Menü</summary>
-<nav class="menue-tafel" aria-label="Menü"><p class="dach">Planen</p><div class="menue-haupt">{nav}</div><p class="dach">Alle Themen</p><div class="menue-themen">{themen}</div></nav></details>
+<details class="menue"><summary><span class="striche" aria-hidden="true"><i></i><i></i><i></i></span><span class="zu">Menü</span><span class="auf">Schließen</span></summary>
+<nav class="menue-tafel" aria-label="Menü">{menue_tafel(slug, tiefe, alle)}</nav></details>
 </div><div class="lesefortschritt" aria-hidden="true"><span></span></div></header>
 <nav class="themen" aria-label="Themen"><div class="breite">{themen}</div></nav>"""
     fuss_links = " · ".join(f'<a href="{tiefe}{s}/">{t}</a>' for s, t in FUSS)
@@ -828,6 +857,8 @@ def main():
             text = text.replace("</body>", EIGEN_JS + "\n</body>", 1)
         if 'class="lesefortschritt"' in text:
             text = text.replace("</body>", FORTSCHRITT_JS + "\n</body>", 1)
+        if 'class="menue"' in text:
+            text = text.replace("</body>", MENUE_JS + "\n</body>", 1)
         if 'class="strecke"' in text:
             text = text.replace("</body>", STRECKE_JS + "\n</body>", 1)
         if ZAEHLER and slug != "404":

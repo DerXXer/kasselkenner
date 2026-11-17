@@ -44,17 +44,44 @@ a:hover{color:var(--sonne-d)}
 .themen a{color:#fff;font:700 12px Archivo,sans-serif;text-transform:uppercase;letter-spacing:.06em;text-decoration:none;white-space:nowrap;opacity:.88}
 .themen a:hover,.themen a[aria-current]{opacity:1;color:var(--zettel)}
 
-.menue{display:none;margin-left:auto}
-.menue summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;font:700 15px "Instrument Sans",sans-serif;color:var(--wein);padding:10px 4px}
+/* Handy-Menü als Vollbild-Tafel unter der Kopfzeile (17.11.2026). Offen sichtbar: [open] ohne Skript, .auf mit Skript.
+   Bewegung: öffnen 240 ms ease-out, schließen 170 ms ease-in, nur transform und opacity. */
+.menue{display:none;margin-left:auto;margin-right:-12px;--menue-oben:61px;--menue-ein:240ms;--menue-aus:170ms;
+  --kurve-ein:cubic-bezier(.32,.72,0,1);--kurve-aus:cubic-bezier(.55,0,1,.45)}
+.menue summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;min-height:44px;padding:0 14px 0 12px;border-radius:999px;
+  font:700 15px "Instrument Sans",sans-serif;color:var(--wein);-webkit-tap-highlight-color:transparent;user-select:none;-webkit-user-select:none;
+  transition:background-color .15s,color .15s,transform .15s cubic-bezier(.23,1,.32,1)}
 .menue summary::-webkit-details-marker{display:none}
-.striche{display:grid;gap:4px;width:20px}.striche i{display:block;height:2px;background:var(--wein);border-radius:1px;transition:transform .25s,opacity .25s}
-.menue[open] .striche i:nth-child(1){transform:translateY(6px) rotate(45deg)}.menue[open] .striche i:nth-child(2){opacity:0}.menue[open] .striche i:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
-.menue-tafel{position:absolute;left:0;right:0;top:100%;background:#fff;border-bottom:4px solid var(--wein);box-shadow:0 18px 30px -18px rgba(29,26,24,.5);padding:18px 20px 22px;max-height:calc(100vh - 70px);overflow-y:auto}
-.menue-tafel .dach{margin:6px 0 8px;font-size:12px}
-.menue-haupt a{display:block;font:800 22px/1.2 Archivo,sans-serif;color:var(--wein);text-decoration:none;padding:9px 0;border-bottom:1px solid var(--linie)}
-.menue-themen{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:4px}
-.menue-themen a{display:inline-flex;align-items:center;min-height:44px;font:600 15px "Instrument Sans",sans-serif;color:var(--text);text-decoration:none;background:var(--grund);padding:10px 14px;border-radius:999px}
-.menue a[aria-current]{color:var(--sonne-d)}
+.menue summary:active{transform:scale(.96)}
+.menue summary:focus-visible{outline:3px solid var(--sonne);outline-offset:2px}
+.menue .auf{display:none}
+.striche{display:grid;gap:4px;width:20px}.striche i{display:block;height:2px;background:currentColor;border-radius:1px;transition:transform .24s cubic-bezier(.32,.72,0,1),opacity .2s}
+.menue[open]:not(.lebt) summary,.menue.auf summary{background:var(--wein);color:#fff}
+.menue[open]:not(.lebt) .zu,.menue.auf .zu{display:none}.menue[open]:not(.lebt) .auf,.menue.auf .auf{display:inline}
+.menue[open]:not(.lebt) .striche i:nth-child(1),.menue.auf .striche i:nth-child(1){transform:translateY(6px) rotate(45deg)}
+.menue[open]:not(.lebt) .striche i:nth-child(2),.menue.auf .striche i:nth-child(2){opacity:0}
+.menue[open]:not(.lebt) .striche i:nth-child(3),.menue.auf .striche i:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
+.menue-tafel{position:fixed;left:0;right:0;top:var(--menue-oben);bottom:0;max-height:calc(100vh - var(--menue-oben));max-height:calc(100dvh - var(--menue-oben));
+  overflow-y:auto;overflow-x:hidden;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;background:var(--grund);
+  padding:22px 16px calc(40px + env(safe-area-inset-bottom))}
+.menue.lebt .menue-tafel{opacity:0;transform:translateY(-8px);transition:opacity var(--menue-aus) var(--kurve-aus),transform var(--menue-aus) var(--kurve-aus)}
+.menue.lebt.auf .menue-tafel{opacity:1;transform:none;transition-duration:var(--menue-ein);transition-timing-function:var(--kurve-ein)}
+.menue-gruppe{max-width:560px;margin:0 auto 26px}
+.menue-gruppe:last-child{margin-bottom:0}
+.menue-titel{margin:0 6px 8px;font:700 12px/1.3 Archivo,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--sonne-d)}
+.menue-haupt,.menue-liste{list-style:none;margin:0;padding:0;background:#fff;border:1px solid var(--linie);border-radius:14px;overflow:hidden}
+.menue-haupt li,.menue-liste li{margin:0}
+.menue-haupt li+li a,.menue-liste li+li a{box-shadow:inset 0 1px 0 var(--linie)}
+.menue-tafel a{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:50px;padding:12px 18px;
+  font:600 17px/1.3 "Instrument Sans",sans-serif;color:var(--text);text-decoration:none;-webkit-tap-highlight-color:transparent;transition:background-color .12s}
+.menue-haupt a{min-height:58px;font:800 21px/1.2 Archivo,sans-serif;color:var(--wein)}
+.menue-tafel a:after{content:"";flex:none;width:8px;height:8px;margin-right:3px;border:solid var(--leise);border-width:2px 2px 0 0;transform:rotate(45deg);opacity:.55}
+.menue-tafel a:active{background:var(--grund);color:var(--wein)}
+.menue-tafel a[aria-current]{background:var(--zettel);color:var(--text)}
+.menue-tafel a[aria-current]:after{width:9px;height:9px;border:0;border-radius:50%;background:var(--sonne);transform:none;opacity:1}
+.menue-tafel a:focus-visible{outline:3px solid var(--sonne);outline-offset:-3px}
+@media (hover:hover) and (pointer:fine){.menue-tafel a:hover{background:var(--grund);color:var(--wein)}.menue-tafel a[aria-current]:hover{background:var(--zettel)}}
+@media (prefers-reduced-motion:reduce){.menue summary,.striche i,.menue-tafel a,.menue.lebt .menue-tafel,.menue.lebt.auf .menue-tafel{transition:none}.menue.lebt .menue-tafel{transform:none}.menue summary:active{transform:none}}
 
 /* Überschriften */
 .gross{font:900 clamp(42px,8vw,100px)/.92 Archivo,sans-serif;font-stretch:62%;text-transform:uppercase;margin:0;letter-spacing:-.005em}
@@ -302,6 +329,7 @@ tr:nth-child(even) td{background:var(--grund)}
   .strecke time{padding-right:6px}
   /* Kopf: Menü statt Leiste */
   .menue{display:block}
+  html:has(.menue[open]){overflow:hidden}
   .themen{display:none}
   .kopf .breite{min-height:60px}
   /* Bildwechsel: Fortschrittsleiste über die ganze Breite statt Mini-Fotos */
