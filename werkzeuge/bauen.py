@@ -244,7 +244,7 @@ EMPFEHLUNG = {  # Titel, Satz, Tipp, Wohnung (Kurzname oder "" = Übersicht), Ze
                "Unsere Wohnung Löwenburg liegt 14 Minuten zu Fuß vom Schloss Wilhelmshöhe."),
     "berg": ("Der Bergpark als Vorgarten",
              "Von unserer Wohnung Löwenburg sind es 14 Minuten zu Fuß zum Schloss und 18 Minuten zur Löwenburg. Morgens bist du im Park, bevor die Busse kommen.",
-             "Für Gruppen bis 6 Personen: die Wohnung „Herkules“ mit Garten und beheiztem Whirlpool.", "loewenburg",
+             "Zwei Schlafzimmer, eigene Küche, für bis zu 4 Personen.", "loewenburg",
              "Wir vermieten Ferienwohnungen in Bad Wilhelmshöhe, 14 Minuten zu Fuß vom Schloss."),
     "parken": ("Auto abstellen, Park zu Fuß",
                "An unseren Häusern in Bad Wilhelmshöhe parkst du kostenlos an der Straße. Zum Bergpark gehst du zu Fuß oder fährst mit der Linie 4, Parkgebühren am Park fallen weg.",
