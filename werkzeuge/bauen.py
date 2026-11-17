@@ -66,7 +66,7 @@ VERANSTALTER = {"documenta-2027": ("documenta und Museum Fridericianum gGmbH", "
                 "zissel-kassel": ("Zissel in Kassel e.V.", "https://www.zissel.de/")}
 BUCHEN = "https://wohnenambergpark.de/de/alle-ferienwohnungen"
 NAV = [("wasserspiele-kassel", "Wasserspiele"), ("bergpark-wilhelmshoehe", "Bergpark"),
-       ("documenta-2027", "documenta 2027"), ("parken-bergpark-wilhelmshoehe", "Parken & Anreise"),
+       ("documenta-2027", "documenta 2027"), ("parken-bergpark-wilhelmshoehe", "Parken am Bergpark"),
        ("uebernachten-kassel", "Übernachten")]
 THEMEN = ["herkules-kassel", "loewenburg-kassel", "schloss-wilhelmshoehe", "beleuchtete-wasserspiele",
           "kassel-sehenswuerdigkeiten", "kassel-mit-kindern", "kassel-bei-regen", "weihnachtsmarkt-kassel",
