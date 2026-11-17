@@ -27,13 +27,13 @@ Am Bahnhof halten die Straßenbahnlinien 1, 3, 4 und 7 sowie die RegioTram RT5. 
 
 Mit der Tram 4 Richtung Druseltal bis zur Endhaltestelle, das dauert rund 10 Minuten. Dort steigst du in den Bus 22, der halbstündlich in etwa 7 Minuten zum Herkules hinauffährt. Die Tram 4 fährt werktags bis 20 Uhr und sonntags von 12 bis 15 Uhr alle 15 Minuten, sonst halbstündlich. Plane also die Wartezeit auf den Bus mit ein. Zurück hinunter fährt der Bus 22 an Sonn- und Feiertagen nur stündlich.
 
-Oben stehst du direkt am Besucherzentrum und hast die ganze Stadt unter dir. Von hier läuft es sich am schönsten: bergab durch den Park, an Kaskaden, Teufelsbrücke und Aquädukt vorbei bis zum Schloss.
+Oben stehst du am Herkules und hast die ganze Stadt unter dir. Von hier läuft es sich am schönsten: bergab durch den Park, an Kaskaden, Teufelsbrücke und Aquädukt vorbei bis zum Schloss.
 
 ## Wie komme ich zum Schloss und zur Großen Fontäne?
 
 ![Straßenbahn in Kassel](strassenbahn-friedrichsplatz.jpg)
 
-Die Tram 1 bringt dich in 6 Minuten zur Endhaltestelle Wilhelmshöhe (Park). Von dort sind es 0,8 Kilometer, rund 10 Minuten zu Fuß, bis zum Schloss. Bequemer geht es mit der Linie 24: Sie fährt täglich von 10 bis 18 Uhr alle 30 Minuten vom Bahnhof (Bussteig A) über Wilhelmshöhe (Park) bis vor das Schloss. In den kleinen Elektrobussen der Linie 24 gibt es keinen Ticketautomaten, kauf dein Ticket also vorher, am einfachsten in der App.
+Die Tram 1 bringt dich in 6 Minuten zur Endhaltestelle Wilhelmshöhe (Park). Von dort sind es 0,8 Kilometer, rund 10 Minuten zu Fuß, bis zum Schloss. Bequemer geht es mit der Linie 24: Sie fährt täglich von 10 bis 18 Uhr alle 30 Minuten vom Bahnhof (Bussteig A) über Wilhelmshöhe (Park) bis vor das Schloss. In den kleinen Bussen der Linie 24 mit Platz für bis zu fünf Personen gibt es keinen Ticketautomaten, kauf dein Ticket also vorher, am einfachsten in der App.
 
 Lieber zu Fuß? Vom Bahnhof bis zum Schloss sind es 2,6 Kilometer, gut eine halbe Stunde.
 
@@ -58,7 +58,7 @@ Mit dem Deutschlandticket fährst du in allen Bussen und Trams im NVV ohne Aufpr
 
 ## Wie komme ich abends zurück?
 
-Die letzte Tram 1 verlässt Wilhelmshöhe (Park) laut Fahrplan 2026 um 23.06 Uhr, auch an Sonn- und Feiertagen, und ist um 23.15 Uhr am Bahnhof Wilhelmshöhe. Ab Druseltal fährt die Tram 4 sonn- und feiertags zuletzt um 23.34 und 23.59 Uhr. Vom Herkules hinunter fährt der Bus 22 an Sonn- und Feiertagen zuletzt regulär um 19.21 Uhr bis Druseltal, später nur noch als Anrufsammeltaxi. Manche Fahrten der Linie 22 fahren als Anrufsammeltaxi, das du bis 15 Minuten vorher unter 0800-939-0800 bestellst. Im Dezember wechselt der Fahrplan; die aktuelle Verbindung zeigt die NVV-App.
+Die letzte Tram 1 verlässt Wilhelmshöhe (Park) laut Fahrplan 2026 um 23.06 Uhr, auch an Sonn- und Feiertagen, und ist um 23.15 Uhr am Bahnhof Wilhelmshöhe. Ab Druseltal fährt die Tram 4 sonn- und feiertags zuletzt um 23.34 und 23.59 Uhr. Vom Herkules hinunter fährt der Bus 22 an Sonn- und Feiertagen zuletzt regulär um 19.21 Uhr bis Druseltal, später nur noch als Anrufsammeltaxi. Manche Fahrten der Linie 22 fahren als Anrufsammeltaxi, das du bis 15 Minuten vorher unter 0800-939-0800 bestellst. Im Dezember wechselt der Fahrplan; die aktuelle Verbindung zeigt die NVV-App. Wanderst du auf dem Kassel-Steig, findest du die passenden Haltestellen unter [Kassel-Steig mit Bus und Tram](/kassel-steig-bus-tram/).
 
 ## Häufige Fragen
 

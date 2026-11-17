@@ -7,6 +7,8 @@ Stand: 2026-11-17
 ## Seiten
 
 - [Startseite](https://kasselkenner.de/): Überblick über alle Ratgeber
+- [Aussichtspunkte Kassel: die schönsten Blicke über die Stadt](https://kasselkenner.de/aussichtspunkte-kassel/): Aussichtspunkte in Kassel: Herkules, Löwenburg, Grimmwelt-Dach, Schöne Aussicht, Landesmuseum und Hohes Gras. Wann sie offen sind und was du siehst.
+- [Bad Wilhelmshöhe Kassel: Stadtteil am Bergpark](https://kasselkenner.de/bad-wilhelmshoehe/): Bad Wilhelmshöhe in Kassel: Bergpark, Kurhessen-Therme, ICE-Bahnhof und Tram 1 und 4. Was du im Kurviertel am Bergpark machst und wie du dich zurechtfindest.
 - [Beleuchtete Wasserspiele Kassel: Termine, Zeiten, Anreise](https://kasselkenner.de/beleuchtete-wasserspiele/): Beleuchtete Wasserspiele Kassel 2027 am 14. und 15. Mai: Ablauf am Abend mit Uhrzeiten von 2026, Anreise und der Unterschied zum Bergparkleuchten.
 - [Bergpark Wilhelmshöhe Kassel: Eintritt, Rundweg, Anreise](https://kasselkenner.de/bergpark-wilhelmshoehe/): Bergpark Wilhelmshöhe in Kassel: was dich im UNESCO-Welterbe erwartet, Eintritt (Park frei), ein Rundweg bergab für einen Tag und die Anreise.
 - [documenta 2027 Kassel: Tickets 29 Euro, Termine, Anreise](https://kasselkenner.de/documenta-2027/): documenta 16 in Kassel: 12. Juni bis 19. September 2027, täglich 10 bis 20 Uhr. Ticketpreise, Bus und Bahn, Welcome Center und Anreise im Überblick.
@@ -18,6 +20,7 @@ Stand: 2026-11-17
 - [Altstadt Kassel: was blieb und ein Rundgang zu Fuß](https://kasselkenner.de/kassel-altstadt/): Altstadt Kassel: was nach 1943 blieb, von Martinskirche bis Druselturm, ein Rundgang in rund 25 Minuten Gehzeit, Markthalle und Stadtmuseum.
 - [Kassel bei Regen: Museen, Therme und Ideen drinnen](https://kasselkenner.de/kassel-bei-regen/): Kassel bei Regen: Schloss Wilhelmshöhe, Grimmwelt, Naturkundemuseum, Landesmuseum, Planetarium und Kurhessen-Therme mit Öffnungszeiten und Preisen.
 - [Kassel Geheimtipps: weniger bekannte Orte mit Preisen](https://kasselkenner.de/kassel-geheimtipps/): Weniger bekannte Orte in Kassel: Künstler-Nekropole, Sepulkralmuseum, Weinbergbunker, Turm des Landesmuseums, Laserscape und Dönche mit Zeiten und Preisen.
+- [Kassel im Winter: Gewächshaus, Therme, Weihnachtsmarkt](https://kasselkenner.de/kassel-im-winter/): Kassel im Winter: Was im Bergpark offen ist, wann das Große Gewächshaus blüht, Weihnachtsmarkt 2026, Kurhessen-Therme und was bis März schließt.
 - [Kassel mit Hund: Leinenpflicht, Parks, Bus und Bahn](https://kasselkenner.de/kassel-mit-hund/): Kassel mit Hund: wo Leinenpflicht gilt, was im Bergpark und in der Karlsaue erlaubt ist, kostenlos in Bus und Tram, Freilauffläche und Ausflugstipps.
 - [Kassel mit Kindern: Ausflüge, Museen und Preise](https://kasselkenner.de/kassel-mit-kindern/): Kassel mit Kindern: Bergpark und Löwenburg, Grimmwelt, Naturkundemuseum, Planetarium und Karlsaue mit Öffnungszeiten und Kinderpreisen im Überblick.
 - [Kassel Sehenswürdigkeiten und Ausflugsziele im Überblick](https://kasselkenner.de/kassel-sehenswuerdigkeiten/): Kassel Sehenswürdigkeiten im Überblick: Bergpark mit Herkules und Schloss, Innenstadt mit Fridericianum, Karlsaue und Grimmwelt, mit Eintritt und Zeiten.
@@ -31,6 +34,8 @@ Stand: 2026-11-17
 - [Orangerie Kassel und Karlsaue: Planetarium, Marmorbad, Park](https://kasselkenner.de/orangerie-karlsaue/): Orangerie Kassel in der Karlsaue: Park frei zugänglich, Planetarium Do bis So 10 bis 17 Uhr für 8 Euro, Marmorbad April bis Oktober gratis. Anreise.
 - [Parken Bahnhof Kassel-Wilhelmshöhe: Preise und Plätze](https://kasselkenner.de/parken-bahnhof-wilhelmshoehe/): Parken am Bahnhof Kassel-Wilhelmshöhe: acht Parkplätze im Vergleich, Preise pro Stunde und Tag, der günstigste für mehrere Tage und wo es kostenlos geht.
 - [Wilhelmshöhe Parkplatz: Parken am Bergpark und Herkules](https://kasselkenner.de/parken-bergpark-wilhelmshoehe/): Parken am Bergpark Wilhelmshöhe: die Parkplätze am Herkules und am Schloss, Preise an normalen Tagen und Wasserspieltagen, dazu Bus und Tram.
+- [Parkhaus Kassel: so parkst du in der Innenstadt](https://kasselkenner.de/parken-kassel-innenstadt/): Parkhäuser in der Kasseler Innenstadt mit Plätzen und Öffnungszeiten, Parkgebühren am Straßenrand, Park and Ride und was am Sonntag gilt.
+- [Planetarium Kassel: Preise, Öffnungszeiten, Tickets](https://kasselkenner.de/planetarium-kassel/): Planetarium Kassel in der Orangerie: Do bis So 10 bis 17 Uhr, Eintritt 8 Euro, unter 18 Jahren 2 Euro. Tickets, Alter, Anreise und was du dort siehst.
 - [Schloss Wilhelmshöhe: Öffnungszeiten, Eintritt, Museum](https://kasselkenner.de/schloss-wilhelmshoehe/): Schloss Wilhelmshöhe in Kassel: welche Sammlungen du siehst, wann das Museum offen ist, was das Tagesticket kostet und wie du mit der Tram 1 hinkommst.
 - [Steinhöfer Wasserfall Kassel: wann er läuft und Anreise](https://kasselkenner.de/steinhoefer-wasserfall/): Steinhöfer Wasserfall im Bergpark Wilhelmshöhe: wann das Wasser fließt (15.05 Uhr an Wasserspieltagen), Weg vom Herkules und was danach kommt.
 - [Termine Kassel 2027: Wasserspiele, documenta, Zissel](https://kasselkenner.de/termine-kassel-2027/): Alle Termine Kassel 2027 auf einen Blick: 49 Wasserspieltage vom 1. Mai bis 3. Oktober, documenta 16 ab 12. Juni, Zissel vom 30. Juli bis 2. August.
@@ -42,6 +47,8 @@ Stand: 2026-11-17
 
 ## Kernfakten (je Seite, mit Prüfdatum)
 
+- Aussichtspunkte (geprüft 2026-11-17): Herkules-Plattform: 1. April bis 31. Oktober; Grimmwelt-Dach: ganzjährig, ohne Eintritt; Löwenburg-Turm: 2 Euro zusätzlich; Landesmuseum: Turm zur vollen und halben Stunde; Hohes Gras: Turm, rund 31 m hoch
+- Bad Wilhelmshöhe (geprüft 2026-11-16): Lage: Westen von Kassel, am Habichtswald; Bergpark: rund 560 Hektar, Welterbe seit 2013; Therme: Kurhessen-Therme, täglich 9 bis 22 Uhr; Bahnhof: ICE-Bahnhof Kassel-Wilhelmshöhe; Tram: Linie 1 und 4
 - Beleuchtete Wasserspiele (geprüft 2026-11-11): Termin 2027: 14. und 15. Mai; Termine 2026: 5./6. Juni, 11./12. September; Beginn 2026: 21.00 Uhr (Juni), 20.00 Uhr (September); Finale: Große Fontäne; Anreise: Tram 4, dann Bus 22 oder 23; Mitnehmen: Taschenlampe
 - Bergpark (geprüft 2026-11-05): Eintritt: Park frei; Geöffnet: ganzjährig; Rundweg: rund 2,3 km bergab; Anreise: Tram 4, dann Bus 22; Parken: am Herkules und am Schloss; Welterbe: seit 2013
 - documenta 2027 (geprüft 2026-11-12): Zeitraum: 12. Juni bis 19. September 2027; Geöffnet: täglich 10 bis 20 Uhr; Tagesticket: 29 Euro, ermäßigt 19 Euro; Kinder: bis zwölf Jahre frei; Start: Welcome Center Friedrichsplatz; Anreise: ICE bis Kassel-Wilhelmshöhe
@@ -53,6 +60,7 @@ Stand: 2026-11-17
 - Altstadt (geprüft 2026-10-20): Zerstört: Nacht vom 22. auf den 23. Oktober 1943; Erhalten: Martinskirche, Druselturm, Brüderkirche, Zwehrenturm; Rundgang: rund 25 Min. reine Gehzeit; Stadtmuseum: 4 Euro, bis 18 Jahre frei; Markthalle: Do und Fr 7 bis 18 Uhr, Sa 7 bis 14 Uhr
 - Bei Regen (geprüft 2026-11-01): Museen: Di bis So, Mo geschlossen; Therme: täglich 9 bis 22 Uhr; Thermalbad: ab 18 Euro (2 Stunden); Grimmwelt: 10 Euro, unter 6 frei
 - Abseits der Wege (geprüft 2026-11-01): Nekropole: ganzjährig, Eintritt frei; Sepulkralkultur: 8 Euro, Mi bis 20 Uhr; Bunkerführung: ab 5 Euro, mit Anmeldung; Laserscape: samstags, Eintritt frei; Gewächshaus: 1. November bis 31. März
+- Im Winter (geprüft 2026-11-17): Bergpark: ganzjährig, Eintritt frei; Gewächshaus: 1. November bis 31. März; Weihnachtsmarkt: 23. November bis 30. Dezember; Therme: täglich 9 bis 22 Uhr; Herkules-Monument: im Winter geschlossen
 - Mit Hund (geprüft 2026-10-20): Bergpark und Karlsaue: erlaubt, an der kurzen Leine; Bus und Tram im NVV: Hund fährt kostenlos; Leinenpflicht: 49 Flächen, u. a. Fußgängerzone, Friedrichsplatz; Freilauf: Hundeauslauffläche Fuldatalstraße, Wolfsanger; Nie erlaubt: Kinderspielplätze
 - Mit Kindern (geprüft 2026-11-01): Bergpark: Eintritt frei; Löwenburg: unter 18 frei; Grimmwelt: unter 6 frei; Planetarium: unter 18 Jahren 2 Euro; Wasserspiele: 1. Mai bis 3. Oktober
 - Sehenswürdigkeiten (geprüft 2026-11-04): Bergpark: Eintritt frei; Wasserspiele: Mi, So und Feiertag ab 14.30 Uhr; Museen: meist 8 Euro; Montag: fast alle Museen zu; Herkules: Tram 4, dann Bus 22
@@ -66,6 +74,8 @@ Stand: 2026-11-17
 - Orangerie (geprüft 2026-11-01): Park: ganzjährig, Eintritt frei; Planetarium: Do bis So 10 bis 17 Uhr; Vorstellung: 8 Euro, ermäßigt 5 Euro; Marmorbad: Eintritt frei, im Winter zu; Adresse: An der Karlsaue 20a
 - Parken am Bahnhof (geprüft 2026-10-20): Parkdeck DB: 370 Plätze, 2 Euro je Std., 24 Euro am Tag; Graf-Bernadotte-Platz: 5 Euro für 24 Std., 20 Euro für 16 Tage; Atrium: 1 Euro je Std., 20 Euro für 24 Std.; Kurz halten: Willy-Brandt-Platz, höchstens 60 Min.; Kostenlos: keiner der acht Plätze
 - Parken (geprüft 2026-11-05): Plätze: Herkules 280, Schloss 390; Normale Tage: erste 30 Min. frei, Tag 5 Euro; Wasserspieltage: 8,50 Euro (9.30 bis 15 Uhr); Shuttle: 2 Euro je Fahrt; Ohne Auto: Tram 1 und 4, Bus 22 und 23
+- Parken Innenstadt (geprüft 2026-11-17): Größte Tiefgarage: Friedrichsplatz, 980 Plätze; Rund um die Uhr: Kurfürsten Galerie und Galeria; Straßenrand Zentrum: 2 Euro je Stunde, höchstens 3 Stunden; Sonntags: am Straßenrand im Zentrum frei; Umweltzone: keine
+- Planetarium (geprüft 2026-11-16): Geöffnet: Do bis So und feiertags 10 bis 17 Uhr; Eintritt: 8 Euro, ermäßigt 5 Euro; Unter 18: 2 Euro; Plätze: 54; Kinder: ab 3 Jahren; Ort: Orangerie, An der Karlsaue 20d
 - Schloss Wilhelmshöhe (geprüft 2026-11-07): Geöffnet: Di bis So 10 bis 17 Uhr; Länger: 1. und 3. Freitag bis 19 Uhr; Winter: geöffnet; Eintritt: 8 Euro, bis 17.1.2027 12 Euro (Tagesticket Wilhelmshöhe), unter 18 frei; Anreise: Tram 1 oder Linie 24; Parken: 390 Plätze, Tag 5 Euro, an Wasserspieltagen 8,50 Euro
 - Steinhöfer Wasserfall (geprüft 2026-10-20): Wasser fließt: an Wasserspieltagen gegen 15.05 Uhr; Saison: 1. Mai bis 3. Oktober, Mi, So und Feiertage; Eintritt: frei; Vom Herkules: rund 16 Min. bergab; Angelegt: 1793
 - Termine 2027 (geprüft 2026-11-12): Wasserspiele: 1. Mai bis 3. Oktober 2027; Wasserspieltage: 49; documenta 16: 12. Juni bis 19. September; Zissel: 30. Juli bis 2. August; Beleuchtete Wasserspiele: 14. und 15. Mai

@@ -55,8 +55,9 @@ ul{{list-style:none;margin:0;padding:0;display:grid;gap:8px}}
 a{{display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 12px;padding:12px 14px;border:1px solid var(--linie);border-radius:6px;color:var(--fg);text-decoration:none}}
 a:hover{{border-color:var(--orange)}} a span{{color:var(--leise);font-size:14px}}
 </style>
-<script>(function(){{var z={ziele};var h=(location.hash||"").slice(1);if(z[h])location.replace(z[h]);}})();</script>
+<script>(function(){{var z={ziele};var h=(location.hash||"").slice(1);if(z[h])location.replace(z[h]);else if(h)addEventListener("DOMContentLoaded",function(){{var e=document.getElementById("fehlt");e.textContent="„"+decodeURIComponent(h)+"“ ist hier noch nicht eingespielt. Sag Claude kurz Bescheid, dann wird die Vollansicht neu gebaut.";e.hidden=false;}});}})();</script>
 <div class="w"><h1>Kasselkenner – ganze Seiten</h1>
+<p id="fehlt" hidden style="color:var(--orange);font-weight:700;border:2px solid var(--orange);border-radius:6px;padding:10px 12px"></p>
 <p>So sehen die Seiten nach der Freigabe aus: echte Schriften, alle Fotos, volle Breite. Freigeben kannst du weiter auf der Freigabeseite.</p>
 <ul>
 {li}

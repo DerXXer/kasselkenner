@@ -28,7 +28,7 @@ Die Zeiten stammen aus den Tourenbeschreibungen, mit Pausen und Aussicht planst 
 
 | Tour | Länge | Dauer | Start | Rückweg |
 |---|---|---|---|---|
-| Kleine Hohes-Gras-Runde | 2,05 km | eine Dreiviertelstunde | Haltestelle Hohes Gras | Bus 22 zum Druseltal, dann Tram 4 |
+| Kleine Hohes-Gras-Runde | 2,05 km | eine Dreiviertelstunde | Ehlener Straße, Zufahrt Kletterwald und Waldgaststätte | Bus 22 zum Druseltal, dann Tram 4 |
 | Löwenburgrunde | 3,24 km | 1 Stunde | Wanderparkplatz Asch/Augustinum | Bus 22 ab Am Steinbruch oder Tram 4 ab Druseltal |
 | H3 „Im Glanz des Herkules“ | 12 km | 4 Stunden | Wanderparkplatz Herkules | Bus 22 zum Druseltal, dann Tram 4 |
 | H10 „Über den Dächern der Stadt“ | gut 18 km | etwa 6 Stunden | Herkules, Hohes Gras oder Druseltal | Bus 22 und Tram 4, die Runde lässt sich unterwegs abkürzen |
@@ -37,7 +37,7 @@ Die Zeiten stammen aus den Tourenbeschreibungen, mit Pausen und Aussicht planst 
 
 Die Kleine Hohes-Gras-Runde ist mit 2,05 Kilometern die kürzeste Tour und als leicht eingestuft. Sie liegt am Hohen Gras, mit knapp 615 Metern der höchste Punkt im Naturpark Habichtswald. Rund 50 Höhenmeter gehst du am Waldrand entlang, mit ein paar steileren Stücken und Blick auf eine beweidete Waldwiese. Am Start warten ein Aussichtsturm, eine Waldgaststätte und ein Kletterwald, die Pause ist also gleich mit eingeplant.
 
-Wegzeichen ist eine gelbe 9 im gelben Kreis. Der Weg kreuzt ein Mountainbike-Gebiet mit Strecke und Trailpark, nimm Kinder dort an die Hand. Mit dem Bus fährst du ab Herkules über Essigberg zum Hohen Gras, von der Haltestelle sind es noch etwa 500 Meter bis zum Start. Nicht jede Fahrt des Bus 22 hält am Hohen Gras, schau also vorher in den Fahrplan.
+Wegzeichen ist eine gelbe 9 im gelben Kreis. Der Weg kreuzt ein Mountainbike-Gebiet mit Strecke und Trailpark, dort heißt es achtsam sein. Mit dem Bus fährst du ab Herkules über Essigberg zum Hohen Gras, von der Haltestelle sind es noch etwa 500 Meter bis zum Start. Nicht jede Fahrt des Bus 22 hält am Hohen Gras, schau also vorher in den Fahrplan.
 
 ## Wie lange dauert die Löwenburgrunde?
 
@@ -53,13 +53,13 @@ Starten kannst du am Wanderparkplatz Herkules, am Hohen Gras, am Essigberg oder 
 
 ## Wie schwer ist die 18-Kilometer-Runde H10 über den Dächern der Stadt?
 
-Die H10 ist mit gut 18 Kilometern und rund 440 Höhenmetern als schwer eingestuft und eher etwas für einen langen Tag. Sie führt vom Hohen Gras zum Sichelbachbecken und zum Oktogon am [Herkules](/herkules-kassel/), weiter über Neu Holland und den Asch ins Druseltal, am Naturschutzgebiet Dönche entlang auf den Brasselsberg und zur Teufelsmauer, einer Basaltwand mitten im Wald. Durch die Firnsbachklamm geht es zurück zum Hohen Gras. Du folgst dem H10-Logo.
+Die H10 ist mit gut 18 Kilometern und rund 440 Höhenmetern als schwer eingestuft und eher etwas für einen langen Tag. Sie führt vom Hohen Gras zum Sichelbachbecken und zum Oktogon am [Herkules](/herkules-kassel/), weiter über Neu Holland und den Asch ins Druseltal, am Naturschutzgebiet Dönche entlang auf den Brasselsberg und durch die Porta Lapidaria zur Teufelsmauer. Durch die Firnsbachklamm geht es zurück zum Hohen Gras. Du folgst dem H10-Logo.
 
 Weil Herkules und Druseltal ebenfalls Einstiegspunkte sind, kannst du die Runde in zwei Etappen teilen oder an einer der Haltestellen abkürzen. Einkehr gibt es in der Waldgaststätte Hohes Gras, in den Herkules-Terrassen, im Herbsthäuschen am oberen Ende der Firnsbachklamm und im Landgasthaus Unteres Firnsbachtal. Bei Nässe ist der Bereich unter der Teufelsmauer rutschig, dann gehst du die Runde besser gegen den Uhrzeigersinn. Der Bismarckturm am Rand der Route wird saniert und ist derzeit nicht begehbar.
 
 ## Wie komme ich zu den Startpunkten und wieder zurück?
 
-Die Tram 4 fährt vom Bahnhof Wilhelmshöhe bis zur Endhaltestelle Druseltal, werktags bis 20 Uhr alle 15 Minuten. Dort steigst du in Bus 22 um, der halbstündlich zum Herkules fährt und von dort über Essigberg weiter zum Hohen Gras. Einzelne Fahrten fahren nur als Anrufsammeltaxi, anmelden musst du dich bis 15 Minuten vorher unter 0800-939-0800. Schau vor der Tour in die NVV-App, vor allem für die letzte Rückfahrt am Abend.
+Die Tram 4 fährt vom Bahnhof Wilhelmshöhe bis zur Endhaltestelle Druseltal, werktags bis 20 Uhr alle 15 Minuten. Dort steigst du in Bus 22 um, der halbstündlich zum Herkules fährt und von dort über Essigberg weiter zum Hohen Gras. Einzelne Fahrten fahren nur als Anrufsammeltaxi, anmelden musst du dich bis 15 Minuten vorher unter 0800-939-0800. Schau vor der Tour in die NVV-App, vor allem für die letzte Rückfahrt am Abend. Welche Haltestellen zu den Etappen des Kassel-Steigs passen, steht unter [Kassel-Steig mit Bus und Tram](/kassel-steig-bus-tram/).
 
 Mit dem Auto parkst du am Herkules, dort gibt es 280 Plätze und die Tagesgebühr beträgt 5 Euro, mehr dazu unter [Parken am Bergpark](/parken-bergpark-wilhelmshoehe/). Die Naturpark-Wanderparkplätze Hohes Gras und Asch/Augustinum liegen näher an den Rundwegen. Festes Schuhwerk, wetterfeste Kleidung und genug zu trinken gehören bei allen Touren dazu.
 

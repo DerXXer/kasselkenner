@@ -63,7 +63,7 @@ Das Schauspiel ist über 300 Jahre alt: Schon zur Zeit der Landgrafen staunten B
 
 ### Wann gibt es wieder Wasserspiele in Kassel?
 
-Die Saison 2026 ist beendet. 2027 laufen die Wasserspiele vom 1. Mai bis 3. Oktober, das hat die Stadt Kassel bestätigt; schau vor deinem Besuch trotzdem kurz auf der Seite von Hessen Kassel Heritage nach. Wasserspieltage sind Mittwoch, Sonntag und alle hessischen Feiertage.
+Die Saison 2026 ist beendet. 2027 laufen die Wasserspiele vom 1. Mai bis 3. Oktober, das hat die Stadt Kassel bestätigt; schau vor deinem Besuch trotzdem kurz auf der Seite von Hessen Kassel Heritage nach. Wasserspieltage sind Mittwoch, Sonntag und alle hessischen Feiertage. Alle Wasserspieltage 2027 einzeln stehen unter [Termine in Kassel 2027](/termine-kassel-2027/).
 
 **Saison 2026:** Die Saison lief vom 1. Mai bis 3. Oktober 2026 und ist beendet.
 
