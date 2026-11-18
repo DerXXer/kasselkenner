@@ -72,6 +72,14 @@ def pruefe(datei):
             gezeigt += [kopf_lesen(k.read_text())[0].get("bild")]
     for b in sorted({b for b in gezeigt if b and gezeigt.count(b) > 1}):
         fehler.append(f"Bild doppelt auf der Seite (auch Weiterlesen-Karten zählen): {b}")
+    # Titelbilder einmalig (Aaron 18.11.2026): jedes Titelbild gehört genau einer Seite und zeigt deren Thema;
+    # im Text darf sich ein Bild wiederholen, als Titelbild nie.
+    if meta.get("bild"):
+        for f in sorted((WURZEL / "inhalt").glob("*.md")) + sorted((WURZEL / "_entwuerfe").glob("*.md")):
+            if f.stem == datei.stem or f.stem == "404" or f.name.endswith((".belege.md", ".offen.md")):
+                continue
+            if kopf_lesen(f.read_text())[0].get("bild") == meta["bild"]:
+                fehler.append(f"Titelbild ist schon Titelbild von {f.parent.name}/{f.name}: {meta['bild']}")
     andere = [f for f in (WURZEL / "inhalt").glob("*.md") if f.stem != datei.stem]
     for b in sorted(set(bilder_von(datei.read_text()))):
         n = sum(b in bilder_von(f.read_text()) for f in andere)
