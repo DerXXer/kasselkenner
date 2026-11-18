@@ -3,8 +3,8 @@ titel: Kassel übernachten: welcher Stadtteil, welcher Bahnhof?
 beschreibung: Übernachten in Kassel: welche Stadtteile zu deinem Plan passen, warum der Bahnhof Wilhelmshöhe zählt und wo du Ferienwohnungen findest.
 slug: uebernachten-kassel
 kurz: Übernachten
-bild: grosse-fontaene.jpg
-stand: 2026-10-14
+bild: blick-bergpark-stadtteile.jpg
+stand: 2026-11-18
 blick: Für Bergpark=Bad Wilhelmshöhe | Für Stadt=Mitte | ICE-Halt=Kassel-Wilhelmshöhe
 weiter: documenta-uebernachten, kliniken-angehoerige, bergpark-wilhelmshoehe
 ---
@@ -92,7 +92,7 @@ Samstags bummelst du durch die Innenstadt, sonntags geht es in den Bergpark. Den
 
 ### Gibt es Ferienwohnungen in Kassel-Wilhelmshöhe?
 
-Ja, auch in Bad Wilhelmshöhe gibt es Ferienwohnungen. Von dort bist du zu Fuß im Bergpark.
+Das Unterkunftsverzeichnis von Visit Kassel führt Ferienwohnungen mit Adresse, so findest du die in Bad Wilhelmshöhe. Von dort bist du zu Fuß im Bergpark.
 
 ### Welcher Bahnhof ist in Kassel der ICE-Bahnhof?
 
@@ -100,7 +100,7 @@ Kassel-Wilhelmshöhe. Am Hauptbahnhof halten nur Regionalzüge.
 
 ### Wie komme ich vom Hauptbahnhof nach Wilhelmshöhe?
 
-Mit dem Regionalzug in 3 bis 5 Minuten. Die Tram 1 fährt nicht über den Hauptbahnhof, sie verbindet den Bahnhof Wilhelmshöhe mit Königsplatz und Bergpark.
+Mit dem Regionalzug, je nach Zug etwa 3 bis 5 Minuten; deine Abfahrt zeigt der Fahrplan des NVV. Die Tram 1 fährt nicht über den Hauptbahnhof, sie verbindet den Bahnhof Wilhelmshöhe mit Königsplatz und Bergpark.
 
 ## Quellen
 
