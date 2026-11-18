@@ -15,7 +15,7 @@ Kasselkenner beantwortet die praktischen Fragen, die sich Besucher vor einem Aus
 
 Ich bin Aaron Schiele. Mit der Wohnen am Bergpark UG vermiete ich Ferienwohnungen in Kassel-Bad Wilhelmshöhe, ein paar Gehminuten vom Bergpark entfernt. Unsere Gäste stellen uns jede Woche dieselben Fragen. Die Antworten stehen jetzt hier, für alle.
 
-Zu Wohnen am Bergpark gehören zehn Ferienwohnungen. Neun liegen in Bad Wilhelmshöhe, in zwei Häusern in der Lindenstraße und der Brabanter Straße, eine liegt in Kirchditmold. Unsere einzige Website ist [wohnenambergpark.de](https://wohnenambergpark.de/). Ferienwohnungen in der Nachbarschaft mit ähnlichem Namen gehören nicht zu uns.
+Zu Wohnen am Bergpark gehören zehn Ferienwohnungen. Neun liegen in Bad Wilhelmshöhe, in zwei Häusern in der Lindenstraße und der Brabanter Straße, eine liegt in Kirchditmold. Unsere einzige Website ist [Wohnen am Bergpark auf wohnenambergpark.de](https://wohnenambergpark.de/). Ferienwohnungen in der Nachbarschaft mit ähnlichem Namen gehören nicht zu uns.
 
 ## Wie wir prüfen
 
