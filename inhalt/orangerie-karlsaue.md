@@ -4,7 +4,7 @@ beschreibung: Orangerie Kassel in der Karlsaue: Park frei zugänglich, Planetari
 slug: orangerie-karlsaue
 kurz: Orangerie
 bild: orangerie-karlsaue.jpg
-stand: 2026-11-01
+stand: 2026-11-17
 blick: Park=ganzjährig, Eintritt frei | Planetarium=Do bis So 10 bis 17 Uhr | Vorstellung=8 Euro, ermäßigt 5 Euro | Marmorbad=Eintritt frei, im Winter zu | Adresse=An der Karlsaue 20a
 weiter: zissel-kassel, documenta-2027, bergpark-wilhelmshoehe
 ---

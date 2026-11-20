@@ -97,6 +97,19 @@ def pruefe(datei):
         fehler.append("Abschnitt '## Quellen' fehlt")
     if "## Häufige Fragen" not in rumpf and meta.get("art", "artikel") == "artikel":
         warn.append("kein Abschnitt '## Häufige Fragen'")
+    # Prüfdatum nicht älter als die Quellen (Strukturdaten nehmen stand als dateModified; Prüfung 20.11.2026)
+    abgerufen = ["-".join(d.split(".")[::-1]) for d in re.findall(r"abgerufen\s*(\d\d\.\d\d\.\d{4})", rumpf)]
+    if abgerufen and str(meta.get("stand", "")) < max(abgerufen):
+        fehler.append(f"stand {meta.get('stand')} älter als letzter Quellenabruf {max(abgerufen)}")
+    # FAQ: jede Frage genau einmal und mit Antwort
+    faq = rumpf.split("## Häufige Fragen", 1)[1].split("\n## ", 1)[0] if "## Häufige Fragen" in rumpf else ""
+    fragen = re.findall(r"^### (.+?)\s*\n(.*?)(?=^### |\Z)", faq, re.S | re.M)
+    for f, n in __import__("collections").Counter(f.strip() for f, _ in fragen).items():
+        if n > 1:
+            fehler.append(f"FAQ-Frage {n}-mal: {f}")
+    for f, a in fragen:
+        if not a.strip():
+            fehler.append(f"FAQ-Frage ohne Antwort: {f}")
     klein = rumpf.lower()
     # Werbewörter nur im Fließtext: Linkziele und die H1 (Suchbegriff) zählen nicht
     fliess = re.sub(r"\]\([^)]+\)", "]", re.sub(r"^# .*$", "", klein, flags=re.M))

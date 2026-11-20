@@ -4,7 +4,7 @@ beschreibung: Löwenburg Kassel: Öffnungszeiten im Sommer und Winter, warum du 
 slug: loewenburg-kassel
 kurz: Löwenburg
 bild: loewenburg.jpg
-stand: 2026-10-09
+stand: 2026-10-15
 blick: Sommer=Di bis So 10 bis 17 Uhr | Winter=Fr bis So 10 bis 16 Uhr | Besuch=nur mit Führung | Führungen=zur vollen Stunde | Eintritt=8 Euro (Tagesticket Wilhelmshöhe), unter 18 frei | Barrierefrei=nein
 weiter: bergpark-wilhelmshoehe, schloss-wilhelmshoehe, herkules-kassel
 ---

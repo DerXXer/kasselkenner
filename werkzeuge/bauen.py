@@ -63,6 +63,9 @@ EVENTS = {
     "weihnachtsmarkt-kassel": ("Märchenweihnachtsmarkt Kassel 2026", "2026-11-23", "2026-12-30", "Königsplatz und Friedrichsplatz, Kassel", True, None),
     "zissel-kassel": ("Zissel 2027", "2027-07-30", "2027-08-02", "Auedamm und Karlswiese, Kassel", True, "https://de.wikipedia.org/wiki/Zissel"),
 }
+# Tagesticket Erwachsene, nur mit Beleg im Faktenspeicher (documenta: Tagesticket 29 Euro)
+EVENT_PREIS = {"documenta-2027": "29"}
+EVENT_PREIS_URL = {"documenta-2027": "https://documentasixteen.com/de/besuch/tickets"}
 # Veranstalter aus dem Faktenspeicher (DO-083, KS-595, KS-229); Google meldete sie am 04.11.2026 als fehlend
 VERANSTALTER = {"documenta-2027": ("documenta und Museum Fridericianum gGmbH", "https://www.documenta.de/"),
                 "weihnachtsmarkt-kassel": ("Kassel Marketing GmbH", "https://www.weihnachtsmarkt-kassel.de/"),
@@ -468,8 +471,8 @@ def zeile_einfuegen(rest, slug, tiefe):
     """Einzeiler nach dem ersten Absatz hinter der zweiten Zwischenüberschrift; sonst nach etwa einem Drittel.
     Nur zwischen Blöcken der obersten Ebene, nie in Tabellen, FAQ oder Quellen."""
     bloecke = rest.split("\n")
-    def ok(i):  # Einfügen hinter Block i?
-        return bloecke[i].startswith(("<p>", "<ul>", "<ol>"))
+    def ok(i):  # Einfügen hinter Block i? Nicht hinter einem Satz mit Doppelpunkt, der Tabelle oder Liste einleitet (Prüfung 20.11.2026)
+        return bloecke[i].startswith(("<p>", "<ul>", "<ol>")) and not bloecke[i].rstrip().endswith(":</p>")
     h2 = [i for i, b in enumerate(bloecke) if b.startswith("<h2 ")]
     stelle = None
     if len(h2) >= 2 and 'id="haeufige-fragen"' not in bloecke[h2[1]]:
@@ -597,7 +600,7 @@ def quellen_block(rumpf):
     if not m:
         return rumpf, ""
     gruppen, daten = {}, set()
-    for z in re.finditer(r"^- \[([^\]]+)\]\(([^)]+)\)(?:,\s*abgerufen\s*([\d.]+))?", m.group(1), re.M):
+    for z in re.finditer(r"^- \[([^\]]+)\]\(((?:[^()\s]|\([^()\s]*\))+)\)(?:,\s*abgerufen\s*([\d.]+))?", m.group(1), re.M):
         name, url, datum = z.groups()
         wer, _, was = name.partition(", ")
         gruppen.setdefault(wer, []).append((was or wer, url))
@@ -647,6 +650,9 @@ def seite(meta, inhalt_html, faq, toc, alle):
                   "isAccessibleForFree": frei, "url": url, "description": meta.get("beschreibung", "")}
             if wiki:
                 ev["sameAs"] = wiki
+            if slug in EVENT_PREIS:
+                ev["offers"] = {"@type": "Offer", "price": EVENT_PREIS[slug], "priceCurrency": "EUR",
+                                "url": EVENT_PREIS_URL[slug]}
             if slug in VERANSTALTER:
                 ev["organizer"] = {"@type": "Organization", "name": VERANSTALTER[slug][0], "url": VERANSTALTER[slug][1]}
             if bild:
@@ -782,7 +788,7 @@ def startseite(meta, h1_text, lede, rest, alle):
         reiter.append(f'<button type="button"{" class=\"an\"" if nr == 0 else ""} aria-label="{html.escape(m.get("kurz", s))}"><img src="bilder/{Path(m["bild"]).stem}-600.webp" alt="{html.escape(BILDNACHWEIS.get(m["bild"], {}).get("alt", ""))}" width="240" height="180" loading="lazy"><span class="cap">{html.escape(m.get("kurz", s))}</span><span class="balken"><i></i></span></button>')
     buehne = f"""<section class="buehne" aria-label="Aktuelle Themen">{"".join(dias)}
 <div class="reiter"><div class="breite">{"".join(reiter)}</div></div></section>""" if dias else ""
-    stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' loading="lazy"')}<figcaption>Blick vom Herkules</figcaption></figure>
+    stapel = f"""<div class="stapel"><figure class="polaroid">{titelbild_tag(EIGEN_BILD, "", ' decoding="async"')}<figcaption>Blick vom Herkules</figcaption></figure>
 <div class="zettel notiz"><b class="marke">Mein Lieblingsmoment</b><p>Wenn um 15.45 Uhr die Große Fontäne hochgeht und alle, die sich zu nah ans Wasser gestellt haben, plötzlich nass werden.</p><span class="unterschrift">Aaron</span></div></div>"""
     alle_artikel = [s for s, m in alle.items() if m.get("art", "artikel") == "artikel" and s != "index"]
     vorhaben = []
@@ -928,6 +934,9 @@ def main():
         (AUS / pfad / "index.html").write_text(zaehlseite(pfad, ziel))
     for f in ("logo.svg", "favicon-48.png", "apple-touch-icon.png", "icon-512.png", "aaron-160.webp", "aaron-400.webp", "aaron.jpg"):
         shutil.copy(WURZEL / "vorlage" / f, AUS / f)
+    png = (WURZEL / "vorlage" / "favicon-48.png").read_bytes()
+    (AUS / "favicon.ico").write_bytes(b"\0\0\1\0\1\0" + bytes([48, 48, 0, 0, 1, 0, 32, 0]) + len(png).to_bytes(4, "little")
+                                      + (22).to_bytes(4, "little") + png)
     (AUS / f"{INDEXNOW}.txt").write_text(INDEXNOW)
     (AUS / "stil.css").write_text((WURZEL / "vorlage" / "schriften.css").read_text() + (WURZEL / "vorlage" / "stil.css").read_text())
     shutil.copytree(WURZEL / "vorlage" / "schriften", AUS / "schriften", dirs_exist_ok=True)
@@ -959,9 +968,9 @@ def main():
         if meta.get("art", "artikel") == "artikel" and paare:
             llms.append(f"- {meta.get('kurz', slug)} (geprüft {meta.get('stand', heute)}): " + "; ".join(f"{k}: {v}" for k, v in paare))
     llms += ["", "## Über", "", f"- [Über uns]({DOMAIN}/ueber-uns/): wer schreibt und wie geprüft wird (Autor: Aaron Schiele)",
-             f"- [Impressum]({DOMAIN}/impressum/), Kontakt: kontakt@kasselkenner.de",
+             f"- [Impressum]({DOMAIN}/impressum/): Anbieter und Kontakt, kontakt@kasselkenner.de",
              # gegen Verwechslung mit Namensvettern, die KI-Antworten am 15.10.2026 vermischten
-             "- Betreiber: Wohnen am Bergpark UG, zehn Ferienwohnungen in Kassel (Lindenstraße 9 und Brabanter Straße 35 "
+             "- [Betreiber: Wohnen am Bergpark UG](https://wohnenambergpark.de/): zehn Ferienwohnungen in Kassel (Lindenstraße 9 und Brabanter Straße 35 "
              "in Bad Wilhelmshöhe, eine Wohnung in Kirchditmold); einzige Website https://wohnenambergpark.de/. "
              "Ähnlich heißende Ferienwohnungen in Bad Wilhelmshöhe sind andere Betriebe."]
     (AUS / "llms.txt").write_text("\n".join(llms) + "\n")

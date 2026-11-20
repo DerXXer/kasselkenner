@@ -2,7 +2,7 @@
 
 > Bergpark, Wasserspiele und documenta – von Gastgebern aus Bad Wilhelmshöhe. Praktische, geprüfte Antworten für Besucher in Kassel; jede Angabe mit Quelle und Prüfdatum. Betrieben von den Gastgebern von Wohnen am Bergpark (Kassel-Bad Wilhelmshöhe).
 
-Stand: 2026-11-18
+Stand: 2026-11-20
 
 ## Seiten
 
@@ -71,9 +71,9 @@ Stand: 2026-11-18
 - Kletterwald (geprüft 2026-10-20): Saison: Anfang April bis Anfang November, 2027 noch nicht angekündigt; Geöffnet: Sa, So, Feiertage, Brückentage; Hessen-Ferien täglich; Erwachsene: 28 Euro, ermäßigt 26 Euro; Kinder 6 bis 11: 24 Euro; Ab: 4 Jahren und 1 m Größe; Reservierung: Pflicht, online
 - Kliniken (geprüft 2026-11-05): Kliniken: 5 am Bergpark; Tram: Linie 1 und 4; Vom Bahnhof zu Fuß: 18 bis 23 Min.; Parken: Tiefgarage und Klinikparkplätze; Zum Schloss zu Fuß: 12 bis 20 Min.
 - Kurhessen-Therme (geprüft 2026-11-01): Geöffnet: täglich 9 bis 22 Uhr; Thermalbad: 2 Stunden 18 Euro (Mo bis Do); Tageskarte: 26 Euro, mit Sauna 32 Euro; Preise: Stand 14.10.2026; Adresse: Wilhelmshöher Allee 361; Anreise: Tram 1, Haltestelle Kurhessen-Therme
-- Löwenburg (geprüft 2026-10-09): Sommer: Di bis So 10 bis 17 Uhr; Winter: Fr bis So 10 bis 16 Uhr; Besuch: nur mit Führung; Führungen: zur vollen Stunde; Eintritt: 8 Euro (Tagesticket Wilhelmshöhe), unter 18 frei; Barrierefrei: nein
+- Löwenburg (geprüft 2026-10-15): Sommer: Di bis So 10 bis 17 Uhr; Winter: Fr bis So 10 bis 16 Uhr; Besuch: nur mit Führung; Führungen: zur vollen Stunde; Eintritt: 8 Euro (Tagesticket Wilhelmshöhe), unter 18 frei; Barrierefrei: nein
 - Bus und Bahn (geprüft 2026-10-20): Zum Herkules: Tram 4 + Bus 22, rund 20 Min.; Zum Schloss: Tram 1, 6 Min. + 10 Min. Fußweg; Schlossshuttle: Linie 24, täglich 10 bis 18 Uhr; Einzelfahrt: 3,40 Euro (Stadt Kassel); KasselCard: 24 Std. 10 Euro für 1 bis 2 Personen
-- Orangerie (geprüft 2026-11-01): Park: ganzjährig, Eintritt frei; Planetarium: Do bis So 10 bis 17 Uhr; Vorstellung: 8 Euro, ermäßigt 5 Euro; Marmorbad: Eintritt frei, im Winter zu; Adresse: An der Karlsaue 20a
+- Orangerie (geprüft 2026-11-17): Park: ganzjährig, Eintritt frei; Planetarium: Do bis So 10 bis 17 Uhr; Vorstellung: 8 Euro, ermäßigt 5 Euro; Marmorbad: Eintritt frei, im Winter zu; Adresse: An der Karlsaue 20a
 - Parken am Bahnhof (geprüft 2026-10-20): Parkdeck DB: 370 Plätze, 2 Euro je Std., 24 Euro am Tag; Graf-Bernadotte-Platz: 5 Euro für 24 Std., 20 Euro für 16 Tage; Atrium: 1 Euro je Std., 20 Euro für 24 Std.; Kurz halten: Willy-Brandt-Platz, höchstens 60 Min.; Kostenlos: keiner der acht Plätze
 - Parken (geprüft 2026-11-05): Plätze: Herkules 280, Schloss 390; Normale Tage: erste 30 Min. frei, Tag 5 Euro; Wasserspieltage: 8,50 Euro (9.30 bis 15 Uhr); Shuttle: 2 Euro je Fahrt; Ohne Auto: Tram 1 und 4, Bus 22 und 23
 - Parken Innenstadt (geprüft 2026-11-17): Größte Tiefgarage: Friedrichsplatz, 980 Plätze; Rund um die Uhr: Kurfürsten Galerie und Galeria; Straßenrand Zentrum: 2 Euro je Stunde, höchstens 3 Stunden; Sonntags: am Straßenrand im Zentrum frei; Umweltzone: keine
@@ -90,5 +90,5 @@ Stand: 2026-11-18
 ## Über
 
 - [Über uns](https://kasselkenner.de/ueber-uns/): wer schreibt und wie geprüft wird (Autor: Aaron Schiele)
-- [Impressum](https://kasselkenner.de/impressum/), Kontakt: kontakt@kasselkenner.de
-- Betreiber: Wohnen am Bergpark UG, zehn Ferienwohnungen in Kassel (Lindenstraße 9 und Brabanter Straße 35 in Bad Wilhelmshöhe, eine Wohnung in Kirchditmold); einzige Website https://wohnenambergpark.de/. Ähnlich heißende Ferienwohnungen in Bad Wilhelmshöhe sind andere Betriebe.
+- [Impressum](https://kasselkenner.de/impressum/): Anbieter und Kontakt, kontakt@kasselkenner.de
+- [Betreiber: Wohnen am Bergpark UG](https://wohnenambergpark.de/): zehn Ferienwohnungen in Kassel (Lindenstraße 9 und Brabanter Straße 35 in Bad Wilhelmshöhe, eine Wohnung in Kirchditmold); einzige Website https://wohnenambergpark.de/. Ähnlich heißende Ferienwohnungen in Bad Wilhelmshöhe sind andere Betriebe.
