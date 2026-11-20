@@ -4,7 +4,7 @@ beschreibung: Kassel am Wochenende: Samstag Innenstadt mit Markthalle, Friderici
 slug: kassel-wochenende
 kurz: Wochenende
 bild: strassenbahn-friedrichsplatz.jpg
-stand: 2026-11-11
+stand: 2026-11-20
 blick: Samstag=Innenstadt zu Fuß | Sonntag=Bergpark Wilhelmshöhe | Wasserspiele=14.30 Uhr am Herkules | Löwenburg=vorab buchen | Anreise=ICE bis Kassel-Wilhelmshöhe | Auto=nicht nötig
 weiter: kassel-sehenswuerdigkeiten, wasserspiele-kassel, uebernachten-kassel
 ---
@@ -38,7 +38,7 @@ Fünf Stationen, dazwischen jeweils nur 5 bis 9 Minuten zu Fuß: Alles liegt nah
 
 ## Was macht man sonntags im Bergpark Wilhelmshöhe?
 
-Der Bergpark ist immer offen und kostet nichts; für Herkules, Löwenburg und Schloss brauchst du das Tagesticket Wilhelmshöhe für 8 Euro.
+Der Bergpark ist immer offen und kostet nichts; für Herkules, Löwenburg und Schloss brauchst du das Tagesticket Wilhelmshöhe für 8 Euro (bis 17. Januar 2027: 12 Euro).
 
 ### Wie läuft der Sonntag im Bergpark ohne Wasserspiele?
 
@@ -55,7 +55,7 @@ Fang oben an, dann geht es den ganzen Tag bergab – mit der Stadt immer vor Aug
 
 Die Wasserspiele laufen sonntags vom 1. Mai bis 3. Oktober, Beginn ist um 14.30 Uhr am Herkules.
 
-1. **Vormittag Löwenburg:** Tram 1 bis Wilhelmshöhe (Park), dann 22 Minuten zu Fuß. An Wasserspieltagen fährt ab 10 Uhr auch der Bergparkshuttle vom Parkplatz Wilhelmshöhe zur Löwenburg.
+1. **Vormittag Löwenburg:** Tram 1 bis Wilhelmshöhe (Park), dann zu Fuß bergauf. An Wasserspieltagen fährt ab 10 Uhr auch der Bergparkshuttle vom Parkplatz Wilhelmshöhe zur Löwenburg.
 2. **Danach Schloss Wilhelmshöhe:** 12 Minuten zu Fuß. Die Gemäldegalerie schaffst du gut vor dem Mittag.
 3. **Mittags hinauf:** An Wasserspieltagen fährt Bus 23 von Wilhelmshöhe (Park) zum Herkules.
 4. **14.30 Uhr am Herkules:** Das Wasser rauscht los, und du läufst mit ihm bergab – über Kaskaden, Wasserfall und Aquädukt bis zur Großen Fontäne um 15.45 Uhr.
@@ -65,7 +65,7 @@ Alle Uhrzeiten der Stationen findest du unter [Wasserspiele Kassel](/wasserspiel
 
 ### Was macht man im Bergpark im Winter?
 
-Der Herkules macht Winterpause, der Park selbst bleibt offen. Die Löwenburg öffnet freitags bis sonntags. Dafür blühen im Großen Gewächshaus Orchideen, Palmen und Kamelien – ein grüner Ausflug mitten im Winter, mit demselben Tagesticket. Vom 23. November bis 30. Dezember 2026 steht in der Innenstadt der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/). Bei schlechtem Wetter helfen dir die Tipps unter [Kassel bei Regen](/kassel-bei-regen/).
+Der Herkules macht Winterpause, der Park selbst bleibt offen. Die Löwenburg öffnet freitags bis sonntags. Dafür siehst du im Großen Gewächshaus Orchideen, Palmen und Kamelien – ein grüner Ausflug mitten im Winter, mit demselben Tagesticket. Vom 23. November bis 30. Dezember 2026 steht in der Innenstadt der [Märchenweihnachtsmarkt](/weihnachtsmarkt-kassel/). Bei schlechtem Wetter helfen dir die Tipps unter [Kassel bei Regen](/kassel-bei-regen/).
 
 ## Praktisches: Öffnungstage, Tickets und Anreise
 
@@ -75,7 +75,7 @@ Fast alle Museen haben dienstags bis sonntags offen und montags zu – ein Woche
 
 ### Was kostet das Tagesticket Wilhelmshöhe?
 
-Das Tagesticket Wilhelmshöhe für 8 Euro gilt für Schloss, Löwenburg mit Führung und Herkules. Bis zum 17. Januar 2027 gilt wegen einer Sonderausstellung ein Aufschlag, dann kostet es 12 Euro. In die Löwenburg kommst du nur mit Führung zur vollen Stunde, und die Plätze sind begrenzt – also früh buchen.
+Das Tagesticket Wilhelmshöhe kostet 8 Euro und gilt für Schloss, Löwenburg mit Führung und Herkules. Bis zum 17. Januar 2027 läuft im Schloss die Ausstellung „DÜRER“, so lange kostet es 12 Euro, ermäßigt 9 Euro. In die Löwenburg kommst du nur mit Führung zur vollen Stunde, und die Plätze sind begrenzt – also früh buchen.
 
 ### Wie komme ich vom ICE-Bahnhof in die Innenstadt?
 
@@ -101,7 +101,7 @@ Zwischen 1. Mai und 3. Oktober jeden Sonntag ab 14.30 Uhr, außerdem mittwochs u
 
 ### Was kostet der Eintritt für das Wochenende?
 
-Samstag zahlst du im Fridericianum 6 Euro, in der Neuen Galerie 8 Euro und in der Grimmwelt 10 Euro. Sonntag deckt das Tagesticket Wilhelmshöhe für 8 Euro Herkules, Löwenburg und Schloss ab. Unter 18 Jahren sind Bergpark-Häuser, Neue Galerie und Fridericianum frei.
+Samstag zahlst du im Fridericianum 6 Euro, in der Neuen Galerie 8 Euro und in der Grimmwelt 10 Euro. Sonntag deckt das Tagesticket Wilhelmshöhe für 8 Euro (bis 17. Januar 2027: 12 Euro) Herkules, Löwenburg und Schloss ab. Unter 18 Jahren sind Bergpark-Häuser, Neue Galerie und Fridericianum frei.
 
 ### Brauche ich in Kassel ein Auto?
 
@@ -125,7 +125,7 @@ Im Online-Ticketshop von Hessen Kassel Heritage. Die Plätze je Führung sind be
 
 ### Lohnt sich die KasselCard?
 
-Sie gilt für eine oder zwei Personen und kostet 10 Euro für 24 Stunden oder 14 Euro für 72 Stunden. Damit fährst du frei mit Bus, Tram und Zug im Gebiet KasselPlus und bekommst Ermäßigung in über 30 Häusern, darunter Herkules, Löwenburg, Gemäldegalerie und Fridericianum.
+Sie gilt für eine oder zwei Personen und kostet 10 Euro für 24 Stunden oder 14 Euro für 72 Stunden. Damit fährst du frei mit Bus, Tram und Zug im Gebiet KasselPlus und bekommst über 30 Ermäßigungen bei Partnern, darunter Herkules, Löwenburg, Gemäldegalerie und Fridericianum. Die Preise gelten sicher bis Ende Februar 2027.
 
 ### Wo kann ich mein Gepäck lassen?
 
@@ -137,7 +137,7 @@ Dienstags und donnerstags bis sonntags von 10 bis 17 Uhr, mittwochs bis 20 Uhr, 
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
+- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 20.11.2026
 - [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Gewächshaus](https://www.heritage-kassel.de/standorte/gewaechshaus), abgerufen 09.10.2026

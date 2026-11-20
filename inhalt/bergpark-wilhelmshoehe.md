@@ -4,7 +4,7 @@ beschreibung: Bergpark Wilhelmshöhe in Kassel: was dich im UNESCO-Welterbe erwa
 slug: bergpark-wilhelmshoehe
 kurz: Bergpark
 bild: teufelsbruecke.jpg
-stand: 2026-11-05
+stand: 2026-11-20
 blick: Eintritt=Park frei | Geöffnet=ganzjährig | Rundweg=rund 2,3 km bergab | Anreise=Tram 4, dann Bus 22 | Parken=am Herkules und am Schloss | Welterbe=seit 2013
 weiter: wasserspiele-kassel, herkules-kassel, habichtswald-wandern
 ---
@@ -104,7 +104,7 @@ Unser Tipp: Von der Tram-Endhaltestelle Wilhelmshöhe (Park) bist du in gut 10 M
 
 ### Kostet der Bergpark Wilhelmshöhe Eintritt?
 
-Nein, der Park ist das ganze Jahr frei. Eintritt zahlst du nur für Herkules, Löwenburg und Schloss, alles zusammen mit dem Tagesticket Wilhelmshöhe für 8 Euro.
+Nein, der Park ist das ganze Jahr frei. Eintritt zahlst du nur für Herkules, Löwenburg und Schloss, alles zusammen mit dem Tagesticket Wilhelmshöhe für 8 Euro, bis 17. Januar 2027 wegen der Ausstellung „DÜRER“ im Schloss 12 Euro.
 
 ### Braucht man Tickets für den Bergpark?
 
@@ -160,7 +160,7 @@ An normalen Tagen über den Bahnhof Wilhelmshöhe: Tram 1 ab Wilhelmshöhe (Park
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 09.10.2026
 - [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 09.10.2026
-- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 09.10.2026
+- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 20.11.2026
 - [Hessen Kassel Heritage, Besucherzentrum Herkules](https://www.heritage-kassel.de/service/bz/besucherzentrum-herkules), abgerufen 09.10.2026
 - [Stadt Kassel, Anreise Bergpark](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise.php), abgerufen 09.10.2026
 - [Stadt Kassel, Anreise mit dem ÖPNV](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/anreise/anreise-mit-dem-oepnv.php), abgerufen 09.10.2026

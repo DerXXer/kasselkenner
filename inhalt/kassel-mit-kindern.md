@@ -4,7 +4,7 @@ beschreibung: Kassel mit Kindern: Bergpark und Löwenburg, Grimmwelt, Naturkunde
 slug: kassel-mit-kindern
 kurz: Mit Kindern
 bild: iguanodon-ottoneum-skelett.jpg
-stand: 2026-11-01
+stand: 2026-11-20
 blick: Bergpark=Eintritt frei | Löwenburg=unter 18 frei | Grimmwelt=unter 6 frei | Planetarium=unter 18 Jahren 2 Euro | Wasserspiele=1. Mai bis 3. Oktober
 weiter: grimmwelt-kassel, kassel-bei-regen, bergpark-wilhelmshoehe
 ---
@@ -19,7 +19,7 @@ Kassel ist ein Abenteuer für Kinder: eine echte Ritterburg und tosende Wassersp
 | Bergpark Wilhelmshöhe | Wasserspiele, Wege, Ausblick | frei | ganzjährig |
 | Löwenburg | Burg mit Führung | unter 18 frei | Sommer Di bis So, Winter Fr bis So |
 | Grimmwelt | Märchen zum Mitmachen | unter 6 frei, 6 bis 17 Jahre 7 Euro | Di bis So |
-| Naturkundemuseum | Saurier, Haie, Mammuts | unter 6 frei, ermäßigt 3 Euro | Di bis So |
+| Naturkundemuseum | Saurier, Haie, Mammuts | unter 6 frei, ermäßigt 3 Euro, ohne Sonderausstellung 1 Euro | Di bis So |
 | Planetarium (Orangerie) | Vorstellungen zum Sternenhimmel | unter 18 Jahren 2 Euro | Vorstellungen nach Kalender |
 | Karlsaue | großer Park an der Fulda | frei | ganzjährig |
 | Hessisches Landesmuseum | Geschichte und Turm | unter 18 frei | Di bis So |
@@ -28,13 +28,13 @@ Kassel ist ein Abenteuer für Kinder: eine echte Ritterburg und tosende Wassersp
 
 Der Bergpark kostet keinen Eintritt und ist für Kinder ein riesiger Abenteuerspielplatz aus Wald, Wegen und Wasser. Drei Ziele sind besonders spannend.
 
-**Die Löwenburg** sieht aus wie eine Ritterburg aus dem Mittelalter – ein Fest für kleine Ritter und Burgfräulein. Hinein kommst du nur mit Führung zur vollen Stunde, also Tickets früh buchen. Kinder unter 18 sind frei, Erwachsene zahlen mit dem Tagesticket Wilhelmshöhe 8 Euro. Im Winter ist nur freitags bis sonntags offen. Die Burg ist nicht barrierefrei, den Kinderwagen lässt du besser zu Hause. Mehr unter [Löwenburg Kassel](/loewenburg-kassel/).
+**Die Löwenburg** sieht aus wie eine Ritterburg aus dem Mittelalter – ein Fest für kleine Ritter und Burgfräulein. Hinein kommst du nur mit Führung zur vollen Stunde, also Tickets früh buchen. Kinder unter 18 sind frei, Erwachsene zahlen mit dem Tagesticket Wilhelmshöhe 8 Euro, bis 17. Januar 2027 12 Euro. Im Winter ist nur freitags bis sonntags offen. Barrierefrei ist die Burg nicht. Mehr unter [Löwenburg Kassel](/loewenburg-kassel/).
 
-**Der Herkules** steht ganz oben auf dem Berg und schaut über die ganze Stadt. Hinauf kommst du mit Tram 4 bis Druseltal und Bus 22. Die Treppen neben den Kaskaden haben kein Geländer – kleine Kinder dort an die Hand nehmen. Mehr unter [Herkules Kassel](/herkules-kassel/).
+**Der Herkules** steht ganz oben auf dem Berg und schaut über die ganze Stadt. Hinauf kommst du mit Tram 4 bis Druseltal und Bus 22. Die Treppen neben den Kaskaden haben kein Geländer, festes Schuhwerk und Trittsicherheit sind dort gefragt. Mehr unter [Herkules Kassel](/herkules-kassel/).
 
 **Die Wasserspiele** sind das große Erlebnis: In der Saison rauscht ab 14.30 Uhr das Wasser vom Herkules den Berg hinunter, über Kaskaden und einen Wasserfall bis zur Großen Fontäne. Sie laufen zwischen 1. Mai und 3. Oktober an jedem Mittwoch und Sonntag und an Feiertagen in Hessen, Eintritt kostet das nicht. Mit kleinen Kindern musst du nicht die ganze Strecke laufen: Die Große Fontäne um 15.45 Uhr liegt unten am Schloss und ist der krönende Schluss. Die Saison 2026 ist vorbei. Mehr unter [Wasserspiele Kassel](/wasserspiele-kassel/).
 
-Unser Tipp: Wer in Bad Wilhelmshöhe übernachtet, läuft in 14 Minuten flach zum Schloss. Zum Herkules ist es mit Kindern zu steil, da ist der Bus die bessere Wahl.
+Unser Tipp: Von der Lindenstraße in Bad Wilhelmshöhe läufst du in 14 Minuten flach zum Schloss. Zum Herkules geht es steil bergauf, da ist der Bus die bessere Wahl.
 
 ## Ab welchem Alter lohnt die Grimmwelt für Kinder?
 
@@ -44,7 +44,7 @@ Die Ausstellung ist für Kinder ab 6 Jahren gedacht, die Märchenwelt gefällt a
 
 ![Die Löwenburg im Bergpark](loewenburg.jpg)
 
-Kinder unter 6 sind frei, ältere Kinder zahlen 3 Euro, Erwachsene 5 Euro. Saurier, Haie und Mammuts – im Naturkundemuseum am Steinweg staunen Kinder über Tiere aus Urzeit und Meer. Seit dem 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Montags ist zu, mittwochs offen bis 20 Uhr. Einen Wickeltisch gibt es auch.
+Kinder unter 6 sind frei. Während einer Sonderausstellung zahlen Erwachsene 5 Euro und ermäßigt 3 Euro, sonst 2 und 1 Euro. Saurier, Haie und Mammuts – im Naturkundemuseum am Steinweg staunen Kinder über Tiere aus Urzeit und Meer. Seit dem 10. Oktober 2026 zeigt die Sonderausstellung „Höher Schneller Weiter“, wie Tiere sich bewegen. Montags ist zu, mittwochs offen bis 20 Uhr. Einen Wickeltisch gibt es auch.
 
 ## Ab welchem Alter dürfen Kinder ins Planetarium?
 
@@ -76,7 +76,7 @@ Aktuelle Termine für Familien findest du bei Visit Kassel unter „Veranstaltun
 
 ### Gibt es einen Erlebnispfad für Kinder in Kassel?
 
-Ein Weg zum Entdecken ist der Planetenwanderweg durch die Karlsaue; er beginnt an der Orangerie und besteht seit 1996. Länge und Stationen nennt der Betreiber nicht, schau dir am besten vor Ort den Anfang an. Im Habichtswald kannst du außerdem den Kletterwald besuchen.
+Ein Weg zum Entdecken ist der Planetenwanderweg durch die Karlsaue; er beginnt an der Orangerie und besteht seit 1996. Die Sonne hängt über dem gläsernen Eingang der Orangerie, Merkur steht am Rand der Karlswiese, Mars unter der Eichenallee und Jupiter auf dem Pavillon der Schwaneninsel. Saturn und Uranus liegen schon außerhalb der Karlsaue, Neptun erst in Guntershausen. Im Habichtswald kannst du außerdem den Kletterwald besuchen.
 
 ### Welche lustigen Aktivitäten gibt es in Kassel mit Kindern?
 
@@ -84,11 +84,11 @@ Die Wasserspiele ab 14.30 Uhr am Herkules, eine Führung durch die Ritterburg L�
 
 ### Was kann man mit einem Kleinkind in Kassel machen?
 
-Die Karlsaue und der Bergpark kosten keinen Eintritt, die Große Fontäne um 15.45 Uhr liegt unten am Schloss. In der Grimmwelt sind Kinder unter 6 frei und Kinderwagen erlaubt, im Naturkundemuseum sind Kinder unter 6 frei und es gibt einen Wickeltisch. Ins Planetarium dürfen Kinder unter 3 Jahren nicht, und die Löwenburg ist für Kinderwagen nicht geeignet.
+Die Karlsaue und der Bergpark kosten keinen Eintritt, die Große Fontäne um 15.45 Uhr liegt unten am Schloss. In der Grimmwelt sind Kinder unter 6 frei und Kinderwagen erlaubt, im Naturkundemuseum sind Kinder unter 6 frei und es gibt einen Wickeltisch. Ins Planetarium dürfen Kinder unter 3 Jahren nicht, und die Löwenburg ist nicht barrierefrei.
 
 ### Kann man die Löwenburg mit Kindern besichtigen?
 
-Ja, mit Führung zur vollen Stunde, und Kinder unter 18 sind frei. Mit dem Kinderwagen wird es schwierig, weil die Burg nicht barrierefrei ist.
+Ja, mit Führung zur vollen Stunde, und Kinder unter 18 sind frei. Barrierefrei ist die Burg allerdings nicht.
 
 ### Wann sind die Wasserspiele?
 
@@ -97,7 +97,7 @@ Zwischen 1. Mai und 3. Oktober, jeweils mittwochs und sonntags sowie an Feiertag
 ## Quellen
 
 - [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 01.11.2026
-- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 20.11.2026
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
 - [Hessen Kassel Heritage, Hessisches Landesmuseum](https://www.heritage-kassel.de/standorte/hessisches-landesmuseum), abgerufen 01.11.2026
 - [Hessen Kassel Heritage, Planetarium](https://www.heritage-kassel.de/standorte/planetarium), abgerufen 01.11.2026

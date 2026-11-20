@@ -53,7 +53,7 @@ Wie nah der Park ist, zeigt ein Beispiel. Von der Lindenstraße aus gehst du etw
 | Schloss Wilhelmshöhe | 14 Min. | eben |
 | Löwenburg | 18 Min. | 82 Höhenmeter |
 | Bahnhof Kassel-Wilhelmshöhe | 28 Min. | – |
-| Herkules | 46 Min. | 242 Höhenmeter |
+| Herkules | knapp 2 Std. | bergauf über Wege und Treppen |
 
 Unser Tipp: Wenn du die documenta mit dem Bergpark verbinden willst, wohn hier. Dann hast du beides, Kunst am Tag und Ruhe am Abend.
 

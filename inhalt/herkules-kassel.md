@@ -4,8 +4,8 @@ beschreibung: Herkules Kassel: Plattform und Oktogon vom 1. April bis 31. Oktobe
 slug: herkules-kassel
 kurz: Herkules
 bild: herkules-oktogon.jpg
-stand: 2026-11-17
-blick: Geöffnet=1. April bis 31. Oktober | Zeiten=Di bis So 10 bis 17 Uhr | Eintritt=8 Euro, unter 18 frei | Anreise=Tram 4, dann Bus 22 | Parken=280 Plätze, Tag 5 Euro
+stand: 2026-11-20
+blick: Geöffnet=1. April bis 31. Oktober | Zeiten=Di bis So 10 bis 17 Uhr | Eintritt=8 Euro ab 1. April, unter 18 frei | Anreise=Tram 4, dann Bus 22 | Parken=280 Plätze, Tag 5 Euro
 weiter: schloss-wilhelmshoehe, bergpark-wilhelmshoehe, wasserspiele-kassel
 ---
 # Herkules Kassel: Öffnungszeiten, Eintritt und Anreise
@@ -46,11 +46,11 @@ Ja, das Besucherzentrum ist ganzjährig dienstags bis sonntags und feiertags von
 
 ## Wo kann man am Herkules essen?
 
-Direkt am Monument gibt es Gastronomie, gut für eine Pause nach dem Aufstieg. Die Kaskadenwirtschaft Grischäfer weiter unten im Bergpark ist wegen Renovierung geschlossen.
+Direkt am Monument gibt es zwei Adressen für die Pause nach dem Aufstieg. Die Herkules Terrassen mit Selbstbedienung haben mittwochs bis samstags von 11 bis 20 Uhr und sonntags bis 18 Uhr offen. Das Restaurant Herkules Panorama öffnet dienstags bis samstags von 11 bis 22 Uhr und sonntags bis 20 Uhr, an Wasserspieltagen und Wochenenden reservierst du besser. Montags haben beide Ruhetag, dienstags auch die Terrassen. Im Winter fragst du vorher kurz nach. Die Kaskadenwirtschaft Grischäfer weiter unten im Bergpark ist wegen Renovierung geschlossen.
 
 ## Wie lange läuft man zum Herkules?
 
-Von der Lindenstraße in Bad Wilhelmshöhe sind es zu Fuß rund 46 Minuten und 2,6 Kilometer, dabei geht es 242 Meter bergauf. Vom [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/) brauchst du etwa 1,5 Stunden über Wege und Treppen.
+Vom [Schloss Wilhelmshöhe](/schloss-wilhelmshoehe/) brauchst du zu Fuß etwa 1,5 Stunden bergauf, über Wege und Treppen. Startest du in Bad Wilhelmshöhe, etwa an der Lindenstraße, kommt eine Viertelstunde bis zum Schloss dazu, zusammen also knapp zwei Stunden.
 
 Unser Tipp: Mit dem Bus hinauf und dann gemütlich zu Fuß hinunter. Vom Herkules bis zum Schloss sind es rund 2,3 Kilometer bergab, mit dem Blick über die Stadt immer vor Augen.
 
@@ -58,14 +58,14 @@ Unser Tipp: Mit dem Bus hinauf und dann gemütlich zu Fuß hinunter. Vom Herkule
 
 8 Euro für Erwachsene, ermäßigt 5 Euro, unter 18 Jahren gar nichts: Ins Oktogon und auf die Aussichtsplattform kommst du mit dem Tagesticket Wilhelmshöhe. Tickets gibt es im Besucherzentrum am Parkplatz hinter dem Herkules.
 
-| Tagesticket Wilhelmshöhe | Preis |
+| Tagesticket Wilhelmshöhe (Saison ab 1. April) | Preis |
 |---|---|
 | Erwachsene | 8 Euro |
 | ermäßigt | 5 Euro |
 | unter 18 Jahren | frei |
 | Jahreskarte | 60 Euro |
 
-Das Tagesticket gilt am selben Tag auch für Schloss Wilhelmshöhe und die [Löwenburg](/loewenburg-kassel/) mit Führung, du kannst also oben anfangen und unten weitermachen. Von November bis März ist das Oktogon zu, dann gilt das Ticket stattdessen für das Große Gewächshaus. Der Bergpark selbst und der Platz am Herkules mit dem Blick über die Stadt kosten nichts.
+Das Tagesticket gilt am selben Tag auch für Schloss Wilhelmshöhe und die [Löwenburg](/loewenburg-kassel/) mit Führung, du kannst also oben anfangen und unten weitermachen. Von November bis März ist das Oktogon zu, dann gilt das Ticket stattdessen für das Große Gewächshaus. Der Bergpark selbst und der Platz am Herkules mit dem Blick über die Stadt kosten nichts. Bis zum 17. Januar 2027 kostet das Tagesticket wegen der Ausstellung „DÜRER“ im Schloss 12 Euro, ermäßigt 9 Euro.
 
 ## Praktisches: Öffnungszeiten und Anreise
 
@@ -91,7 +91,7 @@ Am Herkules wird immer wieder gebaut. Ein kurzer Blick auf die Seite von Hessen 
 
 ### Wo kauft man Tickets für den Herkules?
 
-Im Besucherzentrum Herkules am Parkplatz hinter dem Monument, dienstags bis sonntags und feiertags von 10 bis 17 Uhr. Das Tagesticket Wilhelmshöhe kostet 8 Euro und gilt am selben Tag auch für Schloss Wilhelmshöhe und die Löwenburg.
+Im Besucherzentrum Herkules am Parkplatz hinter dem Monument, dienstags bis sonntags und feiertags von 10 bis 17 Uhr. Das Tagesticket Wilhelmshöhe kostet 8 Euro, bis 17. Januar 2027 wegen der Ausstellung „DÜRER“ 12 Euro, und gilt am selben Tag auch für Schloss Wilhelmshöhe und die Löwenburg.
 
 ### Ist der Herkules im Winter geöffnet?
 
@@ -107,7 +107,7 @@ Mit der Tram 4 bis Druseltal und weiter mit Bus 22 zum Herkules. An Wasserspielt
 
 ### Wie lange läuft man von unten zum Herkules?
 
-Vom Schloss rund 1,5 Stunden über Wege und Treppen. Von der Lindenstraße in Bad Wilhelmshöhe sind es rund 46 Minuten.
+Vom Schloss rund 1,5 Stunden über Wege und Treppen, von der Lindenstraße in Bad Wilhelmshöhe knapp zwei Stunden.
 
 ### Was sieht man vom Herkules?
 
@@ -115,15 +115,11 @@ Der Blick reicht über den Bergpark auf Schloss Wilhelmshöhe, die Stadt und das
 
 ### Wie komme ich vom Herkules zurück in die Stadt?
 
-Mit dem Bus 22 vom Herkules zur Endhaltestelle Druseltal. An Sonn- und Feiertagen fährt er in diese Richtung nur stündlich, die letzte reguläre Fahrt geht um 19.21 Uhr. In Druseltal steigst du in die Tram 4 in die Innenstadt um, die auch am Bahnhof Wilhelmshöhe hält.
-
-### Wo kann ich am Herkules essen?
-
-Die Herkules Terrassen mit Selbstbedienung haben mittwochs bis samstags von 11 bis 20 Uhr und sonntags bis 18 Uhr offen. Das Restaurant Herkules Panorama öffnet dienstags bis samstags von 11 bis 22 Uhr und sonntags bis 20 Uhr, an Wasserspieltagen und Wochenenden reservierst du besser. Montags ist beides zu, die Zeiten im Winter nennen die Betreiber nicht.
+Mit dem Bus 22 vom Herkules zur Endhaltestelle Druseltal. An Sonn- und Feiertagen fährt er in diese Richtung nur stündlich, die letzte reguläre Fahrt ging im Herbst 2026 um 19.21 Uhr. Nach dem Fahrplanwechsel im Dezember schaust du besser kurz in die Fahrplanauskunft. In Druseltal steigst du in die Tram 4 in die Innenstadt um, die auch am Bahnhof Wilhelmshöhe hält.
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 17.11.2026
+- [Hessen Kassel Heritage, Herkules](https://www.heritage-kassel.de/standorte/herkules), abgerufen 20.11.2026
 - [Hessen Kassel Heritage, Besucherzentrum Herkules](https://www.heritage-kassel.de/service/bz/besucherzentrum-herkules), abgerufen 17.11.2026
 - [Hessen Kassel Heritage, Wasserspiele](https://www.heritage-kassel.de/besuch/wasserspiele), abgerufen 01.11.2026
 - [Stadt Kassel, Wasserspiele](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php), abgerufen 01.11.2026

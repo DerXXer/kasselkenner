@@ -4,8 +4,8 @@ beschreibung: Weniger bekannte Orte in Kassel: Künstler-Nekropole, Sepulkralmus
 slug: kassel-geheimtipps
 kurz: Abseits der Wege
 bild: kuenstlernekropole.jpg
-stand: 2026-11-01
-blick: Nekropole=ganzjährig, Eintritt frei | Sepulkralkultur=8 Euro, Mi bis 20 Uhr | Bunkerführung=ab 5 Euro, mit Anmeldung | Laserscape=samstags, Eintritt frei | Gewächshaus=1. November bis 31. März
+stand: 2026-11-20
+blick: Nekropole=ganzjährig zugänglich | Sepulkralkultur=8 Euro, Mi bis 20 Uhr | Bunkerführung=ab 5 Euro, mit Anmeldung | Laserscape=samstags, Eintritt frei | Gewächshaus=1. November bis 31. März
 weiter: kassel-sehenswuerdigkeiten, kassel-wochenende, bergpark-wilhelmshoehe
 ---
 # Kassel Geheimtipps: weniger bekannte Orte, die sich lohnen
@@ -16,18 +16,18 @@ weiter: kassel-sehenswuerdigkeiten, kassel-wochenende, bergpark-wilhelmshoehe
 
 | Ort | Was dich erwartet | Wann | Eintritt |
 |---|---|---|---|
-| Künstler-Nekropole | Grabmäler von Künstlern im Wald | ganzjährig | frei |
+| Künstler-Nekropole | Grabmäler von Künstlern im Wald | ganzjährig zugänglich | Waldgelände |
 | Museum für Sepulkralkultur | Bestattungs- und Trauerkultur | Di bis So, Mi bis 20 Uhr | 8 Euro |
 | Weinbergbunker | Führung durch Stollen und Luftschutzbunker | jeden 1. Montag im Monat | ab 5 Euro |
 | Turm des Landesmuseums | Aussicht über Kassel | Di bis So, jede volle und halbe Stunde | 8 Euro (Museum) |
 | Laserscape | Laser-Lichtskulptur über der Stadt | samstags nach Einbruch der Dunkelheit | frei |
-| Großes Gewächshaus | Orchideen, Palmen, Kamelien | 1.11. bis 31.3. | Tagesticket 8 Euro |
+| Großes Gewächshaus | Orchideen, Palmen, Kamelien | 1.11. bis 31.3. | Tagesticket 8 Euro, bis 17.1.2027 12 Euro |
 | Botanischer Garten | Themengärten, Lindenallee | tagsüber | frei |
 | Dönche | Naturschutzgebiet mit Wanderwegen | immer | frei |
 
 ## Was ist die Künstler-Nekropole im Habichtswald?
 
-Die Nekropole ist immer offen und kostet nichts. Ein etwa 1,5 km langer Wanderweg mit dem Wegzeichen 22 führt vom Wanderparkplatz Nekropole zu den Grabmälern. Mitten im Wald nahe dem [Bergpark](/bergpark-wilhelmshoehe/) liegt der Blaue See, ein stiller, alter Steinbruch. Rundherum haben Künstlerinnen und Künstler zu Lebzeiten ihr eigenes Grabmal gebaut – jedes ein Kunstwerk für sich, das du beim Spazierengehen nach und nach entdeckst.
+Die Nekropole ist das ganze Jahr zugänglich. Ein etwa 1,5 km langer Wanderweg mit dem Wegzeichen 22 führt vom Wanderparkplatz Nekropole zu den Grabmälern. Mitten im Wald nahe dem [Bergpark](/bergpark-wilhelmshoehe/) liegt der Blaue See, ein stiller, alter Steinbruch. Rundherum haben Künstlerinnen und Künstler zu Lebzeiten ihr eigenes Grabmal gebaut – jedes ein Kunstwerk für sich, das du beim Spazierengehen nach und nach entdeckst.
 
 ## Was kostet das Museum für Sepulkralkultur?
 
@@ -37,11 +37,11 @@ Der Eintritt kostet 8 Euro, jeden 1. Mittwoch im Monat ist er ab 17 Uhr frei. Mo
 
 ![Weinbergbunker](weinbergbunker-stollen.jpg)
 
-Der Feuerwehrverein Kassel führt jeden 1. Montag im Monat durch den größten Bunker der Stadt, ab 5 Euro und nur mit Anmeldung. Unter dem Weinberg ziehen sich alte Stollen durch den Fels. Erst kühlten Brauer hier ihr Bier mit Eis, später lagerte Wein darin, und im Zweiten Weltkrieg suchten bis zu 10.000 Menschen Schutz. Die Gänge sind teils dunkel und eng, empfohlen ist die Führung ab 10 Jahren.
+Der Feuerwehrverein Kassel führt jeden 1. Montag im Monat durch den größten Bunker der Stadt, ab 5 Euro und nur mit Anmeldung. Unter dem Weinberg ziehen sich alte Stollen durch den Fels. Erst kühlten Brauer hier ihr Bier mit Eis, später lagerte Wein darin, und im Zweiten Weltkrieg suchten bis zu 10.000 Menschen Schutz. Empfohlen ist die Führung ab 10 Jahren.
 
 ## Wann kann man auf den Turm des Hessischen Landesmuseums?
 
-Hinauf geht es zu jeder vollen und halben Stunde, im Museumseintritt von 8 Euro inbegriffen, unter 18 Jahren frei. Den Herkules kennt jeder, den Turm des Landesmuseums am Brüder-Grimm-Platz kaum jemand – dabei siehst du von oben die ganze Innenstadt. Wegen Bauarbeiten am Brüder-Grimm-Platz kann der Zugang eingeschränkt sein.
+Turmbesichtigungen gibt es in der Regel zu jeder vollen und halben Stunde. Der Eintritt ins Landesmuseum kostet 8 Euro, unter 18 Jahren ist er frei; ob der Turm extra kostet, fragst du kurz an der Kasse. Den Herkules kennt jeder, den Turm des Landesmuseums am Brüder-Grimm-Platz kaum jemand – dabei siehst du von oben die ganze Innenstadt. Wegen Bauarbeiten am Brüder-Grimm-Platz kann der Zugang eingeschränkt sein.
 
 Nur 4 Minuten weiter wartet die nächste Aussicht: die Dachterrasse der Grimmwelt mit Blick über die Südstadt bis zum Herkules.
 
@@ -78,7 +78,7 @@ Die Künstler-Nekropole im Habichtswald, das Museum für Sepulkralkultur, die F�
 
 ### Was kann man in Kassel kostenlos entdecken?
 
-Die Künstler-Nekropole, den Botanischen Garten, die Dönche, die Laserscape und die Street Art im Schillerviertel. Ins Museum für Sepulkralkultur kommst du jeden 1. Mittwoch im Monat ab 17 Uhr kostenlos.
+Den Botanischen Garten, die Dönche, die Laserscape und die Street Art im Schillerviertel; die Künstler-Nekropole im Wald ist das ganze Jahr zugänglich. Ins Museum für Sepulkralkultur kommst du jeden 1. Mittwoch im Monat ab 17 Uhr kostenlos.
 
 ### Kann man den Weinbergbunker besichtigen?
 
@@ -90,7 +90,7 @@ Vom Turm des Hessischen Landesmuseums und von der Dachterrasse der Grimmwelt –
 
 ### Wann ist das Große Gewächshaus im Bergpark geöffnet?
 
-Vom 1. November bis 31. März, Dienstag bis Sonntag von 10 bis 17 Uhr. Der Eintritt ist im Tagesticket Wilhelmshöhe für 8 Euro enthalten, im Sommer ist es geschlossen.
+Vom 1. November bis 31. März, Dienstag bis Sonntag von 10 bis 17 Uhr. Der Eintritt ist im Tagesticket Wilhelmshöhe enthalten, bis 17. Januar 2027 für 12 Euro, danach für 8 Euro. Im Sommer ist es geschlossen.
 
 ### Ist Kassel eine hässliche Stadt?
 
@@ -98,7 +98,7 @@ Die Innenstadt ist vom Wiederaufbau geprägt: Die Altstadt wurde 1943 fast volls
 
 ### Was kann man in Kassel im Winter abseits der bekannten Orte machen?
 
-Im Großen Gewächshaus im Bergpark blüht es mitten im Winter. Das Museum für Sepulkralkultur und das Landesmuseum haben das ganze Jahr offen.
+Im Großen Gewächshaus im Bergpark siehst du mitten im Winter Orchideen, Palmen und Kamelien. Das Landesmuseum hat auch im Winter dienstags bis sonntags offen, nur am 24., 25. und 31. Dezember nicht.
 
 ### Wo genau liegt das Museum für Sepulkralkultur?
 
@@ -106,7 +106,7 @@ In der Weinbergstraße 25 bis 27, gleich neben der Grimmwelt am Weinberg.
 
 ### Wann und wie kann ich den Weinbergbunker besichtigen?
 
-Der Feuerwehrverein Kassel führt jeden ersten Montag im Monat durch den Bunker an der Frankfurter Straße am Weinberg. Die Führung kostet 5 Euro, dauert 1,5 bis 2 Stunden, und du meldest dich vorher an: 0175 28 65 617 oder feuerwehrverein@feuerwehrverein-kassel.de.
+Der Feuerwehrverein Kassel führt jeden ersten Montag im Monat durch den Bunker an der Frankfurter Straße am Weinberg. Die Führung kostet ab 5 Euro, dauert 1,5 bis 2 Stunden, und du meldest dich vorher an: 0175 28 65 617 oder feuerwehrverein@feuerwehrverein-kassel.de.
 
 ### Wie finde ich die Künstler-Nekropole?
 
@@ -114,11 +114,12 @@ Fürs Navi oder die Fahrplanauskunft gibst du Blauer See 2, 34128 Kassel ein. Vo
 
 ### Wo sehe ich die Laserscape?
 
-Die Laserstrahlen leuchten jeden Samstag nach Einbruch der Dunkelheit über der Stadt, ausgehend vom Friedrichsplatz 18. Eine feste Uhrzeit nennt Visit Kassel nicht.
+Die Laserstrahlen leuchten jeden Samstag nach Einbruch der Dunkelheit über der Stadt, die Strahlen laufen unter anderem über Orangerie, Fridericianum und Zwehrenturm. Eine feste Uhrzeit nennt Visit Kassel nicht.
 
 ## Quellen
 
-- [Visit Kassel, Künstler-Nekropole](https://visit.kassel.de/poi/kuenstler-nekropole), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 20.11.2026
+- [Visit Kassel, Künstler-Nekropole](https://visit.kassel.de/poi/kuenstler-nekropole-mit-neuem-grabmal), abgerufen 20.11.2026
 - [Visit Kassel, Museum für Sepulkralkultur](https://visit.kassel.de/poi/museum-fuer-sepulkralkultur), abgerufen 01.11.2026
 - [Museum für Sepulkralkultur, Besuch](https://www.sepulkralmuseum.de/besuch), abgerufen 01.11.2026
 - [Visit Kassel, Führung im Weinbergbunker](https://visit.kassel.de/event/fuehrung-im-weinbergbunker), abgerufen 01.11.2026

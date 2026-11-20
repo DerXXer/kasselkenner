@@ -34,13 +34,13 @@ Hohe Gründerzeithäuser, dichte Straßen, nah an der Innenstadt: Wer gern wohnt
 
 ### Bad Wilhelmshöhe: ruhig und grün am Bergpark
 
-Am Fuß des Habichtswalds beginnt der [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/), UNESCO-Welterbe, gleich hinter den Häusern. Morgens ist es hier still, und abends gehst du noch eine Runde durchs Grün. Wie nah alles ist, zeigt ein Beispiel: Von der Lindenstraße sind es zu Fuß 14 Minuten zum Schloss, 18 Minuten zur Löwenburg und 46 Minuten bergauf zum Herkules.
+Am Fuß des Habichtswalds beginnt der [Bergpark Wilhelmshöhe](/bergpark-wilhelmshoehe/), UNESCO-Welterbe, gleich hinter den Häusern. Morgens ist es hier still, und abends gehst du noch eine Runde durchs Grün. Wie nah alles ist, zeigt ein Beispiel: Von der Lindenstraße sind es zu Fuß 14 Minuten zum Schloss, 18 Minuten zur Löwenburg und knapp zwei Stunden bergauf zum Herkules.
 
 Unser Tipp: Wenn du den Bergpark und die Wasserspiele in Ruhe erleben willst, wohn hier. Dann bist du morgens schon im Park, wenn andere erst anreisen, und musst abends nicht mehr quer durch die Stadt.
 
 ### Kirchditmold: Wohnviertel am Wald
 
-Kirchditmold liegt am Westrand der Stadt direkt neben dem Bergpark. Die Straßenbahn 8 und die RegioTram bringen dich in die Innenstadt.
+Kirchditmold liegt am Westrand der Stadt direkt neben dem Bergpark. Angebunden ist es mit der Straßenbahn 8, mehreren Buslinien und einem Halt der RegioTram; mit der Tram 8 kommst du zum Friedrichsplatz.
 
 ## An welchem Bahnhof steige ich in Kassel aus?
 
@@ -48,7 +48,7 @@ Kirchditmold liegt am Westrand der Stadt direkt neben dem Bergpark. Die Straßen
 
 Wer mit dem ICE kommt, steigt in Kassel-Wilhelmshöhe aus, nicht am Hauptbahnhof. Von hier fahren die Straßenbahnen 1, 3 und 4 ohne Umsteigen zum Friedrichsplatz, die Tram 1 in die andere Richtung hinauf zum Bergpark.
 
-| Ab | nach Kassel-Wilhelmshöhe |
+| Ab | kürzeste ICE-Fahrzeit nach Kassel-Wilhelmshöhe |
 |---|---|
 | Hannover | 0:50 Std. |
 | Frankfurt | 1:50 Std. |

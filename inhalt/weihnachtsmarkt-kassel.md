@@ -4,7 +4,7 @@ beschreibung: Märchenweihnachtsmarkt Kassel 2026: vom 23. November bis 30. Deze
 slug: weihnachtsmarkt-kassel
 kurz: Weihnachtsmarkt
 bild: weihnachtsmarkt-kassel.jpg
-stand: 2026-11-01
+stand: 2026-11-17
 blick: Termin 2026=23. November bis 30. Dezember | Geöffnet=täglich 11 bis 20 Uhr | Gastronomie=bis 22 Uhr | Geschlossen=24. bis 26. Dezember | Ort=Königsplatz und Friedrichsplatz
 weiter: kassel-sehenswuerdigkeiten, grimmwelt-kassel, bergpark-wilhelmshoehe
 ---
@@ -26,7 +26,7 @@ In der Innenstadt, verteilt auf fünf Bereiche zwischen Königsplatz und Friedri
 | Friedrichsplatz | Essen, Riesenrad, FlicFlac-Zelt, Märchenwald mit Lagerfeuer |
 | Opernplatz | regionale Spezialitäten wie „Schmeggewöhlerchen“, Märchenbühne |
 | Florentiner Platz | skandinavische Spezialitäten, Waffeln, Glühwein, Ochsenbraterei |
-| Grimms Märchendorf am Obelisken | Punsch, Kunsthandwerk, Märchenlesungen, Kinderprogramm |
+| Grimms Märchendorf am Obelisken | Märchenlesungen, Kinderprogramm |
 
 Welcher Stand auf welchem Platz steht, kann sich von Jahr zu Jahr ändern. Frag im Zweifel vor Ort kurz nach.
 
@@ -93,13 +93,10 @@ Täglich vom 23. November bis 23. Dezember um 17 Uhr über Opern- und Friedrichs
 
 In der Tiefgarage Friedrichsplatz oder in der Kurfürsten Galerie, beide direkt am Markt.
 
-### Kostet der Weihnachtsmarkt in Kassel Eintritt?
-
-Einen Eintrittspreis für den Markt nennt der Veranstalter nicht, genannt werden nur Verzehrgutscheine zu 4 Euro. Ganz sicher gehst du, wenn du bei Kassel Marketing nachfragst, Telefon +49 561 707707.
 
 ### Was kostet der Eintritt zum Winterzauber in Kassel?
 
-Der [Winterzauber](/winterzauber-kassel/) ist ein eigenes Fest mit Eintrittskarte vor der [Orangerie](/orangerie-karlsaue/) und kein Teil des Märchenweihnachtsmarkts. 2026 lief er an zwei Wochenenden im November, Erwachsene zahlten 12 Euro, Kinder bis 17 Jahre in Begleitung waren frei.
+Der [Winterzauber](/winterzauber-kassel/) ist ein eigenes Fest mit Eintrittskarte vor der [Orangerie](/orangerie-karlsaue/) und kein Teil des Märchenweihnachtsmarkts. 2027 läuft er vom 4. bis 7. und vom 11. bis 13. November. Erwachsene zahlen 12 Euro, im Online-Vorverkauf 10 Euro plus Gebühr, Kinder bis 17 Jahre in Begleitung sind frei.
 
 ### Wo übernachte ich für den Weihnachtsmarkt?
 

@@ -4,7 +4,7 @@ beschreibung: Kassel bei Regen: Schloss Wilhelmshöhe, Grimmwelt, Naturkundemuse
 slug: kassel-bei-regen
 kurz: Bei Regen
 bild: ottoneum.jpg
-stand: 2026-11-01
+stand: 2026-11-20
 blick: Museen=Di bis So, Mo geschlossen | Therme=täglich 9 bis 22 Uhr | Thermalbad=ab 18 Euro (2 Stunden) | Grimmwelt=10 Euro, unter 6 frei
 weiter: grimmwelt-kassel, kassel-mit-kindern, schloss-wilhelmshoehe
 ---
@@ -16,14 +16,14 @@ Regen in Kassel? Dann hast du die Wahl: Museen, von Rembrandt im Schloss Wilhelm
 
 | Ziel | Geöffnet | Eintritt Erwachsene | Ermäßigt / Kinder |
 |---|---|---|---|
-| Schloss Wilhelmshöhe | Di bis So 10 bis 17 Uhr | 8 Euro (Tagesticket Wilhelmshöhe) | 5 Euro, unter 18 frei |
+| Schloss Wilhelmshöhe | Di bis So 10 bis 17 Uhr | 8 Euro, bis 17.1.2027 12 Euro (Tagesticket Wilhelmshöhe) | 5 Euro, bis 17.1.2027 9 Euro, unter 18 frei |
 | Grimmwelt | Di bis So 10 bis 18 Uhr | 10 Euro | 7 Euro, unter 6 frei |
-| Naturkundemuseum | Di bis So, Mi bis 20 Uhr | 5 Euro | 3 Euro, unter 6 frei |
+| Naturkundemuseum | Di bis So, Mi bis 20 Uhr | 5 Euro, ohne Sonderausstellung 2 Euro | 3 Euro, sonst 1 Euro, unter 6 frei |
 | Hessisches Landesmuseum | Di bis So 10 bis 17 Uhr | 8 Euro | 5 Euro, unter 18 frei |
-| Planetarium (Orangerie) | Vorstellungen nach Kalender | 8 Euro | 5 Euro, unter 18 Jahren 2 Euro |
+| Planetarium (Orangerie) | Do bis So 10 bis 17 Uhr | 8 Euro | 5 Euro, unter 18 Jahren 2 Euro |
 | Kurhessen-Therme | täglich 9 bis 22 Uhr | ab 18 Euro (2 Stunden) | Kinder unter 3 frei |
 
-Denk an den Montag: Dann haben die Museen zu, außer an Feiertagen – die Therme aber hat offen.
+Denk an den Montag: Dann haben die Museen zu, die Therme aber hat offen.
 
 ## Was kann man bei Regen am Bergpark machen?
 
@@ -58,7 +58,7 @@ Grimmwelt, Naturkundemuseum und Landesmuseum sind alle dienstags bis sonntags ge
 
 ## Lohnt das Planetarium bei Regen?
 
-Eine Vorstellung kostet 8 Euro, unter 18 Jahren 2 Euro. In der Orangerie liegt Hessens größtes Planetarium: Wenn draußen die Wolken hängen, siehst du hier trotzdem die Sterne. Kinder unter 3 Jahren dürfen nicht mit in den Saal. Die Vorstellungszeiten stehen im Kalender von Hessen Kassel Heritage. Mehr unter [Orangerie und Karlsaue](/orangerie-karlsaue/).
+Eine Vorstellung kostet 8 Euro, ermäßigt 5 Euro, unter 18 Jahren 2 Euro. In der Orangerie liegt Hessens größtes Planetarium: Wenn draußen die Wolken hängen, siehst du hier trotzdem die Sterne. Kinder unter 3 Jahren dürfen nicht mit in den Saal. Geöffnet ist donnerstags bis sonntags und an Feiertagen von 10 bis 17 Uhr, hinein kommst du zu einer Vorstellung. Die Termine stehen im Veranstaltungskalender von Hessen Kassel Heritage. Mehr unter [Planetarium Kassel](/planetarium-kassel/).
 
 ## Wie plane ich einen Regentag in Kassel?
 
@@ -72,11 +72,11 @@ Ins Schloss Wilhelmshöhe, die Grimmwelt, das Naturkundemuseum oder das Landesmu
 
 ### Was kann man Cooles in Kassel machen, wenn es regnet?
 
-Eine Vorstellung im Planetarium (8 Euro), Gemälde von Rembrandt und Rubens im Schloss Wilhelmshöhe oder Saurier im Naturkundemuseum (5 Euro). Wer es ruhig mag, liegt zwei Stunden im warmen Wasser der Kurhessen-Therme, ab 18 Euro.
+Eine Vorstellung im Planetarium (8 Euro), Gemälde von Rembrandt und Rubens im Schloss Wilhelmshöhe oder Saurier im Naturkundemuseum (5 Euro während der Sonderausstellung). Wer es ruhig mag, liegt zwei Stunden im warmen Wasser der Kurhessen-Therme, ab 18 Euro.
 
 ### Was hat in Kassel montags bei Regen geöffnet?
 
-Die Kurhessen-Therme, täglich von 9 bis 22 Uhr. Die großen Museen sind montags zu, an Feiertagen aber offen.
+Die Kurhessen-Therme, täglich von 9 bis 22 Uhr. Die großen Museen sind montags zu.
 
 ### Was kostet die Kurhessen-Therme?
 
@@ -100,7 +100,7 @@ Ja. Mit dem Abriss deines Parkscheins bekommst du am selben Tag einmal ermäßig
 
 ## Quellen
 
-- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 01.11.2026
+- [Hessen Kassel Heritage, Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe), abgerufen 20.11.2026
 - [Hessen Kassel Heritage, Dauerausstellung Schloss Wilhelmshöhe](https://www.heritage-kassel.de/standorte/schloss-wilhelmshoehe/dauerausstellung), abgerufen 01.11.2026
 - [Hessen Kassel Heritage, Gewächshaus](https://www.heritage-kassel.de/standorte/gewaechshaus), abgerufen 01.11.2026
 - [Hessen Kassel Heritage, Löwenburg](https://www.heritage-kassel.de/standorte/loewenburg), abgerufen 01.11.2026
